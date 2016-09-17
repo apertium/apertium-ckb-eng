@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <!-- ckb → eng -->
+
+  <mode name="ckb-eng" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t2x"/>
+        <file name="ckb-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t3x"/>
+        <file name="ckb-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="ckb-eng.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="ckb-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t2x"/>
+        <file name="ckb-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t3x"/>
+        <file name="ckb-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="ckb-eng.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-ckb-eng.ckb-eng.t2x"/>
+        <file name="ckb-eng.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="ckb-eng-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="ckb-eng.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t2x"/>
+        <file name="ckb-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t3x"/>
+        <file name="ckb-eng.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- eng → ckb -->
+
+  <mode name="eng-ckb" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-ckb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t2x"/>
+        <file name="eng-ckb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t3x"/>
+        <file name="eng-ckb.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="eng-ckb.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-dgen" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t2x"/>
+        <file name="eng-ckb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t3x"/>
+        <file name="eng-ckb.t3x.bin"/>
+      </program>
+      <program name="lt-proc -d">
+        <file name="eng-ckb.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-morph" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-disam" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-pretransfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-biltrans" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-lex" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="eng-ckb.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b -t">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk -t">
+        <file name="apertium-ckb-eng.eng-ckb.t2x"/>
+        <file name="eng-ckb.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-ckb-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+
+
+      <program name="cg-proc -w">
+        <file name="eng-ckb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t2x"/>
+        <file name="eng-ckb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t3x"/>
+        <file name="eng-ckb.t3x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+</modes>
+
