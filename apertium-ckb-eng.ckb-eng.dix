@@ -9,6 +9,7 @@
     <sdef n="adv"      c="Adverb"/>
     <sdef n="preadv"   c="Adverb"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub"   c="Subordinating conjunction"/>
     <sdef n="vblex"    c="Verb"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
@@ -20,6 +21,8 @@
       <!-- SECTION: Conjunctions -->
       <e><p><l>و<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
+      <e><p><l>کە<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+      <e><p><l>کە<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
       <!-- SECTION: Adpositions -->
 
       <e><p><l>بێ<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
@@ -30,7 +33,7 @@
       <e><p><l>به<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>به<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>به<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
-      <e><p><l>ده<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+      <e><p><l>دە<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
       <e><p><l>لەبن<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
 
       <!-- SECTION: Pronouns -->
@@ -42,9 +45,17 @@
       <e><p><l>ئەوان<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
       <e><p><l>تۆ<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
       <e><p><l>من<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
+      <e><p><l>ئەوە<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
+      <e><p><l>ئەمە<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
+      <e><p><l>ئەوانە<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
+      <e><p><l>ئەمانە<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
+
 
       <!-- SECTION: Determiners -->
-
+      <e><p><l>ئەو<s n="det"/><s n="dem"/><s n="sg"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ئەو<s n="det"/><s n="dem"/><s n="pl"/></l><r>those<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+      <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+      <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
 
       <e><p><l>ئاتەر<s n="n"/></l><r>fire<s n="n"/></r></p></e>
