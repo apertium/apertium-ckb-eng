@@ -57,7 +57,7 @@
       <e><p><l>پاش‬<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>پێش‬<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
 
-      <e><p><l>دا<s n="post"/></l><r></r></p></e>
+      <e r="LR"><p><l>دا<s n="post"/></l><r></r></p></e>
 
       <!-- SECTION: Pronouns -->
       <e><p><l>ئێمە<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
