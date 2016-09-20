@@ -4,7 +4,7 @@
   <alphabet></alphabet>
 
   <sdefs>
-
+    <sdef n="adj"      c="Adjective"/>
     <sdef n="n"        c="Noun"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="preadv"   c="Adverb"/>
@@ -80,7 +80,10 @@
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
-
+      <e><p><l>وڵات<s n="n"/></l><r>state<s n="n"/></r></p></e>
+      <e><p><l>وڵات<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e><p><l>وڵات<s n="n"/></l><r>homeland<s n="n"/></r></p></e>
+      <e><p><l>ئینگلیزی<s n="n"/></l><r>English<s n="n"/></r></p></e>
       <e><p><l>ئاتەر<s n="n"/></l><r>fire<s n="n"/></r></p></e>
       <e><p><l>ئارد<s n="n"/></l><r>flour<s n="n"/></r></p></e>
       <e><p><l>ئازادی<s n="n"/></l><r>freedom<s n="n"/></r></p></e>
@@ -301,6 +304,8 @@
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>گەورە<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
+      <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
       <e><p><l>زۆر<s n="adv"/></l><r>very<s n="preadv"/></r></p></e>
