@@ -14,6 +14,11 @@
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="ij"       c="Interjection"/>
+    <sdef n="det"       c="Determiner"/>
+    <sdef n="dem"       c="Demonstrative"/>
+    <sdef n="sg"       c="Singular"/>
+    <sdef n="pl"       c="Plural"/>
+
   </sdefs>
 
    <section id="main" type="standard">
