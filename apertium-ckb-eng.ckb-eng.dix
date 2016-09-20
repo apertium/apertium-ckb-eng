@@ -17,6 +17,7 @@
     <sdef n="det"       c="Determiner"/>
     <sdef n="dem"       c="Demonstrative"/>
     <sdef n="sg"       c="Singular"/>
+    <sdef n="post"       c="Postposition"/>
     <sdef n="pl"       c="Plural"/>
 
   </sdefs>
@@ -25,21 +26,34 @@
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>و<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+      <e><p><l>یان<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
-      <e><p><l>کە<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
-      <e><p><l>کە<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+      <e><p><l>كە<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
+      <e><p><l>كە<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
       <!-- SECTION: Adpositions -->
 
       <e><p><l>بێ<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
-      <e><p><l>له<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
-      <e><p><l>له‌سه‌ر<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
-      <e><p><l>له<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
-      <e><p><l>له<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
-      <e><p><l>به<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
-      <e><p><l>به<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
-      <e><p><l>به<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+      <e><p><l>لە<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+      <e><p><l>لهسهر<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
+      <e><p><l>لە<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+      <e><p><l>لە<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+      <e><p><l>بە<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
+      <e><p><l>بە<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>بە<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
       <e><p><l>دە<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
       <e><p><l>لەبن<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+      <e><p><l>لەگەڵ<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>بۆ<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+      <e><p><l>وەک<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
+      <e><p><l>لە‫ب‬ەر<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
+      <e><p><l>لە‫ب‬ەر<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+      <e><p><l>لە‫ب‬ەر<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
+      <e><p><l>لە‫ب‬ەینی<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
+      <e><p><l>لە‫ژ‬ێر<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+      <e><p><l>پاش‬<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+      <e><p><l>پێش‬<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
+
+      <e><p><l>دا<s n="post"/></l><r></r></p></e>
 
       <!-- SECTION: Pronouns -->
       <e><p><l>ئێمە<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
@@ -228,7 +242,7 @@
       <e><p><l>پایز<s n="n"/></l><r>autumn<s n="n"/></r></p></e>
       <e><p><l>پایز<s n="n"/></l><r>fall<s n="n"/></r></p></e>
       <e><p><l>پرد<s n="n"/></l><r>bridge<s n="n"/></r></p></e>
-      <e><p><l>پشیله<s n="n"/></l><r>cat<s n="n"/></r></p></e>
+      <e><p><l>پشیلە<s n="n"/></l><r>cat<s n="n"/></r></p></e>
       <e><p><l>پووڵ<s n="n"/></l><r>money<s n="n"/></r></p></e>
       <e><p><l>پیاو<s n="n"/></l><r>man<s n="n"/></r></p></e>
       <e><p><l>پیشە<s n="n"/></l><r>occupation<s n="n"/></r></p></e>
