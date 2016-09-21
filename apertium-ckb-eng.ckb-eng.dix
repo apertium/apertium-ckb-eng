@@ -39,6 +39,7 @@
       <e><p><l>لەناو<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
       <e><p><l>لەسەر<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
       <e><p><l>لەسەر<s n="pr"/></l><r>according<b/>to<s n="pr"/></r></p></e>
+      <e><p><l>لە<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
       <e><p><l>لە<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
       <e><p><l>لە<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
       <e><p><l>بە<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
@@ -67,7 +68,7 @@
       <e><p><l>ئەو<s n="prn"/></l><r>it<s n="prn"/></r></p></e>
       <e><p><l>ئەوان<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
       <e><p><l>تۆ<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
-      <e><p><l>من<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
+      <e><p><l>من<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
       <e><p><l>ئەوە<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
       <e><p><l>ئەمە<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
       <e><p><l>ئەوانە<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
@@ -80,6 +81,11 @@
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
+      <e><p><l>ئاگاداری<s n="n"/></l><r>information<s n="n"/></r></p></e>
+      <e><p><l>تەلەفۆن<s n="n"/></l><r>phone<s n="n"/></r></p></e>
+      <e><p><l>تەلەفۆن<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
+      <e><p><l>کۆڕ<s n="n"/></l><r>group<s n="n"/></r></p></e>
+      <e><p><l>دەستە<s n="n"/></l><r>group<s n="n"/></r></p></e>
       <e><p><l>وڵات<s n="n"/></l><r>state<s n="n"/></r></p></e>
       <e><p><l>وڵات<s n="n"/></l><r>country<s n="n"/></r></p></e>
       <e><p><l>وڵات<s n="n"/></l><r>homeland<s n="n"/></r></p></e>
@@ -310,7 +316,9 @@
       <!-- SECTION: Adverbs -->
       <e><p><l>زۆر<s n="adv"/></l><r>very<s n="preadv"/></r></p></e>
       <e><p><l>ڕۆژانە<s n="adv"/></l><r>daily<s n="adv"/></r></p></e>
-
+      <e><p><l>ئەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+      <e><p><l>لەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+      <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
 
       <e><p><l>کردن<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
