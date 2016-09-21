@@ -322,7 +322,19 @@
       <!-- SECTION: Verbs -->
 
       <e><p><l>کردن<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
-
+      <e><p><l>چوون<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+      <e><p><l>نووسين‬<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
+      <e><p><l>گرتن‬<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+      <e><p><l>خستن‬<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
+      <e><p><l>بردن‬<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
+      <e><p><l>دان‬<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
+      <e><p><l>گەیشتن‬<s n="vblex"/></l><r>reach<s n="vblex"/></r></p></e>
+      <e><p><l>خواردن‬<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+      <e><p><l>شتن<s n="vblex"/></l><r>wash<s n="vblex"/></r></p></e>
+      <e><p><l>گەڕان<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
+      <e><p><l>گەڕان<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>
+      <e><p><l>گەڕان<s n="vblex"/></l><r>search<s n="vblex"/></r></p></e>
+      <e><p><l>هاتن<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Interjections -->
       <e><p><l>سپاس<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
