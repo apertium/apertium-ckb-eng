@@ -9,6 +9,7 @@
     <sdef n="adv"      c="Adverb"/>
     <sdef n="preadv"   c="Adverb"/>
     <sdef n="cnjcoo"   c="Co-ordinating conjunction"/>
+    <sdef n="num"        c="Numeral"/>
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
     <sdef n="vblex"    c="Verb"/>
     <sdef n="vbser"    c="Verb"/>
@@ -76,6 +77,38 @@
       <e><p><l>ئەمە<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
       <e><p><l>ئەوانە<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
       <e><p><l>ئەمانە<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
+
+      <!-- SECTION: Numerals -->
+      <e><p><l>یەك<s n="num"/></l><r>one<s n="num"/></r></p></e>
+      <e><p><l>دوو<s n="num"/></l><r>two<s n="num"/></r></p></e>
+      <e><p><l>سێ<s n="num"/></l><r>three<s n="num"/></r></p></e>
+      <e><p><l>چوار<s n="num"/></l><r>four<s n="num"/></r></p></e>
+      <e><p><l>پێنج<s n="num"/></l><r>five<s n="num"/></r></p></e>
+      <e><p><l>شەش<s n="num"/></l><r>six<s n="num"/></r></p></e>
+      <e><p><l>حەوت<s n="num"/></l><r>seven<s n="num"/></r></p></e>
+      <e><p><l>ھەشت<s n="num"/></l><r>eight<s n="num"/></r></p></e>
+      <e><p><l>نە<s n="num"/></l><r>nine<s n="num"/></r></p></e>
+      <e><p><l>دە<s n="num"/></l><r>ten<s n="num"/></r></p></e>
+
+      <e><p><l>یانزە<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
+      <e><p><l>دوازە<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
+      <e><p><l>سیانزە<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
+      <e><p><l>چوارە<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
+      <e><p><l>پانزە<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
+      <e><p><l>شانزە<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
+      <e><p><l>حەڤدە<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
+      <e><p><l>ھەژدە<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
+      <e><p><l>نوزدە<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
+
+      <e><p><l>بیست<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+      <e><p><l>سی<s n="num"/></l><r>thirty<s n="num"/></r></p></e>
+      <e><p><l>چل<s n="num"/></l><r>forty<s n="num"/></r></p></e>
+      <e><p><l>پەنجا<s n="num"/></l><r>fifty<s n="num"/></r></p></e>
+      <e><p><l>شەست<s n="num"/></l><r>sixty<s n="num"/></r></p></e>
+      <e><p><l>حەفتا<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
+      <e><p><l>ھەشتا<s n="num"/></l><r>eighty<s n="num"/></r></p></e>
+      <e><p><l>نەود<s n="num"/></l><r>ninety<s n="num"/></r></p></e>
+
 
 
       <!-- SECTION: Determiners -->
