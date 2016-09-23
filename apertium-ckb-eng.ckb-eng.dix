@@ -13,6 +13,7 @@
     <sdef n="cnjsub"   c="Subordinating conjunction"/>
     <sdef n="vblex"    c="Verb"/>
     <sdef n="vbser"    c="Verb"/>
+    <sdef n="vbhaver"    c="Verb"/>
     <sdef n="vbcop"    c="Verb"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
@@ -34,6 +35,7 @@
 
       <e><p><l>كە<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
       <e><p><l>كە<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
+      <e><p><l>لەکاتێکدا<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
       <!-- SECTION: Adpositions -->
 
       <e><p><l>بێ<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
@@ -109,6 +111,17 @@
       <e><p><l>ھەشتا<s n="num"/></l><r>eighty<s n="num"/></r></p></e>
       <e><p><l>نەود<s n="num"/></l><r>ninety<s n="num"/></r></p></e>
 
+      <e><p><l>یەكەم<s n="adj"/></l><r>first<s n="adj"/></r></p></e>
+      <e><p><l>دووھەم<s n="adj"/></l><r>second<s n="adj"/></r></p></e>
+      <e><p><l>سێھەم<s n="adj"/></l><r>third<s n="adj"/></r></p></e>
+      <e><p><l>چوارەم<s n="adj"/></l><r>fourth<s n="adj"/></r></p></e>
+      <e><p><l>پێنجەم<s n="adj"/></l><r>fifth<s n="adj"/></r></p></e>
+      <e><p><l>شەشەم<s n="adj"/></l><r>sixth<s n="adj"/></r></p></e>
+      <e><p><l>حەوتەم<s n="adj"/></l><r>seventh<s n="adj"/></r></p></e>
+      <e><p><l>ھەشتەم<s n="adj"/></l><r>eigth<s n="adj"/></r></p></e>
+      <e><p><l>نۆھەم<s n="adj"/></l><r>ninth<s n="adj"/></r></p></e>
+      <e><p><l>دەھەم<s n="adj"/></l><r>tenth<s n="adj"/></r></p></e>
+
 
 
       <!-- SECTION: Determiners -->
@@ -118,6 +131,10 @@
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
 <!-- sed -->
+      <e><p><l>ماوە<s n="n"/></l><r>period<s n="n"/></r></p></e>
+      <e><p><l>گەلە<s n="n"/></l><r>pack<s n="n"/></r></p></e>
+      <e><p><l>جووڵە<s n="n"/></l><r>move<s n="n"/></r></p></e>
+      <e><p><l>پارە<s n="n"/></l><r>money<s n="n"/></r></p></e>
       <e><p><l>ڕێکخراو<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
       <e><p><l>ڕێکخستن<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
@@ -430,6 +447,29 @@
       <e><p><l>نەتەوە<s n="n"/></l><r>nation<s n="n"/></r></p></e>
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
 
+
+      <e><p><l>شەممە<s n="n"/></l><r>Saturday<s n="n"/></r></p></e>
+      <e><p><l>یەكشەممە<s n="n"/></l><r>Sunday<s n="n"/></r></p></e>
+      <e><p><l>دووشەممە<s n="n"/></l><r>Monday<s n="n"/></r></p></e>
+      <e><p><l>سێشەممە<s n="n"/></l><r>Tuesday<s n="n"/></r></p></e>
+      <e><p><l>چوارشەممە<s n="n"/></l><r>Wednesday<s n="n"/></r></p></e>
+      <e><p><l>پێنجشەممە<s n="n"/></l><r>Thursday<s n="n"/></r></p></e>
+      <e><p><l>جومعە<s n="n"/></l><r>Friday<s n="n"/></r></p></e>
+
+      <e><p><l>کانونی<b/>دووھەم<s n="n"/></l><r>January<s n="n"/></r></p></e>
+      <e><p><l>شوبات<s n="n"/></l><r>February<s n="n"/></r></p></e>
+      <e><p><l>ئادار<s n="n"/></l><r>March<s n="n"/></r></p></e>
+      <e><p><l>نیسان<s n="n"/></l><r>April<s n="n"/></r></p></e>
+      <e><p><l>ئایار<s n="n"/></l><r>May<s n="n"/></r></p></e>
+      <e><p><l>حوزەیران<s n="n"/></l><r>June<s n="n"/></r></p></e>
+      <e><p><l>حەزیران<s n="n"/></l><r>June<s n="n"/></r></p></e>
+      <e><p><l>تەمووز<s n="n"/></l><r>July<s n="n"/></r></p></e>
+      <e><p><l>ئاب<s n="n"/></l><r>August<s n="n"/></r></p></e>
+      <e><p><l>ئەیلوول<s n="n"/></l><r>September<s n="n"/></r></p></e>
+      <e><p><l>تشرینی<b/>یەكەم<s n="n"/></l><r>October<s n="n"/></r></p></e>
+      <e><p><l>تشرینی<b/>دووھەم<s n="n"/></l><r>November<s n="n"/></r></p></e>
+      <e><p><l>کانونی<b/>یەكەم<s n="n"/></l><r>December<s n="n"/></r></p></e>
+
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
@@ -457,8 +497,8 @@
       <e><p><l>گەڕان<s n="vblex"/></l><r>turn<s n="vblex"/></r></p></e>
       <e><p><l>گەڕان<s n="vblex"/></l><r>wander<s n="vblex"/></r></p></e>
       <e><p><l>گەڕان<s n="vblex"/></l><r>search<s n="vblex"/></r></p></e>
-      <e><p><l>هاتن<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
-      <e><p><l>هەبوون<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
+      <e><p><l>ھاتن<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
+      <e><p><l>ھەبوون<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
       <e><p><l>بوون<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
 
 
