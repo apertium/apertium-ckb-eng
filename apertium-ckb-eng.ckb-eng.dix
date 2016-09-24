@@ -5,6 +5,7 @@
 
   <sdefs>
     <sdef n="adj"      c="Adjective"/>
+    <sdef n="sint"      c="Synthetic"/>
     <sdef n="n"        c="Noun"/>
     <sdef n="adv"      c="Adverb"/>
     <sdef n="preadv"   c="Adverb"/>
@@ -63,7 +64,7 @@
       <e><p><l>لە‫ژ‬ێر<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
       <e><p><l>پاش‬<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>پێش‬<s n="pr"/></l><r>before<s n="pr"/></r></p></e>
-      <e><p><l>ی<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+      <e r="LR"><p><l>ی<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
       <e r="LR"><p><l>دا<s n="post"/></l><r></r></p></e>
 
@@ -219,7 +220,7 @@
       <e><p><l>شتومەکی<b/>تایبەتی<b/>کەسێک<s n="n"/></l><r>belongings<s n="n"/></r></p></e>
       <e><p><l>کەنار<b/>دەریا<s n="n"/></l><r>beach<s n="n"/></r></p></e>
 <!-- not sed -->
-
+      <e><p><l>نەخۆشی<s n="n"/></l><r>illness<s n="n"/></r></p></e>
       <e><p><l>خانوو<s n="n"/></l><r>house<s n="n"/></r></p></e>
       <e><p><l>ئاگاداری<s n="n"/></l><r>information<s n="n"/></r></p></e>
       <e><p><l>تەلەفۆن<s n="n"/></l><r>phone<s n="n"/></r></p></e>
@@ -452,6 +453,7 @@
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
       <e><p><l>ژمارە<s n="n"/></l><r>number<s n="n"/></r></p></e>
       <e><p><l>هەست<s n="n"/></l><r>feeling<s n="n"/></r></p></e>
+      <e><p><l>کەس<s n="n"/></l><r>person<s n="n"/></r></p></e>
 
       <e><p><l>شەممە<s n="n"/></l><r>Saturday<s n="n"/></r></p></e>
       <e><p><l>یەكشەممە<s n="n"/></l><r>Sunday<s n="n"/></r></p></e>
@@ -479,11 +481,12 @@
 
       <!-- SECTION: Adjectives -->
       <e><p><l>توند<s n="adj"/></l><r>serious<s n="adj"/></r></p></e>
-      <e><p><l>گەورە<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
+      <e><p><l>گەورە<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>رۆژانە<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
-      <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
+      <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/><s n="sint"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>تەنها<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
       <e><p><l>زۆر<s n="adv"/></l><r>very<s n="preadv"/></r></p></e>
       <e><p><l>ڕۆژانە<s n="adv"/></l><r>daily<s n="adv"/></r></p></e>
       <e><p><l>ئەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
