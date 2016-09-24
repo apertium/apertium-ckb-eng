@@ -15,6 +15,7 @@
     <sdef n="vbser"    c="Verb"/>
     <sdef n="vbhaver"    c="Verb"/>
     <sdef n="vbcop"    c="Verb"/>
+    <sdef n="vaux"    c="Verb"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="ij"       c="Interjection"/>
@@ -131,6 +132,7 @@
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
 <!-- sed -->
+      <e><p><l>خەڵک<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>ماوە<s n="n"/></l><r>period<s n="n"/></r></p></e>
       <e><p><l>گەلە<s n="n"/></l><r>pack<s n="n"/></r></p></e>
       <e><p><l>جووڵە<s n="n"/></l><r>move<s n="n"/></r></p></e>
@@ -446,7 +448,8 @@
       <e><p><l>ئاسایش<s n="n"/></l><r>security<s n="n"/></r></p></e>
       <e><p><l>نەتەوە<s n="n"/></l><r>nation<s n="n"/></r></p></e>
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
-
+      <e><p><l>ژمارە<s n="n"/></l><r>number<s n="n"/></r></p></e>
+      <e><p><l>هەست<s n="n"/></l><r>feeling<s n="n"/></r></p></e>
 
       <e><p><l>شەممە<s n="n"/></l><r>Saturday<s n="n"/></r></p></e>
       <e><p><l>یەكشەممە<s n="n"/></l><r>Sunday<s n="n"/></r></p></e>
@@ -484,7 +487,8 @@
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
 
-      <e><p><l>کردن<s n="vblex"/></l><r>do<s n="vblex"/></r></p></e>
+      <e><p><l>كردن<s n="vblex"/></l><r>do<s n="vaux"/></r></p></e>
+      <e><p><l>كردن<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
       <e><p><l>چوون<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>نووسين<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>گرتن<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
