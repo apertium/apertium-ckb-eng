@@ -7,6 +7,9 @@
     <def-cat n="pri">
       <cat-item tags="vblex.*.pri.*"/>
     </def-cat>
+    <def-cat n="pri-neg">
+      <cat-item tags="vblex.*.neg.pri.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -43,6 +46,9 @@
       <attr-item tags="tv"/>
       <attr-item tags="iv"/>
     </def-attr>
+    <def-attr n="a_neg">
+      <attr-item tags="neg"/>
+    </def-attr>
     <def-attr n="a_pst">
       <attr-item tags="pst"/>
     </def-attr>
@@ -68,6 +74,7 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="do_aux"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -80,6 +87,47 @@
   </section-def-macros>
 
   <section-rules>
+
+   <rule comment="REGLA: pri-neg">
+      <pattern>
+        <pattern-item n="pri-neg"/>
+      </pattern>
+      <action>
+	<let><var n="do_aux"/><concat><lit v="do"/><lit-tag v="vaux.pres"/></concat></let>
+	<choose>
+        <when>
+<test><and><equal><clip pos="1" side="tl" part="a_prs"/><lit-tag v="p3"/></equal><equal><clip pos="1" side="tl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+        <let><var n="do_aux"/><concat><lit v="do"/><lit-tag v="vaux.pres"/><clip pos="1" side="tl" part="a_prs"/><clip pos="1" side="tl" part="a_nbr"/></concat></let>
+        </when>
+        </choose>
+        <let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="inf"/></let>
+        <let><clip pos="1" side="tl" part="a_tiv"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_neg"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+		<var n="do_aux"/>
+            </lu>
+		<b/>
+            <lu>
+		<lit v="not"/><lit-tag v="adv"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
    <rule comment="REGLA: pri">
       <pattern>

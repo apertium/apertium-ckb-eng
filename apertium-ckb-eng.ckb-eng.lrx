@@ -10,6 +10,14 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
+
+  <rule weight="1.0">
+    <match lemma="ئازار" tags="n.*"><select lemma="harm" tags="n.*"/></match>
+    <match lemma="توند" tags="adj.*"/>
+</rule>
+
+
+
 </rules>
 
 <!-- 
