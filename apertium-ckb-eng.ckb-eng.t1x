@@ -7,6 +7,10 @@
     <def-cat n="nom-abs">
       <cat-item tags="n.*.abs"/>
     </def-cat>
+    <def-cat n="nom-abs-def">
+      <cat-item tags="n.*.abs"/>
+      <cat-item tags="n.*.def"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
@@ -16,7 +20,9 @@
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
-    <def-attr n="a_abs">
+    <def-attr n="a_def">
+      <attr-item tags="def"/>
+      <attr-item tags="ind"/>
       <attr-item tags="abs"/>
     </def-attr>
   </section-def-attrs>
@@ -36,12 +42,12 @@
 
   <section-rules>
 
-    <rule comment="REGLA: nom-abs">
+    <rule comment="REGLA: nom-abs-def">
       <pattern>
-        <pattern-item n="nom-abs"/>
+        <pattern-item n="nom-abs-def"/>
       </pattern>
       <action>
-        <let><clip pos="1" side="tl" part="a_abs"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         <out>
           <chunk name="v" case="caseFirstWord">
             <tags>
