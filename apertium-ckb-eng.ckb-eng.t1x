@@ -4,6 +4,12 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="nom-pl-ind">
+      <cat-item tags="n.pl.ind"/>
+    </def-cat>
+    <def-cat n="nom-sg-ind">
+      <cat-item tags="n.sg.ind"/>
+    </def-cat>
     <def-cat n="nom-abs">
       <cat-item tags="n.*.abs"/>
     </def-cat>
@@ -19,6 +25,10 @@
   <section-def-attrs>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
+    </def-attr>
+    <def-attr n="a_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_def">
       <attr-item tags="def"/>
@@ -64,6 +74,53 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom-sg-ind">
+      <pattern>
+        <pattern-item n="nom-sg-ind"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+	<lu>
+		<lit v="a"/><lit-tag v="det"/><lit-tag v="ind"/><lit-tag v="sg"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: nom-pl-ind">
+      <pattern>
+        <pattern-item n="nom-pl-ind"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+	<lu>
+		<lit v="some"/><lit-tag v="det"/><lit-tag v="qnt"/><lit-tag v="sp"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 

@@ -220,7 +220,7 @@
       <e><p><l>کەنار<b/>دەریا<s n="n"/></l><r>beach<s n="n"/></r></p></e>
 <!-- not sed -->
 
-
+      <e><p><l>خانوو<s n="n"/></l><r>house<s n="n"/></r></p></e>
       <e><p><l>ئاگاداری<s n="n"/></l><r>information<s n="n"/></r></p></e>
       <e><p><l>تەلەفۆن<s n="n"/></l><r>phone<s n="n"/></r></p></e>
       <e><p><l>تەلەفۆن<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
@@ -233,6 +233,7 @@
       <e><p><l>ئاتەر<s n="n"/></l><r>fire<s n="n"/></r></p></e>
       <e><p><l>ئارد<s n="n"/></l><r>flour<s n="n"/></r></p></e>
       <e><p><l>ئازادی<s n="n"/></l><r>freedom<s n="n"/></r></p></e>
+      <e><p><l>ئازار<s n="n"/></l><r>harm<s n="n"/></r></p></e>
       <e><p><l>ئازار<s n="n"/></l><r>annoyance<s n="n"/></r></p></e>
       <e><p><l>ئازار<s n="n"/></l><r>bother<s n="n"/></r></p></e>
       <e><p><l>ئازار<s n="n"/></l><r>pain<s n="n"/></r></p></e>
@@ -477,6 +478,7 @@
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>توند<s n="adj"/></l><r>serious<s n="adj"/></r></p></e>
       <e><p><l>گەورە<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
       <e><p><l>رۆژانە<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
       <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
