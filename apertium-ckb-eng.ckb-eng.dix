@@ -16,6 +16,7 @@
     <sdef n="vbser"    c="Verb"/>
     <sdef n="vbhaver"    c="Verb"/>
     <sdef n="vbcop"    c="Verb"/>
+    <sdef n="vbmod"    c="vbmod"/>
     <sdef n="vaux"    c="Verb"/>
     <sdef n="pr"       c="Preposition"/>
     <sdef n="prn"      c="Pronoun"/>
@@ -38,8 +39,9 @@
       <e><p><l>كە<s n="cnjsub"/></l><r>when<s n="cnjsub"/></r></p></e>
       <e><p><l>كە<s n="cnjsub"/></l><r>that<s n="cnjsub"/></r></p></e>
       <e><p><l>لەکاتێکدا<s n="cnjsub"/></l><r>while<s n="cnjsub"/></r></p></e>
-      <!-- SECTION: Adpositions -->
-
+      <!-- SECTION: Adpositions -->    
+      <e><p><l>ناو<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+      <e><p><l>ناوەوە<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
       <e><p><l>بێ<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
       <e><p><l>لە<s n="pr"/></l><r>from<s n="pr"/></r></p></e>
       <e><p><l>لەسەر<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
@@ -133,6 +135,190 @@
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <!-- SECTION: Nouns -->
+<!--gedit-->
+      <e><p><l>ڕێکخراو<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
+      <e r="LR"><p><l>ڕێکخستن<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
+      <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
+      <e><p><l>پێداویستی<s n="n"/></l><r>need<s n="n"/></r></p></e>
+      <e><p><l>شیر<s n="n"/></l><r>milk<s n="n"/></r></p></e>
+      <e><p><l>کۆمەڵە<s n="n"/></l><r>group<s n="n"/></r></p></e>
+      <e><p><l>زانیاری<s n="n"/></l><r>information<s n="n"/></r></p></e>
+      <e><p><l>یارمەتی<s n="n"/></l><r>help<s n="n"/></r></p></e>
+      <e><p><l>چادر<s n="n"/></l><r>tent<s n="n"/></r></p></e>
+      <e><p><l>پۆلیس<s n="n"/></l><r>police<s n="n"/></r></p></e>
+      <e><p><l>ناو<s n="n"/></l><r>name<s n="n"/></r></p></e>
+      <e><p><l>خێزان<s n="n"/></l><r>family<s n="n"/></r></p></e>
+      <e><p><l>دۆکیۆمێنت<s n="n"/></l><r>document<s n="n"/></r></p></e>
+      <e><p><l>بەڵگە<s n="n"/></l><r>document<s n="n"/></r></p></e>
+      <e><p><l>وڵات<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e r="LR"><p><l>گوند<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e r="LR"><p><l>لادێ<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e><p><l>وەرگێڕ<s n="n"/></l><r>translator<s n="n"/></r></p></e>
+      <e><p><l>شت<s n="n"/></l><r>thing<s n="n"/></r></p></e>
+      <e><p><l>سەرەتا<s n="n"/></l><r>start<s n="n"/></r></p></e>
+      <e><p><l>مرۆڤ<s n="n"/></l><r>person<s n="n"/></r></p></e>
+      <e><p><l>ژمارە<s n="n"/></l><r>number<s n="n"/></r></p></e>
+      <e><p><l>بەڵگە<s n="n"/></l><r>document<s n="n"/></r></p></e>
+      <e><p><l>شەرت<b/>و<b/>مەرج<s n="n"/></l><r>criteria<s n="n"/></r></p></e>
+      <e><p><l>جلوبەرگ<s n="n"/></l><r>clothing<s n="n"/></r></p></e>
+      <e><p><l>جلوبەرگ<s n="n"/></l><r>clothes<s n="n"/></r></p></e>
+      <e><p><l>شیری<b/>دایک<s n="n"/></l><r>breastmilk<s n="n"/></r></p></e>
+      <e><p><l>پەنابەر<s n="n"/></l><r>asylum<s n="n"/></r></p></e>
+      <e><p><l>ڕێكە<b/>پێدان<s n="n"/></l><r>access<s n="n"/></r></p></e>
+      <e><p><l>ڤایبەر<s n="n"/></l><r>viber<s n="n"/></r></p></e>
+      <e><p><l>بلیت<s n="n"/></l><r>ticket<s n="n"/></r></p></e>
+      <e><p><l>شوێن<s n="n"/></l><r>site<s n="n"/></r></p></e>
+      <e><p><l>خزمەتكوزاری<s n="n"/></l><r>service<s n="n"/></r></p></e>
+      <e><p><l>بەرهەم<s n="n"/></l><r>product<s n="n"/></r></p></e>
+      <e><p><l>کێش<s n="n"/></l><r>problem<s n="n"/></r></p></e>
+      <e><p><l>نرخ<s n="n"/></l><r>pricing<s n="n"/></r></p></e>
+      <e><p><l>خاڵ<s n="n"/></l><r>point<s n="n"/></r></p></e>
+      <e><p><l>پلاندانان<s n="n"/></l><r>planning<s n="n"/></r></p></e>
+      <e><p><l>وێنەگرتن<s n="n"/></l><r>photograph<s n="n"/></r></p></e>
+      <e><p><l>مرۆڤ<s n="n"/></l><r>person<s n="n"/></r></p></e>
+      <e><p><l>بەش<s n="n"/></l><r>part<s n="n"/></r></p></e>
+      <e><p><l>مانگ<s n="n"/></l><r>month<s n="n"/></r></p></e>
+      <e><p><l>زمان<s n="n"/></l><r>language<s n="n"/></r></p></e>
+      <e><p><l>منداڵ<s n="n"/></l><r>infant<s n="n"/></r></p></e>
+      <e><p><l>یوونانی<s n="n"/></l><r>Greek<s n="n"/></r></p></e>
+      <e><p><l>فرمۆڵ<s n="n"/></l><r>formula<s n="n"/></r></p></e>
+      <e><p><l>خۆراك<s n="n"/></l><r>food<s n="n"/></r></p></e>
+      <e r="LR"><p><l>feeling<s n="n"/></l><r>هەست <s n="n"/></r></p></e>
+      <e><p><l>ئینگلیزی<s n="n"/></l><r>English<s n="n"/></r></p></e>
+      <e r="LR"><p><l>کۆتا<s n="n"/></l><r>end<s n="n"/></r></p></e>
+      <e r="LR"><p><l>کتوپڕ<s n="n"/></l><r>emergency<s n="n"/></r></p></e>
+      <e><p><l>بەڵگەنامە<s n="n"/></l><r>documentation<s n="n"/></r></p></e>
+      <e><p><l>دکتۆر<s n="n"/></l><r>doctor<s n="n"/></r></p></e>
+      <e><p><l>کوپ <s n="n"/></l><r>cup<s n="n"/></r></p></e>
+      <e r="RL"><p><l>جام<s n="n"/></l><r>cup<s n="n"/></r></p></e>
+      <e><p><l>هاوپیشە<s n="n"/></l><r>colleague<s n="n"/></r></p></e>
+      <e><p><l>قاوە<s n="n"/></l><r>coffee<s n="n"/></r></p></e>
+      <e r="RL"><p><l>بارگە<s n="n"/></l><r>charge<s n="n"/></r></p></e>
+      <e><p><l>سەنتەر<s n="n"/></l><r>centre<s n="n"/></r></p></e>
+      <e><p><l>پاس<s n="n"/></l><r>bus<s n="n"/></r></p></e>
+      <e><p><l>جێگای<b/>نوستن<s n="n"/></l><r>bed<s n="n"/></r></p></e>
+      <e r="RL"><p><l>ئاگاداری<s n="n"/></l><r>attention<s n="n"/></r></p></e>
+      <e r="RL"><p><l>گەشتن<s n="n"/></l><r>arrival<s n="n"/></r></p></e>
+      <e r="RL"><p><l>خستنە سەر<s n="n"/></l><r>add<s n="n"/></r></p></e>
+      <e><p><l>برین<s n="n"/></l><r>wound<s n="n"/></r></p></e>
+      <e><p><l>هۆشداریی<s n="n"/></l><r>warning<s n="n"/></r></p></e>
+      <e r="RL"><p><l>بەش<s n="n"/></l><r>volume<s n="n"/></r></p></e>
+      <e><p><l>ژەهر<s n="n"/></l><r>venom<s n="n"/></r></p></e>
+      <e><p><l>پانتۆڵ<s n="n"/></l><r>trousers<s n="n"/></r></p></e>
+      <e><p><l>لەفاف<s n="n"/></l><r>tourniquet<s n="n"/></r></p></e>
+      <e><p><l>تەنەکە<s n="n"/></l><r>tin<s n="n"/></r></p></e>
+      <e><p><l>رۆژنامەی<b/>تایمز<s n="n"/></l><r>Times<s n="n"/></r></p></e>
+      <e><p><l>کات<s n="n"/></l><r>time<s n="n"/></r></p></e>
+      <e><p><l>خێوەت<s n="n"/></l><r>tent<s n="n"/></r></p></e>
+      <e><p><l>چایی<s n="n"/></l><r>tea<s n="n"/></r></p></e>
+      <e><p><l>تاکسی<s n="n"/></l><r>taxi<s n="n"/></r></p></e>
+      <e><p><l>جێگرەوە<s n="n"/></l><r>substitute<s n="n"/></r></p></e>
+      <e><p><l>ڕەوش<s n="n"/></l><r>status<s n="n"/></r></p></e>
+      <e><p><l>خاڵ<s n="n"/></l><r>spot<s n="n"/></r></p></e>
+      <e><p><l>گۆرەوی<s n="n"/></l><r>sock<s n="n"/></r></p></e>
+      <e><p><l>سابوون<s n="n"/></l><r>soap<s n="n"/></r></p></e>
+      <e><p><l>مار<s n="n"/></l><r>snake<s n="n"/></r></p></e>
+      <e><p><l>دووکەڵ<s n="n"/></l><r>smoke<s n="n"/></r></p></e>
+      <e><p><l>قوم<s n="n"/></l><r>sip<s n="n"/></r></p></e>
+      <e><p><l>پیشانگە<s n="n"/></l><r>show<s n="n"/></r></p></e>
+      <e><p><l>ڕۆخی<b/>دەریا<s n="n"/></l><r>shore<s n="n"/></r></p></e>
+      <e><p><l>پێڵاو<s n="n"/></l><r>shoe<s n="n"/></r></p></e>
+      <e><p><l>هەڕاجکردن<s n="n"/></l><r>sale<s n="n"/></r></p></e>
+      <e><p><l>شوێنی<b/>نیشتەجێبون<s n="n"/></l><r>Residency<s n="n"/></r></p></e>
+      <e><p><l>تۆمار<s n="n"/></l><r>registration<s n="n"/></r></p></e>
+      <e><p><l>پەنابەر<s n="n"/></l><r>refugee<s n="n"/></r></p></e>
+      <e><p><l>هۆکار<s n="n"/></l><r>reason<s n="n"/></r></p></e>
+      <e><p><l>ڕەمەزان<s n="n"/></l><r>Ramadan<s n="n"/></r></p></e>
+      <e><p><l>بەلەم<s n="n"/></l><r>raft<s n="n"/></r></p></e>
+      <e><p><l>پاراستن<s n="n"/></l><r>protection<s n="n"/></r></p></e>
+      <e><p><l>پرۆسە<s n="n"/></l><r>process<s n="n"/></r></p></e>
+      <e><p><l>نرخ<s n="n"/></l><r>price<s n="n"/></r></p></e>
+      <e><p><l>بەرنامەی<b/>کار<s n="n"/></l><r>policy<s n="n"/></r></p></e>
+      <e><p><l>گۆڕەپانی<b/>یاری<s n="n"/></l><r>playground<s n="n"/></r></p></e>
+      <e><p><l>شوێن<s n="n"/></l><r>place<s n="n"/></r></p></e>
+      <e><p><l>فۆتۆکۆپی<s n="n"/></l><r>photocopy<s n="n"/></r></p></e>
+      <e><p><l>پاکەت<s n="n"/></l><r>packet<s n="n"/></r></p></e>
+      <e><p><l>گەلە<s n="n"/></l><r>pack<s n="n"/></r></p></e>
+      <e><p><l>پێویستی<s n="n"/></l><r>need<s n="n"/></r></p></e>
+      <e><p><l>نەتەوە<s n="n"/></l><r>nationality<s n="n"/></r></p></e>
+      <e><p><l>دەم<s n="n"/></l><r>mouth<s n="n"/></r></p></e>
+      <e><p><l>بەیانی<s n="n"/></l><r>morning<s n="n"/></r></p></e>
+      <e><p><l>پارە<s n="n"/></l><r>money<s n="n"/></r></p></e>
+      <e r="RL"><p><l>چاوپێکەوتن<s n="n"/></l><r>meeting<s n="n"/></r></p></e>
+      <e><p><l>نانی<b/>نویوەڕۆ<s n="n"/></l><r>lunch<s n="n"/></r></p></e>
+      <e r="RL"><p><l>هێڵ<s n="n"/></l><r>line<s n="n"/></r></p></e>
+      <e><p><l>ڕوناکی<s n="n"/></l><r>light<s n="n"/></r></p></e>
+      <e><p><l>ژیان<s n="n"/></l><r>life<s n="n"/></r></p></e>
+      <e r="RL"><p><l>سەرقاپ<s n="n"/></l><r>lid<s n="n"/></r></p></e>
+      <e><p><l>پاشماوە<s n="n"/></l><r>leftover<s n="n"/></r></p></e>
+      <e r="RL"><p><l>پێشەوا<s n="n"/></l><r>leader<s n="n"/></r></p></e>
+      <e r="RL"><p><l>پارێزەر<s n="n"/></l><r>lawyer<s n="n"/></r></p></e>
+      <e r="RL"><p><l>منداڵ<s n="n"/></l><r>kid<s n="n"/></r></p></e>
+      <e r="RL"><p><l>چاکەت<s n="n"/></l><r>jacket<s n="n"/></r></p></e>
+      <e r="RL"><p><l>کێش<s n="n"/></l><r>issue<s n="n"/></r></p></e>
+      <e><p><l>دورگە<s n="n"/></l><r>island<s n="n"/></r></p></e>
+      <e><p><l>هەوکردن<s n="n"/></l><r>infection<s n="n"/></r></p></e>
+      <e r="RL"><p><l>تەکنۆلۆژیای پەیوەندی و زانیاری<s n="n"/></l><r>ICT<s n="n"/></r></p></e>
+      <e><p><l>کاتژمێر<s n="n"/></l><r>hour<s n="n"/></r></p></e>
+      <e><p><l>ئوتێل<s n="n"/></l><r>hotel<s n="n"/></r></p></e>
+      <e><p><l>زیان<s n="n"/></l><r>harm<s n="n"/></r></p></e>
+      <e><p><l>دەست<s n="n"/></l><r>hand<s n="n"/></r></p></e>
+      <e><p><l>سیستمی<b/>شوێن<b/>دیاریکردنی<b/>جیهانیی<s n="n"/></l><r>GPS<s n="n"/></r></p></e>
+      <e><p><l>حکومەت<s n="n"/></l><r>government<s n="n"/></r></p></e>
+      <e><p><l>کۆماری<b/>مەکدۆنیای<b/>یۆگۆسلاڤیای<b/>پێشوو<s n="n"/></l><r>FYRM<s n="n"/></r></p></e>
+      <e><p><l>هاوکێشە<s n="n"/></l><r>formula<s n="n"/></r></p></e>
+      <e><p><l>فۆرم<s n="n"/></l><r>form<s n="n"/></r></p></e>
+      <e><p><l>شێوە<s n="n"/></l><r>form<s n="n"/></r></p></e>
+      <e><p><l>خواردن<s n="n"/></l><r>food<s n="n"/></r></p></e>
+      <e><p><l>ئاگر<s n="n"/></l><r>fire<s n="n"/></r></p></e>
+      <e><p><l>ترس<s n="n"/></l><r>fear<s n="n"/></r></p></e>
+      <e><p><l>نرخ<s n="n"/></l><r>fare<s n="n"/></r></p></e>
+      <e><p><l>تکت<s n="n"/></l><r>fare<s n="n"/></r></p></e>
+      <e><p><l>تکت<s n="n"/></l><r>ticket<s n="n"/></r></p></e>
+      <e><p><l>بنەماڵ<s n="n"/></l><r>family<s n="n"/></r></p></e>
+      <e><p><l>دەرکەوتن<s n="n"/></l><r>exit<s n="n"/></r></p></e>
+      <e><p><l>گۆڕینەوە<s n="n"/></l><r>exchange<s n="n"/></r></p></e>
+      <e><p><l>ئۆیرۆ<s n="n"/></l><r>euro<s n="n"/></r></p></e>
+      <e><p><l>ماوە<s n="n"/></l><r>duration<s n="n"/></r></p></e>
+      <e><p><l>دابەشکردن<s n="n"/></l><r>distribution<s n="n"/></r></p></e>
+      <e><p><l>نانی<b/>شیڤ<s n="n"/></l><r>dinner<s n="n"/></r></p></e>
+      <e><p><l>باسکردن<s n="n"/></l><r>describing<s n="n"/></r></p></e>
+      <e><p><l>سنوورداشکردن<s n="n"/></l><r>deportation<s n="n"/></r></p></e>
+      <e><p><l>دەرچوون<s n="n"/></l><r>departure<s n="n"/></r></p></e>
+      <e><p><l>سەربان<s n="n"/></l><r>deck<s n="n"/></r></p></e>
+      <e><p><l>ڕێکەوت<s n="n"/></l><r>date<s n="n"/></r></p></e>
+      <e><p><l>داتا<s n="n"/></l><r>database<s n="n"/></r></p></e>
+      <e><p><l>دراو<s n="n"/></l><r>currency<s n="n"/></r></p></e>
+      <e><p><l>ناوئاخن<s n="n"/></l><r>content<s n="n"/></r></p></e>
+      <e><p><l>کۆمپیوتەر<s n="n"/></l><r>computer<s n="n"/></r></p></e>
+      <e><p><l>پاسی<b/>ڕێگای<b/>دوور<s n="n"/></l><r>coach<s n="n"/></r></p></e>
+      <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
+      <e><p><l>بارودۆخ<s n="n"/></l><r>circumstance<s n="n"/></r></p></e>
+      <e><p><l>کەنیسە<s n="n"/></l><r>church<s n="n"/></r></p></e>
+      <e><p><l>منداڵ<s n="n"/></l><r>child<s n="n"/></r></p></e>
+      <e><p><l>چای<s n="n"/></l><r>chai<s n="n"/></r></p></e>
+      <e><p><l>ناوەڕاست<s n="n"/></l><r>center<s n="n"/></r></p></e>
+      <e><p><l>مەڵبەند<s n="n"/></l><r>center<s n="n"/></r></p></e>
+      <e><p><l>ژووری<b/>گەشتیاران<b/>لە<b/>فرۆکە<s n="n"/></l><r>cabins<s n="n"/></r></p></e>
+      <e><p><l>کابینە<s n="n"/></l><r>cabins<s n="n"/></r></p></e>
+      <e><p><l>نانی<b/>بەیانی<s n="n"/></l><r>breakfast<s n="n"/></r></p></e>
+      <e><p><l>جۆر<b/>چەشن<s n="n"/></l><r>brand<s n="n"/></r></p></e>
+      <e><p><l>خوارەوە<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
+      <e><p><l>بوتڵ<s n="n"/></l><r>bottle<s n="n"/></r></p></e>
+      <e><p><l>تەختەی<b/>ئاگاداریەکان<s n="n"/></l><r>board<s n="n"/></r></p></e>
+      <e><p><l>بەتانی<s n="n"/></l><r>blanket<s n="n"/></r></p></e>
+      <e><p><l>بانق<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>بانک<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>نانەواخانە<s n="n"/></l><r>bakery<s n="n"/></r></p></e>
+      <e><p><l>دژەتەن<s n="n"/></l><r>antibody<s n="n"/></r></p></e>
+      <e><p><l>ڕاگەیاندن<s n="n"/></l><r>announcement<s n="n"/></r></p></e>
+      <e><p><l>فرۆکەخانە<s n="n"/></l><r>airport<s n="n"/></r></p></e>
+      <e><p><l>فرۆکە<s n="n"/></l><r>airplanes<s n="n"/></r></p></e>
+      <e><p><l>تەمەن<s n="n"/></l><r>age<s n="n"/></r></p></e>
+      <e><p><l>گەورەساڵ<s n="n"/></l><r>adult<s n="n"/></r></p></e>
+      <e><p><l>خانوو<s n="n"/></l><r>accomodation<s n="n"/></r></p></e>
+
+
 <!-- sed -->
       <e><p><l>خەڵک<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>ماوە<s n="n"/></l><r>period<s n="n"/></r></p></e>
@@ -145,6 +331,7 @@
       <e><p><l>پێداویستی<s n="n"/></l><r>need<s n="n"/></r></p></e>
       <e><p><l>شیر<s n="n"/></l><r>milk<s n="n"/></r></p></e>
       <e><p><l>کۆمەڵە<s n="n"/></l><r>group<s n="n"/></r></p></e>
+      <e><p><l>ئامێری<b/>تەلەفۆن<s n="n"/></l><r>phone<s n="n"/></r></p></e>
       <e><p><l>ئامێری<b/>تەلەفۆن<s n="n"/></l><r>phone<s n="n"/></r></p></e>
       <e><p><l>زانیاری<s n="n"/></l><r>information<s n="n"/></r></p></e>
       <e><p><l>خێوەت<s n="n"/></l><r>tent<s n="n"/></r></p></e>
@@ -191,6 +378,7 @@
       <e><p><l>بەرنامەی<b/>کار<s n="n"/></l><r>policy<s n="n"/></r></p></e>
       <e><p><l>منداڵ<s n="n"/></l><r>kid<s n="n"/></r></p></e>
       <e><p><l>چاکەتەکان<s n="n"/></l><r>jacket<s n="n"/></r></p></e>
+      <e><p><l>کۆمسیۆنی<b/>ئاوارەکانی<b/>نەتەوە<b/>یەکگرتوەکان<s n="n"/></l><r>UNHCR<s n="n"/></r></p></e>
       <e><p><l>کێشەکان<s n="n"/></l><r>issue<s n="n"/></r></p></e>
       <e><p><l>دورگە<s n="n"/></l><r>island<s n="n"/></r></p></e>
       <e><p><l>هەوکردن<s n="n"/></l><r>infection<s n="n"/></r></p></e>
@@ -425,6 +613,7 @@
       <e><p><l>کاغەز<s n="n"/></l><r>letter<s n="n"/></r></p></e>
       <e><p><l>کاغەز<s n="n"/></l><r>paper<s n="n"/></r></p></e>
       <e><p><l>کتاو<s n="n"/></l><r>book<s n="n"/></r></p></e>
+      <e><p><l>قوتو<s n="n"/></l><r>can<s n="n"/></r></p></e>
       <e><p><l>کتێب<s n="n"/></l><r>book<s n="n"/></r></p></e>
       <e><p><l>کورد<s n="n"/></l><r>Kurd<s n="n"/></r></p></e>
       <e><p><l>کوردیی<b/>ناوەندی<s n="n"/></l><r>Central<b/>Kurdish<s n="n"/></r></p></e>
@@ -454,6 +643,10 @@
       <e><p><l>ژمارە<s n="n"/></l><r>number<s n="n"/></r></p></e>
       <e><p><l>هەست<s n="n"/></l><r>feeling<s n="n"/></r></p></e>
       <e><p><l>کەس<s n="n"/></l><r>person<s n="n"/></r></p></e>
+      <e><p><l>چاکەتی<b/>ڕزگاربوون<s n="n"/></l><r>life<b/>jacket<s n="n"/></r></p></e>
+      <e><p><l>قەراخ<b/>دەریا<s n="n"/></l><r>shore<s n="n"/></r></p></e>
+      <e><p><l>کەنار<b/>دەریا<s n="n"/></l><r>shore<s n="n"/></r></p></e>
+      <e><p><l>یارمەتی<s n="n"/></l><r>help<s n="n"/></r></p></e>
 
       <e><p><l>شەممە<s n="n"/></l><r>Saturday<s n="n"/></r></p></e>
       <e><p><l>یەكشەممە<s n="n"/></l><r>Sunday<s n="n"/></r></p></e>
@@ -476,10 +669,13 @@
       <e><p><l>تشرینی<b/>یەكەم<s n="n"/></l><r>October<s n="n"/></r></p></e>
       <e><p><l>تشرینی<b/>دووھەم<s n="n"/></l><r>November<s n="n"/></r></p></e>
       <e><p><l>کانونی<b/>یەكەم<s n="n"/></l><r>December<s n="n"/></r></p></e>
-
+      <e><p><l>شەمەندەفەر<s n="n"/></l><r>train<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>پاك<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>خاوێن<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>پاکژ<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>توند<s n="adj"/></l><r>serious<s n="adj"/></r></p></e>
       <e><p><l>گەورە<s n="adj"/></l><r>big<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>رۆژانە<s n="adj"/></l><r>daily<s n="adj"/></r></p></e>
@@ -495,6 +691,7 @@
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
 
+      <e><p><l>هەوڵدان<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
       <e><p><l>كردن<s n="vblex"/></l><r>do<s n="vaux"/></r></p></e>
       <e><p><l>كردن<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
       <e><p><l>چوون<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
@@ -512,7 +709,7 @@
       <e><p><l>ھاتن<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
       <e><p><l>ھەبوون<s n="vbhaver"/></l><r>exist<s n="vblex"/></r></p></e>
       <e><p><l>بوون<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
-
+      <e><p><l>توانین<s n="vbmod"/></l><r>can<s n="vbmod"/></r></p></e>
 
       <!-- SECTION: Interjections -->
       <e><p><l>سپاس<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
