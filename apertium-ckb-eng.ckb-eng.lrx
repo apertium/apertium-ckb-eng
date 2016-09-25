@@ -16,6 +16,10 @@
     <match lemma="توند" tags="adj.*"/>
 </rule>
 
+  <rule weight="1.0">
+    <match lemma="تکت" tags="n.*"><select lemma="ticket" tags="n.*"/></match>
+    <match lemma="كڕین" tags="vblex.*"/>
+  </rule>
 
 
 </rules>
