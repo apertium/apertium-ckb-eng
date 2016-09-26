@@ -902,6 +902,43 @@
       <!-- SECTION: Proper nouns -->
 
       <!-- SECTION: Adjectives -->
+      <e><p><l>نەخۆش<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>دووگیان<s n="adj"/></l><r>pregnant<s n="adj"/></r></p></e>
+      <e><p><l>سارد<s n="adj"/></l><r>cold<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>خراپ<s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>باش<s n="adj"/></l><r>well<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>خەمبار<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>لاقە<s n="adj"/></l><r>raped<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>نەخۆش<s n="adj"/></l><r>ill<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>ئازار<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
+      <e><p><l>برسی<s n="adj"/></l><r>hungry<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>سەرەگێژە<s n="adj"/></l><r>dizzy<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>درێژخایەن<s n="adj"/></l><r>chronic<s n="adj"/></r></p></e>
+      <e><p><l>هەستەوەر<s n="adj"/></l><r>allergic<s n="adj"/></r></p></e>
+      <e><p><l>خیزەخیز<s n="adj"/></l><r>wheezing<s n="adj"/></r></p></e>
+      <e><p><l>لاواز<s n="adj"/></l><r>weak<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>لەهۆشچوو<s n="adj"/></l><r>unconscious<s n="adj"/></r></p></e>
+      <e><p><l>تینو<s n="adj"/></l><r>thirsty<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>تیژ<s n="adj"/></l><r>sharp<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>ترس<s n="adj"/></l><r>scared<s n="adj"/></r></p></e>
+      <e><p><l>لەکارکەوتو<s n="adj"/></l><r>paralysed<s n="adj"/></r></p></e>
+      <e><p><l>سڕ <s n="adj"/></l><r>numb<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>دواجار<s n="adj"/></l><r>last<s n="adj"/></r></p></e>
+      <e><p><l>نائاسایی<s n="adj"/></l><r>irregular<s n="adj"/></r></p></e>
+      <e><p><l>بریندار<s n="adj"/></l><r>injured<s n="adj"/></r></p></e>
+      <e><p><l>دڵخۆش<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>حەڵاڵ<s n="adj"/></l><r>Halal<s n="adj"/></r></p></e>
+      <e><p><l>ترساو<s n="adj"/></l><r>frightened<s n="adj"/></r></p></e>
+      <e><p><l>بەستوو<s n="adj"/></l><r>freezing<s n="adj"/></r></p></e>
+      <e><p><l>بوراوە<s n="adj"/></l><r>fainted<s n="adj"/></r></p></e>
+      <e><p><l>کول<s n="adj"/></l><r>dull<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>شەکرەدار<s n="adj"/></l><r>diabetic<s n="adj"/></r></p></e>
+      <e><p><l>خەمۆك<s n="adj"/></l><r>depressed<s n="adj"/></r></p></e>
+      <e><p><l>دووجەمسەری<s n="adj"/></l><r>bipolar<s n="adj"/></r></p></e>
+      <e><p><l>خراپ <s n="adj"/></l><r>bad<s n="adj"/><s n="sint"/></r></p></e>
+      <e><p><l>تەنیا<s n="adj"/></l><r>alone<s n="adj"/></r></p></e>
+
+
       <e><p><l>پاك<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>خاوێن<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>پاکژ<s n="adj"/></l><r>clean<s n="adj"/><s n="sint"/></r></p></e>
