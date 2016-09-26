@@ -321,7 +321,87 @@
       <e><p><l>تەمەن<s n="n"/></l><r>age<s n="n"/></r></p></e>
       <e><p><l>گەورەساڵ<s n="n"/></l><r>adult<s n="n"/></r></p></e>
       <e><p><l>خانوو<s n="n"/></l><r>accomodation<s n="n"/></r></p></e>
-
+      <e><p><l>دەرمان<s n="n"/></l><r>medication<s n="n"/></r></p></e>
+      <e><p><l>خوێن<s n="n"/></l><r>blood<s n="n"/></r></p></e>
+      <e><p><l>کێم<s n="n"/></l><r>sore<s n="n"/></r></p></e>
+      <e><p><l>دووگیانی<s n="n"/></l><r>pregnant<s n="n"/></r></p></e>
+      <e><p><l>دڵ<s n="n"/></l><r>heart<s n="n"/></r></p></e>
+      <e><p><l>کۆکە<s n="n"/></l><r>cough<s n="n"/></r></p></e>
+      <e><p><l>میز<s n="n"/></l><r>urine<s n="n"/></r></p></e>
+      <e><p><l>گەروو<s n="n"/></l><r>throat<s n="n"/></r></p></e>
+      <e><p><l>زگ<s n="n"/></l><r>stomach<s n="n"/></r></p></e>
+      <e><p><l>دوش<s n="n"/></l><r>shower<s n="n"/></r></p></e>
+      <e><p><l>سێکس<s n="n"/></l><r>sex<s n="n"/></r></p></e>
+      <e><p><l>نەخۆشخانە<s n="n"/></l><r>hospital<s n="n"/></r></p></e>
+      <e><p><l>سەرئێشە<s n="n"/></l><r>headache<s n="n"/></r></p></e>
+      <e><p><l>تا<s n="n"/></l><r>fever<s n="n"/></r></p></e>
+      <e><p><l>دەردراو<s n="n"/></l><r>discharge<s n="n"/></r></p></e>
+      <e><p><l>کۆکە<s n="n"/></l><r>cough<s n="n"/></r></p></e>
+      <e><p><l>ترپە<s n="n"/></l><r>pulse<s n="n"/></r></p></e>
+      <e><p><l>ترپەی<b/>دڵ<s n="n"/></l><r>pulse<s n="n"/></r></p></e>
+      <e><p><l>ساوا<s n="n"/></l><r>baby<s n="n"/></r></p></e>
+      <e><p><l>ئازار<s n="n"/></l><r>ache<s n="n"/></r></p></e>
+      <e><p><l>هەفتە<s n="n"/></l><r>week<s n="n"/></r></p></e>
+      <e><p><l>ڕووەکی<s n="n"/></l><r>vegetarian<s n="n"/></r></p></e>
+      <e><p><l>زێ<s n="n"/></l><r>vagina<s n="n"/></r></p></e>
+      <e><p><l>مێزڕۆ<s n="n"/></l><r>urethra<s n="n"/></r></p></e>
+      <e><p><l>ژێرزەمین<s n="n"/></l><r>underground<s n="n"/></r></p></e>
+      <e><p><l>سیل<s n="n"/></l><r>tuberculosis<s n="n"/></r></p></e>
+      <e><p><l>تەوالێت<s n="n"/></l><r>toilet<s n="n"/></r></p></e>
+      <e><p><l>ختوکەدار<s n="n"/></l><r>tingling<s n="n"/></r></p></e>
+      <e><p><l>سڕیی<s n="n"/></l><r>numbness<s n="n"/></r></p></e>
+      <e><p><l>تالاسیمیا<s n="n"/></l><r>thalassaemia<s n="n"/></r></p></e>
+      <e><p><l>پلەی گەرما<s n="n"/></l><r>temperature<s n="n"/></r></p></e>
+      <e><p><l>ئارەق<s n="n"/></l><r>sweat<s n="n"/></r></p></e>
+      <e><p><l>خوکۆشتن<s n="n"/></l><r>suicide<s n="n"/></r></p></e>
+      <e><p><l>شەمەندەفەری<b/>ژێرزەمینی<s n="n"/></l><r>subway<s n="n"/></r></p></e>
+      <e><p><l>بەڵغەم<s n="n"/></l><r>sputum<s n="n"/></r></p></e>
+      <e><p><l>لا<s n="n"/></l><r>side<s n="n"/></r></p></e>
+      <e><p><l>داس<s n="n"/></l><r>sickle<s n="n"/></r></p></e>
+      <e><p><l>فێ<s n="n"/></l><r>seizure<s n="n"/></r></p></e>
+      <e><p><l>شیزۆفرنیا<s n="n"/></l><r>schizophrenia<s n="n"/></r></p></e>
+      <e><p><l>ژوور<s n="n"/></l><r>room<s n="n"/></r></p></e>
+      <e><p><l>کاردانەوە<s n="n"/></l><r>reaction<s n="n"/></r></p></e>
+      <e><p><l>نوسخەی دوکتور<s n="n"/></l><r>prescription<s n="n"/></r></p></e>
+      <e><p><l>گۆشتی<b/>بەراز<s n="n"/></l><r>pork<s n="n"/></r></p></e>
+      <e><p><l>خوێنبەربوونی<b/>لوت<s n="n"/></l><r>nosebleed<s n="n"/></r></p></e>
+      <e><p><l>مل<s n="n"/></l><r>neck<s n="n"/></r></p></e>
+      <e><p><l>ماسولکەی<b/>دڵ<s n="n"/></l><r>myocardial<s n="n"/></r></p></e>
+      <e><p><l>دایك<s n="n"/></l><r>mother<s n="n"/></r></p></e>
+      <e><p><l>گۆشت <s n="n"/></l><r>meat<s n="n"/></r></p></e>
+      <e><p><l>سپی<b/>بونەوەی<b/>خوێن<s n="n"/></l><r>leukaemia<s n="n"/></r></p></e>
+      <e><p><l>کارکردن<s n="n"/></l><r>labour<s n="n"/></r></p></e>
+      <e><p><l>ئەنسۆلین<s n="n"/></l><r>insulin<s n="n"/></r></p></e>
+      <e><p><l>مێروو<s n="n"/></l><r>insect<s n="n"/></r></p></e>
+      <e><p><l>گیران<s n="n"/></l><r>infarction<s n="n"/></r></p></e>
+      <e><p><l>مێرد <s n="n"/></l><r>husband<s n="n"/></r></p></e>
+      <e><p><l>نەخۆشی<b/>ڤایرۆسی<b/>پەککەوتنی<b/>بەرگریی<b/>مرۆڤ<s n="n"/></l><r>HIV<s n="n"/></r></p></e>
+      <e><p><l>باڵا<s n="n"/></l><r>height<s n="n"/></r></p></e>
+      <e><p><l>ماسی<s n="n"/></l><r>fish<s n="n"/></r></p></e>
+      <e><p><l>باوك<s n="n"/></l><r>father<s n="n"/></r></p></e>
+      <e><p><l>لەکارکەوتن<s n="n"/></l><r>failure<s n="n"/></r></p></e>
+      <e><p><l>پیسایی<s n="n"/></l><r>faeces<s n="n"/></r></p></e>
+      <e><p><l>فێ<s n="n"/></l><r>epilepsy<s n="n"/></r></p></e>
+      <e><p><l>ناڕێکی<s n="n"/></l><r>disorder<s n="n"/></r></p></e>
+      <e><p><l>نەخۆشیی<s n="n"/></l><r>disease<s n="n"/></r></p></e>
+      <e><p><l>دژواری<s n="n"/></l><r>difficulty<s n="n"/></r></p></e>
+      <e><p><l>سکچوون<s n="n"/></l><r>diarrhoea<s n="n"/></r></p></e>
+      <e><p><l>شەکرە<s n="n"/></l><r>diabetes<s n="n"/></r></p></e>
+      <e><p><l>خەمۆکی<s n="n"/></l><r>depression<s n="n"/></r></p></e>
+      <e><p><l>کچ<s n="n"/></l><r>daughter<s n="n"/></r></p></e>
+      <e><p><l>قەبزی<s n="n"/></l><r>constipation<s n="n"/></r></p></e>
+      <e><p><l>گرژبوونی<b/>سك<s n="n"/></l><r>colic<s n="n"/></r></p></e>
+      <e><p><l>سنگ<s n="n"/></l><r>chest<s n="n"/></r></p></e>
+      <e><p><l>خانە<s n="n"/></l><r>cell<s n="n"/></r></p></e>
+      <e><p><l>شێرپەنجە<s n="n"/></l><r>cancer<s n="n"/></r></p></e>
+      <e><p><l>هەوکردنی سی<s n="n"/></l><r>bronchitis<s n="n"/></r></p></e>
+      <e><p><l>هەناسەدان<s n="n"/></l><r>breathing<s n="n"/></r></p></e>
+      <e><p><l>حەمام<s n="n"/></l><r>bathroom<s n="n"/></r></p></e>
+      <e><p><l>ڕەبۆ<s n="n"/></l><r>asthma<s n="n"/></r></p></e>
+      <e><p><l>مەوعید<s n="n"/></l><r>appointment<s n="n"/></r></p></e>
+      <e><p><l>کۆم<s n="n"/></l><r>anus<s n="n"/></r></p></e>
+      <e><p><l>ئامبوڵانس<s n="n"/></l><r>ambulance<s n="n"/></r></p></e>
+      <e><p><l>ئەڵکۆڵ<s n="n"/></l><r>alcohol<s n="n"/></r></p></e>
 
 <!-- sed -->
       <e><p><l>خەڵک<s n="n"/></l><r>people<s n="n"/></r></p></e>
@@ -411,6 +491,9 @@
       <e><p><l>خوارەوە<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
       <e><p><l>شتومەکی<b/>تایبەتی<b/>کەسێک<s n="n"/></l><r>belongings<s n="n"/></r></p></e>
       <e><p><l>کەنار<b/>دەریا<s n="n"/></l><r>beach<s n="n"/></r></p></e>
+
+
+
 <!-- not sed -->
       <e><p><l>نەخۆشی<s n="n"/></l><r>illness<s n="n"/></r></p></e>
       <e><p><l>خانوو<s n="n"/></l><r>house<s n="n"/></r></p></e>
