@@ -133,6 +133,7 @@
 
 
       <!-- SECTION: Determiners -->
+      <e><p><l>هەر<s n="det"/></l><r>any<s n="det"/></r></p></e>
       <e><p><l>ھەموو<s n="det"/></l><r>all<s n="det"/></r></p></e>
       <e><p><l>ئەو<s n="det"/><s n="dem"/><s n="sg"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e><p><l>ئەو<s n="det"/><s n="dem"/><s n="pl"/></l><r>those<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
