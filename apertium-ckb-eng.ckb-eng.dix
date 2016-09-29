@@ -16,6 +16,10 @@
     <sdef n="vbser"    c="Verb"/>
     <sdef n="vbhaver"    c="Verb"/>
     <sdef n="vbcop"    c="Verb"/>
+    <sdef n="pers"    c=""/>
+    <sdef n="clt"    c=""/>
+    <sdef n="p2"    c=""/>
+    <sdef n="mf"    c=""/>
     <sdef n="vbmod"    c="vbmod"/>
     <sdef n="vaux"    c="Verb"/>
     <sdef n="pr"       c="Preposition"/>
@@ -28,6 +32,7 @@
     <sdef n="ques"       c=""/>
     <sdef n="post"       c="Postposition"/>
     <sdef n="pl"       c="Plural"/>
+    <sdef n="sent"       c="Sentence marker"/>
 
   </sdefs>
 
@@ -82,12 +87,14 @@
       <e><p><l>ئەو<s n="prn"/></l><r>she<s n="prn"/></r></p></e>
       <e><p><l>ئەو<s n="prn"/></l><r>it<s n="prn"/></r></p></e>
       <e><p><l>ئەوان<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
-      <e><p><l>تۆ<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
       <e><p><l>من<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
       <e><p><l>ئەوە<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
       <e><p><l>ئەمە<s n="prn"/></l><r>this<s n="prn"/></r></p></e>
       <e><p><l>ئەوانە<s n="prn"/></l><r>those<s n="prn"/></r></p></e>
       <e><p><l>ئەمانە<s n="prn"/></l><r>these<s n="prn"/></r></p></e>
+
+      <e><p><l>تۆ<s n="prn"/><s n="pers"/><s n="p2"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
+      <e r="LR"><p><l>تۆ<s n="prn"/><s n="pers"/><s n="clt"/><s n="p2"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/></r></p></e>
 
       <!-- SECTION: Numerals -->
       <e><p><l>یەك<s n="num"/></l><r>one<s n="num"/></r></p></e>
@@ -1732,6 +1739,7 @@
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>
       <e><p><l>مارکێت<s n="n"/></l><r>market<s n="n"/></r></p></e>
       <e><p><l>سەرما<s n="n"/></l><r>coldness<s n="n"/></r></p></e>
+      <e><p><l>سەرما<s n="n"/></l><r>cold<s n="n"/></r></p></e>
 
       <!-- SECTION: Proper nouns -->
 
@@ -1819,6 +1827,12 @@
 
       <!-- SECTION: Interjections -->
       <e><p><l>سپاس<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
+  
+      <!-- SECTION: Punctuation -->
+
+      <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+
+      
    </section>
 </dictionary>
 

@@ -10,6 +10,9 @@
     <def-cat n="pri-neg">
       <cat-item tags="vblex.*.neg.pri.*"/>
     </def-cat>
+    <def-cat n="prn-pers-clt">
+      <cat-item tags="prn.pers.clt.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -34,17 +37,26 @@
       <cat-item tags="n.*.abs"/>
       <cat-item tags="n.*.def"/>
     </def-cat>
+    <def-cat n="vbcop">
+      <cat-item tags="vbcop.pri.*"/>
+    </def-cat>
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_verb">
+      <attr-item tags="vbser"/>
+      <attr-item tags="vbcop"/>
+      <attr-item tags="vblex"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
     <def-attr n="a_tns">
       <attr-item tags="pri"/>
+      <attr-item tags="pres"/>
     </def-attr>
     <def-attr n="a_tiv">
       <attr-item tags="tv"/>
@@ -78,17 +90,31 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="s_type"/>
     <def-var n="do_aux"/>
     <def-var n="determiner"/>
   </section-def-vars>
 
   <section-def-macros>
-    <def-macro n="test" npar="1">
-          <let>
-            <var n="number"/>
-            <lit v=""/>
-          </let>
+    <def-macro n="f_sent1" npar="1">
+          <let><var n="s_type"/><lit v="sent"/></let>
+          <choose>
+            <when>
+              <test><equal caseless="yes"><clip pos="1" side="tl" part="lem"/><lit v="?"/></equal></test>
+              <let><var n="s_type"/><lit v="qst"/></let>
+            </when>
+          </choose>
+          
     </def-macro>
+    <def-macro n="f_tamv1" npar="1">
+          <choose>
+            <when>
+              <test><equal caseless="yes"><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pri"/></equal></test>
+              <let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pres"/></let>
+            </when>
+          </choose>
+    </def-macro>
+
   </section-def-macros>
 
   <section-rules>
@@ -159,10 +185,10 @@
         </out>
       </action>
     </rule>
-
+<!--
     <rule comment="REGLA: nom-ind-def">
       <pattern>
-        <pattern-item n="nom-abs-def"/>
+        <pattern-item n="nom-ind-def"/>
       </pattern>
       <action>
         <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
@@ -182,6 +208,7 @@
         </out>
       </action>
     </rule>
+-->
 
 
 
@@ -193,14 +220,15 @@
       <action>
         <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk name="n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
+<!--
 	<lu>
 		<lit v="the"/><lit-tag v="det"/><lit-tag v="def"/><lit-tag v="sp"/>
 	</lu>
-            <b/>
+            <b/>-->
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
@@ -315,14 +343,67 @@
 
 
 
+    <rule comment="REGLA: prn-pers-clt">
+      <pattern>
+        <pattern-item n="prn-pers-clt"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: vbcop ">
+      <pattern>
+        <pattern-item n="vbcop"/>
+      </pattern>
+      <action>
+        <call-macro n="f_tamv1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="cop" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV.COP"/></tag>
+              <tag><clip pos="1" side="tl" part="a_tns"/></tag>
+              <tag><clip pos="1" side="tl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <clip pos="1" side="tl" part="a_tns"/>
+              <clip pos="1" side="tl" part="a_prs" link-to="4"/>
+              <clip pos="1" side="tl" part="a_nbr" link-to="5"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
       </pattern>
       <action>
+        <call-macro n="f_sent1">
+          <with-param pos="1"/>
+        </call-macro>
+     
         <out>
-          <chunk name="sent" case="caseFirstWord">
+          <chunk namefrom="s_type" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SENT"/></tag>
             </tags>
@@ -333,6 +414,7 @@
         </out>
       </action>
     </rule>
+
   </section-rules>
 </transfer>
 
