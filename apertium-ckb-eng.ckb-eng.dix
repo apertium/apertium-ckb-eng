@@ -22,6 +22,7 @@
     <sdef n="prn"      c="Pronoun"/>
     <sdef n="ij"       c="Interjection"/>
     <sdef n="det"       c="Determiner"/>
+    <sdef n="pos"       c="Possessive"/>
     <sdef n="dem"       c="Demonstrative"/>
     <sdef n="sg"       c="Singular"/>
     <sdef n="ques"       c=""/>
@@ -139,6 +140,9 @@
       <e><p><l>ئەو<s n="det"/><s n="dem"/><s n="pl"/></l><r>those<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
       <e><p><l>ئەم<s n="det"/><s n="dem"/><s n="pl"/></l><r>these<s n="det"/><s n="dem"/><s n="pl"/></r></p></e>
+
+      <e r="RL"><p><l></l><r>my<s n="det"/><s n="pos"/></r></p></e>
+
       <!-- SECTION: Nouns -->
 <!--gedit-->
       <e><p><l>ڕێکخراو<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
