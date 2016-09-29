@@ -16,6 +16,10 @@
     <def-cat n="nom-pl-ind">
       <cat-item tags="n.pl.ind"/>
     </def-cat>
+    <def-cat n="nom-sg-ind-eza">
+      <cat-item tags="n.sg.ind.ezalos"/>
+      <cat-item tags="n.sg.ind.ezaclo"/>
+    </def-cat>
     <def-cat n="nom-pl-ind-eza">
       <cat-item tags="n.pl.ind.ezalos"/>
       <cat-item tags="n.pl.ind.ezaclo"/>
@@ -75,6 +79,7 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="do_aux"/>
+    <def-var n="determiner"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -155,6 +160,30 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: nom-ind-def">
+      <pattern>
+        <pattern-item n="nom-abs-def"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	<lu>
+		<lit v="the"/><lit-tag v="det"/><lit-tag v="def"/><lit-tag v="sp"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
     <rule comment="REGLA: nom-abs-def">
@@ -225,6 +254,37 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom-sg-ind-eza-adj">
+      <pattern>
+        <pattern-item n="nom-sg-ind-eza"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_eza"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_pst"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	<lu>
+		<lit v="a"/><lit-tag v="det"/><lit-tag v="ind"/><lit-tag v="sg"/>
+	</lu>
+	<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: nom-pl-ind-eza-adj">
