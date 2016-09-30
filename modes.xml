@@ -20,7 +20,7 @@
       <program name="lt-proc -b">
         <file name="ckb-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="ckb-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -170,7 +170,7 @@
       <program name="lt-proc -b">
         <file name="ckb-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc -t">
+      <program name="lrx-proc -m -t">
         <file name="ckb-eng.autolex.bin"/>
       </program>
     </pipeline>
@@ -193,7 +193,7 @@
       <program name="lt-proc -b">
         <file name="ckb-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="ckb-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b -t">
@@ -220,7 +220,7 @@
       <program name="lt-proc -b">
         <file name="ckb-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="ckb-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -251,7 +251,7 @@
       <program name="lt-proc -b">
         <file name="ckb-eng.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="ckb-eng.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -288,7 +288,7 @@
       <program name="lt-proc -b">
         <file name="eng-ckb.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="eng-ckb.autolex.bin"/>
       </program>
       <program name="apertium-transfer -b">
@@ -435,7 +435,7 @@
       <program name="lt-proc -b">
         <file name="eng-ckb.autobil.bin"/>
       </program>
-      <program name="lrx-proc">
+      <program name="lrx-proc -m">
         <file name="eng-ckb.autolex.bin"/>
       </program>
     </pipeline>
