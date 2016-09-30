@@ -5,12 +5,12 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="nom-poss">
-      <cat-item tags="n.*.p1xsg"/>
-      <cat-item tags="n.*.p2xsg"/>
-      <cat-item tags="n.*.p3xsg"/>
-      <cat-item tags="n.*.p1xpl"/>
-      <cat-item tags="n.*.p2xpl"/>
-      <cat-item tags="n.*.p3xpl"/>
+      <cat-item tags="n.*.px1sg"/>
+      <cat-item tags="n.*.px2sg"/>
+      <cat-item tags="n.*.px3sg"/>
+      <cat-item tags="n.*.px1pl"/>
+      <cat-item tags="n.*.px2pl"/>
+      <cat-item tags="n.*.px3pl"/>
     </def-cat>
     <def-cat n="vbhaver-pri">
       <cat-item tags="vbhaver.pri.*"/>
@@ -63,12 +63,12 @@
       <attr-item tags="vblex"/>
     </def-attr>
     <def-attr n="a_poss">
-      <attr-item tags="p1xsg"/>
-      <attr-item tags="p2xsg"/>
-      <attr-item tags="p3xsg"/>
-      <attr-item tags="p1xpl"/>
-      <attr-item tags="p2xpl"/>
-      <attr-item tags="p3xpl"/>
+      <attr-item tags="px1sg"/>
+      <attr-item tags="px2sg"/>
+      <attr-item tags="px3sg"/>
+      <attr-item tags="px1pl"/>
+      <attr-item tags="px2pl"/>
+      <attr-item tags="px3pl"/>
     </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
@@ -140,22 +140,22 @@
 <!-- For situations like: mandalakam haya -> I have a child -->
  <let><var n="pronoun"/><lit v=""/></let>
           <choose>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p1xsg"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let>
 </when>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p2xsg"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sg"/></concat></let>
 </when>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p3xsg"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.sg"/></concat></let>
 </when>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p1xpl"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let>
 </when>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p2xpl"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.pl"/></concat></let>
 </when>
-<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p3xpl"/></equal></test>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.pl"/></concat></let>
 </when>
           </choose>
@@ -273,9 +273,7 @@
             <tags>
               <tag><lit-tag v="SN"/></tag>
             </tags>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
+            <lu><var n="pronoun"/></lu>
           </chunk>
         </out>
       </action>
