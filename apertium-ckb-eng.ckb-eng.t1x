@@ -4,6 +4,17 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="nom-poss">
+      <cat-item tags="n.*.p1xsg"/>
+      <cat-item tags="n.*.p2xsg"/>
+      <cat-item tags="n.*.p3xsg"/>
+      <cat-item tags="n.*.p1xpl"/>
+      <cat-item tags="n.*.p2xpl"/>
+      <cat-item tags="n.*.p3xpl"/>
+    </def-cat>
+    <def-cat n="vbhaver-pri">
+      <cat-item tags="vbhaver.pri.*"/>
+    </def-cat>
     <def-cat n="pri">
       <cat-item tags="vblex.*.pri.*"/>
     </def-cat>
@@ -51,6 +62,14 @@
       <attr-item tags="vbcop"/>
       <attr-item tags="vblex"/>
     </def-attr>
+    <def-attr n="a_poss">
+      <attr-item tags="p1xsg"/>
+      <attr-item tags="p2xsg"/>
+      <attr-item tags="p3xsg"/>
+      <attr-item tags="p1xpl"/>
+      <attr-item tags="p2xpl"/>
+      <attr-item tags="p3xpl"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -93,6 +112,8 @@
     <def-var n="s_type"/>
     <def-var n="do_aux"/>
     <def-var n="determiner"/>
+    <def-var n="pronoun"/>
+    <def-var n="cop"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -114,6 +135,32 @@
             </when>
           </choose>
     </def-macro>
+
+    <def-macro n="poss_to_pron" npar="1">
+<!-- For situations like: mandalakam haya -> I have a child -->
+ <let><var n="pronoun"/><lit v=""/></let>
+          <choose>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p1xsg"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let>
+</when>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p2xsg"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sg"/></concat></let>
+</when>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p3xsg"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.sg"/></concat></let>
+</when>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p1xpl"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let>
+</when>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p2xpl"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.pl"/></concat></let>
+</when>
+<when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="p3xpl"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.pl"/></concat></let>
+</when>
+          </choose>
+    </def-macro>
+
 
   </section-def-macros>
 
@@ -210,6 +257,29 @@
     </rule>
 -->
 
+
+    <rule comment="REGLA: nom-poss-vbhaver-pri">
+      <pattern>
+        <pattern-item n="nom-poss"/>
+        <pattern-item n="vbhaver-pri"/>
+      </pattern>
+      <action>
+	<call-macro n="poss_to_pron">
+		<with-param pos="1"/>
+	</call-macro>
+        <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 
 

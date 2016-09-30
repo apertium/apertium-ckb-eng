@@ -21,6 +21,16 @@
     <match lemma="كڕین" tags="vblex.*"/>
   </rule>
 
+  <rule weight="1.0">
+    <or><match tags="n.*.p1xsg"/>
+    <match tags="n.*.p2xsg"/>
+    <match tags="n.*.p3xsg"/>
+    <match tags="n.*.p1xpl"/>
+    <match tags="n.*.p2xpl"/>
+    <match tags="n.*.p3xpl"/>
+    </or>
+    <match lemma="ھەبوون" tags="vbhaver.*"><select lemma="have" tags="vbhaver.*"/></match>
+  </rule>
 
 </rules>
 
