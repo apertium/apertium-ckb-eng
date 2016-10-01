@@ -70,6 +70,9 @@
       <attr-item tags="px2pl"/>
       <attr-item tags="px3pl"/>
     </def-attr>
+    <def-attr n="a_clt">
+      <attr-item tags="clt"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -132,6 +135,7 @@
             <when>
               <test><equal caseless="yes"><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pri"/></equal></test>
               <let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pres"/></let>
+              <let><clip pos="1" side="tl" part="a_clt"/><lit v=""/></let>
             </when>
           </choose>
     </def-macro>
