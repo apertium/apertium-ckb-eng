@@ -4,6 +4,9 @@
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
+    <def-cat n="prn">
+      <cat-item tags="prn.*"/>
+    </def-cat>
     <def-cat n="top">
       <cat-item tags="np.top.*"/>
     </def-cat>
@@ -17,6 +20,9 @@
     </def-cat>
     <def-cat n="vbhaver-pri">
       <cat-item tags="vbhaver.pri.*"/>
+    </def-cat>
+    <def-cat n="vbhaver-pri-neg">
+      <cat-item tags="vbhaver.pri.neg.*"/>
     </def-cat>
     <def-cat n="num">
       <cat-item tags="num.*"/>
@@ -151,22 +157,24 @@
 <!-- For situations like: mandalakam haya -> I have a child -->
  <let><var n="pronoun"/><lit v=""/></let>
  <let><var n="haver"/><lit v=""/></let>
+ <let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
+          <choose>
+<when><test><equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></test>
  <let><var n="determiner"/><lit v=""/></let>
+</when>
+          </choose>
           <choose>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let>
 <let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p1.sg"/></concat></let>
-<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sg"/></concat></let>
 <let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p2.sg"/></concat></let>
-<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.m.sg"/></concat></let>
-<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.sg"/><lit v="$ "/></concat></let>
-<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.sg"/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let>
@@ -278,6 +286,67 @@
       </action>
     </rule>
 -->
+    <rule comment="REGLA: nom-poss-vbhaver-pri-neg">
+      <pattern>
+        <pattern-item n="nom-poss"/>
+        <pattern-item n="vbhaver-pri-neg"/>
+      </pattern>
+      <action>
+	<call-macro n="poss_to_pron">
+		<with-param pos="1"/>
+	</call-macro>
+        <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu><var n="pronoun"/></lu>
+		<b/>
+            <lu><var n="haver"/></lu>
+		<b/>
+            <var n="determiner"/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: prn nom-poss-vbhaver-pri">
+      <pattern>
+        <pattern-item n="prn"/>
+        <pattern-item n="nom-poss"/>
+        <pattern-item n="vbhaver-pri"/>
+      </pattern>
+      <action>
+	<call-macro n="poss_to_pron">
+		<with-param pos="2"/>
+	</call-macro>
+        <let><clip pos="2" side="tl" part="a_poss"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu><var n="pronoun"/></lu>
+		<b/>
+            <lu><var n="haver"/></lu>
+		<b/>
+            <var n="determiner"/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
 
     <rule comment="REGLA: nom-poss-vbhaver-pri">
