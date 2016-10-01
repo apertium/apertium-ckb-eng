@@ -1747,10 +1747,9 @@
       <e><p><l>مارکێت<s n="n"/></l><r>market<s n="n"/></r></p></e>
       <e><p><l>سەرما<s n="n"/></l><r>coldness<s n="n"/></r></p></e>
       <e><p><l>سەرما<s n="n"/></l><r>cold<s n="n"/></r></p></e>
-
+      <e><p><l>ناحیە<s n="n"/></l><r>town<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns -->
       <e><p><l>تورکیا<s n="np"/><s n="top"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
-
       <e><p><l>کوردستان<s n="np"/><s n="top"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئێران<s n="np"/><s n="top"/></l><r>Iran<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>عێراق<s n="np"/><s n="top"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
@@ -1768,10 +1767,11 @@
       <e><p><l>ئینگلیس<s n="np"/><s n="top"/></l><r>England<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئەڵمان<s n="np"/><s n="top"/></l><r>Germany<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئەلاباما<s n="np"/><s n="top"/></l><r>Alabama<s n="np"/><s n="top"/></r></p></e>
-      <e><p><l>ئەلاباما:<s n="np"/><s n="top"/></l><r>Alabama<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>بەرلین:<s n="np"/><s n="top"/></l><r>Berlin<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>کۆیە<s n="np"/><s n="top"/></l><r>Koya<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>تاجیکستان<s n="np"/><s n="top"/></l><r>Tajikstan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>فەڕەنسا<s n="np"/><s n="top"/></l><r>France<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>مەریوان<s n="np"/><s n="top"/></l><r>Marivan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئاسیا<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>میسر<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>بولگاریا<s n="np"/><s n="top"/></l><r>Bulgaria<s n="np"/><s n="top"/></r></p></e>
@@ -1821,7 +1821,64 @@
       <e><p><l>عێراق<s n="np"/><s n="top"/></l><r>Iraq<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>هەورامان<s n="np"/><s n="top"/></l><r>Hewraman<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئەرمەنستان<s n="np"/><s n="top"/></l><r>Armenia<s n="np"/><s n="top"/></r></p></e>
-      <!-- SECTION: Adjectives -->
+      <e><p><l>پاریس<s n="np"/><s n="top"/></l><r>Paris<s n="np"/><s n="top"/></r></p></e>
+
+      <e><p><l>ساڵح<s n="np"/><s n="ant"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>تیرێژ<s n="np"/><s n="ant"/></l><r>Tîrêj<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>عەلی<s n="np"/><s n="ant"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئازاد<s n="np"/><s n="ant"/></l><r>Azad<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>حەسەن<s n="np"/><s n="ant"/></l><r>Hassan<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>دانا<s n="np"/><s n="ant"/></l><r>Dana<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئەحمەد<s n="np"/><s n="ant"/></l><r>Ahmed<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>موحەممەد<s n="np"/><s n="ant"/></l><r>Muhammad<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>عەبدول<s n="np"/><s n="ant"/></l><r>Abdul<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>بارزانی<s n="np"/><s n="ant"/></l><r>Barzani<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>مستەفا<s n="np"/><s n="ant"/></l><r>Mustafa<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>فەتحی<s n="np"/><s n="ant"/></l><r>Fathi<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>جۆرج<s n="np"/><s n="ant"/></l><r>George<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>سەڵاحەدین<s n="np"/><s n="ant"/></l><r>Salahaddin<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>جەلال<s n="np"/><s n="ant"/></l><r>Jalal<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>سولەیمان<s n="np"/><s n="ant"/></l><r>Suleiman<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>حوسێن<s n="np"/><s n="ant"/></l><r>Hussain<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>لەیلا<s n="np"/><s n="ant"/></l><r>Layla<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>یەسووع<s n="np"/><s n="ant"/></l><r>Jesus<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>نالی<s n="np"/><s n="ant"/></l><r>Nali<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>محەمەد<s n="np"/><s n="ant"/></l><r>Muhammed<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>قاسم<s n="np"/><s n="ant"/></l><r>Qasim<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ڕزگار<s n="np"/><s n="ant"/></l><r>Rizgar<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ویلیام<s n="np"/><s n="ant"/></l><r>William<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>سەلیم<s n="np"/><s n="ant"/></l><r>Saleem<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>خالید<s n="np"/><s n="ant"/></l><r>Khalid<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>شەن<s n="np"/><s n="ant"/></l><r>Shan<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>حەسەن<s n="np"/><s n="ant"/></l><r>Hassan<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>چۆپی<s n="np"/><s n="ant"/></l><r>Chopy<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ماملێ<s n="np"/><s n="ant"/></l><r>Mamle<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>عەلی<s n="np"/><s n="ant"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئادەم<s n="np"/><s n="ant"/></l><r>Adam<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>عەزیز<s n="np"/><s n="ant"/></l><r>Aziz<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئارام<s n="np"/><s n="ant"/></l><r>Aram<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>کێپلەر<s n="np"/><s n="ant"/></l><r>Kepler<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>تۆماس<s n="np"/><s n="ant"/></l><r>Thomas<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئەنگێلا<s n="np"/><s n="ant"/></l><r>Angela<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>فیلیپ<s n="np"/><s n="ant"/></l><r>Philip<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>فرانسوا<s n="np"/><s n="ant"/></l><r>François<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ڕەزا<s n="np"/><s n="ant"/></l><r>Reza<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئەمیر<s n="np"/><s n="ant"/></l><r>Amir<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ناپلیۆن<s n="np"/><s n="ant"/></l><r>Napoleon<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>سەلەمە<s n="np"/><s n="ant"/></l><r>Salama<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>لویس<s n="np"/><s n="ant"/></l><r>Louis<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>شکسپیر<s n="np"/><s n="ant"/></l><r>Shakespeare<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>شەریف<s n="np"/><s n="ant"/></l><r>Sherif<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ئالان<s n="np"/><s n="ant"/></l><r>Alan<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>سەلاحەدین<s n="np"/><s n="ant"/></l><r>Saladin<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ڕیچارد<s n="np"/><s n="ant"/></l><r>Richard<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>ناسر<s n="np"/><s n="ant"/></l><r>Nasir<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>عیسا<s n="np"/><s n="ant"/></l><r>Jesus<s n="np"/><s n="ant"/></r></p></e>
+      <e><p><l>جەیمز<s n="np"/><s n="ant"/></l><r>James<s n="np"/><s n="ant"/></r></p></e>
+
+
+      <!-- SECTION: Adjectives -->    
+      <e><p><l>یارمەتیدەر<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
       <e><p><l>زیاد<s n="adj"/></l><r>many<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>زایینی<s n="adj"/></l><r>Anno<b/>Domini<s n="adj"/></r></p></e>
       <e><p><l>نەخۆش<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
@@ -1870,6 +1927,7 @@
       <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/><s n="sint"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>ھەروەھا<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
       <e><p><l>سبەی<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>هەرگیز<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
       <e><p><l>تەنها<s n="adv"/></l><r>only<s n="adv"/></r></p></e>
