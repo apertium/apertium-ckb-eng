@@ -156,17 +156,17 @@
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let>
 <let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p1.sg"/></concat></let>
-<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
+<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sg"/></concat></let>
 <let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p2.sg"/></concat></let>
-<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
+<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3sg"/></equal></test>
-<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.sg"/></concat></let>
-<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.sg"/><lit v=" "/></concat></let>
-<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.m.sg"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.sg"/><lit v="$ "/></concat></let>
+<let><var n="determiner"/><concat><lit v="^a"/><lit-tag v="det.ind.sg"/><lit v="$ "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let>
@@ -300,7 +300,7 @@
 		<b/>
             <lu><var n="haver"/></lu>
 		<b/>
-            <lu><var n="determiner"/></lu>
+            <var n="determiner"/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
