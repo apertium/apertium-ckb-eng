@@ -11,6 +11,10 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="بۆ" tags="pr"><select lemma="to" tags="pr"/></match>
+    <match tags="np.top.*"/>
+  </rule>
+  <rule weight="1.0">
     <or>
       <match tags="n.*.*.px1sg"/><match tags="n.*.*.px2sg"/><match tags="n.*.*.px3sg"/>
       <match tags="n.*.*.px1pl"/><match tags="n.*.*.px2pl"/><match tags="n.*.*.px3pl"/>
