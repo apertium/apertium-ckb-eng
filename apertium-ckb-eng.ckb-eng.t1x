@@ -123,6 +123,7 @@
     <def-var n="determiner"/>
     <def-var n="pronoun"/>
     <def-var n="cop"/>
+    <def-var n="haver"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -149,24 +150,35 @@
     <def-macro n="poss_to_pron" npar="1">
 <!-- For situations like: mandalakam haya -> I have a child -->
  <let><var n="pronoun"/><lit v=""/></let>
+ <let><var n="haver"/><lit v=""/></let>
+ <let><var n="determiner"/><lit v=""/></let>
           <choose>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p1.sg"/></concat></let>
+<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sg"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p2.sg"/></concat></let>
+<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3sg"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.sg"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.sg"/><lit v=" "/></concat></let>
+<let><var n="determiner"/><concat><lit v="a"/><lit-tag v="det.ind.sg"/><lit v=" "/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px1pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p1.pl"/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px2pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.pl"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p2.pl"/></concat></let>
 </when>
 <when><test><equal><clip pos="1" side="sl" part="a_poss"/><lit-tag v="px3pl"/></equal></test>
 <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.pl"/></concat></let>
+<let><var n="haver"/><concat><lit v="have"/><lit-tag v="vbhaver.pres.p3.pl"/></concat></let>
 </when>
           </choose>
     </def-macro>
@@ -278,12 +290,20 @@
 		<with-param pos="1"/>
 	</call-macro>
         <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
             </tags>
             <lu><var n="pronoun"/></lu>
+		<b/>
+            <lu><var n="haver"/></lu>
+		<b/>
+            <lu><var n="determiner"/></lu>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
           </chunk>
         </out>
       </action>
