@@ -15,6 +15,9 @@
     <def-cat n="vbhaver-pri">
       <cat-item tags="vbhaver.pri.*"/>
     </def-cat>
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+    </def-cat>
     <def-cat n="pri">
       <cat-item tags="vblex.*.pri.*"/>
     </def-cat>
@@ -57,6 +60,10 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_nbr">
+      <attr-item tags="pl"/>
+      <attr-item tags="sg"/>
+    </def-attr>
     <def-attr n="a_verb">
       <attr-item tags="vbser"/>
       <attr-item tags="vbcop"/>
@@ -93,10 +100,6 @@
     <def-attr n="a_eza">
       <attr-item tags="ezaclo"/>
       <attr-item tags="ezalos"/>
-    </def-attr>
-    <def-attr n="a_nbr">
-      <attr-item tags="sg"/>
-      <attr-item tags="pl"/>
     </def-attr>
     <def-attr n="a_prs">
       <attr-item tags="p1"/>
@@ -309,6 +312,32 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: num-nom-abs">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="nom-abs"/>
+      </pattern>
+      <action>
+        <let><clip pos="2" side="tl" part="a_nbr"/><clip pos="1" side="tl" part="a_nbr"/></let>
+        <let><clip pos="2" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	<lu>
+              <clip pos="1" side="tl" part="whole"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: nom-sg-ind">
       <pattern>
         <pattern-item n="nom-sg-ind"/>
@@ -412,6 +441,28 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_eza"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_pst"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
 
