@@ -1945,7 +1945,8 @@
       <e><p><l>ئەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>لەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
-      <!-- SECTION: Verbs -->
+      <!-- SECTION: Verbs -->   
+      <e><p><l>پێویست<s n="vbmod"/></l><r>need<s n="vbmod"/></r></p></e>
       <e><p><l>ویستن<s n="vbmod"/></l><r>want<s n="vblex"/></r></p></e>
       <e><p><l>ویستن<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
       <e><p><l>كردنەوە<s n="vblex"/></l><r>open<s n="vblex"/></r></p></e>

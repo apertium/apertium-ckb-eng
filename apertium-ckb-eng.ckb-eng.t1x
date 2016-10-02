@@ -4,6 +4,9 @@
     <def-cat n="feeling">
       <cat-item lemma="ھەست" tags="n.*"/>
     </def-cat>
+    <def-cat n="need">
+      <cat-item lemma="پێویست" tags="vbmod.*"/>
+    </def-cat>
     <def-cat n="kardan">
       <cat-item lemma="كردن" tags="vaux.*"/>
       <cat-item lemma="كردن" tags="vblex.*"/>
@@ -86,6 +89,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_vbmod">
+      <attr-item tags="vbmod"/>
+    </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
     </def-attr>
@@ -264,6 +270,50 @@
   </section-def-macros>
 
   <section-rules>
+
+   <rule comment="REGLA: need">
+      <pattern>
+        <pattern-item n="need"/>
+      </pattern>
+      <action>
+	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+	<let><var n="pronoun"/><lit v=""/></let>
+<choose>
+<when><test><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p2"/></equal></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p2.mf.sp"/></concat></let></when>
+<when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+<equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.m.sg"/></concat></let></when>
+<when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+<equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></and></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.pl"/></concat></let></when>
+<when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+<equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p1.mf.sg"/></concat></let></when>
+<when><test><and><equal><clip pos="1" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+<equal><clip pos="1" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal></and></test>
+<let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj.p3.mf.pl"/></concat></let></when>
+</choose>
+	<let><clip pos="1" side="tl" part="a_tns"/><lit-tag v="pres"/></let>
+	<let><clip pos="1" side="tl" part="a_vbmod"/><lit-tag v="vblex"/></let>
+        <out>
+          <chunk name="need" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+		<var n="pronoun"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: feeling">
