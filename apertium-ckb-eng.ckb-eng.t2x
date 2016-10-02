@@ -11,6 +11,15 @@
       <cat-item lemma="have" tags="SV.*"/>
       <cat-item lemma="have" tags="SV"/>
     </def-cat>
+    <def-cat n="KARDAN">
+      <cat-item lemma="kardan" tags="SV.*"/>
+    </def-cat>
+    <def-cat n="BEH">
+      <cat-item lemma="بە" tags="PREP"/>
+    </def-cat>
+    <def-cat n="FEELING">
+      <cat-item lemma="feeling" tags="SN.*"/>
+    </def-cat>
     <def-cat n="COP">
       <cat-item tags="SV.COP.*"/>
     </def-cat>
@@ -24,6 +33,12 @@
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
+    </def-cat>
+    <def-cat n="SN-A">
+      <cat-item tags="SN"/>
+      <cat-item tags="SN.*"/>
+      <cat-item tags="SA"/>
+      <cat-item tags="SA.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -41,6 +56,8 @@
 
   <section-def-vars>
     <def-var n="number"/>
+    <def-var n="gender"/>
+    <def-var n="subj_pron"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -48,23 +65,87 @@
       <let><clip pos="2" part="a_nbr"/><clip pos="1" part="a_nbr"/></let>
       <let><clip pos="2" part="a_prs"/><clip pos="1" part="a_prs"/></let>
     </def-macro>
+
+    <def-macro n="generate_subject1" npar="1">  
+      <let><var n="gender"/><lit-tag v="GD"/></let>
+      <choose>
+        <when><test><not><and><equal><clip pos="1" part="a_prs"/><lit-tag v="p3"/></equal>
+                              <equal><clip pos="1" part="a_nbr"/><lit-tag v="sg"/></equal></and></not></test>
+              <let><var n="gender"/><lit-tag v="mf"/></let>
+        </when>
+      </choose>
+      <choose>
+        <when>
+          <test><not><or><equal><clip pos="1" part="temps"/><lit-tag v="imp"/></equal>
+                         <equal><clip pos="1" part="temps"/><lit-tag v="inf"/></equal></or></not>
+                </test>
+                <let><var n="subj_pron"/><concat>
+                      <chunk>
+                        <get-case-from pos="1">
+                          <lit v="subj"/>
+                        </get-case-from>
+                        <lit-tag v="prn.subj"/><clip pos="1" part="a_prs"/><var n="gender"/><clip pos="1" part="a_nbr"/>
+                        <lit v="{^"/>
+                        <get-case-from pos="1">
+                          <lit v="prpers"/>
+                        </get-case-from>
+                        <lit-tag v="prn.subj.3.4.5"/>
+                        <lit v="$}"/>
+                      </chunk>
+                  </concat></let>
+                <choose>
+                  <when>
+                    <test>
+                      <equal>
+                        <case-of pos="1" part="lem"/>
+                        <lit v="Aa"/>
+                      </equal>
+                    </test>
+                    <modify-case>
+                      <clip pos="1" part="lem"/>
+                      <lit v="aa"/>
+                    </modify-case>
+                  </when>
+                </choose>
+              </when>
+            </choose>
+ </def-macro>
+
   </section-def-macros>
 
   <section-rules>
-    <rule comment="REGLA: SN">
+
+    <rule comment="REGLA: FEELING BEH SN-A KARDAN">
       <pattern>
-        <pattern-item n="SN"/>
+        <pattern-item n="FEELING"/>
+        <pattern-item n="BEH"/>
+        <pattern-item n="SN-A"/>
+        <pattern-item n="KARDAN"/>
       </pattern>
       <action>
+        <call-macro n="generate_subject1">
+          <with-param pos="4"/>
+        </call-macro>
         <out>
+          <var n="subj_pron"/>
+          <b pos="1"/>
           <chunk>
-            <clip pos="1" part="lem"/>
-            <clip pos="1" part="tags"/>
-            <clip pos="1" part="chcontent"/>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <lit v="{^feel"/>
+            <lit-tag v="vblex.pres.2.3"/>
+            <lit v="$}"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
           </chunk>
         </out>
       </action>
     </rule>
+
 
     <rule comment="REGLA: SN HAVER">
       <pattern>
@@ -166,6 +247,8 @@
         </out>
       </action>
     </rule>
+
+ 
 
   </section-rules>
 </interchunk>

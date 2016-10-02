@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="feeling">
+      <cat-item lemma="ھەست" tags="n.*"/>
+    </def-cat>
+    <def-cat n="kardan">
+      <cat-item lemma="كردن" tags="vaux.*"/>
+      <cat-item lemma="كردن" tags="vblex.*"/>
+    </def-cat>
+    <def-cat n="prep">
+      <cat-item tags="pr"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -139,6 +149,7 @@
   <section-def-vars>
     <def-var n="number"/>
     <def-var n="s_type"/>
+    <def-var n="p_type"/>
     <def-var n="do_aux"/>
     <def-var n="determiner"/>
     <def-var n="agr"/>
@@ -148,6 +159,11 @@
   </section-def-vars>
 
   <section-def-macros>
+
+    <def-macro n="f_prep1" npar="1">
+          <let><var n="p_type"/><clip pos="1" side="sl" part="lem"/></let>
+     </def-macro>
+
 
     <def-macro n="f_sent1" npar="1">
           <let><var n="s_type"/><lit v="sent"/></let>
@@ -248,6 +264,49 @@
   </section-def-macros>
 
   <section-rules>
+
+
+    <rule comment="REGLA: feeling">
+      <pattern>
+        <pattern-item n="feeling"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="feeling" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+    <rule comment="REGLA: kardan">
+      <pattern>
+        <pattern-item n="kardan"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="kardan" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><clip pos="1" side="tl" part="a_prs"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
    <rule comment="REGLA: pri-neg">
       <pattern>
@@ -717,6 +776,7 @@
     </rule>
 
 
+<!--
     <rule comment="REGLA: adj-cop">
       <pattern>
         <pattern-item n="adj"/>
@@ -775,7 +835,7 @@
         </out>
       </action>
     </rule>
-
+-->
 
     <rule comment="REGLA: det-dem nom">
       <pattern>
@@ -874,6 +934,27 @@
               <clip pos="1" side="tl" part="a_prs" link-to="4"/>
               <clip pos="1" side="tl" part="a_nbr" link-to="5"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: PREP">
+      <pattern>
+        <pattern-item n="prep"/>
+      </pattern>
+      <action>
+        <call-macro n="f_prep1">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk namefrom="p_type" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
         </out>
