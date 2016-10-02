@@ -11,6 +11,9 @@
       <cat-item lemma="كردن" tags="vaux.*"/>
       <cat-item lemma="كردن" tags="vblex.*"/>
     </def-cat>
+    <def-cat n="imp">
+      <cat-item tags="vblex.*.imp.*"/>
+    </def-cat>
     <def-cat n="prep">
       <cat-item tags="pr"/>
     </def-cat>
@@ -306,6 +309,27 @@
 		<var n="pronoun"/>
             </lu>
 		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: imp">
+      <pattern>
+        <pattern-item n="imp"/>
+      </pattern>
+      <action>
+	<let><clip pos="1" side="tl" part="a_tiv"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
+	<let><clip pos="1" side="tl" part="a_prs"/><lit v=""/></let>
+        <out>
+          <chunk name="imp" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
