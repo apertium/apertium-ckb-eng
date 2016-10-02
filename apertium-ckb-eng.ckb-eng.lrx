@@ -1,4 +1,17 @@
 <rules>
+  <rule weight="1.0">
+    <match lemma="پانتۆڵ" tags="n.*"><select lemma="trousers" tags="n.*"/></match>
+</rule>
+  <rule weight="1.0">
+    <match lemma="دەرمان" tags="n.*"><select lemma="medication" tags="n.*"/></match>
+</rule>
+  <rule weight="1.0">
+    <match lemma="ئازارەکە" tags="n.*"><select lemma="pain" tags="n.*"/></match>
+</rule>
+
+  <rule weight="1.0">
+    <match lemma="مانگ" tags="n.*"><select lemma="month" tags="n.*"/></match>
+</rule>
 
   <rule weight="1.0">
     <match lemma="ئازار" tags="n.*"><select lemma="harm" tags="n.*"/></match>

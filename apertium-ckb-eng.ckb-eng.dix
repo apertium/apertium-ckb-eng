@@ -234,7 +234,6 @@
       <e><p><l>هۆشداریی<s n="n"/></l><r>warning<s n="n"/></r></p></e>
       <e r="RL"><p><l>بەش<s n="n"/></l><r>volume<s n="n"/></r></p></e>
       <e><p><l>ژەهر<s n="n"/></l><r>venom<s n="n"/></r></p></e>
-      <e><p><l>پانتۆڵ<s n="n"/></l><r>trousers<s n="n"/></r></p></e>
       <e><p><l>لەفاف<s n="n"/></l><r>tourniquet<s n="n"/></r></p></e>
       <e><p><l>تەنەکە<s n="n"/></l><r>tin<s n="n"/></r></p></e>
       <e><p><l>رۆژنامەی<b/>تایمز<s n="n"/></l><r>Times<s n="n"/></r></p></e>
@@ -1428,6 +1427,7 @@
       <e><p><l>دەرزی<s n="n"/></l><r>needle<s n="n"/></r></p></e>
       <e><p><l>دەرمان<s n="n"/></l><r>medicine<s n="n"/></r></p></e>
       <e><p><l>دەرمان<s n="n"/></l><r>remedy<s n="n"/></r></p></e>
+      <e><p><l>دەرمان<s n="n"/></l><r>medication<s n="n"/></r></p></e>
       <e><p><l>دەرمانخانە<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
       <e><p><l>دەرگا<s n="n"/></l><r>door<s n="n"/></r></p></e>
       <e><p><l>دەست<s n="n"/></l><r>hand<s n="n"/></r></p></e>
@@ -1702,7 +1702,8 @@
       <e><p><l>تي<b/>شيرت<s n="n"/></l><r>shirt<s n="n"/></r></p></e>
       <e><p><l>کراس<s n="n"/></l><r>dress<s n="n"/></r></p></e>
       <e><p><l>ته<b/>نوره<s n="n"/></l><r>skirt<s n="n"/></r></p></e>
-      <e><p><l>پانتۆڵ<s n="n"/></l><r>trousers<s n="n"/></r></p></e>
+      <e><p><l>پانتۆڵ<s n="n"/><s n="sg"/></l><r>trousers<s n="n"/><s n="pl"/></r></p></e>
+      <e><p><l>پانتۆڵ<s n="n"/><s n="sg"/></l><r>trousers<s n="n"/><s n="pl"/></r></p></e>
       <e><p><l>پانتۆڵ<s n="n"/></l><r>pants<s n="n"/></r></p></e>
       <e><p><l>بلوزی<b/>درێژ<s n="n"/></l><r>jumper<s n="n"/></r></p></e>
       <e><p><l>بلوز<s n="n"/></l><r>sweater<s n="n"/></r></p></e>
@@ -1897,6 +1898,7 @@
       <e><p><l>لاقە<s n="adj"/></l><r>raped<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>نەخۆش<s n="adj"/></l><r>ill<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>ئازار<s n="adj"/></l><r>hurt<s n="adj"/></r></p></e>
+      <e><p><l>ئازار<s n="adj"/></l><r>painful<s n="adj"/></r></p></e>
       <e><p><l>برسی<s n="adj"/></l><r>hungry<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>سەرەگێژە<s n="adj"/></l><r>dizzy<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>درێژخایەن<s n="adj"/></l><r>chronic<s n="adj"/></r></p></e>
