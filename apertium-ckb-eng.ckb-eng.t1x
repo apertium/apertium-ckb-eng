@@ -42,6 +42,10 @@
     <def-cat n="nom-pl-ind">
       <cat-item tags="n.pl.ind"/>
     </def-cat>
+    <def-cat n="nom-eza">
+      <cat-item tags="n.*.ezalos"/>
+      <cat-item tags="n.*.ezaclo"/>
+    </def-cat>
     <def-cat n="nom-sg-ind-eza">
       <cat-item tags="n.sg.ind.ezalos"/>
       <cat-item tags="n.sg.ind.ezaclo"/>
@@ -133,6 +137,7 @@
   </section-def-vars>
 
   <section-def-macros>
+
     <def-macro n="f_sent1" npar="1">
           <let><var n="s_type"/><lit v="sent"/></let>
           <choose>
@@ -141,8 +146,38 @@
               <let><var n="s_type"/><lit v="qst"/></let>
             </when>
           </choose>
-          
-    </def-macro>
+     </def-macro>
+
+<!--  <def-macro n="eza-prn_det" npar="1">
+              <let><var n="determiner"/><lit v=""/></let>
+          <choose>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="من"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="my"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="تۆ"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="your"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="ئەو"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="his"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="ئێمە"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="our"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="ئێوە"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="your"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="tl" part="lem"/><lit v="ئەوان"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="their"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+          </choose>
+     </def-macro> -->
+         
     <def-macro n="f_tamv1" npar="1">
           <choose>
             <when>
@@ -489,6 +524,60 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom-eza-prn">
+      <pattern>
+        <pattern-item n="nom-eza"/>
+        <pattern-item n="prn"/>
+      </pattern>
+      <action>
+          <let><var n="determiner"/><lit v=""/></let>
+          <choose>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="من"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="my"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="تۆ"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="your"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ئەو"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="his"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ئێمە"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="our"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ئێوە"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="your"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+            <when>
+              <test><equal><clip pos="2" side="sl" part="lem"/><lit v="ئەوان"/></equal></test>
+              <let><var n="determiner"/><concat><lit v="their"/><lit-tag v="det.pos.sp"/></concat></let>
+            </when>
+          </choose>
+ 
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_eza"/><lit v=""/></let>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+	<lu>
+            <var n="determiner"/>
+	</lu>
+            <b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: nom-sg-ind-eza-adj">
       <pattern>
