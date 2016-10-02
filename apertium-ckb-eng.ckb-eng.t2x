@@ -58,6 +58,7 @@
     <def-var n="number"/>
     <def-var n="gender"/>
     <def-var n="subj_pron"/>
+    <def-var n="verb_morf"/>
   </section-def-vars>
 
   <section-def-macros>
@@ -65,8 +66,16 @@
       <let><clip pos="2" part="a_nbr"/><clip pos="1" part="a_nbr"/></let>
       <let><clip pos="2" part="a_prs"/><clip pos="1" part="a_prs"/></let>
     </def-macro>
-
-    <def-macro n="generate_subject1" npar="1">  
+    <def-macro n="f_verb_morf1" npar="1">
+       <let><var n="verb_morf"/><lit-tag v="vblex.pres"/></let>
+       <choose>
+        <when><test><and><equal><clip pos="1" part="a_prs"/><lit-tag v="p3"/></equal>
+                              <equal><clip pos="1" part="a_nbr"/><lit-tag v="sg"/></equal></and></test>
+              <let><var n="verb_morf"/><concat><var n="verb_morf"/><lit-tag v="p3.sg"/></concat></let>
+        </when>
+      </choose>
+    </def-macro>
+    <def-macro n="f_generate_subject1" npar="1">  
       <let><var n="gender"/><lit-tag v="GD"/></let>
       <choose>
         <when><test><not><and><equal><clip pos="1" part="a_prs"/><lit-tag v="p3"/></equal>
@@ -93,7 +102,7 @@
                         <lit v="$}"/>
                       </chunk>
                   </concat></let>
-                <choose>
+                  <choose>
                   <when>
                     <test>
                       <equal>
@@ -109,7 +118,7 @@
                 </choose>
               </when>
             </choose>
- </def-macro>
+    </def-macro>
 
   </section-def-macros>
 
@@ -123,7 +132,10 @@
         <pattern-item n="KARDAN"/>
       </pattern>
       <action>
-        <call-macro n="generate_subject1">
+        <call-macro n="f_generate_subject1">
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="f_verb_morf1">
           <with-param pos="4"/>
         </call-macro>
         <out>
@@ -133,7 +145,7 @@
             <clip pos="4" part="lem"/>
             <clip pos="4" part="tags"/>
             <lit v="{^feel"/>
-            <lit-tag v="vblex.pres.2.3"/>
+            <var n="verb_morf"/>
             <lit v="$}"/>
           </chunk>
           <b pos="2"/>
