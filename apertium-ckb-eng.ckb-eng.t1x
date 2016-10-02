@@ -713,6 +713,65 @@
     </rule>
 
 
+    <rule comment="REGLA: adj-cop">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="vbcop"/>
+      </pattern>
+      <action>
+        <let><var n="pronoun"/><concat><lit v="prpers"/><lit-tag v="prn.subj"/></concat></let>
+        <let><clip pos="1" side="tl" part="a_pst"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_tns"/><lit-tag v="pres"/></let>
+<choose><when><test><and><equal>
+<clip pos="2" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+<equal><clip pos="2" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal>
+</and></test>
+        <let><var n="pronoun"/><concat><var n="pronoun"/><lit-tag v="p1.mf.sg"/></concat></let>
+</when>
+<when><test><and><equal>
+<clip pos="2" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+<equal><clip pos="2" side="sl" part="a_nbr"/><lit-tag v="sg"/></equal>
+</and></test>
+        <let><var n="pronoun"/><concat><var n="pronoun"/><lit-tag v="p3.m.sg"/></concat></let>
+</when>
+<when><test><and><equal>
+<clip pos="2" side="sl" part="a_prs"/><lit-tag v="p3"/></equal>
+<equal><clip pos="2" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
+</and></test>
+        <let><var n="pronoun"/><concat><var n="pronoun"/><lit-tag v="p3.mf.pl"/></concat></let>
+</when>
+<when><test><and><equal>
+<clip pos="2" side="sl" part="a_prs"/><lit-tag v="p1"/></equal>
+<equal><clip pos="2" side="sl" part="a_nbr"/><lit-tag v="pl"/></equal>
+</and></test>
+        <let><var n="pronoun"/><concat><var n="pronoun"/><lit-tag v="p1.mf.pl"/></concat></let>
+</when>
+<when><test><equal>
+<clip pos="2" side="sl" part="a_prs"/><lit-tag v="p2"/></equal></test>
+        <let><var n="pronoun"/><concat><var n="pronoun"/><lit-tag v="p2.mf.sp"/></concat></let>
+</when>
+</choose>
+        <out>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu>
+		<var n="pronoun"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+		<b/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: adj">
