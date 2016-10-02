@@ -73,6 +73,9 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_pers">
+      <attr-item tags="pers"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="pl"/>
       <attr-item tags="sg"/>
@@ -361,7 +364,9 @@
 		<with-param pos="2"/>
 	</call-macro>
         <let><clip pos="2" side="tl" part="a_poss"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_poss"/><lit v=""/></let>
         <let><clip pos="2" side="tl" part="a_def"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="whole"/><lit v=""/></let>
         <out>
           <chunk name="n" case="caseFirstWord">
             <tags>
