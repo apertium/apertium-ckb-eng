@@ -7,6 +7,10 @@
       <cat-item lemma="prn" tags="SN.p2.*"/>
       <cat-item lemma="prn" tags="SN.p3.*"/>
     </def-cat>
+    <def-cat n="HAVER">
+      <cat-item lemma="have" tags="SV.*"/>
+      <cat-item lemma="have" tags="SV"/>
+    </def-cat>
     <def-cat n="COP">
       <cat-item tags="SV.COP.*"/>
     </def-cat>
@@ -57,6 +61,29 @@
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: SN HAVER">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="HAVER"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: SN PERS COP QST">
       <pattern>

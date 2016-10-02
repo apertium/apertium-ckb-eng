@@ -339,22 +339,72 @@
         <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         <out>
-          <chunk name="n" case="caseFirstWord">
+          <chunk name="prn" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="SN"/></tag>
             </tags>
             <lu><var n="pronoun"/></lu>
-		<b/>
-            <lu><var n="haver"/></lu>
-		<b/>
+          </chunk>
+          <b pos="1"/>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
             <var n="determiner"/>
             <lu>
               <clip pos="1" side="tl" part="whole"/>
             </lu>
           </chunk>
+          <b pos="1"/>
+          <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu><var n="haver"/></lu>
+          </chunk>
         </out>
       </action>
     </rule>
+
+    <rule comment="REGLA: nom-poss-vbhaver-pri">
+      <pattern>
+        <pattern-item n="nom-poss"/>
+        <pattern-item n="vbhaver-pri"/>
+      </pattern>
+      <action>
+	<call-macro n="poss_to_pron">
+		<with-param pos="1"/>
+	</call-macro>
+        <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
+        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
+        <out>
+          <chunk name="prn" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <lu><var n="pronoun"/></lu>
+          </chunk>
+          <b pos="1"/>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+            <var n="determiner"/>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+          <b pos="1"/>
+          <chunk name="have" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+            <lu><var n="haver"/></lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
     <rule comment="REGLA: prn nom-poss-vbhaver-pri">
       <pattern>
@@ -390,36 +440,6 @@
 
 
 
-
-
-    <rule comment="REGLA: nom-poss-vbhaver-pri">
-      <pattern>
-        <pattern-item n="nom-poss"/>
-        <pattern-item n="vbhaver-pri"/>
-      </pattern>
-      <action>
-	<call-macro n="poss_to_pron">
-		<with-param pos="1"/>
-	</call-macro>
-        <let><clip pos="1" side="tl" part="a_poss"/><lit v=""/></let>
-        <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
-        <out>
-          <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-            <lu><var n="pronoun"/></lu>
-		<b/>
-            <lu><var n="haver"/></lu>
-		<b/>
-            <var n="determiner"/>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
 
     <rule comment="REGLA: top">
