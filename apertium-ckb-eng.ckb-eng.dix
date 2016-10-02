@@ -69,6 +69,7 @@
       <e><p><l>بە<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>بە<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>بە<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+      <e><p><l>بە<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
       <e><p><l>دە<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
       <e><p><l>لەبن<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
       <e><p><l>لەگەڵ<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
@@ -161,6 +162,8 @@
       <!-- SECTION: Nouns -->
 <!--gedit-->
       <e><p><l>ڕێکخراو<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
+      <e><p><l>سەرەگێژە<s n="n"/></l><r>dizziness<s n="n"/></r></p></e>
+      <e><p><l>سەرەگێژە<s n="n"/></l><r>dizzy<s n="n"/></r></p></e>
       <e><p><l>وێستگەی<b/>پاس <s n="n"/></l><r>bus<b/>stop<s n="n"/></r></p></e>
       <e r="LR"><p><l>ڕێکخستن<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
       <e><p><l>شار<s n="n"/></l><r>city<s n="n"/></r></p></e>

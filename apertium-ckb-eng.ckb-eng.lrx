@@ -11,6 +11,11 @@
   </rule>
 
   <rule weight="1.0">
+    <match lemma="هەست " tags="n.*"/>
+    <match lemma="بە" tags="pr"><select lemma="of" tags="pr"/></match>
+  </rule>
+
+  <rule weight="1.0">
     <match lemma="بۆ" tags="pr"><select lemma="to" tags="pr"/></match>
     <match tags="np.top.*"/>
   </rule>
