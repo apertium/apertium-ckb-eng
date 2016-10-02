@@ -8,8 +8,6 @@
       <program name="lt-proc -w">
         <file name="ckb-eng.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="ckb-eng.rlx.bin"/>
       </program>
@@ -44,6 +42,46 @@
       </program>
     </pipeline>
   </mode>
+
+
+  <mode name="ckb-eng-nocg" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="ckb-eng.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ckb-eng.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="ckb-eng.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="ckb-eng.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.ckb-eng.t1x"/>
+        <file name="ckb-eng.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t2x"/>
+        <file name="ckb-eng.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.ckb-eng.t3x"/>
+        <file name="ckb-eng.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="ckb-eng.autogen.bin"/>
+      </program>
+
+      <program name="lt-proc -p">
+        <file name="ckb-eng.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
 
   <mode name="ckb-eng-dgen" install="no">
     <pipeline>
@@ -300,8 +338,6 @@
       <program name="lt-proc -w">
         <file name="eng-ckb.automorf.bin"/>
       </program>
-
-
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
@@ -333,6 +369,42 @@
 
     </pipeline>
   </mode>
+
+
+  <mode name="eng-ckb-nocg" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-ckb.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="eng-ckb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-ckb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -m">
+        <file name="eng-ckb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-ckb-eng.eng-ckb.t1x"/>
+        <file name="eng-ckb.t1x.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t2x"/>
+        <file name="eng-ckb.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ckb-eng.eng-ckb.t3x"/>
+        <file name="eng-ckb.t3x.bin"/>
+      </program>
+      <program name="lt-proc $1">
+        <file name="eng-ckb.autogen.bin"/>
+      </program>
+
+    </pipeline>
+  </mode>
+
 
   <mode name="eng-ckb-dgen" install="no">
     <pipeline>
