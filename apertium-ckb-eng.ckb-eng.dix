@@ -1944,6 +1944,8 @@
       <e><p><l>لەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->
+      <e><p><l>ویستن<s n="vbmod"/></l><r>want<s n="vblex"/></r></p></e>
+      <e><p><l>ویستن<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
       <e><p><l>كردنەوە<s n="vblex"/></l><r>open<s n="vblex"/></r></p></e>
       <e><p><l>گەڕانەوە<s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
       <e><p><l>هەوڵدان<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
