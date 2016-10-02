@@ -33,7 +33,7 @@
     <sdef n="pos"       c="Possessive"/>
     <sdef n="dem"       c="Demonstrative"/>
     <sdef n="sg"       c="Singular"/>
-    <sdef n="ques"       c=""/>
+    <sdef n="qst"       c=""/>
     <sdef n="post"       c="Postposition"/>
     <sdef n="pl"       c="Plural"/>
     <sdef n="sent"       c="Sentence marker"/>
@@ -43,7 +43,7 @@
    <section id="main" type="standard">
 
       <!-- SECTION: Misc -->
-      <e r="LR"><p><l>ئایا<s n="ques"/></l><r></r></p></e>
+      <e r="LR"><p><l>ئایا<s n="qst"/></l><r></r></p></e>
 
       <!-- SECTION: Conjunctions -->
       <e><p><l>و<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
