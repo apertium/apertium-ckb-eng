@@ -36,6 +36,9 @@
     <def-cat n="prn-pers-clt">
       <cat-item tags="prn.pers.clt.*"/>
     </def-cat>
+    <def-cat n="det-dem">
+      <cat-item tags="det.dem.*"/>
+    </def-cat>
     <def-cat n="adj">
       <cat-item tags="adj.*"/>
     </def-cat>
@@ -129,6 +132,7 @@
       <attr-item tags="def"/>
       <attr-item tags="ind"/>
       <attr-item tags="abs"/>
+      <attr-item tags="dem"/> <!-- CHECK -->
     </def-attr>
   </section-def-attrs>
 
@@ -773,19 +777,48 @@
     </rule>
 
 
+    <rule comment="REGLA: det-dem nom">
+      <pattern>
+        <pattern-item n="det-dem"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <let><clip pos="2" side="tl" part="a_def"/><lit v=""/></let>
+        <let><clip pos="2" side="tl" part="a_eza"/><lit v=""/></let>
+        <out>
+          <chunk name="d_n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="a_nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+            <b/>
+            <lu>
+              <clip pos="2" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+
 
     <rule comment="REGLA: adj">
       <pattern>
         <pattern-item n="adj"/>
       </pattern>
       <action>
+        <let><clip pos="1" side="tl" part="a_nbr"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_def"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_eza"/><lit v=""/></let>
         <let><clip pos="1" side="tl" part="a_pst"/><lit v=""/></let>
         <out>
-          <chunk name="v" case="caseFirstWord">
+          <chunk name="j" case="caseFirstWord">
             <tags>
-              <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="SA"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="whole"/>

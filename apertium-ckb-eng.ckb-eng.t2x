@@ -17,6 +17,10 @@
     <def-cat n="QST">
       <cat-item lemma="qst" tags="SENT"/>
     </def-cat>
+    <def-cat n="SA">
+      <cat-item tags="SA"/>
+      <cat-item tags="SA.*"/>
+    </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
@@ -83,6 +87,44 @@
         </out>
       </action>
     </rule>
+
+
+    <rule comment="REGLA: SN SA COP QST">
+      <pattern>
+        <pattern-item n="SN"/>
+        <pattern-item n="SA"/>
+        <pattern-item n="COP"/>
+        <pattern-item n="QST"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk>
+            <clip pos="3" part="lem"/>
+            <clip pos="3" part="tags"/>
+            <clip pos="3" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="2"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
+          <b pos="3"/>
+          <chunk>
+            <clip pos="4" part="lem"/>
+            <clip pos="4" part="tags"/>
+            <clip pos="4" part="chcontent"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 
     <rule comment="REGLA: SN PERS COP QST">

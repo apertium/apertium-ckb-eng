@@ -1969,6 +1969,7 @@
       <!-- SECTION: Punctuation -->
 
       <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><p><l>؟<s n="sent"/></l><r>?<s n="sent"/></r></p></e>
 
       
    </section>
