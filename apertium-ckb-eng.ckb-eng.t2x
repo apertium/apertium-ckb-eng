@@ -89,7 +89,7 @@
         </when>
       </choose>
     </def-macro>
-    <def-macro n="f_generate_subject1" npar="1">  
+  <def-macro n="f_generate_subject1" npar="1">  
       <let><var n="gender"/><lit-tag v="GD"/></let>
       <choose>
         <when><test><not><and><equal><clip pos="1" part="a_prs"/><lit-tag v="p3"/></equal>
@@ -103,7 +103,7 @@
                          <equal><clip pos="1" part="a_tns"/><lit-tag v="inf"/></equal></or></not>
                 </test>
                 <let><var n="subj_pron"/><concat>
-                      <chunk>
+ <lit v="^"/> 
                         <get-case-from pos="1">
                           <lit v="subj"/>
                         </get-case-from>
@@ -114,7 +114,7 @@
                         </get-case-from>
                         <lit-tag v="prn.subj.3.4.5"/>
                         <lit v="$}"/>
-                      </chunk>
+ <lit v="$"/>
                   </concat></let>
                   <choose>
                   <when>
