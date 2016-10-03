@@ -55,6 +55,10 @@
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
     </def-attr>
+    <def-attr n="a_temps">
+      <attr-item tags="inf"/>
+      <attr-item tags="imp"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -88,8 +92,8 @@
       </choose>
       <choose>
         <when>
-          <test><not><or><equal><clip pos="1" part="temps"/><lit-tag v="imp"/></equal>
-                         <equal><clip pos="1" part="temps"/><lit-tag v="inf"/></equal></or></not>
+          <test><not><or><equal><clip pos="1" part="a_temps"/><lit-tag v="imp"/></equal>
+                         <equal><clip pos="1" part="a_temps"/><lit-tag v="inf"/></equal></or></not>
                 </test>
                 <let><var n="subj_pron"/><concat>
                       <chunk>
