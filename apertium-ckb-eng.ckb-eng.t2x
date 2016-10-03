@@ -51,6 +51,13 @@
       <attr-item tags="p2"/>
       <attr-item tags="p3"/>
     </def-attr>
+    <def-attr n="a_tns">
+      <attr-item tags="inf"/>
+      <attr-item tags="imp"/>
+      <attr-item tags="pri"/>
+      <attr-item tags="pres"/>
+      <attr-item tags="prs"/>
+    </def-attr>
     <def-attr n="a_nbr">
       <attr-item tags="sg"/>
       <attr-item tags="pl"/>
