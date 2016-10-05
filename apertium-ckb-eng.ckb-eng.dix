@@ -160,7 +160,14 @@
       <e r="RL"><p><l></l><r>my<s n="det"/><s n="pos"/></r></p></e>
 
       <!-- SECTION: Nouns -->
+      <!-- SECTION: PyNouns -->
+
 <!--gedit-->
+      <e><p><l>باینجانی<b/>ڕەش<s n="n"/></l><r>aubergine<s n="n"/></r></p></e>
+      <e><p><l>باینجان<s n="n"/></l><r>eggplant<s n="n"/></r></p></e>
+      <e><p><l>ئالێرژی<s n="n"/></l><r>allergy<s n="n"/></r></p></e>
+      <e><p><l>ئینسۆلین<s n="n"/></l><r>insulin<s n="n"/></r></p></e>
+      <e><p><l>وەستان<s n="n"/></l><r>stop<s n="n"/></r></p></e>
       <e><p><l>ڕێکخراو<s n="n"/></l><r>organisation<s n="n"/></r></p></e>
       <e><p><l>سەرەگێژە<s n="n"/></l><r>dizziness<s n="n"/></r></p></e>
       <e><p><l>سەرەگێژە<s n="n"/></l><r>dizzy<s n="n"/></r></p></e>
@@ -1596,6 +1603,7 @@
       <e><p><l>چوارشەممە<s n="n"/></l><r>Wednesday<s n="n"/></r></p></e>
       <e><p><l>پێنجشەممە<s n="n"/></l><r>Thursday<s n="n"/></r></p></e>
       <e><p><l>جومعە<s n="n"/></l><r>Friday<s n="n"/></r></p></e>
+      <e><p><l>هەینی<s n="n"/></l><r>Friday<s n="n"/></r></p></e>
 
       <e><p><l>کانونی<b/>دووھەم<s n="n"/></l><r>January<s n="n"/></r></p></e>
       <e><p><l>شوبات<s n="n"/></l><r>February<s n="n"/></r></p></e>
@@ -1720,6 +1728,7 @@
       <e><p><l>جێگەوبان<s n="n"/></l><r>bed<s n="n"/></r></p></e>
       <e><p><l>بەتانی<s n="n"/></l><r>blanket<s n="n"/></r></p></e>
       <e><p><l>چرا<s n="n"/></l><r>lamp<s n="n"/></r></p></e>
+      <e><p><l>ئەندامی<b/>زاووزێی<b/>نێرینە<s n="n"/></l><r>penis<s n="n"/></r></p></e>
       <e><p><l>تەلەفۆن<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
       <e><p><l>مۆبایل<s n="n"/></l><r>mobile phone<s n="n"/></r></p></e>
       <e><p><l>مۆبایل<s n="n"/></l><r>cellphone<s n="n"/></r></p></e>
@@ -1885,7 +1894,53 @@
       <e><p><l>جەیمز<s n="np"/><s n="ant"/></l><r>James<s n="np"/><s n="ant"/></r></p></e>
 
 
-      <!-- SECTION: Adjectives -->    
+      <!-- SECTION: Adjectives -->   
+      <e><p><l>ئیشک<s n="adj"/></l><r>dry<s n="adj"/></r></p></e>
+      <e><p><l>ئاودیۆ<s n="adj"/></l><r>audio<s n="adj"/></r></p></e>
+      <e><p><l>ئامادە<s n="adj"/></l><r>ready<s n="adj"/></r></p></e>
+      <e><p><l>ئاسایی<s n="adj"/></l><r>usual<s n="adj"/></r></p></e>
+      <e><p><l>ونبوو<s n="adj"/></l><r>missing<s n="adj"/></r></p></e>
+      <e><p><l>وەکوویەک<s n="adj"/></l><r>similar<s n="adj"/></r></p></e>
+      <e><p><l>وەکو<s n="adj"/></l><r>like<s n="adj"/></r></p></e>
+      <e><p><l>وەستاو<s n="adj"/></l><r>staying<s n="adj"/></r></p></e>
+      <e><p><l>هەردوکیان<s n="adj"/></l><r>both<s n="adj"/></r></p></e>
+      <e><p><l>نزیکەی<s n="adj"/></l><r>approximate<s n="adj"/></r></p></e>
+      <e><p><l>ناسەلامەت<s n="adj"/></l><r>unsafe<s n="adj"/></r></p></e>
+      <e><p><l>گونجاو<s n="adj"/></l><r>suitable<s n="adj"/></r></p></e>
+      <e><p><l>گەرم<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
+      <e><p><l>کەمێك<s n="adj"/></l><r>few<s n="adj"/></r></p></e>
+      <e><p><l>کۆمەڵایەتی<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
+      <e><p><l>کراوە<s n="adj"/></l><r>open<s n="adj"/></r></p></e>
+      <e><p><l>كاڵتە<s n="adj"/></l><r>serious<s n="adj"/></r></p></e>
+      <e><p><l>فینک<s n="adj"/></l><r>cool<s n="adj"/></r></p></e>
+      <e><p><l>سەرومڕ<s n="adj"/></l><r>sufficient<s n="adj"/></r></p></e>
+      <e><p><l>زیاتر<s n="adj"/></l><r>additional<s n="adj"/></r></p></e>
+      <e><p><l>دوایی<s n="adj"/></l><r>next<s n="adj"/></r></p></e>
+      <e><p><l>دواتر<s n="adj"/></l><r>following<s n="adj"/></r></p></e>
+      <e><p><l>دەگونجێت<s n="adj"/></l><r>possible<s n="adj"/></r></p></e>
+      <e><p><l>دەستکرد<s n="adj"/></l><r>artificial<s n="adj"/></r></p></e>
+      <e><p><l>دەربڕاو<s n="adj"/></l><r>stated<s n="adj"/></r></p></e>
+      <e><p><l>داخراو<s n="adj"/></l><r>close<s n="adj"/></r></p></e>
+      <e><p><l>خراپتر<s n="adj"/></l><r>worse<s n="adj"/></r></p></e>
+      <e><p><l>جوتكرتن<s n="adj"/></l><r>sexual<s n="adj"/></r></p></e>
+      <e><p><l>جیاکەرەوە<s n="adj"/></l><r>characteristic<s n="adj"/></r></p></e>
+      <e><p><l>تەسك<s n="adj"/></l><r>tight<s n="adj"/></r></p></e>
+      <e><p><l>تەڕ<s n="adj"/></l><r>wet<s n="adj"/></r></p></e>
+      <e><p><l>تاقیکراوە<s n="adj"/></l><r>tried<s n="adj"/></r></p></e>
+      <e><p><l>تایبەتی<s n="adj"/></l><r>privately<s n="adj"/></r></p></e>
+      <e><p><l>تایبەتی<s n="adj"/></l><r>particular<s n="adj"/></r></p></e>
+      <e><p><l>پێویست<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
+      <e><p><l>پێکراو<s n="adj"/></l><r>served<s n="adj"/></r></p></e>
+      <e><p><l>پشتگوێخراو<s n="adj"/></l><r>unattended<s n="adj"/></r></p></e>
+      <e><p><l>پشتپێبەستن<s n="adj"/></l><r>depending<s n="adj"/></r></p></e>
+      <e><p><l>بەئاگا<s n="adj"/></l><r>careful<s n="adj"/></r></p></e>
+      <e><p><l>بەساڵاچوو<s n="adj"/></l><r>elderly<s n="adj"/></r></p></e>
+      <e><p><l>بەرزتر<s n="adj"/></l><r>louder<s n="adj"/></r></p></e>
+      <e><p><l>باشترین<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+      <e><p><l>ڕاوەستاو<s n="adj"/></l><r>stopped<s n="adj"/></r></p></e>
+      <e><p><l>ڕاحەت<s n="adj"/></l><r>comfortable<s n="adj"/></r></p></e> 
+      <e><p><l>وشک<s n="adj"/></l><r>dry<s n="adj"/></r></p></e>
+      <e><p><l>نێرینە<s n="adj"/></l><r>masculine<s n="adj"/></r></p></e>
       <e><p><l>یارمەتیدەر<s n="adj"/></l><r>helpful<s n="adj"/></r></p></e>
       <e><p><l>زیاد<s n="adj"/></l><r>many<s n="adj"/><s n="sint"/></r></p></e>
       <e><p><l>زایینی<s n="adj"/></l><r>Anno<b/>Domini<s n="adj"/></r></p></e>
@@ -1946,6 +2001,7 @@
       <e><p><l>لەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->   
+      <e><p><l>دەبێ<s n="vbmod"/></l><r>must<s n="vbmod"/></r></p></e>
       <e><p><l>پێویست<s n="vbmod"/></l><r>need<s n="vbmod"/></r></p></e>
       <e><p><l>ویستن<s n="vbmod"/></l><r>want<s n="vblex"/></r></p></e>
       <e><p><l>ویستن<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
