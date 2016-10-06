@@ -161,10 +161,81 @@
 
       <!-- SECTION: Nouns -->
       <!-- SECTION: PyNouns -->
-
+      <e><p><l>ئەنفلۆنزا<s n="n"/></l><r>cold<s n="n"/></r></p></e>
+      <e><p><l>ئەندامی<b/>هێلکەدانی<b/>مێینە<s n="n"/></l><r>ovary<s n="n"/></r></p></e>
+      <e><p><l>ئەژنۆ<s n="n"/></l><r>knee<s n="n"/></r></p></e>
+      <e><p><l>ئانیشک<s n="n"/></l><r>elbow<s n="n"/></r></p></e>
+      <e><p><l>ڕوومەت<s n="n"/></l><r>face<s n="n"/></r></p></e>
+      <e><p><l>هەوکردنێکە<b/>تووشی<b/>ناوبەینی<b/>پەنجەکانی<b/>قاچ<b/>دەبێت<s n="n"/></l><r>athlete's<b/>foot<s n="n"/></r></p></e>
+      <e><p><l>هەوکردنی<b/>زنانه,<b/>بورى<b/>ميزلدان<s n="n"/></l><r>vaginal<b/>yeast<b/>infection<s n="n"/></r></p></e>
+      <e><p><l>هەنگوێن<s n="n"/></l><r>honey<s n="n"/></r></p></e>
+      <e><p><l>هێلکە<s n="n"/></l><r>eggs<s n="n"/></r></p></e>
+      <e><p><l>نۆک<s n="n"/></l><r>chickpeas<s n="n"/></r></p></e>
+      <e><p><l>ناوەندی<b/>پۆشاکی<b/>ئامادە<s n="n"/></l><r>emergency<b/>clothing<b/>centre<s n="n"/></r></p></e>
+      <e><p><l>نانی<b/>ئێوارە<s n="n"/></l><r>dinner<s n="n"/></r></p></e>
+      <e><p><l>نانی<b/>نیوەڕۆ<s n="n"/></l><r>lunch<s n="n"/></r></p></e>
+      <e><p><l>میوە<s n="n"/></l><r>fruit<s n="n"/></r></p></e>
+      <e><p><l>مرۆیی<s n="n"/></l><r>Humanitarian<s n="n"/></r></p></e>
+      <e><p><l>مەچەکی<b/>پێ<s n="n"/></l><r>ankle<s n="n"/></r></p></e>
+      <e><p><l>مەڵبەند<b/>یا<b/>ناوەڕاست<s n="n"/></l><r>center<s n="n"/></r></p></e>
+      <e><p><l>مامر<b/>یا<b/>مریشک<s n="n"/></l><r>chicken<s n="n"/></r></p></e>
+      <e><p><l>لای<b/>راستەوە<s n="n"/></l><r>on<b/>the<b/>right<s n="n"/></r></p></e>
+      <e><p><l>لای<b/>چەپەوە<s n="n"/></l><r>on<b/>the<b/>left<s n="n"/></r></p></e>
+      <e><p><l>گونەکان<b/>نێرینە<s n="n"/></l><r>testes<s n="n"/></r></p></e>
+      <e><p><l>گورچیلە<s n="n"/></l><r>kidney<s n="n"/></r></p></e>
+      <e><p><l>گۆشتی<b/>مانگا<s n="n"/></l><r>beef<s n="n"/></r></p></e>
+      <e><p><l>گێزەر<s n="n"/></l><r>carrots<s n="n"/></r></p></e>
+      <e><p><l>ڕەگەز<s n="n"/></l><r>origin<s n="n"/></r></p></e>
+      <e><p><l>کۆئەندامی<b/>زاووزێی<b/>مێینە<s n="n"/></l><r>vagina<s n="n"/></r></p></e>
+      <e><p><l>کەسانی<b/>بەتەمەن<s n="n"/></l><r>elderly<b/>person<s n="n"/></r></p></e>
+      <e><p><l>کرانەوە<s n="n"/></l><r>opening<s n="n"/></r></p></e>
+      <e><p><l>کانونی<b/>دووەم<s n="n"/></l><r>January<s n="n"/></r></p></e>
+      <e><p><l>کەڤالا<s n="n"/></l><r>Kavala<s n="n"/></r></p></e>
+      <e><p><l>کاتی<b/>گەیشتن<s n="n"/></l><r>arrival<b/>time<s n="n"/></r></p></e>
+      <e><p><l>کابینە<b/>یا<b/>ژووری<b/>گەشتیاران<b/>لە<b/>فرۆکە<s n="n"/></l><r>cabins<s n="n"/></r></p></e>
+      <e><p><l>قه<b/>بزی<s n="n"/></l><r>constipation<s n="n"/></r></p></e>
+      <e><p><l>قۆری<b/>چا<s n="n"/></l><r>teapot<s n="n"/></r></p></e>
+      <e><p><l>قۆخ<s n="n"/></l><r>peach<s n="n"/></r></p></e>
+      <e><p><l>قامکی<b/>پێ<s n="n"/></l><r>toe<s n="n"/></r></p></e>
+      <e><p><l>قامک<s n="n"/></l><r>finger<s n="n"/></r></p></e>
+      <e><p><l>فاسۆلیا<s n="n"/></l><r>beans<s n="n"/></r></p></e>
+      <e><p><l>شير<s n="n"/></l><r>milk<s n="n"/></r></p></e>
+      <e><p><l>ڕشک<b/>و<b/>ئەسپێ<s n="n"/></l><r>head<b/>lice<s n="n"/></r></p></e>
+      <e><p><l>شەکر<s n="n"/></l><r>sugar<s n="n"/></r></p></e>
+      <e><p><l>شتومەکی<b/>تایبەتی<b/>کەسێک<s n="n"/></l><r>belongings<s n="n"/></r></p></e>
+      <e><p><l>سەوزی<s n="n"/></l><r>vegetables<s n="n"/></r></p></e>
+      <e><p><l>سواری<b/>شەمەندەفەرێک<b/>ببە<s n="n"/></l><r>board<b/>train<s n="n"/></r></p></e>
+      <e><p><l>سەرما<s n="n"/></l><r>cold<s n="n"/></r></p></e>
+      <e><p><l>سینگ<s n="n"/></l><r>chest<s n="n"/></r></p></e>
+      <e><p><l>سانتی<b/>گەورە<s n="n"/></l><r>sanitary<b/>towel<s n="n"/></r></p></e>
+      <e><p><l>سانتی<s n="n"/></l><r>sanitary<b/>pad<s n="n"/></r></p></e>
+      <e><p><l>ڕزرڤکردن<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>دژە-جەستە<b/>زیندووەکان<s n="n"/></l><r>living<b/>antibody<s n="n"/></r></p></e>
+      <e><p><l>دەرچونی<b/>کتوپڕ<s n="n"/></l><r>emergency<b/>exit<s n="n"/></r></p></e>
+      <e><p><l>دايبي<s n="n"/></l><r>nappy<s n="n"/></r></p></e>
+      <e><p><l>دايبي<s n="n"/></l><r>diaper<s n="n"/></r></p></e>
+      <e><p><l>ڕیخۆڵەکان<s n="n"/></l><r>bowel<s n="n"/></r></p></e>
+      <e><p><l>خیزان<s n="n"/></l><r>family<s n="n"/></r></p></e>
+      <e><p><l>جلی<b/>ژێرەوە<s n="n"/></l><r>underwear<s n="n"/></r></p></e>
+      <e><p><l>تي<b/>شيرت<s n="n"/></l><r>shirt<s n="n"/></r></p></e>
+      <e><p><l>ته<b/>نوره<s n="n"/></l><r>skirt<s n="n"/></r></p></e>
+      <e><p><l>تەماتە<s n="n"/></l><r>tomatoes<s n="n"/></r></p></e>
+      <e><p><l>تەکنۆلۆژیای<b/>پەیوەندی<b/>و<b/>زانیاری<s n="n"/></l><r>ICT<s n="n"/></r></p></e>
+      <e><p><l>تشرینی<b/>دووەم<s n="n"/></l><r>Novembre<s n="n"/></r></p></e>
+      <e><p><l>تابێرنۆس<s n="n"/></l><r>Tabernovce<s n="n"/></r></p></e>
+      <e><p><l>تاڵاو<s n="n"/></l><r>gallbladder<s n="n"/></r></p></e>
+      <e><p><l>پۆڵکە<s n="n"/></l><r>peas<s n="n"/></r></p></e>
+      <e><p><l>پشکنینی<b/>پزیشکیی<s n="n"/></l><r>medical<b/>attention<s n="n"/></r></p></e>
+      <e><p><l>پیریاس<s n="n"/></l><r>Pireas<s n="n"/></r></p></e>
+      <e><p><l>پڕتەقاڵ<s n="n"/></l><r>orange<s n="n"/></r></p></e>
+      <e><p><l>پەتاتە<s n="n"/></l><r>potatoes<s n="n"/></r></p></e>
+      <e><p><l>بینین<s n="n"/></l><r>see<s n="n"/></r></p></e>
+      <e><p><l>باینجانی<b/>ڕەش<s n="n"/></l><r>aubergine<s n="n"/></r></p></e>
+      <e><p><l>باسک<s n="n"/></l><r>arm<s n="n"/></r></p></e>
 <!--gedit-->
       <e><p><l>باینجانی<b/>ڕەش<s n="n"/></l><r>aubergine<s n="n"/></r></p></e>
       <e><p><l>باینجان<s n="n"/></l><r>eggplant<s n="n"/></r></p></e>
+      <e><p><l>ڕاگواستن<s n="n"/></l><r>relocation<s n="n"/></r></p></e>
       <e><p><l>ئالێرژی<s n="n"/></l><r>allergy<s n="n"/></r></p></e>
       <e><p><l>ئینسۆلین<s n="n"/></l><r>insulin<s n="n"/></r></p></e>
       <e><p><l>وەستان<s n="n"/></l><r>stop<s n="n"/></r></p></e>
