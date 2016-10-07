@@ -1844,6 +1844,9 @@
       <e><p><l>سەرما<s n="n"/></l><r>cold<s n="n"/></r></p></e>
       <e><p><l>ناحیە<s n="n"/></l><r>town<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns -->
+
+      <e><p><l>ئەورۆپا<s n="np"/><s n="top"/></l><r>Europe<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>مەکەدۆنیا<s n="np"/><s n="top"/></l><r>Macedonia<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>سالونیکی<s n="np"/><s n="top"/></l><r>Thessaloniki<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>سربیا<s n="np"/><s n="top"/></l><r>Serbia<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>سوریا<s n="np"/><s n="top"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
@@ -1921,6 +1924,7 @@
       <e><p><l>ئەرمەنستان<s n="np"/><s n="top"/></l><r>Armenia<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>پاریس<s n="np"/><s n="top"/></l><r>Paris<s n="np"/><s n="top"/></r></p></e>
 
+      <e><p><l>تیرێژ<s n="np"/><s n="ant"/></l><r>Tîrêj<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>ساڵح<s n="np"/><s n="ant"/></l><r>Salih<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>تیرێژ<s n="np"/><s n="ant"/></l><r>Tîrêj<s n="np"/><s n="ant"/></r></p></e>
       <e><p><l>عەلی<s n="np"/><s n="ant"/></l><r>Ali<s n="np"/><s n="ant"/></r></p></e>
