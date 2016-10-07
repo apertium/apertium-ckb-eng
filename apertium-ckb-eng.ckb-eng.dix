@@ -44,7 +44,7 @@
 
       <!-- SECTION: Misc -->
       <e r="LR"><p><l>ئایا<s n="qst"/></l><r></r></p></e>
-
+      <e r="LR"><p><l>ئاخۆ<s n="qst"/></l><r></r></p></e>
       <!-- SECTION: Conjunctions -->
       <e><p><l>و<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>وە<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -234,6 +234,8 @@
       <e><p><l>باینجانی<b/>ڕەش<s n="n"/></l><r>aubergine<s n="n"/></r></p></e>
       <e><p><l>باسک<s n="n"/></l><r>arm<s n="n"/></r></p></e>
 <!--gedit-->
+      <e><p><l>بەرەوپێشچوون<s n="n"/></l><r>progress<s n="n"/></r></p></e>
+      <e><p><l>تۆمارکردن<s n="n"/></l><r>registration<s n="n"/></r></p></e>
       <e><p><l>باینجانی<b/>ڕەش<s n="n"/></l><r>aubergine<s n="n"/></r></p></e>
       <e><p><l>باینجان<s n="n"/></l><r>eggplant<s n="n"/></r></p></e>
       <e><p><l>ڕاگواستن<s n="n"/></l><r>relocation<s n="n"/></r></p></e>
@@ -1717,7 +1719,10 @@
       <e><p><l>گورچیلە<s n="n"/></l><r>kidney<s n="n"/></r></p></e>
       <e><p><l>ڕیخۆڵەکان<s n="n"/></l><r>bowel<s n="n"/></r></p></e>
       <e><p><l>کۆم<s n="n"/></l><r>anus<s n="n"/></r></p></e>
+      <e><p><l>کرێ<s n="n"/></l><r>fare<s n="n"/></r></p></e>
+      <e><p><l>ماجونی<b/>ددان<s n="n"/></l><r>toothpaste<s n="n"/></r></p></e>
       <e><p><l>مێزڕۆ<s n="n"/></l><r>uterus<s n="n"/></r></p></e>
+      <e><p><l>شوێنی<b/>یاریکردن<s n="n"/></l><r>playground<s n="n"/></r></p></e>
       <e><p><l>ئەندامی<b/>هێلکەدانی<b/>مێینە<s n="n"/></l><r>ovary<s n="n"/></r></p></e>
       <e><p><l>کۆئەندامی<b/>زاووزێی<b/>مێینە<s n="n"/></l><r>vagina<s n="n"/></r></p></e>
       <e><p><l>گونەکان<b/>نێرینە<s n="n"/></l><r>testes<s n="n"/></r></p></e>
@@ -1804,6 +1809,7 @@
       <e><p><l>تەلەفۆن<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
       <e><p><l>مۆبایل<s n="n"/></l><r>mobile phone<s n="n"/></r></p></e>
       <e><p><l>مۆبایل<s n="n"/></l><r>cellphone<s n="n"/></r></p></e>
+      <e><p><l>حەز<s n="n"/></l><r>orientation<s n="n"/></r></p></e>
       <e><p><l>کارەبا<s n="n"/></l><r>electricity<s n="n"/></r></p></e>
       <e><p><l>کۆمپیوتەر<s n="n"/></l><r>computer<s n="n"/></r></p></e>
       <e><p><l>پەیوەندی<b/>ئینتەرنێت<s n="n"/></l><r>internet<b/>connection<s n="n"/></r></p></e>
@@ -1838,6 +1844,9 @@
       <e><p><l>سەرما<s n="n"/></l><r>cold<s n="n"/></r></p></e>
       <e><p><l>ناحیە<s n="n"/></l><r>town<s n="n"/></r></p></e>
       <!-- SECTION: Proper nouns -->
+      <e><p><l>سالونیکی<s n="np"/><s n="top"/></l><r>Thessaloniki<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>سربیا<s n="np"/><s n="top"/></l><r>Serbia<s n="np"/><s n="top"/></r></p></e>
+      <e><p><l>سوریا<s n="np"/><s n="top"/></l><r>Syria<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>تورکیا<s n="np"/><s n="top"/></l><r>Turkey<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>کوردستان<s n="np"/><s n="top"/></l><r>Kurdistan<s n="np"/><s n="top"/></r></p></e>
       <e><p><l>ئێران<s n="np"/><s n="top"/></l><r>Iran<s n="np"/><s n="top"/></r></p></e>
@@ -2063,6 +2072,7 @@
       <e><p><l>درێژ<s n="adj"/></l><r>long<s n="adj"/><s n="sint"/></r></p></e>
 
       <!-- SECTION: Adverbs -->
+      <e><p><l>ئەمشەو<s n="adv"/></l><r>tonight<s n="adv"/></r></p></e>
       <e><p><l>ھەروەھا<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
       <e><p><l>سبەی<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>هەرگیز<s n="adv"/></l><r>never<s n="adv"/></r></p></e>
@@ -2073,10 +2083,12 @@
       <e><p><l>لەوێ<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>لەوێوە<s n="adv"/></l><r>from<b/>there<s n="adv"/></r></p></e>
       <!-- SECTION: Verbs -->   
+      <e><p><l>بانگ<b/>كردن<s n="vblex"/></l><r>call<s n="vblex"/></r></p></e>
       <e><p><l>دەبێ<s n="vbmod"/></l><r>must<s n="vbmod"/></r></p></e>
       <e><p><l>پێویست<s n="vbmod"/></l><r>need<s n="vbmod"/></r></p></e>
       <e><p><l>ویستن<s n="vbmod"/></l><r>want<s n="vblex"/></r></p></e>
       <e><p><l>ویستن<s n="vblex"/></l><r>want<s n="vblex"/></r></p></e>
+      <e><p><l>زانن<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
       <e><p><l>كردنەوە<s n="vblex"/></l><r>open<s n="vblex"/></r></p></e>
       <e><p><l>گەڕانەوە<s n="vblex"/></l><r>return<s n="vblex"/></r></p></e>
       <e><p><l>هەوڵدان<s n="vblex"/></l><r>try<s n="vblex"/></r></p></e>
@@ -2084,6 +2096,7 @@
       <e><p><l>كردن<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
       <e><p><l>چوون<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>نووسين<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
+      <e><p><l>بەرەوپێشچوون<s n="vblex"/></l><r>progress<s n="vblex"/></r></p></e>
       <e><p><l>گرتن<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
       <e><p><l>خستن<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
       <e><p><l>بردن<s n="vblex"/></l><r>carry<s n="vblex"/></r></p></e>
@@ -2100,6 +2113,24 @@
       <e><p><l>ھەبوون<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
       <e><p><l>بوون<s n="vbcop"/></l><r>be<s n="vbser"/></r></p></e>
       <e><p><l>توانین<s n="vbmod"/></l><r>can<s n="vbmod"/></r></p></e>
+      <e><p><l>هەست<b/>کردن<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
+      <e><p><l>هەست<b/>پێ<b/>کردن<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
+      <e><p><l>نوێژ<b/>کردن<s n="vblex"/></l><r>pray<s n="vblex"/></r></p></e>
+      <e><p><l>میز<b/>کردن<s n="vblex"/></l><r>urinate<s n="vblex"/></r></p></e>
+      <e><p><l>کۆمەڵ<b/>کردن<s n="vblex"/></l><r>group<s n="vblex"/></r></p></e>
+      <e><p><l>قسە<b/>کردن<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
+      <e><p><l>سێکس<b/>کردن<s n="vblex"/></l><r>have<b/>sex<s n="vblex"/></r></p></e>
+      <e><p><l>درۆ<b/>کردن<s n="vblex"/></l><r>lie<s n="vblex"/></r></p></e>
+      <e><p><l>داوا<b/>کردن<s n="vblex"/></l><r>apply<s n="vblex"/></r></p></e>
+      <e><p><l>خیزە<b/>کردن<s n="vblex"/></l><r>wheeze<s n="vblex"/></r></p></e>
+      <e><p><l>تەواو<b/>کردن<s n="vblex"/></l><r>finish<s n="vblex"/></r></p></e>
+      <e><p><l>تەماشا<b/>کردن<s n="vblex"/></l><r>watch<s n="vblex"/></r></p></e>
+      <e><p><l>تاووتوێ<b/>کردن<s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
+      <e><p><l>پەسەند<b/>کردن<s n="vblex"/></l><r>approve<s n="vblex"/></r></p></e>
+      <e><p><l>بۆن<b/>کردن<s n="vblex"/></l><r>smell<s n="vblex"/></r></p></e>
+      <e><p><l>بەزۆر<b/>داگیر<b/>کردن<s n="vblex"/></l><r>capture<s n="vblex"/></r></p></e>
+      <e><p><l>ڕاوێژ<b/>کردن<s n="vblex"/></l><r>consult<s n="vblex"/></r></p></e>
+      <e><p><l>پارێزگاری<b/>کردن<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
 
       <!-- SECTION: Interjections -->
       <e><p><l>سپاس<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
