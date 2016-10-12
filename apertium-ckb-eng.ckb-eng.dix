@@ -167,7 +167,7 @@
       <e><p><l>ئەژنۆ<s n="n"/></l><r>knee<s n="n"/></r></p></e>
       <e><p><l>ئانیشک<s n="n"/></l><r>elbow<s n="n"/></r></p></e>
       <e><p><l>ڕوومەت<s n="n"/></l><r>face<s n="n"/></r></p></e>
-      <e><p><l>هەوکردنێکە<b/>تووشی<b/>ناوبەینی<b/>پەنجەکانی<b/>قاچ<b/>دەبێت<s n="n"/></l><r>athlete's<b/>foot<s n="n"/></r></p></e>
+      <e r="LR"><p><l>هەوکردنێکە<b/>تووشی<b/>ناوبەینی<b/>پەنجەکانی<b/>قاچ<b/>دەبێت<s n="n"/></l><r>athlete's<b/>foot<s n="n"/></r></p></e>
       <e><p><l>هەوکردنی<b/>زنانه,<b/>بورى<b/>ميزلدان<s n="n"/></l><r>vaginal<b/>yeast<b/>infection<s n="n"/></r></p></e>
       <e><p><l>هەنگوێن<s n="n"/></l><r>honey<s n="n"/></r></p></e>
       <e><p><l>هێلکە<s n="n"/></l><r>eggs<s n="n"/></r></p></e>
@@ -2141,8 +2141,8 @@
   
       <!-- SECTION: Punctuation -->
 
-      <e><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-      <e><p><l>؟<s n="sent"/></l><r>?<s n="sent"/></r></p></e>
+      <e r="LR"><re>[.\?;:!]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e r="LR"><p><l>؟<s n="sent"/></l><r>?<s n="sent"/></r></p></e>
 
       
    </section>
