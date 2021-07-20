@@ -1,0 +1,28 @@
+[-nkpwjClSL6B#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/-nkpwjClSL6B]
+[BVmB5NEPGT9_#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^ترس<n><sg><abs>/fear<n><sg><abs>$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/BVmB5NEPGT9_]
+[EbcpDdZ84bSW#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^تا<n><sg><abs><px1sg>/fever<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/EbcpDdZ84bSW]
+[IDQFBG-HKmrR#0] ^شێرپەنجە<n><sg><abs><px1sg>/cancer<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/IDQFBG-HKmrR]
+[LOzS4ZD4ylb_#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^ڕەبۆ<n><sg><abs><px1sg>/asthma<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/LOzS4ZD4ylb_]
+[QgV_QcovfgB4#0] ^ژانەسەر<n><sg><abs><px1sg>/headache<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/QgV_QcovfgB4]
+[W4r_A23apXgp#0] ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/W4r_A23apXgp]
+[YJGdt87qar30#0] ^*یەک/*یەک$ ^کاتژمێر<n><sg><abs>/hour<n><sg><abs>$^.<sent>/.<sent>$
+[/YJGdt87qar30]
+[_YmJhY4WaxXa#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دووگیان<adj><pst>/pregnant<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/_YmJhY4WaxXa]
+[fZYdaiGlTCh8#0] ^تا<n><sg><abs><px1sg>/fever<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/fZYdaiGlTCh8]
+[i30L3L9WUi98#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^سەرەگێژە<n><sg><abs>/dizzy<n><sg><abs>/dizziness<n><sg><abs>$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/i30L3L9WUi98]
+[tKSlq4bhRAkF#0] ^فڕۆکە<n><pl><def>/aeroplane<n><pl><def>$^:<sent>/:<sent>$
+[/tKSlq4bhRAkF]
+[tzRl-hsxh6B6#0] ^*دەکۆخم/*دەکۆخم$^.<sent>/.<sent>$
+[/tzRl-hsxh6B6]
+[wdWYtlBOWY4X#0] ^*یەک/*یەک$ ^ڕۆژ<n><sg><abs>/day<n><sg><abs>$^.<sent>/.<sent>$
+[/wdWYtlBOWY4X]

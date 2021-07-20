@@ -1,0 +1,682 @@
+[-LlDvCwdDcvF#0] ^default<default>{^child<n><sg><def><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^throat<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دێشێ$}$ \/ ^unknown<unknown>{^*دەکۆخێ$}$^sent<SENT>{^.<sent>$}$
+[/-LlDvCwdDcvF]
+[-iVQR8j2gloX#0] ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*کەسەی$}$ ^n<SN>{^missing<n><sg>$}$ ^default<default>{^be<vbser><perf><p3><sg>$}$ ^default<default>{^number<n><sg><ezaclo>$}$ ^n<SN>{^phone<n><sg>$}$ ^default<default>{^or<cnjcoo>$}$ ^default<default>{^number<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*وایبری$}$ ^unknown<unknown>{^*تۆی$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/-iVQR8j2gloX]
+[-iiLECo3crRm#0] ^default<default>{^fare<n><sg><ind><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^approximate<adj>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^include<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^لە<PREP>{^at<pr>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/-iiLECo3crRm]
+[0-sDeBLkTybz#0] ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*م$}$ ^unknown<unknown>{^*سڕن$}$^sent<SENT>{^.<sent>$}$
+[/0-sDeBLkTybz]
+[0HPaTiZE6ksB#0] ^default<default>{^can<vbmod><neg><pri><p1><sg>$}$ ^default<default>{^speak<vblex><tv><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0HPaTiZE6ksB]
+[0KngPkCLe5AW#0] ^v<SV>{^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^frightened<adj>$}$^sent<SENT>{^.<sent>$}$
+[/0KngPkCLe5AW]
+[0Tc8fAbuudwF#0] ^unknown<unknown>{^*منداله$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*م$}$ ^j<SA>{^hungry<adj><sint>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تی$}$^sent<SENT>{^.<sent>$}$
+[/0Tc8fAbuudwF]
+[0Y9nJEoPwILi#0] ^default<default>{^fare<n><sg><abs><ezalos>$}$ ^n<SN>{^bus<n><sg>$}$ ^unknown<unknown>{^*3$}$ ^n<SN>{^euro<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/0Y9nJEoPwILi]
+[0hJ8vsQEvoDX#0] ^لەگەڵ<PREP>{^with<pr>$}$ ^unknown<unknown>{^*کۆکەدا$}$ ^n<SN>{^salt<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^default<default>{^village<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0hJ8vsQEvoDX]
+[0m8YNV0stCcG#0] ^n<SN>{^urine<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بۆنێکی$}$ ^unknown<unknown>{^*پیسی$}$ ^unknown<unknown>{^*لێدێت$}$^sent<SENT>{^.<sent>$}$
+[/0m8YNV0stCcG]
+[0wqtjFJqtiSZ#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*دەستدرێژیم$}$ ^unknown<unknown>{^*کراوەتە$}$ ^n<SN>{^head<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/0wqtjFJqtiSZ]
+[18RPdihMlZDz#0] ^default<default>{^attention<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەنگییەکان$}$ ^n<SN>{^information<n><sg>$}$ ^unknown<unknown>{^*زیاتریان$}$ ^unknown<unknown>{^*تێدایە$}$^sent<SENT>{^.<sent>$}$
+[/18RPdihMlZDz]
+[1AMFQ0q9gdOe#0] ^unknown<unknown>{^*تێلەفۆنت$}$ ^n<SN>{^foot<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/1AMFQ0q9gdOe]
+[1BjlxymV7yYJ#0] ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*م$}$ ^unknown<unknown>{^*چزووی$}$ ^unknown<unknown>{^*پێدادێت$}$^sent<SENT>{^.<sent>$}$
+[/1BjlxymV7yYJ]
+[1TkvMPHwTdKg#0] ^imp<SN>{^carry<vblex><imp>$}$ ^بە<PREP>{^by<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^part<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^process<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*جێگۆڕینەکە$}$ ^default<default>{^but<cnjcoo>$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*لەکۆتایی$}$ ^unknown<unknown>{^*هێڵەکەدایت$}$^sent<SENT>{^.<sent>$}$
+[/1TkvMPHwTdKg]
+[1kBR6YYpHSqr#0] ^unknown<unknown>{^*نانەوا$}$^sent<SENT>{^.<sent>$}$
+[/1kBR6YYpHSqr]
+[24gCepOBkVQ_#0] ^unknown<unknown>{^*پاش$}$ ^v<SN>{^six<num><pl>$ ^month<n><pl>$}$، ^n<SN>{^child<n><sg>$}$ ^default<default>{^must<vbmod><pri>$}$ ^default<default>{^food<n><sg><abs><ezalos>$}$ ^default<default>{^other<n><sg><abs><emph>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*پێبدرێت$}$^sent<SENT>{^.<sent>$}$
+[/24gCepOBkVQ_]
+[2Cx3DF9VA8D6#0] ^n<SN>{^none<n><sg>$}$ ^default<default>{^money<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^by<pr><pro>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/2Cx3DF9VA8D6]
+[2rSYjSz7GPwB#0] ^unknown<unknown>{^*دەتەوی$}$ ^بە<PREP>{^by<pr>$}$ ^j<SA>{^alone<adj>$}$ ^unknown<unknown>{^*لەگەل$}$ ^v<SN>{^a<det><ind><sg>$ ^translator<n><sg>$}$  ^imp<SN>{^speak<vblex><imp>$}$^qst<SENT>{^?<sent>$}$ ^sent<SENT>{^.<sent>$}$
+[/2rSYjSz7GPwB]
+[2sP1JPKha5a-#0] ^unknown<unknown>{^*تکایە$}$^sent<SENT>{^.<sent>$}$
+[/2sP1JPKha5a-]
+[2uaQSYlnz6Ct#0] ^unknown<unknown>{^*ئەمە$}$ ^unknown<unknown>{^*مێرده‌که‌ە$}$^sent<SENT>{^.<sent>$}$
+[/2uaQSYlnz6Ct]
+[353WqS2zb0rU#0] ^unknown<unknown>{^*پەنابەرێتی$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^Greece<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/353WqS2zb0rU]
+[3JY9d1BCze59#0] ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^j<SA>{^additional<adj>$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^money<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دیاریکراو$}$ ^default<default>{^money<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*داوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/3JY9d1BCze59]
+[3r9px7G99hsB#0] ^prn<SN><p2><sg>{^prpers<prn><subj><p2><mf><sg>$}$ ^n<SN>{^level<n><pl>$}$ ^have<SV><p2><sg>{^have<vbhaver><pres><2><3>$}$ ^unknown<unknown>{^*بمێنیتەوە$}$ ^unknown<unknown>{^*لێرە$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^republic<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*یۆگسلافیای$}$ ^unknown<unknown>{^*پێشوو$}$ ^unknown<unknown>{^*مەقەدۆنیا$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/3r9px7G99hsB]
+[3rfxeGD_Dj45#0] ^unknown<unknown>{^*چی$}$ ^unknown<unknown>{^*رویدا$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/3rfxeGD_Dj45]
+[4B3lllHA-DZY#0] ^unknown<unknown>{^*توالیت$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێیە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/4B3lllHA-DZY]
+[4Ds5EW6sOfoJ#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^tuberculosis<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/4Ds5EW6sOfoJ]
+[4tb52NuxNB8Z#0] ^n<SN>{^daughter<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/4tb52NuxNB8Z]
+[4u3Xljk070vE#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*سگچوونم$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/4u3Xljk070vE]
+[4uGVyndDOokS#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^default<default>{^ear<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^registration<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^vote<n><sg><abs><px3sg>$}$ ^prn<SN><p3><sg>{^he<prn><pers><clt><p3><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^be<vbser><prs><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/4uGVyndDOokS]
+[5Dp7GZGXk2Kd#0] ^n<SN>{^belly<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دێشێ$}$^sent<SENT>{^.<sent>$}$
+[/5Dp7GZGXk2Kd]
+[5DpjAp17CXCk#0] ^n<SN>{^deportation<n><sg>$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^Turkey<np><top><sg>$}$^sent<SENT>{^.<sent>$}$
+[/5DpjAp17CXCk]
+[5HclXJ11yVg8#0] ^unknown<unknown>{^*چونکە$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^fear<n><sg><ind><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*قوڵت$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/5HclXJ11yVg8]
+[5LqCY8jwA4nr#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^name<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^know<vblex><tv><prs><p1><sg>$}$ ^n<SN>{^fever<n><sg>$}$ ^unknown<unknown>{^*داتابەیسەکە$}$ ^default<default>{^turn<vblex><tv><prs><p1><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/5LqCY8jwA4nr]
+[5QJaq4Jkw9ek#0] ^n<SN>{^blanket<n><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN>{^clothes<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*گەرمیان$}$ ^unknown<unknown>{^*پێداوی$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/5QJaq4Jkw9ek]
+[62pMfieJYYca#0] ^n<SN>{^centre<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ناونووسیکردن$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^total<n><sg><dem>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/62pMfieJYYca]
+[6EVAqvT3SkLx#0] ^default<default>{^reason<n><sg><abs><ezalos>$}$ ^prn<SN><p3><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^doctor<n><sg>$}$ ^have<SV><p3><sg>{^have<vbhaver><pres><2><3>$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^breastmilk<n><sg><abs><ezalos>$}$ ^default<default>{^by<pr><pro>$}$ ^unknown<unknown>{^*نەدرێت$}$^sent<SENT>{^.<sent>$}$
+[/6EVAqvT3SkLx]
+[6RLyu5EtvW2t#0] ^unknown<unknown>{^*شایەنی$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/6RLyu5EtvW2t]
+[6_M5zK4tYX_F#0] ^unknown<unknown>{^*ئێواره‌ت$}$ ^j<SA>{^well<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/6_M5zK4tYX_F]
+[6d5jy25OkW1f#0] ^unknown<unknown>{^*تێناگەم$}$^sent<SENT>{^.<sent>$}$
+[/6d5jy25OkW1f]
+[6gB-R2OY1GXY#0] ^n<SN>{^coffee<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/6gB-R2OY1GXY]
+[6wsLPUcRnv-Y#0] ^unknown<unknown>{^*بەرماوەی$}$ ^n<SN>{^milk<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^hour<n><sg>$}$ ^j<SA>{^additional<adj>$}$ ^unknown<unknown>{^*ڕامەگرە$}$ - ^unknown<unknown>{^*چون$}$ ^unknown<unknown>{^*پیس$}$ ^n<SN>{^must<n><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*ناسڵامەتە$}$^sent<SENT>{^.<sent>$}$
+[/6wsLPUcRnv-Y]
+[6y9Z9ZcsV3Qf#0] ^unknown<unknown>{^*وەرە$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*ئێرە$}$^sent<SENT>{^!.<sent>$}$
+[/6y9Z9ZcsV3Qf]
+[79xaIpsejwNr#0] ^j<SA>{^suitable<adj>$}$، ^لە<PREP>{^at<pr>$}$ ^default<default>{^time<n><sg><abs><ezalos>$}$ ^n<SN>{^birth<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/79xaIpsejwNr]
+[7DlKNNb7fLpF#0] ^unknown<unknown>{^*ئەمە$}$ ^unknown<unknown>{^*باوكمه$}$^sent<SENT>{^.<sent>$}$
+[/7DlKNNb7fLpF]
+[7P5EWUuvaKmO#0] ^v<SN>{^two<num><pl>$ ^day<n><pl>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^you<prn><pers><p2><pl>$}$ ^unknown<unknown>{^*پێش$}$ ^unknown<unknown>{^*پێوەندی$}$ ^unknown<unknown>{^*جینسیم$}$ ^default<default>{^exist<vblex><past><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7P5EWUuvaKmO]
+[7QRP3lmIxQtv#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێ$}$ ^sent<SENT>{^....<sent>$}$ ^unknown<unknown>{^*بدۆزمەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/7QRP3lmIxQtv]
+[7bKwWLoRhFlo#0] ^n<SN>{^needed\/required<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*چاوەڕوان$}$ ^default<default>{^be<vbser><prs><p2><sg>$}$^sent<SENT>{^.<sent>$}$
+[/7bKwWLoRhFlo]
+[7tUQXVx6ZiLQ#0] ^v<SV>{^feel<vblex><pres>$}$ ^unknown<unknown>{^*چاودێری$}$ ^unknown<unknown>{^*دەکرێم$}$^sent<SENT>{^.<sent>$}$
+[/7tUQXVx6ZiLQ]
+[7yDobGDD_slg#0] ^default<default>{^morning<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^j<SA>{^well<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/7yDobGDD_slg]
+[7yY1_NXvm-PE#0] ^n<SN>{^socks<n><sg>$}$ ^j<SA>{^dry<adj>$}$^sent<SENT>{^.<sent>$}$
+[/7yY1_NXvm-PE]
+[815Ab21RoJ_z#0] ^default<default>{^number<n><sg><abs><ezalos>$}$ ^n<SN>{^cellphone<n><sg>$}$ ^unknown<unknown>{^*یا$}$ ^default<default>{^viber<n><sg><abs><ezalos>$}$ ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*کەسەت$}$ ^unknown<unknown>{^*پێە$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*وون$}$ ^default<default>{^be<vbser><perf><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/815Ab21RoJ_z]
+[8G49ox_ug_Q9#0] ^unknown<unknown>{^*پیویسته$}$ ^unknown<unknown>{^*حەمامیک$}$ ^unknown<unknown>{^*بکەم$}$^sent<SENT>{^.<sent>$}$
+[/8G49ox_ug_Q9]
+[8K7vXh9OVaAB#0] ^n<SN>{^water<n><sg>$}$ ^unknown<unknown>{^*زێدە$}$ ^unknown<unknown>{^*مەکە$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^product<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8K7vXh9OVaAB]
+[8POGSakgWFjH#0] ^unknown<unknown>{^*توشی$}$ ^v<SN>{^some<det><qnt><sp>$ ^game<n><pl>$}$ ^unknown<unknown>{^*بووم$}$^sent<SENT>{^.<sent>$}$
+[/8POGSakgWFjH]
+[8TVvIYNcnS02#0] ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*م$}$ ^default<default>{^be<vbser><prs><p3><sg>$}$ ^default<default>{^force<n><sg><dem>$}$^sent<SENT>{^.<sent>$}$
+[/8TVvIYNcnS02]
+[8Z9gin3WiSud#0] ^unknown<unknown>{^*یەک$}$ ^n<SN>{^month<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8Z9gin3WiSud]
+[8nG4z-fwiKzT#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئەستوربوونی$}$ ^default<default>{^myocardial<n><sg><abs><px1sg>$}$ ^default<default>{^have<vbhaver><perf><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8nG4z-fwiKzT]
+[8roEAFDFgw5_#0] ^default<default>{^site<n><sg><abs><ezalos>$}$ ^n<SN>{^departure<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/8roEAFDFgw5_]
+[90hKOA9CMuIw#0] ^default<default>{^any<det><ind><sg>$}$ ^default<default>{^hour<n><sg><abs><ezalos>$}$ ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^v<SV>{^urinate<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/90hKOA9CMuIw]
+[90sKpsAMIfrM#0] ^default<default>{^can<vbmod><pri><p1><pl>$}$ ^unknown<unknown>{^*بەم$}$ ^n<SN>{^language<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بخوێنیتەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/90sKpsAMIfrM]
+[9MOxgAQ52n2R#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^go<vblex><iv><prs><p1><sg>$}$ ^بۆ<PREP>{^to<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^hotel<n><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/9MOxgAQ52n2R]
+[9MPJ0JycxTJA#0] ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*تەلەفونەکەت$}$ ^default<default>{^picture<n><sg><abs><ezalos>$}$ ^n<SN>{^document<n><pl>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*یوونانت$}$ ^unknown<unknown>{^*هەڵگرتووە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/9MPJ0JycxTJA]
+[9NRPA5EOOjiM#0] ^unknown<unknown>{^*بورامەوە$}$^sent<SENT>{^.<sent>$}$
+[/9NRPA5EOOjiM]
+[9drsNzdU8YDD#0] ^n<SN>{^bottle<n><sg>$}$ ^unknown<unknown>{^*بەکار$}$ ^unknown<unknown>{^*مەهێنە$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*پیاڵەیەکی$}$ ^j<SA>{^clean<adj><sint>$}$ ^unknown<unknown>{^*بەکار$}$ ^unknown<unknown>{^*بێنە$}$^sent<SENT>{^.<sent>$}$
+[/9drsNzdU8YDD]
+[9sLdOXWYco7D#0] ^n<SN>{^none<n><sg>$}$ ^default<default>{^asylum<n><sg><ind><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*بینیوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/9sLdOXWYco7D]
+[9woHonjzKM41#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*رشانەوەمدا$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/9woHonjzKM41]
+[A6LFOkF59C4j#0] ^unknown<unknown>{^*مناڵه‌کانم$}$^sent<SENT>{^.<sent>$}$
+[/A6LFOkF59C4j]
+[AKJYa_FsAK95#0] ^v<SN>{^a<det><ind><sg>$ ^harm<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*کەمە$}$^sent<SENT>{^.<sent>$}$
+[/AKJYa_FsAK95]
+[ArvOj8CP9Oop#0] ^unknown<unknown>{^*کەوتم$}$^sent<SENT>{^.<sent>$}$
+[/ArvOj8CP9Oop]
+[AuLoyIg1QRX9#0] ^unknown<unknown>{^*تووشی$}$ ^unknown<unknown>{^*تەنگەفەسیی$}$ ^unknown<unknown>{^*بووم$}$^sent<SENT>{^.<sent>$}$
+[/AuLoyIg1QRX9]
+[AwNs-umTp1GM#0] ^unknown<unknown>{^*لەوانەیە$}$ ^j<SA>{^pregnant<adj>$}$ ^default<default>{^be<vbser><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/AwNs-umTp1GM]
+[AzlJnkKHWSfM#0] ^unknown<unknown>{^*پولیس$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*تۆی$}$ ^unknown<unknown>{^*گوت$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^ride<n><sg><abs><ezalos>$}$ ^n<SN>{^taxi<n><sg>$}$ ^default<default>{^be<vbser><prs><p2><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/AzlJnkKHWSfM]
+[B4d7B6_S-WyW#0] ^unknown<unknown>{^*لەکاتی$}$ ^unknown<unknown>{^*میزکردن$}$  ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^J<n><pl>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/B4d7B6_S-WyW]
+[BHvniXtyxq8x#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^information<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$ ^لەسەر<PREP>{^on<pr>$}$ ^default<default>{^arrival time<n><sg><abs><ezalos>$}$ ^n<SN>{^train<n><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/BHvniXtyxq8x]
+[BM0DTs8fqGmq#0] ^unknown<unknown>{^*بگەڕێوە$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^tent<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*UNHCR$}$ (^unknown<unknown>{^*یەک$}$ ^default<default>{^hour<n><sg><abs><ezalos>$}$ ^n<SN>{^other<n><sg>$}$)^sent<SENT>{^.<sent>$}$
+[/BM0DTs8fqGmq]
+[BuJc6pyRlLR9#0] ^n<SN>{^clothes<n><sg>$}$ ^j<SA>{^alone<adj>$}$ ^بۆ<PREP>{^to<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^people<n><sg>$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^wet<adj>$}$ ^default<default>{^be<vbser><past><p3><pl>$}$^sent<SENT>{^.<sent>$}$
+[/BuJc6pyRlLR9]
+[C2jgS2OJzmsk#0] ^default<default>{^needed\/required<n><sg><ezaclo>$}$ ^v<SN>{^a<det><ind><sg>$ ^phone<n><sg>$}$ ^unknown<unknown>{^*بکەم$}$^sent<SENT>{^.<sent>$}$
+[/C2jgS2OJzmsk]
+[C5ypHTbaZnYw#0] ^default<default>{^ride<n><sg><abs><ezalos>$}$ ^n<SN>{^none<n><sg>$}$ ^v<SN>{^a<det><ind><sg>$ ^train<n><sg>$}$ ^imp<SN>{^carry<vblex><imp><neg>$}$ ^unknown<unknown>{^*ئەگەر$}$ ^default<default>{^family<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^document<n><sg><abs><ezalos>$}$ ^n<SN>{^official<n><sg>$}$ ^unknown<unknown>{^*تەواویان$}$ ^default<default>{^by<pr><pro>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/C5ypHTbaZnYw]
+[CL1VQgGhngbS#0] ^unknown<unknown>{^*ببوره‌$}$^sent<SENT>{^.<sent>$}$
+[/CL1VQgGhngbS]
+[CNydPBW8hx46#0] ^default<default>{^English<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^v<SV>{^speak<vblex><pres>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/CNydPBW8hx46]
+[CPnK5ODQDZT3#0] ^unknown<unknown>{^*ماوەیەکە$}$ ^unknown<unknown>{^*دەلەرزم$}$^sent<SENT>{^.<sent>$}$
+[/CPnK5ODQDZT3]
+[CSWlurwTrJAW#0] ^n<SN>{^harm<n><sg>$}$ ^unknown<unknown>{^*لێرەوە$}$ ^unknown<unknown>{^*دەستپێدەکات$}$ ^default<default>{^and<cnjcoo>$}$ ^default<default>{^village<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*ئێرە$}$^sent<SENT>{^.<sent>$}$
+[/CSWlurwTrJAW]
+[Cck9OBw3PtY1#0] ^unknown<unknown>{^*ئەوە$}$ ^j<SA>{^helpful<adj>$}$ ^default<default>{^be<vbser><past><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Cck9OBw3PtY1]
+[CfAY8OIUbLPE#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*دڵتەنگی$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/CfAY8OIUbLPE]
+[CgcuEm1aXUwz#0] ^n<SN>{^cabins<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ (^unknown<unknown>{^*4$}$-^unknown<unknown>{^*جێگە$}$ ^default<default>{^or<cnjcoo>$}$ ^unknown<unknown>{^*2$}$-^unknown<unknown>{^*جێگە$}$)^sent<SENT>{^:<sent>$}$ ^unknown<unknown>{^*٦١$}$ ^n<SN>{^euro<n><sg>$}$ - ^unknown<unknown>{^*٨١$}$،^unknown<unknown>{^*٥$}$ ^n<SN>{^euro<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/CgcuEm1aXUwz]
+[D2Nqga_iFbYs#0] ^n<SN>{^name<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/D2Nqga_iFbYs]
+[E416LcZbN5RL#0] ^unknown<unknown>{^*هەوڵتداوە$}$ ^unknown<unknown>{^*داوای$}$ ^n<SN>{^help<n><sg>$}$ ^unknown<unknown>{^*بکەیت$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^government<n><sg><abs><ezalos>$}$ ^default<default>{^state<n><sg><abs><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$، ^unknown<unknown>{^*یا$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^police<n><sg>$}$ ^unknown<unknown>{^*یا$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*هەرکەسێکی$}$ ^n<SN>{^other<n><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/E416LcZbN5RL]
+[EB_f23np4WTc#0] ^n<SN>{^centre<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*جلی$}$ ^unknown<unknown>{^*فریاکەوتن$}$^sent<SENT>{^.<sent>$}$
+[/EB_f23np4WTc]
+[EZ4rbNpDtmmu#0] ^unknown<unknown>{^*بگەڕێوە$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^tent<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*UNHCR$}$ (^unknown<unknown>{^*چەند$}$ ^default<default>{^hour<n><sg><abs><ezalos>$}$ ^n<SN>{^other<n><sg>$}$)^sent<SENT>{^.<sent>$}$
+[/EZ4rbNpDtmmu]
+[E_HI-XhV8iw5#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*دڵتەنگم$}$^sent<SENT>{^.<sent>$}$
+[/E_HI-XhV8iw5]
+[EeFYMjdvb85o#0] ^unknown<unknown>{^*کیۆس$}$ - ^unknown<unknown>{^*ساڵۆنێکی$}$^sent<SENT>{^.<sent>$}$
+[/EeFYMjdvb85o]
+[F4RlTACWIme0#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^vote<n><sg><abs><px3sg>$}$ ^j<SA>{^louder<adj>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/F4RlTACWIme0]
+[FSl0QYp9QA1v#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^can<vbmod><neg><pri><p1><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^j<SA>{^well<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^language<n><sg><abs><ezalos>$}$ (^default<default>{^English<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$) ^default<default>{^speak<vblex><tv><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/FSl0QYp9QA1v]
+[F_tmPkaQmuqL#0] ^n<SN>{^sanitary pad<n><sg>$}$                 ^sent<SENT>{^.<sent>$}$
+[/F_tmPkaQmuqL]
+[G3aZmla88831#0] ^n<SN>{^base<n><sg>$}$ ^لەسەر<PREP>{^on<pr>$}$ ^n<SN>{^someone<n><sg>$}$ ^default<default>{^or<cnjcoo>$}$ ^j<SA>{^additional<adj>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^v<SN>{^some<det><qnt><sp>$ ^reason<n><pl>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/G3aZmla88831]
+[G6zG5Osf-ObJ#0] ^default<default>{^distribution<n><sg><abs><ezalos>$}$ ^n<SN>{^clothes<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/G6zG5Osf-ObJ]
+[GjNK4bpPL4HS#0] ^default<default>{^straw<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN>{^date<n><sg>$}$^sent<SENT>{^:<sent>$}$ ^unknown<unknown>{^*کەنگێ$}$ ^n<SN>{^thing<n><pl>$}$ ^unknown<unknown>{^*پێش$}$ ^n<SN>{^village<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/GjNK4bpPL4HS]
+[Gso9BkYpCJE0#0] ^unknown<unknown>{^*جل$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*پێلاوی$}$ ^v<SN>{^some<det><qnt><sp>$ ^child<n><pl>$}$ ^unknown<unknown>{^*لەوێن$}$^sent<SENT>{^.<sent>$}$
+[/Gso9BkYpCJE0]
+[HLlnDIGyVbMu#0] ^v<SN>{^a<det><ind><sg>$ ^harm<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*توندوتیژە$}$^sent<SENT>{^.<sent>$}$
+[/HLlnDIGyVbMu]
+[HQilqvU84qY9#0] ^n<SN>{^son<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/HQilqvU84qY9]
+[HwRh6Nm3KJrw#0] ^unknown<unknown>{^*شیبوونەوەی$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^blood<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/HwRh6Nm3KJrw]
+[IMTP-9Zygn6g#0] ^default<default>{^day<n><pl><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^medication<n><sg>$}$ ^v<SV>{^eat<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/IMTP-9Zygn6g]
+[IeOKZ7fClnzV#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*سمتمەوە$}$ ^n<SN>{^salt<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^default<default>{^village<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/IeOKZ7fClnzV]
+[Ik6tG6vucmJ0#0] ^default<default>{^cancer<n><sg><abs><ezalos>$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^blood<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/Ik6tG6vucmJ0]
+[It7UPcBvmtFr#0] ^unknown<unknown>{^*تۆم$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^heart<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/It7UPcBvmtFr]
+[J-BOHztkzUbu#0] ^default<default>{^can<vbmod><neg><pri><p1><sg>$}$ ^unknown<unknown>{^*ببینم$}$^sent<SENT>{^.<sent>$}$
+[/J-BOHztkzUbu]
+[J4DsRQU_SsH6#0] ^default<default>{^cough<n><sg><def><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^sputum<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تێدایە$}$^sent<SENT>{^.<sent>$}$
+[/J4DsRQU_SsH6]
+[J63vG3cyl7gk#0] ^default<default>{^depression<n><sg><abs><px3sg>$}$ ^v<SV>{^he<prn><clt><p3><sg>$ ^be<vbser><pres><p1><sg>$ ^chronic<adj>$}$ ^لەگەڵ<PREP>{^with<pr>$}$^sent<SENT>{^.<sent>$}$
+[/J63vG3cyl7gk]
+[JIhDP0EkG9q7#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوی$}$ ^دە<PREP>{^on<pr>$}$ ^unknown<unknown>{^*توانم$}$ ^n<SN>{^bathroom<n><sg>$}$ ^unknown<unknown>{^*بکەم$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/JIhDP0EkG9q7]
+[Ja9Q6PERrjV0#0] ^default<default>{^organisation<n><sg><abs><ezalos>$}$ ^n<SN>{^spot<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*چاوپێکەوتن$}$^sent<SENT>{^.<sent>$}$
+[/Ja9Q6PERrjV0]
+[Jc2zosyHbNkY#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^information<n><sg>$}$ ^default<default>{^give<vblex><tv><prs><p1><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^assisstance<n><pl><ind><px1sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*سربیار$}$ ^n<SN>{^fever<n><sg>$}$ ^unknown<unknown>{^*بتوانین$}$ ^unknown<unknown>{^*خزمەتگوزاریت$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*دابینبکەین$}$ ^default<default>{^there<adv>$}$^sent<SENT>{^.<sent>$}$
+[/Jc2zosyHbNkY]
+[JdFABL4J0swI#0] ^unknown<unknown>{^*ئارام$}$ ^default<default>{^and<cnjcoo>$}$ ^j<SA>{^happy<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*جێگایا$}$ ^n<SN>{^today<n><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/JdFABL4J0swI]
+[JkQxfwj7PdSY#0] ^sent<SENT>{^....<sent>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/JkQxfwj7PdSY]
+[K03n7pz8_ghc#0] ^n<SN>{^need<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*کۆپیەک$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^document<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/K03n7pz8_ghc]
+[K4R0ddlvzp3_#0] ^unknown<unknown>{^*سوپاس$}$^sent<SENT>{^.<sent>$}$
+[/K4R0ddlvzp3_]
+[KEpPMrm8dBpo#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^translator<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/KEpPMrm8dBpo]
+[KHmw7FzLNgIR#0] ^v<SN>{^a<det><ind><sg>$ ^person<n><sg>$}$ ^unknown<unknown>{^*لێیدام$}$^sent<SENT>{^.<sent>$}$
+[/KHmw7FzLNgIR]
+[KINSwqb_ltZ9#0] ^unknown<unknown>{^*خواحافیز$}$ ^unknown<unknown>{^*یا$}$ ^default<default>{^god<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^لەگەڵ<PREP>{^with<pr>$}$^sent<SENT>{^.<sent>$}$
+[/KINSwqb_ltZ9]
+[KJbKZ-zryAzG#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^all<det><qnt><pl>$}$ ^default<default>{^need<n><pl><def><ezalos>$}$ ^v<SN>{^a<det><ind><sg>$ ^child<n><sg>$}$ ^unknown<unknown>{^*هەتا$}$ ^default<default>{^age<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ (^unknown<unknown>{^*6$}$) ^default<default>{^six<num><pl>$}$ ^default<default>{^month<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دابین$}$ ^unknown<unknown>{^*دەکات$}$^sent<SENT>{^.<sent>$}$
+[/KJbKZ-zryAzG]
+[KNJIx0ycRS8l#0] ^unknown<unknown>{^*تینوومه$}$^sent<SENT>{^.<sent>$}$
+[/KNJIx0ycRS8l]
+[KaTwctdsPoPb#0] ^n<SN>{^document<n><pl>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*FYRMت$}$ ^unknown<unknown>{^*پێگەیشتووە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/KaTwctdsPoPb]
+[KiWiQAfufdQV#0] ^unknown<unknown>{^*ئارام$}$ ^default<default>{^and<cnjcoo>$}$ ^j<SA>{^happy<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*جێگایا$}$ ^default<default>{^tonight<adv>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/KiWiQAfufdQV]
+[L5zBRi-s9Z4z#0] ^unknown<unknown>{^*ئەوە$}$ ^default<default>{^medication<n><sg><def><px1sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/L5zBRi-s9Z4z]
+[LAA9fRfif85h#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*گیاخۆرم$}$^sent<SENT>{^.<sent>$}$
+[/LAA9fRfif85h]
+[LZEYQygUxjeN#0] ^n<SN>{^life jacket<n><sg>$}$ ^لەسەر<PREP>{^on<pr>$}$ ^n<SN>{^shore<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/LZEYQygUxjeN]
+[LZUOOFrHSPnY#0] ^unknown<unknown>{^*هەوڵی$}$ ^unknown<unknown>{^*گرتنی$}$ ^n<SN>{^snake<n><sg>$}$ ^imp<SN>{^give<vblex><imp><neg>$}$^sent<SENT>{^.<sent>$}$
+[/LZUOOFrHSPnY]
+[Lx6sp6KhdTfX#0] ^unknown<unknown>{^*ئەمانە$}$ ^default<default>{^child<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Lx6sp6KhdTfX]
+[MK8ZuWTkZXUE#0] ^n<SN>{^none<n><sg>$}$ ^unknown<unknown>{^*هەولت$}$ ^unknown<unknown>{^*داوە$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*ڕاگرتنی$}$ ^d_n<SN><sg>{^that<det><dem><sg>$ ^problem<n><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*گرفتانەی$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^state<n><sg><def><px2sg>$}$ ^unknown<unknown>{^*بەسەرت$}$ ^unknown<unknown>{^*هاتووە$}$، ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*دوایە$}$ ^unknown<unknown>{^*چی$}$ ^unknown<unknown>{^*پێش$}$ ^unknown<unknown>{^*هات$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/MK8ZuWTkZXUE]
+[MS8734fTqgeU#0] ^n<SN>{^none<n><sg>$}$ ^default<default>{^document<n><sg><ind><ezalos>$}$ ^default<default>{^other<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^foot<n><sg><dem><ezaclo>$}$ ^n<SN>{^K<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ڕەگەزنامەی$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*دەربخات$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/MS8734fTqgeU]
+[Mg2kN2Tx7S0b#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*برسیمه‌$}$^sent<SENT>{^.<sent>$}$
+[/Mg2kN2Tx7S0b]
+[MxChjSaV5dmV#0] ^unknown<unknown>{^*جگەرە$}$ ^unknown<unknown>{^*مەکێشە$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*ژوورەوە$}$^sent<SENT>{^.<sent>$}$
+[/MxChjSaV5dmV]
+[MzI_cnQ6-gw0#0] ^لە<PREP>{^at<pr>$}$ ^default<default>{^day<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*٥$}$ ^ی<PREP>{^of<pr>$}$ ^default<default>{^month<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*حوزەیرانەوە$}$ ^unknown<unknown>{^*هەتاوەکو$}$ ^default<default>{^end<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^period<n><sg><abs><ezalos>$}$ ^n<SN>{^Ramadan<n><sg>$}$، ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*٥$}$ ^ی<PREP>{^of<pr>$}$ ^default<default>{^month<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*تەمموزەوە$}$ ^n<SN>{^breakfast<n><sg>$}$ ^لەگەڵ<PREP>{^with<pr>$}$ ^default<default>{^dinner<n><sg><ezaclo>$}$ ^n<SN>{^hour<n><sg>$}$ ^unknown<unknown>{^*١٩$}$^sent<SENT>{^:<sent>$}$^unknown<unknown>{^*٠٠$}$ (^unknown<unknown>{^*٧$}$^sent<SENT>{^:<sent>$}$^unknown<unknown>{^*٠٠$}$) ^n<SN>{^gift<n><sg>$}$ ^unknown<unknown>{^*دەکرێت$}$^sent<SENT>{^.<sent>$}$ ^n<SN>{^lunch<n><sg>$}$ ^j<SA>{^like<adj>$}$ ^n<SN>{^self<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەمێنێتەوە$}$^sent<SENT>{^.<sent>$}$
+[/MzI_cnQ6-gw0]
+[NDqsAQw3A3Cr#0] ^j<SA>{^hurt<adj>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^serious<adj>$}$ ^unknown<unknown>{^*واتە$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/NDqsAQw3A3Cr]
+[NJATyICRDKer#0] ^v<SV>{^feel<vblex><pres>$}$ ^j<SA>{^ill<adj><sint>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/NJATyICRDKer]
+[NrEfshHL7yCy#0] ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^insulin<n><sg><dem>$}$^sent<SENT>{^.<sent>$}$
+[/NrEfshHL7yCy]
+[OT5RzCpq5KBc#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^j<SA>{^ill<adj><sint>$}$ ^unknown<unknown>{^*بووم$}$^sent<SENT>{^.<sent>$}$
+[/OT5RzCpq5KBc]
+[OZY8saD34txj#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^allergy<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^sent<SENT>{^..<sent>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/OZY8saD34txj]
+[OdivPmpi05nl#0] ^default<default>{^all<det><qnt><pl>$}$ ^n<SN>{^food<n><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*خواردنەوەم$}$ ^unknown<unknown>{^*هێناوەتەوە$}$^sent<SENT>{^.<sent>$}$
+[/OdivPmpi05nl]
+[OtFDNfAoqkV_#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^connection<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*پێوەبکەم$}$ ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^v<SN>{^a<det><ind><sg>$ ^raft<n><sg>$}$ ^unknown<unknown>{^*دەبینیت$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/OtFDNfAoqkV_]
+[P9y7CxHRYbjY#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*نێوان$}$ ^unknown<unknown>{^*سوڕی$}$ ^unknown<unknown>{^*مانگانەکانمدا$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دێتەوە$}$^sent<SENT>{^.<sent>$}$
+[/P9y7CxHRYbjY]
+[PHF091OlHjc1#0] ^unknown<unknown>{^*پێش$}$ ^n<SN>{^arrive<n><sg>$}$ ^n<SN>{^fare<n><sg>$}$ ^unknown<unknown>{^*بکڕە$}$^sent<SENT>{^.<sent>$}$
+[/PHF091OlHjc1]
+[PKY1SaiH4HdG#0] ^default<default>{^harm<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*پێگەشتوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/PKY1SaiH4HdG]
+[PN8HIn6oXP8a#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*خەریکە$}$ ^n<SN>{^child<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^n<SN>{^must<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/PN8HIn6oXP8a]
+[PfwhvQw5g5_j#0] ^unknown<unknown>{^*کیۆس$}$ - ^unknown<unknown>{^*ئەسینا$}$^sent<SENT>{^.<sent>$}$
+[/PfwhvQw5g5_j]
+[PmrhBfgjX3Z0#0] ^unknown<unknown>{^*دووسبەی$}$^sent<SENT>{^.<sent>$}$
+[/PmrhBfgjX3Z0]
+[PnRTuvp0VRoc#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^sugar<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/PnRTuvp0VRoc]
+[Q-09A1jq0Jz4#0] ^default<default>{^must<vbmod><pri>$}$ ^default<default>{^go<vblex><iv><prs><p1><sg>$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^hospital<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Q-09A1jq0Jz4]
+[QD6NpPznorfy#0] ^n<SN>{^pain<n><sg>$}$ ^default<default>{^village<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*دەڕوا$}$^sent<SENT>{^.<sent>$}$
+[/QD6NpPznorfy]
+[QRcsA-4noUfi#0] ^unknown<unknown>{^*کڵێسا$}$^sent<SENT>{^.<sent>$}$
+[/QRcsA-4noUfi]
+[QcnC-a_v6X0j#0] ^v<SV>{^know<vblex><pres>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*چی$}$ ^unknown<unknown>{^*گروپێکایت$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/QcnC-a_v6X0j]
+[QkOKxLQsz_H4#0] ^unknown<unknown>{^*چەندە$}$ ^default<default>{^must<vbmod><pri>$}$ ^unknown<unknown>{^*لێرە$}$ ^unknown<unknown>{^*چاوەڕێ$}$ ^default<default>{^be<vbser><prs><p1><pl>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/QkOKxLQsz_H4]
+[Qo-m2Wp85myA#0] ^n<SN>{^hour<n><sg>$}$ ^unknown<unknown>{^*چەندە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Qo-m2Wp85myA]
+[R6_Ekmz7TWWS#0] ^unknown<unknown>{^*لەمێژە$}$ ^unknown<unknown>{^*پێوەندی$}$ ^unknown<unknown>{^*جینسیم$}$ ^unknown<unknown>{^*نەبووە$}$^sent<SENT>{^.<sent>$}$
+[/R6_Ekmz7TWWS]
+[R9OWQo8iR6aB#0] ^n<SN>{^content<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بڕێژە$}$ ^ناو<PREP>{^into<pr>$}$ ^unknown<unknown>{^*پیاڵەیەکی$}$ ^unknown<unknown>{^*خاوێنەوە$}$^sent<SENT>{^.<sent>$}$
+[/R9OWQo8iR6aB]
+[RDpNczfoTumG#0] ^unknown<unknown>{^*سڵاو$}$^sent<SENT>{^.<sent>$}$
+[/RDpNczfoTumG]
+[ROgVCCdC3iHs#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*چادرگە$}$ ^unknown<unknown>{^*گەورەکەدا$}$ ^default<default>{^or<cnjcoo>$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^centre<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئای$}$ ^default<default>{^thirty<num><pl>$}$ ^unknown<unknown>{^*تی$}$ ^unknown<unknown>{^*شەحنبکەرەوە$}$ ^sent<SENT>{^.<sent>$}$
+[/ROgVCCdC3iHs]
+[ROzcuO3uym7-#0] ^لە<PREP>{^at<pr>$}$ ^default<default>{^site<n><sg><ind><px3sg>$}$ ^unknown<unknown>{^*فێنک$}$ ^default<default>{^and<cnjcoo>$}$ ^j<SA>{^dry<adj>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ڕابگرن$}$ ^default<default>{^and<cnjcoo>$}$ ^default<default>{^head<n><sg><def><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^serious<adj>$}$ ^unknown<unknown>{^*ببەستن$}$^sent<SENT>{^.<sent>$}$
+[/ROzcuO3uym7-]
+[RUUUm2wp_qRO#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*میزەکەمدا$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/RUUUm2wp_qRO]
+[RbcVN4r9WWN8#0] ^v<SV>{^want<vblex><pres>$}$ ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^n<SN>{^gift<n><sg>$}$ ^unknown<unknown>{^*بکەم$}$^sent<SENT>{^.<sent>$}$
+[/RbcVN4r9WWN8]
+[RhJMa8BPhNh5#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^unknown<unknown>{^*ئەوەم$}$ ^بۆ<PREP>{^to<pr>$}$ ^default<default>{^write<vblex><tv><prs><p2><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/RhJMa8BPhNh5]
+[SBbxIQF11nSZ#0] ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*ئوتۆمۆبیلی$}$ ^unknown<unknown>{^*فریاکەوتن$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/SBbxIQF11nSZ]
+[SC_JiBPTXwne#0] ^default<default>{^straw<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$^sent<SENT>{^:<sent>$}$ ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^matter<n><sg><abs><ezalos>$}$ ^d_n<SN><sg>{^that<det><dem><sg>$ ^thing<n><pl>$}$ ^unknown<unknown>{^*دەکەی$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^بۆ<PREP>{^to<pr>$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^side<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*داوە$}$، ^default<default>{^include<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لەوەی$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^incident<n><pl>$}$ ^unknown<unknown>{^*چەندەی$}$ ^unknown<unknown>{^*خایاندووە$}$^sent<SENT>{^.<sent>$}$
+[/SC_JiBPTXwne]
+[SSNuPQoW1Jiz#0] ^n<SN>{^must<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^hospital<n><sg>$}$ ^unknown<unknown>{^*وەرگیرێم$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/SSNuPQoW1Jiz]
+[Sj7dqtwGbBI0#0] ^unknown<unknown>{^*کۆڵنجی$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^belly<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^side<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*کەمەرم$}$^sent<SENT>{^.<sent>$}$
+[/Sj7dqtwGbBI0]
+[SuSwAkIVrODL#0] ^unknown<unknown>{^*تووشی$}$ ^unknown<unknown>{^*پەرکەم$}$ ^unknown<unknown>{^*بووم$}$^sent<SENT>{^.<sent>$}$
+[/SuSwAkIVrODL]
+[T-oL708xeRYc#0] ^n<SN>{^fire<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*ژوورەوە$}$ ^unknown<unknown>{^*مەکەرەوە$}$^sent<SENT>{^.<sent>$}$
+[/T-oL708xeRYc]
+[TWyJ7pwVKOPd#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^default<default>{^site<n><sg><abs><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p1><pl>{^we<prn><pers><clt><p1><pl>$}$ ^لەسەر<PREP>{^on<pr>$}$ ^unknown<unknown>{^*جی$}$ ^unknown<unknown>{^*پی$}$ ^n<SN>{^S<n><sg>$}$ ^unknown<unknown>{^*پێبڵێی$}$ ^n<SN>{^fever<n><sg>$}$ ^unknown<unknown>{^*ئەوانی$}$ ^n<SN>{^other<n><sg>$}$ ^unknown<unknown>{^*بدۆزینەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/TWyJ7pwVKOPd]
+[TkWzZBSsejwL#0] ^n<SN>{^harm<n><sg>$}$ ^unknown<unknown>{^*زیاد$}$ ^unknown<unknown>{^*ئەکات$}$ ^n<SN>{^K<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*رادەوەستم$}$^sent<SENT>{^.<sent>$}$
+[/TkWzZBSsejwL]
+[Tp8kT_c1bF3b#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^number<n><sg><abs><ezalos>$}$ ^default<default>{^phone<n><sg><abs><ezalos>$}$ ^default<default>{^family<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^know<vblex><tv><prs><p1><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/Tp8kT_c1bF3b]
+[U606VJBCej7Q#0] ^unknown<unknown>{^*بیرم$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*خۆکوشتن$}$ ^unknown<unknown>{^*کردۆتەوە$}$^sent<SENT>{^.<sent>$}$
+[/U606VJBCej7Q]
+[UFrxvk09_Ys8#0] ^default<default>{^can<vbmod><neg><pri><p1><sg>$}$ ^default<default>{^urinate<vblex><tv><prs><p1><sg>$}$^sent<SENT>{^.<sent>$}$
+[/UFrxvk09_Ys8]
+[UHj4OvjVNPiQ#0] ^default<default>{^tea<n><sg><abs><px2pl>$}$ ^prn<SN><p2><pl>{^you<prn><pers><clt><p2><pl>$}$ ^unknown<unknown>{^*پێدەدرێت$}$^sent<SENT>{^.<sent>$}$
+[/UHj4OvjVNPiQ]
+[UbkmxJIor9od#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*شیزۆفرینیام$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/UbkmxJIor9od]
+[UhRBIQOfih7F#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*قەبزم$}$^sent<SENT>{^.<sent>$}$
+[/UhRBIQOfih7F]
+[Uli6EJgdgaz1#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تالاسیمام$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Uli6EJgdgaz1]
+[V-YGeRSrRoSf#0] ^unknown<unknown>{^*کیۆس$}$ - ^unknown<unknown>{^*پیرێس$}$ (^unknown<unknown>{^*ئەسینا$}$)^sent<SENT>{^.<sent>$}$
+[/V-YGeRSrRoSf]
+[VkQPHeT3lDzd#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^diabetes<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/VkQPHeT3lDzd]
+[VohJYDi2TJSX#0] ^unknown<unknown>{^*ئەمە$}$ ^default<default>{^sister<n><sg><abs><px1sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/VohJYDi2TJSX]
+[W2YXlutlyHAb#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^name<n><sg><abs><ezalos>$}$ ^default<default>{^family<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^write<vblex><tv><prs><p1><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/W2YXlutlyHAb]
+[WEdXMGQMgl3p#0] ^n<SN>{^wife<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/WEdXMGQMgl3p]
+[WGM57BM5WChT#0] ^لە<PREP>{^at<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^site<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بەرزەوە$}$ ^unknown<unknown>{^*بەربوومەوە$}$^sent<SENT>{^.<sent>$}$
+[/WGM57BM5WChT]
+[WapChFIUtko0#0] ^unknown<unknown>{^*دەتەوی$}$ ^unknown<unknown>{^*ئیمشەو$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^centre<n><sg><abs><ezalos>$}$ ^v<SN>{^some<det><qnt><sp>$ ^child<n><pl>$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN>{^family<n><pl>$}$ ' ^unknown<unknown>{^*بمێنێتەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/WapChFIUtko0]
+[WgdRBy0PWx0S#0] ^v<SV>{^know<vblex><pres>$}$ ^unknown<unknown>{^*کێ$}$ ^unknown<unknown>{^*لێپرسراوی$}$ ^default<default>{^group<n><sg><def><px2sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/WgdRBy0PWx0S]
+[WoJL9N4nM3ch#0] ^بە<PREP>{^by<pr>$}$ ^default<default>{^language<n><sg><abs><px3sg>$}$ ^sent<SENT>{^....<sent>$}$ ^v<SV>{^speak<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/WoJL9N4nM3ch]
+[X8S_dtQAhZhD#0] ^n<SN>{^harm<n><sg>$}$ ^unknown<unknown>{^*هێواش$}$ ^unknown<unknown>{^*هێواش$}$ ^unknown<unknown>{^*دەستیپێکرد$}$^sent<SENT>{^.<sent>$}$
+[/X8S_dtQAhZhD]
+[XGe2ZZ3z4jvP#0] ^default<default>{^picture<n><sg><abs><ezalos>$}$ ^default<default>{^document<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*یۆنانیەکانت$}$ ^default<default>{^foot<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/XGe2ZZ3z4jvP]
+[XHTdwDSKRO3i#0] ^v<SN>{^a<det><ind><sg>$ ^person<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*گرووپەکەی$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$  ^بە<PREP>{^by<pr>$}$ ^default<default>{^language<n><sg><abs><ezalos>$}$ ^default<default>{^English<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^v<SV>{^speak<vblex><pres><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/XHTdwDSKRO3i]
+[XPDQcwCtUd0r#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^help<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^give<vblex><tv><prs><p1><sg>$}$ ^unknown<unknown>{^*پاکی$}$ ^unknown<unknown>{^*بکەیتەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/XPDQcwCtUd0r]
+[XYkvez9YmCFd#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^information<n><sg>$}$ ^default<default>{^give<vblex><tv><prs><p1><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*کۆمسیۆنی$}$ ^default<default>{^affair<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئاوارەکانی$}$ ^default<default>{^nation<n><sg><ezaclo>$}$ ^n<SN>{^united<n><pl>$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^Serbia<np><top><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/XYkvez9YmCFd]
+[X_Ek8m_O7Jn2#0] ^n<SN>{^chest<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دێشێت$}$^sent<SENT>{^.<sent>$}$
+[/X_Ek8m_O7Jn2]
+[Xd5p1z1Yx6mk#0] ^unknown<unknown>{^*لەکوێ$}$ ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^this<det><dem><sg>$}$ ^unknown<unknown>{^*نوسخەیە$}$\/ ^unknown<unknown>{^*ڕەچەتەیە$}$ ^unknown<unknown>{^*وەرگرم$}$^sent<SENT>{^.<sent>$}$
+[/Xd5p1z1Yx6mk]
+[Xm9kOUKeqG6Y#0] ^n<SN>{^bank<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/Xm9kOUKeqG6Y]
+[Y5WuGwp-W8bE#0] ^unknown<unknown>{^*حەوتووی$}$ ^unknown<unknown>{^*داهاتوو$}$^sent<SENT>{^.<sent>$}$
+[/Y5WuGwp-W8bE]
+[YH6gjaEe9c2H#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^help<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/YH6gjaEe9c2H]
+[Ya2chfspFZSE#0] ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^default<default>{^hand<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*پێکرد$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^give<vblex><tv><prs><p2><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^child<n><sg><def><px2sg>$}$، ^unknown<unknown>{^*لەوانەیە$}$ ^unknown<unknown>{^*دانی$}$ ^default<default>{^milk<n><sg><abs><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^child<n><sg>$}$ ^unknown<unknown>{^*ئیدی$}$ ^unknown<unknown>{^*ئەوەندە$}$ ^unknown<unknown>{^*هاسان$}$ ^unknown<unknown>{^*نەبێت$}$^sent<SENT>{^.<sent>$}$
+[/Ya2chfspFZSE]
+[Ydlw7336ZzBf#0] ^unknown<unknown>{^*بەپێی$}$ ^default<default>{^circumstance<n><sg><abs><ezalos>$}$ ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*وڵاتەی$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێوەی$}$ ^unknown<unknown>{^*هاتوون$}$، ^unknown<unknown>{^*گرووپێکی$}$ ^j<SA>{^social<adj>$}$ ^j<SA>{^privately<adj>$}$ ^unknown<unknown>{^*هەبن$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^n<SN>{^game<n><sg>$}$ ^unknown<unknown>{^*هاتبن$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*گرووپێک$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^owner<n><sg><abs><ezalos>$}$ ^default<default>{^orientation<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*جینسی$}$ ^j<SA>{^social<adj>$}$ ^unknown<unknown>{^*جیاواز$}$ ^default<default>{^be<vbser><prs><p2><pl>$}$^sent<SENT>{^.<sent>$}$
+[/Ydlw7336ZzBf]
+[Yo2YS1rbjyXU#0] ^unknown<unknown>{^*لوتم$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێدەپژێت$}$^sent<SENT>{^.<sent>$}$
+[/Yo2YS1rbjyXU]
+[Z7DeuoS6tkxi#0] ^sent<SENT>{^..<sent>$}$ ^unknown<unknown>{^*م$}$ ^unknown<unknown>{^*ئیفلیجە$}$^sent<SENT>{^.<sent>$}$
+[/Z7DeuoS6tkxi]
+[ZCA7oaYvcLXp#0] ^unknown<unknown>{^*دەستدرێژیم$}$ ^unknown<unknown>{^*کراوەتە$}$ ^n<SN>{^head<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ZCA7oaYvcLXp]
+[ZQCCA_Tn4dmH#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^lawyer<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/ZQCCA_Tn4dmH]
+[ZZdCdfJRKwz7#0] ^default<default>{^criteria<n><sg><abs><ezalos>$}$ ^default<default>{^burden<n><sg><abs><ezalos>$}$ ^n<SN>{^asylum<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/ZZdCdfJRKwz7]
+[ZcmPCGLddmuo#0] ^n<SN>{^shore<n><sg>$}$ ^n<SN>{^need<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*خاوێنکردنەوە$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/ZcmPCGLddmuo]
+[_S7N8DgZ9E7M#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*سکەنکردنی$}$ ^unknown<unknown>{^*بەلگە$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/_S7N8DgZ9E7M]
+[a8waEca-QVSD#0] ^n<SN>{^clothes<n><sg>$}$ (^j<SA>{^alone<adj>$}$ ^بۆ<PREP>{^to<pr>$}$ ^v<SN>{^a<det><ind><sg>$ ^people<n><sg>$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^wet<adj>$}$ ^default<default>{^be<vbser><past><p3><pl>$}$)^sent<SENT>{^.<sent>$}$
+[/a8waEca-QVSD]
+[aB737YPBpbo7#0] ^unknown<unknown>{^*شیردانی$}$ ^n<SN>{^child<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/aB737YPBpbo7]
+[aCizzzyErOYV#0] ^default<default>{^never<adv>$}$ ^default<default>{^site<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*پێوەدانەکە$}$ ^unknown<unknown>{^*مەبڕە$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*هەوڵی$}$ ^unknown<unknown>{^*مژینی$}$ ^n<SN>{^venom<n><sg>$}$ ^imp<SN>{^give<vblex><imp><neg>$}$^sent<SENT>{^.<sent>$}$
+[/aCizzzyErOYV]
+[aJNd862owGqo#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ (^n<SN>{^pair<n><sg>$}$ ^unknown<unknown>{^*کەسایەتی$}$)^unknown<unknown>{^*م$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/aJNd862owGqo]
+[az2rr-3rNkQ8#0] ^default<default>{^they<prn><pers><p3><pl>$}$ ^v<SN>{^some<det><qnt><sp>$ ^help<n><pl>$}$ ^unknown<unknown>{^*دای$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/az2rr-3rNkQ8]
+[br7qyr4wrmph#0] ^n<SN>{^harm<n><sg>$}$ ^n<SN>{^emergency<n><sg>$}$ ^unknown<unknown>{^*دەستیپێکرد$}$^sent<SENT>{^.<sent>$}$
+[/br7qyr4wrmph]
+[bzMRY4grwSw1#0] ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^child<n><sg>$}$ ^unknown<unknown>{^*ئیمکانی$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^breastmilk<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^eat<vblex><tv><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/bzMRY4grwSw1]
+[c-7dit64AW8P#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^any<det><ind><sg>$}$ ^unknown<unknown>{^*وەکوو$}$ ^default<default>{^all<det><qnt><pl>$}$ ^unknown<unknown>{^*مارکەکانی$}$ ^default<default>{^other<n><sg><abs><ezalos>$}$ ^default<default>{^milk<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^ready<adj>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*فرۆشتن$}$^sent<SENT>{^.<sent>$}$
+[/c-7dit64AW8P]
+[cI-rcuH_8akS#0] ^default<default>{^room<n><sg><abs><ezalos>$}$ ^n<SN>{^number<n><sg>$}$ ___ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^total<n><sg>$}$ ^prn<SN><p3><sg>{^he<prn><pers><clt><p3><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/cI-rcuH_8akS]
+[cJMnFwWgEvKB#0] ^unknown<unknown>{^*پێشکەشکردن$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*جێگۆڕین$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*ئەوروپا$}$^sent<SENT>{^.<sent>$}$
+[/cJMnFwWgEvKB]
+[cVv5oveYUOM4#0] ^unknown<unknown>{^*ئارام$}$ ^default<default>{^and<cnjcoo>$}$ ^j<SA>{^happy<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*خێمەیەدا$}$ ^default<default>{^tonight<adv>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/cVv5oveYUOM4]
+[cfN8AgBfFgLD#0] ^unknown<unknown>{^*شتومەکی$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*بەجێ$}$ ^unknown<unknown>{^*مەهێڵە$}$ ^unknown<unknown>{^*لەملاولا$}$^sent<SENT>{^.<sent>$}$
+[/cfN8AgBfFgLD]
+[cnII11ltS17d#0] ^n<SN>{^insect<n><sg>$}$ ^unknown<unknown>{^*پێیوەداوم$}$^sent<SENT>{^.<sent>$}$
+[/cnII11ltS17d]
+[cpVFx24l_wz3#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^information<n><sg>$}$ ^default<default>{^give<vblex><tv><prs><p1><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^assisstance<n><pl><ind><px1sg>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^stop<n><sg><abs><px3sg>$}$ ^j<SA>{^following<adj>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*شەمەندەفەردا$}$ ^n<SN>{^fever<n><sg>$}$ ^unknown<unknown>{^*بتوانین$}$ ^unknown<unknown>{^*خزمەتگوزاریت$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*دابینبکەین$}$^sent<SENT>{^.<sent>$}$
+[/cpVFx24l_wz3]
+[dLarj4oCL-40#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێ$}$ ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^default<default>{^pray<vblex><tv><prs><p1><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/dLarj4oCL-40]
+[dNNISIuXtDs4#0] ^unknown<unknown>{^*تەڕبوویت$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/dNNISIuXtDs4]
+[dkwBsfKmQ2D5#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*بیستنی$}$ ^n<SN>{^vote<n><sg>$}$ ^unknown<unknown>{^*دەکەم$}$ ^v<SN>{^a<det><ind><sg>$ ^time<n><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*تەنهام$}$^sent<SENT>{^.<sent>$}$
+[/dkwBsfKmQ2D5]
+[duogL5BXy0GK#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*جێگەیەک$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$ ^unknown<unknown>{^*لێی$}$ ^unknown<unknown>{^*بمێنیتەوە$}$ ^default<default>{^tonight<adv>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/duogL5BXy0GK]
+[dxeUKpMH1uz-#0] ^unknown<unknown>{^*ئێرەم$}$ ^default<default>{^harm<n><sg><abs><ezalos>$}$ ^default<default>{^village<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$^sent<SENT>{^.<sent>$}$
+[/dxeUKpMH1uz-]
+[e-YerOy_UaRD#0] ^default<default>{^head<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*گێژدەخوات$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/e-YerOy_UaRD]
+[eMgjbBy4nkZe#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*تەڕاییم$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^way<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*مێزڕۆوە$}$^sent<SENT>{^.<sent>$}$
+[/eMgjbBy4nkZe]
+[f1qNQ1GirvP2#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*پاشەڕۆکەمدا$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/f1qNQ1GirvP2]
+[f3vth7Uhuded#0] ^sent<SENT>{^....<sent>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوییه$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/f3vth7Uhuded]
+[fFeJDQ22Lzc5#0] ^unknown<unknown>{^*مناداڵەکه‌م$}$^sent<SENT>{^.<sent>$}$
+[/fFeJDQ22Lzc5]
+[fHz_reeDlKR8#0] ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بنووم$}$^sent<SENT>{^.<sent>$}$
+[/fHz_reeDlKR8]
+[fMZObXWzWI5L#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^n<SN>{^heart<n><sg>$}$ ^default<default>{^failure<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^لەگەڵ<PREP>{^with<pr>$}$^sent<SENT>{^.<sent>$}$
+[/fMZObXWzWI5L]
+[fU48iRlSyDhf#0] ^n<SN>{^throat<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دێشێ$}$^sent<SENT>{^.<sent>$}$
+[/fU48iRlSyDhf]
+[fhb61ujU0Pwt#0] ^unknown<unknown>{^*چەند$}$ ^unknown<unknown>{^*سالێکە$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^medication<n><sg>$}$ ^v<SV>{^eat<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/fhb61ujU0Pwt]
+[fqrvNG7-9RR0#0] ^default<default>{^person<n><pl><ind><ezalos>$}$ ^n<SN>{^adult<n><sg>$}$،^sent<SENT>{^.<sent>$}$
+[/fqrvNG7-9RR0]
+[g9YlilMUhLcx#0] ^unknown<unknown>{^*زۆرت$}$ ^n<SN>{^cold<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/g9YlilMUhLcx]
+[gCDVAxf7zQJI#0] ^default<default>{^cellphone<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*لێرەدا$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*شەحن$}$ ^imp<SN>{^give<vblex><imp><neg>$}$^sent<SENT>{^.<sent>$}$
+[/gCDVAxf7zQJI]
+[gaZoujflIENA#0] ^unknown<unknown>{^*بورابوومەوە$}$^sent<SENT>{^.<sent>$}$
+[/gaZoujflIENA]
+[gk-BTAixTNrZ#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^language<n><sg>$}$ ^default<default>{^on<pr><pro>$}$ ^v<SV>{^reach<vblex><pres>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/gk-BTAixTNrZ]
+[gupQ4iv055_o#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*گۆشت$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN>{^fish<n><sg>$}$ ^v<SV>{^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/gupQ4iv055_o]
+[h37BhI-fNBmS#0] ^prn<SN><p2><sg>{^prpers<prn><subj><p2><mf><sg>$}$ ^n<SN>{^level<n><pl>$}$ ^have<SV><p2><sg>{^have<vbhaver><pres><2><3>$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*پەنابەرێتی$}$ ^n<SN>{^gift<n><sg>$}$ ^unknown<unknown>{^*بکەیت$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^republic<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*یۆگسلافیای$}$ ^unknown<unknown>{^*پێشوو$}$ ^unknown<unknown>{^*مەقەدۆنیا$}$^sent<SENT>{^.<sent>$}$
+[/h37BhI-fNBmS]
+[h6vwGWeUumUG#0] ^unknown<unknown>{^*داوای$}$ ^v<SN>{^a<det><ind><sg>$ ^translator<n><sg>$}$ ^unknown<unknown>{^*بکە$}$ ^بۆ<PREP>{^to<pr>$}$ ^default<default>{^describing<n><sg><abs><ezalos>$}$ ^n<SN>{^problem<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*خێزانیەکان$}$^sent<SENT>{^.<sent>$}$
+[/h6vwGWeUumUG]
+[hNAQZL5zU2Qj#0] ^v<SN>{^a<det><ind><sg>$ ^person<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*گرووپەکەی$}$ ^default<default>{^you<prn><pers><p2><mf><sg>$}$  ^n<SN>{^need<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*چاوەدێری$}$ ^prn<SN><p3><sg>{^prpers<prn><subj><p3><m><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^doctor<n><sg>$}$ ^have<SV><p3><sg>{^have<vbhaver><pres><2><3>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hNAQZL5zU2Qj]
+[hSL_j9GFNMeH#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*غەمباری$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/hSL_j9GFNMeH]
+[hTsn5ewifx9r#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^default<default>{^name<n><sg><abs><ezalos>$}$ ^n<SN>{^person<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*وونبوەکە$}$ ^unknown<unknown>{^*بنوسیت$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hTsn5ewifx9r]
+[hWv_v_iyv7b7#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^بەبێ<PREP>{^without<pr>$}$ ^n<SN>{^document<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تۆمارگە$}$ ^unknown<unknown>{^*دوورگەکە$}$ ^unknown<unknown>{^*بەجێبهێڵم$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hWv_v_iyv7b7]
+[h_4n85alDOsC#0] ^default<default>{^connection<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*xxx$}$ ^unknown<unknown>{^*ەوە$}$ ^unknown<unknown>{^*بکەو$}$ ^n<SN>{^attention<n><sg>$}$ ^unknown<unknown>{^*بکەرەوە$}$ ^default<default>{^K<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*گەیشتی$}$^sent<SENT>{^.<sent>$}$
+[/h_4n85alDOsC]
+[hhEeczPKsAuc#0] ^unknown<unknown>{^*میترۆ$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێیە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/hhEeczPKsAuc]
+[hi86ehfkW9jt#0] ^unknown<unknown>{^*حاڵم$}$ ^j<SA>{^well<adj><sint>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/hi86ehfkW9jt]
+[hqQSU6IkPpXl#0] ^unknown<unknown>{^*پێشتر$}$ ^default<default>{^never<adv>$}$ ^default<default>{^this<det><dem><sg>$}$ ^j<SA>{^hurt<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*نەبووە$}$^sent<SENT>{^.<sent>$}$
+[/hqQSU6IkPpXl]
+[i30L3L9WUi98#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^dizzy<n><sg>$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/i30L3L9WUi98]
+[i9IGtpYHZexe#0] ^unknown<unknown>{^*هوشداری$}$ ^n<SN>{^important<n><sg>$}$^sent<SENT>{^:<sent>$}$ ^n<SN>{^breastmilk<n><sg>$}$ ^j<SA>{^good<adj>$}$ ^unknown<unknown>{^*خۆراکە$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^child<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/i9IGtpYHZexe]
+[iCl5nQ_KE7tr#0] ^n<SN>{^milk<n><sg>$}$ ^unknown<unknown>{^*قڵپ$}$ ^unknown<unknown>{^*مەکەوە$}$ ^unknown<unknown>{^*نێو$}$ ^unknown<unknown>{^*زاری$}$ ^n<SN>{^child<n><sg>$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*بهێڵە$}$ ^n<SN>{^wind<n><sg>$}$ ^default<default>{^any<det><ind><sg>$}$ ^unknown<unknown>{^*چەندە$}$ ^default<default>{^can<vbmod><pri><p3><sg>$}$ ^unknown<unknown>{^*بخواتەوە$}$^sent<SENT>{^.<sent>$}$
+[/iCl5nQ_KE7tr]
+[icd42v7DFFk-#0] ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^d_n<SN><sg>{^this<det><dem><sg>$ ^information<n><sg>$}$ ^default<default>{^give<vblex><tv><prs><p1><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*کۆمسیۆنی$}$ ^default<default>{^affair<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئاوارەکانی$}$ ^default<default>{^nation<n><sg><ezaclo>$}$ ^n<SN>{^united<n><pl>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*تابێرنۆڤس$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/icd42v7DFFk-]
+[j-0eGFfdxFA7#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^child<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*دژی$}$ ^unknown<unknown>{^*چڵک$}$ ^default<default>{^and<cnjcoo>$}$ ^j<SA>{^ill<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ناپارێزێت$}$^sent<SENT>{^.<sent>$}$
+[/j-0eGFfdxFA7]
+[jLsQ_tk2cAMP#0] ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^allergy<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/jLsQ_tk2cAMP]
+[jzrDurCEH9AG#0] ^default<default>{^child<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^n<SN>{^foot<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/jzrDurCEH9AG]
+[k-kd3T5_c8bR#0] ^unknown<unknown>{^*کەنگێ$}$ ^default<default>{^must<vbmod><pri>$}$ ^unknown<unknown>{^*بێمەوە$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/k-kd3T5_c8bR]
+[k1f1QRI-ArBD#0] ^default<default>{^very<preadv>$}$ ^unknown<unknown>{^*دێشیێ$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^n<SN>{^hand<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێدەدەم$}$^sent<SENT>{^.<sent>$}$
+[/k1f1QRI-ArBD]
+[k2Om5QY43PCe#0] ^default<default>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^all<det><qnt><pl>$}$ ^unknown<unknown>{^*ڕێنماییەکان$}$ ^default<default>{^on<pr><pro>$}$ ^v<SV>{^reach<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/k2Om5QY43PCe]
+[kXVOh5PB1jFk#0] ^default<default>{^stop<n><sg><abs><ezalos>$}$ ^n<SN>{^bus<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/kXVOh5PB1jFk]
+[k_CtzZX07Ttn#0] ^unknown<unknown>{^*پێشتر$}$ ^default<default>{^water<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^clean<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*پێوە$}$ ^unknown<unknown>{^*زیادکراوە$}$^sent<SENT>{^:<sent>$}$ ^j<SA>{^necessary<adj>$}$ ^unknown<unknown>{^*ناکات$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^water<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تێبکەی$}$^sent<SENT>{^.<sent>$}$
+[/k_CtzZX07Ttn]
+[k_XpyTTWDQqM#0] ^default<default>{^J<n><pl><def><ezaclo>$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^belly<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/k_XpyTTWDQqM]
+[ksPJKZJGUrDM#0] ^v<SV>{^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^necessary<adj>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*دوکتورێکە$}$^sent<SENT>{^.<sent>$}$
+[/ksPJKZJGUrDM]
+[l9LzfB83mrGs#0] ^n<SN>{^trousers<n><pl>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^dry<adj>$}$^sent<SENT>{^.<sent>$}$
+[/l9LzfB83mrGs]
+[lYHD5c0G8bwu#0] ^n<SN>{^K<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*رادەکشێم$}$ ^j<SA>{^worse<adj>$}$ ^n<SN>{^must<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lYHD5c0G8bwu]
+[ljiDVUv4GPkt#0] ^n<SN>{^door<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*چوونەدەرەوەی$}$ ^unknown<unknown>{^*بەپەلە$}$^sent<SENT>{^.<sent>$}$
+[/ljiDVUv4GPkt]
+[lqxpRPMXH8rn#0] ^n<SN>{^heart<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*خێرا$}$ ^unknown<unknown>{^*لێدەدات$}$^sent<SENT>{^.<sent>$}$
+[/lqxpRPMXH8rn]
+[lr78z1fjY_OD#0] ^default<default>{^criteria<n><sg><abs><ezalos>$}$ ^default<default>{^help<n><pl><def><ezalos>$}$ ^n<SN>{^protection<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/lr78z1fjY_OD]
+[ltIaHXheMwaH#0] ^unknown<unknown>{^*ئەمە$}$ ^default<default>{^brother<n><sg><abs><px1sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/ltIaHXheMwaH]
+[mA7I9JHvm_-R#0] ^unknown<unknown>{^*هەوڵتداوە$}$ ^unknown<unknown>{^*بگوازیتەوە$}$ ^بۆ<PREP>{^to<pr>$}$ ^default<default>{^piece<n><sg><ind><ezalos>$}$ ^default<default>{^other<n><sg><abs><ezalos>$}$ ^default<default>{^state<n><sg><def><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*ڕزگاربوونت$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^problem<n><pl><def><px2sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/mA7I9JHvm_-R]
+[mLkMOaVPS5IL#0] ^n<SN>{^nappy<n><sg>$}$ ^sent<SENT>{^.<sent>$}$
+[/mLkMOaVPS5IL]
+[mN_h9i3XR2BU#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^default<default>{^name<n><sg><abs><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*بنوسیت$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/mN_h9i3XR2BU]
+[mkqCumgXjoL2#0] ^unknown<unknown>{^*صەرعم$}$ ^لەگەڵ<PREP>{^with<pr>$}$^sent<SENT>{^.<sent>$}$
+[/mkqCumgXjoL2]
+[mzerbdZ4Ucba#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*خۆشحاڵم$}$^sent<SENT>{^.<sent>$}$
+[/mzerbdZ4Ucba]
+[nbGQMam-lnEg#0] ^default<default>{^very<preadv>$}$ ^unknown<unknown>{^*زوو$}$^sent<SENT>{^.<sent>$}$
+[/nbGQMam-lnEg]
+[nkmnSvZmO3wd#0] ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێ$}$ ^default<default>{^can<vbmod><pri><p1><sg>$}$ ^sent<SENT>{^...<sent>$}$ ^unknown<unknown>{^*بسەنم$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/nkmnSvZmO3wd]
+[nnLeFABkBlFM#0] ^default<default>{^help<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^give<vblex><tv><prs><p3><pl>$}$^sent<SENT>{^!.<sent>$}$
+[/nnLeFABkBlFM]
+[noPkeWHQtaiY#0] ^default<default>{^group<n><pl><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^soap<n><sg>$}$ ^default<default>{^and<cnjcoo>$}$ ^n<SN>{^water<n><sg>$}$ ^imp<SN>{^wash<vblex><imp>$}$^sent<SENT>{^.<sent>$}$
+[/noPkeWHQtaiY]
+[nzXGC8PmL0Mf#0] ^n<SN>{^bathroom<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*کوێیه$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/nzXGC8PmL0Mf]
+[nzcw7SnJI2qd#0] ^n<SN>{^criteria<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئیجازەی$}$ ^unknown<unknown>{^*ئیقامەی$}$ ^unknown<unknown>{^*مرۆڤدۆستانە$}$^sent<SENT>{^.<sent>$}$
+[/nzcw7SnJI2qd]
+[oLvZ9RPXv5fx#0] ^unknown<unknown>{^*ڕێنماییەکان$}$^sent<SENT>{^.<sent>$}$
+[/oLvZ9RPXv5fx]
+[oNr4jDcWSUoQ#0] ^unknown<unknown>{^*هەردوولا$}$ ^default<default>{^law<n><sg><abs><ezalos>$}$ ^default<default>{^politic<n><sg><abs><ezalos>$}$ ^default<default>{^fare<n><sg><abs><px3pl>$}$ ^prn<SN><p3><pl>{^they<prn><pers><clt><p3><pl>$}$ ^unknown<unknown>{^*لەیەکدەچێت$}$^sent<SENT>{^.<sent>$}$
+[/oNr4jDcWSUoQ]
+[omF2kLdXSXVv#0] ^v<SN>{^a<det><ind><sg>$ ^thing<n><sg>$}$ ^unknown<unknown>{^*پێیوەداوم$}$^sent<SENT>{^.<sent>$}$
+[/omF2kLdXSXVv]
+[osdwVGvTgue8#0] ^unknown<unknown>{^*پولیس$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*تۆی$}$ ^unknown<unknown>{^*گوت$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^ride<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*کالیسکە$}$ ^default<default>{^be<vbser><prs><p2><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/osdwVGvTgue8]
+[pAo_2eQc-srb#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^n<SN>{^pork<n><sg>$}$ ^v<SV>{^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$}$^sent<SENT>{^.<sent>$}$
+[/pAo_2eQc-srb]
+[pMvq0AxnHVeO#0] ^unknown<unknown>{^*وریابە$}$^sent<SENT>{^.<sent>$}$ ^unknown<unknown>{^*مەهێڵە$}$ ^v<SN>{^some<det><qnt><sp>$ ^child<n><pl>$}$ ^unknown<unknown>{^*نزیك$}$ ^unknown<unknown>{^*ببنەوە$}$^sent<SENT>{^.<sent>$}$ ^default<default>{^only<adv>$}$ ^v<SN>{^some<det><qnt><sp>$ ^person<n><pl>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^big<adj><sint>$}$^sent<SENT>{^.<sent>$}$
+[/pMvq0AxnHVeO]
+[pSYAnzeQYqqL#0] ^unknown<unknown>{^*هەمووتان$}$ ^j<SA>{^well<adj><sint>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/pSYAnzeQYqqL]
+[pSwNOrYsML3f#0] ^unknown<unknown>{^*سەرکەشتی$}$^sent<SENT>{^:<sent>$}$ € ^unknown<unknown>{^*41$}$,^unknown<unknown>{^*5$}$^sent<SENT>{^.<sent>$}$
+[/pSwNOrYsML3f]
+[pUiuFHw3dt_Y#0] ^v<SV>{^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$}$ ^default<default>{^and<cnjcoo>$}$ ^default<default>{^blood<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*لەبەر$}$ ^unknown<unknown>{^*دەڕوا$}$^sent<SENT>{^.<sent>$}$
+[/pUiuFHw3dt_Y]
+[pYByymIGM3Wz#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*قەسەباتی$}$ ^j<SA>{^chronic<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^لەگەڵ<PREP>{^with<pr>$}$^sent<SENT>{^.<sent>$}$
+[/pYByymIGM3Wz]
+[pf_QGeo9vLoD#0] ^n<SN>{^none<n><sg>$}$ ^default<default>{^thing<n><sg><ind><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*تەسکی$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*دەوردا$}$ ^default<default>{^purpos<n><sg><dem>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$، ^j<SA>{^like<adj>$}$ ^unknown<unknown>{^*لاستیک$}$^sent<SENT>{^.<sent>$}$
+[/pf_QGeo9vLoD]
+[q4jeroef0ihx#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^food<n><sg>$}$، ^n<SN>{^coffee<n><sg>$}$، ^unknown<unknown>{^*یا$}$ ^n<SN>{^tea<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/q4jeroef0ihx]
+[q5dFyah9lQY7#0] ^default<default>{^money<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*پییە$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*کڕینی$}$ ^n<SN>{^ticket<n><pl>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/q5dFyah9lQY7]
+[qDO5rQlUu_4g#0] ^unknown<unknown>{^*بگەڕێوە$}$ ^بۆ<PREP>{^to<pr>$}$ ^n<SN>{^tent<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*UNHCR$}$ (^unknown<unknown>{^*سبەینێ$}$)^sent<SENT>{^.<sent>$}$
+[/qDO5rQlUu_4g]
+[qVMWpMp_OvoU#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^product<n><sg>$}$ ^unknown<unknown>{^*نابێ$}$ ^unknown<unknown>{^*لەپاش$}$ ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*ڕێکەوتەی$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^bottom<n><sg><abs><px3sg>$}$ ^unknown<unknown>{^*قتووەکە$}$\/^n<SN>{^packet<n><sg>$}$ ^unknown<unknown>{^*نووسراوە$}$، ^n<SN>{^benefit<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێوەربگیرێت$}$^sent<SENT>{^.<sent>$}$
+[/qVMWpMp_OvoU]
+[qc_1D0jheiFC#0] ^default<default>{^site<n><sg><abs><ezalos>$}$ ^n<SN>{^game<n><sg>$}$ ^v<SN>{^some<det><qnt><sp>$ ^child<n><pl>$}$^sent<SENT>{^.<sent>$}$
+[/qc_1D0jheiFC]
+[qdL_ecx-rXi4#0] ^unknown<unknown>{^*بتڵ$}$ ^default<default>{^and<cnjcoo>$}$ ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*پیاڵانەی$}$ ^j<SA>{^clean<adj><sint>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*مندالەکەت$}$ ^j<SA>{^ill<adj><sint>$}$ ^v<SV>{^throw<vblex><pres><p3><sg>$}$^sent<SENT>{^!.<sent>$}$
+[/qdL_ecx-rXi4]
+[rL3DvL9P87SJ#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^cold<n><sg>$}$ ^unknown<unknown>{^*ئەکەم$}$^sent<SENT>{^.<sent>$}$
+[/rL3DvL9P87SJ]
+[rQWfZEEH59sn#0] ^v<SN>{^some<det><qnt><sp>$ ^pamper<n><pl>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/rQWfZEEH59sn]
+[rY95YTi99ZYf#0] ^default<default>{^also<adv>$}$ ^n<SN>{^matter<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ئەوە$}$ ^unknown<unknown>{^*بکە$}$ ^unknown<unknown>{^*ئەگەر$}$ ^unknown<unknown>{^*هەوڵی$}$ ^unknown<unknown>{^*بەجێهێشتنی$}$ ^default<default>{^state<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*داوە$}$ ^default<default>{^but<cnjcoo>$}$ ^unknown<unknown>{^*نەتوانیوە$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*چی$}$ ^unknown<unknown>{^*وەستاندوتی$}$^sent<SENT>{^.<sent>$}$
+[/rY95YTi99ZYf]
+[s8t6G9Ghn8Bf#0] ^n<SN>{^blanket<n><pl>$}$ ^unknown<unknown>{^*لەوێن$}$^sent<SENT>{^.<sent>$}$
+[/s8t6G9Ghn8Bf]
+[sD32Zi6LwWvX#0] ^n<SN>{^city<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sD32Zi6LwWvX]
+[sJmg0xyhs74c#0] ^n<SN>{^illness<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*HIVم$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/sJmg0xyhs74c]
+[sOnuDCU5ZD5Y#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*بەکارهێنانی$}$ ^n<SN>{^computer<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/sOnuDCU5ZD5Y]
+[su__wNzPMXUK#0] ^n<SN>{^knife<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێدرا$}$\/^بە<PREP>{^by<pr>$}$ ^n<SN>{^knife<n><sg>$}$ ^j<SA>{^injured<adj>$}$ ^unknown<unknown>{^*کرام$}$^sent<SENT>{^.<sent>$}$
+[/su__wNzPMXUK]
+[tchzZKFMNYHq#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^unknown<unknown>{^*بەکار$}$ ^unknown<unknown>{^*بهێنن$}$ ^unknown<unknown>{^*ئەگەر$}$^sent<SENT>{^:<sent>$}$^sent<SENT>{^.<sent>$}$
+[/tchzZKFMNYHq]
+[tq5oXhyzHWiO#0] ^default<default>{^cold<n><sg><abs><px2sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/tq5oXhyzHWiO]
+[u72xXS3dvqA6#0] ^unknown<unknown>{^*ئەمه$}$ ^unknown<unknown>{^*دايكمه$}$^sent<SENT>{^.<sent>$}$
+[/u72xXS3dvqA6]
+[ub5a3ej__8Wh#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*تەڕاییم$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^way<n><sg><abs><ezalos>$}$ ^default<default>{^member<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*زاوزێوە$}$^sent<SENT>{^.<sent>$}$
+[/ub5a3ej__8Wh]
+[ulcVZgyG53Tc#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^n<SN>{^people<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$^sent<SENT>{^.<sent>$}$
+[/ulcVZgyG53Tc]
+[um0MsJHE_DA_#0] ^unknown<unknown>{^*خەم$}$ ^imp<SN>{^eat<vblex><imp><neg>$}$^sent<SENT>{^.<sent>$}$
+[/um0MsJHE_DA_]
+[v3QcCfs00wvK#0] ^unknown<unknown>{^*پێشکەشکردن$}$ ^بۆ<PREP>{^to<pr>$}$ ^unknown<unknown>{^*پەنابەرێتی$}$^sent<SENT>{^.<sent>$}$
+[/v3QcCfs00wvK]
+[vO0YGG-8DZDx#0] ^j<SA>{^necessary<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*دوکتورێکە$}$^sent<SENT>{^.<sent>$}$
+[/vO0YGG-8DZDx]
+[vV0EMN2fPvHB#0] ^default<default>{^child<n><sg><def><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^n<SN>{^carrier<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*بهێڵە$}$ ^unknown<unknown>{^*لەسەرەخۆ$}$ ^unknown<unknown>{^*بیخواتەوە$}$^sent<SENT>{^.<sent>$}$
+[/vV0EMN2fPvHB]
+[vfMXzSrzU4kC#0] ^unknown<unknown>{^*سوڕی$}$ ^default<default>{^month<n><pl><dem><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^unknown<unknown>{^*تەواوبووە$}$، ^default<default>{^but<cnjcoo>$}$ ^unknown<unknown>{^*دووبارە$}$ ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p2><pl>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەڕێژم$}$^sent<SENT>{^.<sent>$}$
+[/vfMXzSrzU4kC]
+[voIxZ4560CXX#0] ^unknown<unknown>{^*کیۆس$}$ - ^unknown<unknown>{^*کاڤالا$}$^sent<SENT>{^.<sent>$}$
+[/voIxZ4560CXX]
+[w7AxRPZX1zqV#0] ^unknown<unknown>{^*پێشتر$}$ ^default<default>{^this<det><dem><sg>$}$ ^j<SA>{^hurt<adj>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^exist<vblex><perf><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/w7AxRPZX1zqV]
+[wLGt1FiZRXSl#0] ^لەگەڵ<PREP>{^with<pr>$}$ ^unknown<unknown>{^*دوکتورەکەت$}$ ^imp<SN>{^speak<vblex><imp>$}$ ^unknown<unknown>{^*بەر$}$ ^unknown<unknown>{^*لەوەی$}$ ^unknown<unknown>{^*شیردان$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^child<n><sg><def><px2sg>$}$ ^unknown<unknown>{^*ڕابگری$}$ ^default<default>{^or<cnjcoo>$}$ ^unknown<unknown>{^*بەر$}$ ^unknown<unknown>{^*لەوەی$}$ ^default<default>{^any<det><ind><sg>$}$ ^default<default>{^way<n><sg><dem><ezaclo>$}$ ^default<default>{^milk<n><sg><ind><ezalos>$}$ ^n<SN>{^other<n><sg>$}$ ^unknown<unknown>{^*بەجێی$}$ ^default<default>{^milk<n><sg><abs><ezalos>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^default<default>{^by<pr><pro>$}$ ^default<default>{^give<vblex><tv><prs><p2><sg>$}$^sent<SENT>{^.<sent>$}$
+[/wLGt1FiZRXSl]
+[wcVc25Bl5wt0#0] ^default<default>{^can<vbmod><pri><p2><sg>$}$ ^default<default>{^help<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^give<vblex><tv><prs><p2><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^unknown<unknown>{^*پاککردنەوەدا$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/wcVc25Bl5wt0]
+[wwRBU0LwA0dI#0] ^unknown<unknown>{^*وەکوو$}$ ^default<default>{^all<det><qnt><pl>$}$ ^default<default>{^milk<n><sg><ind><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^j<SA>{^artificial<adj>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^n<SN>{^other<n><sg>$}$، ^d_n<SN><sg>{^this<det><dem><sg>$ ^milk<n><sg>$}$ ^default<default>{^owner<n><sg><abs><ezalos>$}$ ^n<SN>{^none<n><sg>$}$ ^default<default>{^antibody<n><sg><ind><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ (^unknown<unknown>{^*ئانتی$}$ ^unknown<unknown>{^*بادی$}$) ^default<default>{^nature<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$، ^default<default>{^that<det><dem><sg>$}$ ^unknown<unknown>{^*جۆرەی$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^breastmilk<n><sg>$}$ ^n<SN>{^mother<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/wwRBU0LwA0dI]
+[wxcS6222OdJi#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^default<default>{^see<n><sg><abs><ezalos>$}$ ^n<SN>{^doctor<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/wxcS6222OdJi]
+[x4agqB2yllfc#0] ^default<default>{^money<n><sg><ezaclo>$}$ ^n<SN>{^exchange<n><sg>$}$ ^لە<PREP>{^at<pr>$}$ ^n<SN>{^bank<n><sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*کیۆس$}$\/ ^unknown<unknown>{^*Chios$}$^sent<SENT>{^.<sent>$}$
+[/x4agqB2yllfc]
+[x8fVKSgWd3QU#0] ^unknown<unknown>{^*عەرەقی$}$ ^j<SA>{^cold<adj><sint>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەردا$}$^sent<SENT>{^.<sent>$}$
+[/x8fVKSgWd3QU]
+[xUVXOZJch5NS#0] ^unknown<unknown>{^*هیترم$}$ ^لە<PREP>{^at<pr>$}$ ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^n<SN>{^medication<n><sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەوێت$}$^sent<SENT>{^.<sent>$}$
+[/xUVXOZJch5NS]
+[xxAhBVC1e6G8#0] ^unknown<unknown>{^*زوو$}$ ^v<SV>{^return<vblex><pres>$}$^sent<SENT>{^.<sent>$}$
+[/xxAhBVC1e6G8]
+[y1t7qMMGaqSW#0] ^default<default>{^name<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^unknown<unknown>{^*چیه$}$ ^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/y1t7qMMGaqSW]
+[y3pXmASdl0TS#0] ^unknown<unknown>{^*پیش$}$ ^unknown<unknown>{^*ئەوەی$}$ ^n<SN>{^packet<n><sg>$}$ ^unknown<unknown>{^*بکەیەوە$}$، ^unknown<unknown>{^*بیسڕە$}$ ^default<default>{^and<cnjcoo>$}$ ^unknown<unknown>{^*ڕایوەشێنە$}$^sent<SENT>{^.<sent>$}$
+[/y3pXmASdl0TS]
+[y9n0ZnMnl3GP#0] ^unknown<unknown>{^*سەیارە$}$ ^unknown<unknown>{^*لێیدام$}$^sent<SENT>{^.<sent>$}$
+[/y9n0ZnMnl3GP]
+[yPrtqvRxxSSe#0] ^unknown<unknown>{^*لێدانی$}$ ^n<SN>{^heart<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*ناڕێکە$}$^sent<SENT>{^.<sent>$}$
+[/yPrtqvRxxSSe]
+[yfO_GfMrhYmp#0] ^need<SV>{^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*چاودێری$}$ ^n<SN>{^doctor<n><sg>$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/yfO_GfMrhYmp]
+[yfSOinnK5AO6#0] ^unknown<unknown>{^*تکایە$}$ ^default<default>{^help<n><sg><abs><px1sg>$}$ ^prn<SN><p1><sg>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^give<vblex><tv><prs><p3><pl>$}$^sent<SENT>{^!.<sent>$}$
+[/yfSOinnK5AO6]
+[ynWdmKzKcyak#0] ^unknown<unknown>{^*هەناسەبڕکێم$}$ ^default<default>{^exist<vblex><pri><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/ynWdmKzKcyak]
+[ypgWNIKe3k1V#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^n<SN>{^alcohol<n><sg>$}$ ^unknown<unknown>{^*ناخۆمەوە$}$^sent<SENT>{^.<sent>$}$
+[/ypgWNIKe3k1V]
+[yqdYlBeV1et7#0] ^default<default>{^can<vbmod><neg><pri><p1><sg>$}$ ^n<SN>{^neck<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*بسووڕێنم$}$^sent<SENT>{^.<sent>$}$
+[/yqdYlBeV1et7]
+[yqfR09u6Kqhu#0] ^n<SN>{^blood<n><sg>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*لێدەڕژێت$}$^sent<SENT>{^.<sent>$}$
+[/yqfR09u6Kqhu]
+[yrMsYS_uL845#0] ^unknown<unknown>{^*پولیس$}$ ^بە<PREP>{^by<pr>$}$ ^unknown<unknown>{^*تۆی$}$ ^unknown<unknown>{^*گوت$}$ ^default<default>{^K<n><sg><dem><ezaclo>$}$ ^default<default>{^ride<n><sg><abs><px3sg>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*قەتار$}$ ^default<default>{^be<vbser><prs><p2><sg>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/yrMsYS_uL845]
+[z5z-mIzAAeBJ#0] ^unknown<unknown>{^*بەردەوام$}$ ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^n<SN>{^a<det><ind><sg>$ ^harm<n><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$^sent<SENT>{^.<sent>$}$
+[/z5z-mIzAAeBJ]
+[z8VCDMF4y_2e#0] ^unknown<unknown>{^*پیاڵیەی$}$ ^j<SA>{^clean<adj><sint>$}$ ^unknown<unknown>{^*بەکار$}$ ^unknown<unknown>{^*دەهێنی$}$^sent<SENT>{^.<sent>$}$
+[/z8VCDMF4y_2e]
+[zAz14yrIIW_x#0] ^d_n<SN><sg>{^this<det><dem><sg>$ ^food<n><sg>$}$ ^j<SA>{^Halal<adj>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$^qst<SENT>{^?<sent>$}$^sent<SENT>{^.<sent>$}$
+[/zAz14yrIIW_x]
+[ziKWIJfkJPSi#0] ^default<default>{^prpers<prn><pers><p1><mf><sg>$}$ ^default<default>{^cold<n><sg><abs><px1sg>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$ ^cop<SV><COP><pres><p3><sg>{^be<vbser><pres><4><5>$}$\/^unknown<unknown>{^*ڕەقم$}$ ^unknown<unknown>{^*بردەوە$}$^sent<SENT>{^.<sent>$}$
+[/ziKWIJfkJPSi]
+[zpuQA2Hs6uH8#0] ^default<default>{^all<det><qnt><pl>$}$ ^default<default>{^straw<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^default<default>{^document<n><sg><abs><ezalos>$}$ ^n<SN>{^official<n><sg>$}$ ^default<default>{^self<n><sg><abs><px2sg>$}$ ^prn<SN><p2><sg>{^you<prn><pers><p2><mf><sg>$}$ ^n<SN>{^wind<n><sg>$}$ ^لەگەڵ<PREP>{^with<pr>$}$ ^default<default>{^be<vbser><prs><p3><sg>$}$^sent<SENT>{^.<sent>$}$
+[/zpuQA2Hs6uH8]
+[zsvjLfkOdwVy#0] (^default<default>{^child<n><sg><def><px1sg>$}$ ^v<SV>{^prpers<prn><subj><p1><mf><sg>$) ^be<vbser><pres><p3><sg>$ ^ill<adj><sint><sg><dem>$}$^sent<SENT>{^.<sent>$}$
+[/zsvjLfkOdwVy]

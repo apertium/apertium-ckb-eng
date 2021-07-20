@@ -1,0 +1,28 @@
+[-nkpwjClSL6B#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^j<SA>{^ill<adj><sint>$}$ ^cop<SV><COP><pres><p2><sg>{^be<vbser><pres><4><5>$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/-nkpwjClSL6B]
+[BVmB5NEPGT9_#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^fear<n><sg>$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/BVmB5NEPGT9_]
+[EbcpDdZ84bSW#0] ^n<SV>{^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><2><3>$ ^a<det><ind><sg>$ ^fever<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/EbcpDdZ84bSW]
+[IDQFBG-HKmrR#0] ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$ ^n<SN>{^a<det><ind><sg>$ ^cancer<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/IDQFBG-HKmrR]
+[LOzS4ZD4ylb_#0] ^n<SV>{^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><2><3>$ ^a<det><ind><sg>$ ^asthma<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/LOzS4ZD4ylb_]
+[QgV_QcovfgB4#0] ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$ ^n<SN>{^a<det><ind><sg>$ ^headache<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/QgV_QcovfgB4]
+[W4r_A23apXgp#0] ^subj<prn><subj><p1><mf><sg>{^prpers<prn><subj><3><4><5>$}$ ^cop<SV><COP><pres><p1><sg>{^be<vbser><pres><4><5>$}$^j<SA>{^ill<adj><sint>$}$ ^sent<SENT>{^.<sent>$}$
+[/W4r_A23apXgp]
+[YJGdt87qar30#0] ^unknown<unknown>{^*یەک$}$ ^n<SN>{^hour<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/YJGdt87qar30]
+[_YmJhY4WaxXa#0] ^v<SV>{^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$}$^sent<SENT>{^.<sent>$}$
+[/_YmJhY4WaxXa]
+[fZYdaiGlTCh8#0] ^prn<SN><p1><sg>{^prpers<prn><subj><p1><mf><sg>$}$ ^have<SV><p1><sg>{^have<vbhaver><pres><2><3>$}$ ^n<SN>{^a<det><ind><sg>$ ^fever<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/fZYdaiGlTCh8]
+[i30L3L9WUi98#0] ^feeling<SN><sg>{^feeling<n><sg><abs>$}$ ^بە<PREP>{^by<pr>$}$ ^n<SN>{^dizzy<n><sg>$}$ ^unknown<unknown>{^*دەکەم$}$^sent<SENT>{^.<sent>$}$
+[/i30L3L9WUi98]
+[tKSlq4bhRAkF#0] ^n<SN>{^aeroplane<n><pl>$}$^sent<SENT>{^:<sent>$}$
+[/tKSlq4bhRAkF]
+[tzRl-hsxh6B6#0] ^unknown<unknown>{^*دەکۆخم$}$^sent<SENT>{^.<sent>$}$
+[/tzRl-hsxh6B6]
+[wdWYtlBOWY4X#0] ^unknown<unknown>{^*یەک$}$ ^n<SN>{^day<n><sg>$}$^sent<SENT>{^.<sent>$}$
+[/wdWYtlBOWY4X]

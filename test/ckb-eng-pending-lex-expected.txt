@@ -1,0 +1,682 @@
+[-LlDvCwdDcvF#0] ^منداڵ<n><sg><def><px1sg>/child<n><sg><def><px1sg>/kid<n><sg><def><px1sg>/infant<n><sg><def><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^گەروو<n><sg><abs><px3sg>/throat<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*دێشێ/*دێشێ$ \/ ^*دەکۆخێ/*دەکۆخێ$^.<sent>/.<sent>$
+[/-LlDvCwdDcvF]
+[-iVQR8j2gloX#0] ^ئایا<qst>/$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*کەسەی/*کەسەی$ ^ون<n><sg><abs>/missing<n><sg><abs>$ ^بوون<vbcop><perf><p3><sg>/be<vbser><perf><p3><sg>$ ^ژمارە<n><sg><ezaclo>/number<n><sg><ezaclo>$ ^تەلەفۆن<n><sg><abs>/phone<n><sg><abs>/telephone<n><sg><abs>$ ^یان<cnjcoo>/or<cnjcoo>$ ^ژمارە<n><sg><abs><px3sg>/number<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*وایبری/*وایبری$ ^*تۆی/*تۆی$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/-iVQR8j2gloX]
+[-iiLECo3crRm#0] ^نرخ<n><sg><ind><px3sg>/fare<n><sg><ind><px3sg>/price<n><sg><ind><px3sg>/pricing<n><sg><ind><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^نزیکەی<adj><pst>/approximate<adj><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بریتی<n><sg><dem>/include<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$^:<sent>/:<sent>$^.<sent>/.<sent>$
+[/-iiLECo3crRm]
+[0-sDeBLkTybz#0] ^..<sent>/..<sent>$ ^*م/*م$ ^*سڕن/*سڕن$^.<sent>/.<sent>$
+[/0-sDeBLkTybz]
+[0HPaTiZE6ksB#0] ^توانین<vbmod><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>$ ^قسە کردن<vblex><tv><prs><p1><sg>/speak<vblex><tv><prs><p1><sg>$^.<sent>/.<sent>$
+[/0HPaTiZE6ksB]
+[0KngPkCLe5AW#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^ترساو<adj><pst>/frightened<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/0KngPkCLe5AW]
+[0Tc8fAbuudwF#0] ^*منداله/*منداله$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*م/*م$ ^برسی<adj><pst><sg><dem>/hungry<adj><sint><pst><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*تی/*تی$^.<sent>/.<sent>$
+[/0Tc8fAbuudwF]
+[0Y9nJEoPwILi#0] ^تکت<n><sg><abs><ezalos>/fare<n><sg><abs><ezalos>/ticket<n><sg><abs><ezalos>$ ^پاس<n><sg><abs>/bus<n><sg><abs>$ ^*3/*3$ ^یۆرۆ<n><sg><abs>/euro<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/0Y9nJEoPwILi]
+[0hJ8vsQEvoDX#0] ^لەگەڵ<pr>/with<pr>$ ^*کۆکەدا/*کۆکەدا$ ^خوێ<n><sg><abs>/salt<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^دێ<n><sg><abs><px2sg>/village<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/0hJ8vsQEvoDX]
+[0m8YNV0stCcG#0] ^میز<n><sg><def>/urine<n><sg><def>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*بۆنێکی/*بۆنێکی$ ^*پیسی/*پیسی$ ^*لێدێت/*لێدێت$^.<sent>/.<sent>$
+[/0m8YNV0stCcG]
+[0wqtjFJqtiSZ#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*دەستدرێژیم/*دەستدرێژیم$ ^*کراوەتە/*کراوەتە$ ^سەر<n><sg><abs>/head<n><sg><abs>$^.<sent>/.<sent>$
+[/0wqtjFJqtiSZ]
+[18RPdihMlZDz#0] ^ئاگاداری<n><sg><abs><px3sg>/attention<n><sg><abs><px3sg>/information<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*دەنگییەکان/*دەنگییەکان$ ^زانیاری<n><sg><abs>/information<n><sg><abs>$ ^*زیاتریان/*زیاتریان$ ^*تێدایە/*تێدایە$^.<sent>/.<sent>$
+[/18RPdihMlZDz]
+[1AMFQ0q9gdOe#0] ^ئایا<qst>/$ ^*تێلەفۆنت/*تێلەفۆنت$ ^پێ<n><sg><abs>/foot<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/1AMFQ0q9gdOe]
+[1BjlxymV7yYJ#0] ^..<sent>/..<sent>$ ^*م/*م$ ^*چزووی/*چزووی$ ^*پێدادێت/*پێدادێت$^.<sent>/.<sent>$
+[/1BjlxymV7yYJ]
+[1TkvMPHwTdKg#0] ^بردن<vblex><tv><imp><p2><sg>/carry<vblex><tv><imp><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^بەش<n><sg><ind>/part<n><sg><ind>/volume<n><sg><ind>/portion<n><sg><ind>/division<n><sg><ind>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^پرۆسە<n><sg><abs><px3sg>/process<n><sg><abs><px3sg>$ ^*جێگۆڕینەکە/*جێگۆڕینەکە$ ^بەڵام<cnjcoo>/but<cnjcoo>$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*لەکۆتایی/*لەکۆتایی$ ^*هێڵەکەدایت/*هێڵەکەدایت$^.<sent>/.<sent>$
+[/1TkvMPHwTdKg]
+[1kBR6YYpHSqr#0] ^*نانەوا/*نانەوا$^.<sent>/.<sent>$
+[/1kBR6YYpHSqr]
+[24gCepOBkVQ_#0] ^*پاش/*پاش$ ^شەش<num><pl>/six<num><pl>$ ^مانگ<n><sg><abs>/month<n><sg><abs>$، ^منداڵ<n><sg><def>/child<n><sg><def>/kid<n><sg><def>/infant<n><sg><def>$ ^دەبێ<vbmod><pri>/must<vbmod><pri>$ ^خواردن<n><sg><abs><ezalos>/food<n><sg><abs><ezalos>$ ^دیکە<n><sg><abs><emph>/other<n><sg><abs><emph>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*پێبدرێت/*پێبدرێت$^.<sent>/.<sent>$
+[/24gCepOBkVQ_]
+[2Cx3DF9VA8D6#0] ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^پارە<n><sg><abs><px1sg>/money<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^بە<pr><pro>/by<pr><pro>/to<pr><pro>/of<pr><pro>/with<pr><pro>$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/2Cx3DF9VA8D6]
+[2rSYjSz7GPwB#0] ^ئایا<qst>/$ ^*دەتەوی/*دەتەوی$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^تەنیا<adj><pst>/alone<adj><pst>$ ^*لەگەل/*لەگەل$ ^وەرگێڕ<n><sg><ind>/translator<n><sg><ind>$ ^دا<post>/$ ^قسە کردن<vblex><tv><imp><p2><sg>/speak<vblex><tv><imp><p2><sg>$^؟<sent>/?<sent>$ ^.<sent>/.<sent>$
+[/2rSYjSz7GPwB]
+[2sP1JPKha5a-#0] ^*تکایە/*تکایە$^.<sent>/.<sent>$
+[/2sP1JPKha5a-]
+[2uaQSYlnz6Ct#0] ^*ئەمە/*ئەمە$ ^*مێرده‌که‌ە/*مێرده‌که‌ە$^.<sent>/.<sent>$
+[/2uaQSYlnz6Ct]
+[353WqS2zb0rU#0] ^*پەنابەرێتی/*پەنابەرێتی$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^یۆنان<np><top><sg><abs>/Greece<np><top><sg><abs>$^.<sent>/.<sent>$
+[/353WqS2zb0rU]
+[3JY9d1BCze59#0] ^ئاخۆ<qst>/$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^زیاتر<adj><pst>/additional<adj><pst>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^پارە<n><sg><abs>/money<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*دیاریکراو/*دیاریکراو$ ^پارە<n><sg><abs><px2sg>/money<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*داوە/*داوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/3JY9d1BCze59]
+[3r9px7G99hsB#0] ^پلە<n><pl><ind><px2sg>/level<n><pl><ind><px2sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^*بمێنیتەوە/*بمێنیتەوە$ ^*لێرە/*لێرە$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کۆمار<n><sg><abs><px3sg>/republic<n><sg><abs><px3sg>$ ^*یۆگسلافیای/*یۆگسلافیای$ ^*پێشوو/*پێشوو$ ^*مەقەدۆنیا/*مەقەدۆنیا$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/3r9px7G99hsB]
+[3rfxeGD_Dj45#0] ^*چی/*چی$ ^*رویدا/*رویدا$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/3rfxeGD_Dj45]
+[4B3lllHA-DZY#0] ^*توالیت/*توالیت$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێیە/*کوێیە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/4B3lllHA-DZY]
+[4Ds5EW6sOfoJ#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^سیل<n><sg><abs><px1sg>/tuberculosis<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/4Ds5EW6sOfoJ]
+[4tb52NuxNB8Z#0] ^کچ<n><sg><def>/daughter<n><sg><def>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/4tb52NuxNB8Z]
+[4u3Xljk070vE#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*سگچوونم/*سگچوونم$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/4u3Xljk070vE]
+[4uGVyndDOokS#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^گوێ<n><sg><abs><px2sg>/ear<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^تۆمار<n><sg><dem>/registration<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^دەنگ<n><sg><abs><px3sg>/vote<n><sg><abs><px3sg>/sound<n><sg><abs><px3sg>/voice<n><sg><abs><px3sg>$ ^ئەو<prn><pers><clt><p3><sg>/he<prn><pers><clt><p3><sg>/she<prn><pers><clt><p3><sg>/it<prn><pers><clt><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><prs><p3><sg>/be<vbser><prs><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/4uGVyndDOokS]
+[5Dp7GZGXk2Kd#0] ^زگ<n><sg><abs>/belly<n><sg><abs>/stomach<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*دێشێ/*دێشێ$^.<sent>/.<sent>$
+[/5Dp7GZGXk2Kd]
+[5DpjAp17CXCk#0] ^سنوورداشکردن<n><sg><abs>/deportation<n><sg><abs>$ ^بۆ<pr>/to<pr>$ ^تورکیا<np><top><sg><abs>/Turkey<np><top><sg><abs>$^.<sent>/.<sent>$
+[/5DpjAp17CXCk]
+[5HclXJ11yVg8#0] ^*چونکە/*چونکە$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^ترس<n><sg><ind><px3sg>/fear<n><sg><ind><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*قوڵت/*قوڵت$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^:<sent>/:<sent>$^.<sent>/.<sent>$
+[/5HclXJ11yVg8]
+[5LqCY8jwA4nr#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ناو<n><sg><abs><px2sg>/name<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^زانن<vblex><tv><prs><p1><sg>/know<vblex><tv><prs><p1><sg>$ ^تا<n><sg><abs>/fever<n><sg><abs>$ ^*داتابەیسەکە/*داتابەیسەکە$ ^گەڕان<vblex><tv><prs><p1><sg>/turn<vblex><tv><prs><p1><sg>/search<vblex><tv><prs><p1><sg>/wander<vblex><tv><prs><p1><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/5LqCY8jwA4nr]
+[5QJaq4Jkw9ek#0] ^ئاخۆ<qst>/$ ^بەتانی<n><sg><abs>/blanket<n><sg><abs>$ ^و<cnjcoo>/and<cnjcoo>$ ^جلوبەرگ<n><sg><abs>/clothes<n><sg><abs>/clothing<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*گەرمیان/*گەرمیان$ ^*پێداوی/*پێداوی$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/5QJaq4Jkw9ek]
+[62pMfieJYYca#0] ^ناوەند<n><sg><abs>/centre<n><sg><abs>/central<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ناونووسیکردن/*ناونووسیکردن$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کۆ<n><sg><dem>/total<n><sg><dem>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/62pMfieJYYca]
+[6EVAqvT3SkLx#0] ^هۆکار<n><sg><abs><ezalos>/reason<n><sg><abs><ezalos>$ ^پزیشک<n><sg><abs><px3sg>/doctor<n><sg><abs><px3sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^شیری دایک<n><sg><abs><ezalos>/breastmilk<n><sg><abs><ezalos>$ ^بە<pr><pro>/by<pr><pro>/to<pr><pro>/of<pr><pro>/with<pr><pro>$ ^*نەدرێت/*نەدرێت$^.<sent>/.<sent>$
+[/6EVAqvT3SkLx]
+[6RLyu5EtvW2t#0] ^*شایەنی/*شایەنی$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$^.<sent>/.<sent>$
+[/6RLyu5EtvW2t]
+[6_M5zK4tYX_F#0] ^*ئێواره‌ت/*ئێواره‌ت$ ^باش<adj><pst>/well<adj><sint><pst>$^.<sent>/.<sent>$
+[/6_M5zK4tYX_F]
+[6d5jy25OkW1f#0] ^*تێناگەم/*تێناگەم$^.<sent>/.<sent>$
+[/6d5jy25OkW1f]
+[6gB-R2OY1GXY#0] ^قاوە<n><sg><abs>/coffee<n><sg><abs>$^.<sent>/.<sent>$
+[/6gB-R2OY1GXY]
+[6wsLPUcRnv-Y#0] ^*بەرماوەی/*بەرماوەی$ ^شیر<n><sg><abs>/milk<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کاتژمێر<n><sg><ind>/hour<n><sg><ind>$ ^زیاتر<adj><pst>/additional<adj><pst>$ ^*ڕامەگرە/*ڕامەگرە$ - ^*چون/*چون$ ^*پیس/*پیس$ ^دەبێت<n><sg><abs>/must<n><sg><abs>$ ^و<cnjcoo>/and<cnjcoo>$ ^*ناسڵامەتە/*ناسڵامەتە$^.<sent>/.<sent>$
+[/6wsLPUcRnv-Y]
+[6y9Z9ZcsV3Qf#0] ^*وەرە/*وەرە$ ^بۆ<pr>/to<pr>/for<pr>$ ^*ئێرە/*ئێرە$^!.<sent>/!.<sent>$
+[/6y9Z9ZcsV3Qf]
+[79xaIpsejwNr#0] ^گونجاو<adj><pst>/suitable<adj><pst>$، ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کات<n><sg><abs><ezalos>/time<n><sg><abs><ezalos>$ ^لەدایکبوون<n><sg><abs>/birth<n><sg><abs>$^.<sent>/.<sent>$
+[/79xaIpsejwNr]
+[7DlKNNb7fLpF#0] ^*ئەمە/*ئەمە$ ^*باوكمه/*باوكمه$^.<sent>/.<sent>$
+[/7DlKNNb7fLpF]
+[7P5EWUuvaKmO#0] ^دوو<num><pl>/two<num><pl>$ ^ڕۆژ<n><sg><abs>/day<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^ئێوە<prn><pers><p2><pl>/you<prn><pers><p2><pl>$ ^*پێش/*پێش$ ^*پێوەندی/*پێوەندی$ ^*جینسیم/*جینسیم$ ^ھەبوون<vbhaver><past><p3><sg>/exist<vblex><past><p3><sg>/have<vbhaver><past><p3><sg>$^.<sent>/.<sent>$
+[/7P5EWUuvaKmO]
+[7QRP3lmIxQtv#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێ/*کوێ$ ^....<sent>/....<sent>$ ^*بدۆزمەوە/*بدۆزمەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/7QRP3lmIxQtv]
+[7bKwWLoRhFlo#0] ^پێویستە<n><sg><abs>/needed\/required<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*چاوەڕوان/*چاوەڕوان$ ^بوون<vbcop><prs><p2><sg>/be<vbser><prs><p2><sg>$^.<sent>/.<sent>$
+[/7bKwWLoRhFlo]
+[7tUQXVx6ZiLQ#0] ^هەست کردن<vblex><tv><pri><p1><sg>/feel<vblex><tv><pri><p1><sg>$ ^*چاودێری/*چاودێری$ ^*دەکرێم/*دەکرێم$^.<sent>/.<sent>$
+[/7tUQXVx6ZiLQ]
+[7yDobGDD_slg#0] ^بەیانی<n><sg><abs><px2sg>/morning<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^باش<adj><pst>/well<adj><sint><pst>$^.<sent>/.<sent>$
+[/7yDobGDD_slg]
+[7yY1_NXvm-PE#0] ^گۆرەوی<n><sg><abs>/socks<n><sg><abs>/sock<n><sg><abs>$ ^وشک<adj><pst>/dry<adj><pst>$^.<sent>/.<sent>$
+[/7yY1_NXvm-PE]
+[815Ab21RoJ_z#0] ^ئایا<qst>/$ ^ژمارە<n><sg><abs><ezalos>/number<n><sg><abs><ezalos>$ ^مۆبایل<n><sg><abs>/cellphone<n><sg><abs>/mobile phone<n><sg><abs>$ ^*یا/*یا$ ^ڤایبەر<n><sg><abs><ezalos>/viber<n><sg><abs><ezalos>$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*کەسەت/*کەسەت$ ^*پێە/*پێە$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*وون/*وون$ ^بوون<vbcop><perf><p3><sg>/be<vbser><perf><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/815Ab21RoJ_z]
+[8G49ox_ug_Q9#0] ^*پیویسته/*پیویسته$ ^*حەمامیک/*حەمامیک$ ^*بکەم/*بکەم$^.<sent>/.<sent>$
+[/8G49ox_ug_Q9]
+[8K7vXh9OVaAB#0] ^ئاو<n><sg><abs>/water<n><sg><abs>$ ^*زێدە/*زێدە$ ^*مەکە/*مەکە$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^بەرهەم<n><sg><dem>/product<n><sg><dem>$^.<sent>/.<sent>$
+[/8K7vXh9OVaAB]
+[8POGSakgWFjH#0] ^*توشی/*توشی$ ^پێک<n><pl><ind>/game<n><pl><ind>$ ^*بووم/*بووم$^.<sent>/.<sent>$
+[/8POGSakgWFjH]
+[8TVvIYNcnS02#0] ^..<sent>/..<sent>$ ^*م/*م$ ^بوون<vbcop><prs><p3><sg>/be<vbser><prs><p3><sg>$ ^هێز<n><sg><dem>/force<n><sg><dem>/power<n><sg><dem>$^.<sent>/.<sent>$
+[/8TVvIYNcnS02]
+[8Z9gin3WiSud#0] ^*یەک/*یەک$ ^مانگ<n><sg><abs>/month<n><sg><abs>$^.<sent>/.<sent>$
+[/8Z9gin3WiSud]
+[8nG4z-fwiKzT#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئەستوربوونی/*ئەستوربوونی$ ^ماسولکەی دڵ<n><sg><abs><px1sg>/myocardial<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><perf><p3><sg>/have<vbhaver><perf><p3><sg>$^.<sent>/.<sent>$
+[/8nG4z-fwiKzT]
+[8roEAFDFgw5_#0] ^شوێن<n><sg><abs><ezalos>/site<n><sg><abs><ezalos>/place<n><sg><abs><ezalos>$ ^دەرچوون<n><sg><abs>/departure<n><sg><abs>$^.<sent>/.<sent>$
+[/8roEAFDFgw5_]
+[90hKOA9CMuIw#0] ^هەر<det><ind><sg>/any<det><ind><sg>$ ^کاتژمێر<n><sg><abs><ezalos>/hour<n><sg><abs><ezalos>$ ^جار<n><sg><ind>/time<n><sg><ind>/instance<n><sg><ind>$ ^میز کردن<vblex><tv><pri><p1><sg>/urinate<vblex><tv><pri><p1><sg>$^.<sent>/.<sent>$
+[/90hKOA9CMuIw]
+[90sKpsAMIfrM#0] ^توانین<vbmod><pri><p1><pl>/can<vbmod><pri><p1><pl>$ ^*بەم/*بەم$ ^زمان<n><sg><abs>/language<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*بخوێنیتەوە/*بخوێنیتەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/90sKpsAMIfrM]
+[9MOxgAQ52n2R#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^چوون<vblex><iv><prs><p1><sg>/go<vblex><iv><prs><p1><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^ئوتێل<n><sg><ind>/hotel<n><sg><ind>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/9MOxgAQ52n2R]
+[9MPJ0JycxTJA#0] ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*تەلەفونەکەت/*تەلەفونەکەت$ ^وێنە<n><sg><abs><ezalos>/picture<n><sg><abs><ezalos>$ ^بەڵگە<n><pl><def>/document<n><pl><def>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*یوونانت/*یوونانت$ ^*هەڵگرتووە/*هەڵگرتووە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/9MPJ0JycxTJA]
+[9NRPA5EOOjiM#0] ^*بورامەوە/*بورامەوە$^.<sent>/.<sent>$
+[/9NRPA5EOOjiM]
+[9drsNzdU8YDD#0] ^بوتڵ<n><sg><abs>/bottle<n><sg><abs>$ ^*بەکار/*بەکار$ ^*مەهێنە/*مەهێنە$^.<sent>/.<sent>$ ^*پیاڵەیەکی/*پیاڵەیەکی$ ^خاوێن<adj><pst>/clean<adj><sint><pst>$ ^*بەکار/*بەکار$ ^*بێنە/*بێنە$^.<sent>/.<sent>$
+[/9drsNzdU8YDD]
+[9sLdOXWYco7D#0] ^ئاخۆ<qst>/$ ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^پەنابەر<n><sg><ind><px2sg>/asylum<n><sg><ind><px2sg>/refugee<n><sg><ind><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*بینیوە/*بینیوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/9sLdOXWYco7D]
+[9woHonjzKM41#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*رشانەوەمدا/*رشانەوەمدا$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/9woHonjzKM41]
+[A6LFOkF59C4j#0] ^*مناڵه‌کانم/*مناڵه‌کانم$^.<sent>/.<sent>$
+[/A6LFOkF59C4j]
+[AKJYa_FsAK95#0] ^ئازار<n><sg><ind>/harm<n><sg><ind>/ache<n><sg><ind>/pain<n><sg><ind>/bother<n><sg><ind>/annoyance<n><sg><ind>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*کەمە/*کەمە$^.<sent>/.<sent>$
+[/AKJYa_FsAK95]
+[ArvOj8CP9Oop#0] ^*کەوتم/*کەوتم$^.<sent>/.<sent>$
+[/ArvOj8CP9Oop]
+[AuLoyIg1QRX9#0] ^*تووشی/*تووشی$ ^*تەنگەفەسیی/*تەنگەفەسیی$ ^*بووم/*بووم$^.<sent>/.<sent>$
+[/AuLoyIg1QRX9]
+[AwNs-umTp1GM#0] ^*لەوانەیە/*لەوانەیە$ ^دووگیان<adj><pst>/pregnant<adj><pst>$ ^بوون<vbcop><prs><p1><sg>/be<vbser><prs><p1><sg>$^.<sent>/.<sent>$
+[/AwNs-umTp1GM]
+[AzlJnkKHWSfM#0] ^*پولیس/*پولیس$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*تۆی/*تۆی$ ^*گوت/*گوت$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^سوار<n><sg><abs><ezalos>/ride<n><sg><abs><ezalos>/passenger<n><sg><abs><ezalos>$ ^تاکسی<n><sg><abs>/taxi<n><sg><abs>$ ^بوون<vbcop><prs><p2><sg>/be<vbser><prs><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/AzlJnkKHWSfM]
+[B4d7B6_S-WyW#0] ^*لەکاتی/*لەکاتی$ ^*میزکردن/*میزکردن$ ^دا<post>/$ ^ژ<n><pl><ind><px1sg>/J<n><pl><ind><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/B4d7B6_S-WyW]
+[BHvniXtyxq8x#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^زانیاری<n><sg><abs>/information<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^لەسەر<pr>/on<pr>/on top of<pr>/according to<pr>$ ^کاتی گەیشتن<n><sg><abs><ezalos>/arrival time<n><sg><abs><ezalos>$ ^شەمەندەفەر<n><sg><def>/train<n><sg><def>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/BHvniXtyxq8x]
+[BM0DTs8fqGmq#0] ^*بگەڕێوە/*بگەڕێوە$ ^بۆ<pr>/to<pr>/for<pr>$ ^خێوەت<n><sg><abs>/tent<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*UNHCR/*UNHCR$ (^*یەک/*یەک$ ^کاتژمێر<n><sg><abs><ezalos>/hour<n><sg><abs><ezalos>$ ^دیکە<n><sg><abs>/other<n><sg><abs>$)^.<sent>/.<sent>$
+[/BM0DTs8fqGmq]
+[BuJc6pyRlLR9#0] ^جلوبەرگ<n><sg><abs>/clothes<n><sg><abs>/clothing<n><sg><abs>$ ^تەنیا<adj><pst>/alone<adj><pst>$ ^بۆ<pr>/to<pr>/for<pr>$ ^خەڵک<n><sg><ind>/people<n><sg><ind>$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^تەڕ<adj><pst>/wet<adj><pst>$ ^بوون<vbcop><past><p3><pl>/be<vbser><past><p3><pl>$^.<sent>/.<sent>$
+[/BuJc6pyRlLR9]
+[C2jgS2OJzmsk#0] ^پێویستە<n><sg><ezaclo>/needed\/required<n><sg><ezaclo>$ ^تەلەفۆن<n><sg><ind>/phone<n><sg><ind>/telephone<n><sg><ind>$ ^*بکەم/*بکەم$^.<sent>/.<sent>$
+[/C2jgS2OJzmsk]
+[C5ypHTbaZnYw#0] ^سوار<n><sg><abs><ezalos>/ride<n><sg><abs><ezalos>/passenger<n><sg><abs><ezalos>$ ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^شەمەندەفەر<n><sg><ind>/train<n><sg><ind>$ ^بردن<vblex><tv><imp><neg><p2><sg>/carry<vblex><tv><imp><neg><p2><sg>$ ^*ئەگەر/*ئەگەر$ ^خێزان<n><sg><def><px2sg>/family<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^دۆکیۆمێنت<n><sg><abs><ezalos>/document<n><sg><abs><ezalos>$ ^فەرمی<n><sg><abs>/official<n><sg><abs>$ ^*تەواویان/*تەواویان$ ^بە<pr><pro>/by<pr><pro>/to<pr><pro>/of<pr><pro>/with<pr><pro>$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$^.<sent>/.<sent>$
+[/C5ypHTbaZnYw]
+[CL1VQgGhngbS#0] ^*ببوره‌/*ببوره‌$^.<sent>/.<sent>$
+[/CL1VQgGhngbS]
+[CNydPBW8hx46#0] ^ئایا<qst>/$ ^ئینگلیز<n><sg><abs><px3sg>/English<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^قسە کردن<vblex><tv><pri><p2><sg>/speak<vblex><tv><pri><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/CNydPBW8hx46]
+[CPnK5ODQDZT3#0] ^*ماوەیەکە/*ماوەیەکە$ ^*دەلەرزم/*دەلەرزم$^.<sent>/.<sent>$
+[/CPnK5ODQDZT3]
+[CSWlurwTrJAW#0] ^ئازار<n><sg><def>/harm<n><sg><def>/ache<n><sg><def>/pain<n><sg><def>/bother<n><sg><def>/annoyance<n><sg><def>$ ^*لێرەوە/*لێرەوە$ ^*دەستپێدەکات/*دەستپێدەکات$ ^و<cnjcoo>/and<cnjcoo>$ ^دێ<n><sg><abs><px2sg>/village<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^*ئێرە/*ئێرە$^.<sent>/.<sent>$
+[/CSWlurwTrJAW]
+[Cck9OBw3PtY1#0] ^*ئەوە/*ئەوە$ ^یارمەتیدەر<adj><pst>/helpful<adj><pst>$ ^بوون<vbcop><past><p3><sg>/be<vbser><past><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/Cck9OBw3PtY1]
+[CfAY8OIUbLPE#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*دڵتەنگی/*دڵتەنگی$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/CfAY8OIUbLPE]
+[CgcuEm1aXUwz#0] ^کابینە<n><sg><abs>/cabins<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ (^*4/*4$-^*جێگە/*جێگە$ ^یان<cnjcoo>/or<cnjcoo>$ ^*2/*2$-^*جێگە/*جێگە$)^:<sent>/:<sent>$ ^*٦١/*٦١$ ^یۆرۆ<n><sg><abs>/euro<n><sg><abs>$ - ^*٨١/*٨١$،^*٥/*٥$ ^یۆرۆ<n><sg><abs>/euro<n><sg><abs>$^.<sent>/.<sent>$
+[/CgcuEm1aXUwz]
+[D2Nqga_iFbYs#0] ^ناو<n><sg><abs>/name<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/D2Nqga_iFbYs]
+[E416LcZbN5RL#0] ^ئایا<qst>/$ ^*هەوڵتداوە/*هەوڵتداوە$ ^*داوای/*داوای$ ^یارمەتی<n><sg><abs>/help<n><sg><abs>$ ^*بکەیت/*بکەیت$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^حکومەت<n><sg><abs><ezalos>/government<n><sg><abs><ezalos>$ ^وڵات<n><sg><abs><ezalos>/state<n><sg><abs><ezalos>/country<n><sg><abs><ezalos>/homeland<n><sg><abs><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$، ^*یا/*یا$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^پۆلیس<n><sg><abs>/police<n><sg><abs>$ ^*یا/*یا$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*هەرکەسێکی/*هەرکەسێکی$ ^دیکە<n><sg><abs>/other<n><sg><abs>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/E416LcZbN5RL]
+[EB_f23np4WTc#0] ^ناوەند<n><sg><abs>/centre<n><sg><abs>/central<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*جلی/*جلی$ ^*فریاکەوتن/*فریاکەوتن$^.<sent>/.<sent>$
+[/EB_f23np4WTc]
+[EZ4rbNpDtmmu#0] ^*بگەڕێوە/*بگەڕێوە$ ^بۆ<pr>/to<pr>/for<pr>$ ^خێوەت<n><sg><abs>/tent<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*UNHCR/*UNHCR$ (^*چەند/*چەند$ ^کاتژمێر<n><sg><abs><ezalos>/hour<n><sg><abs><ezalos>$ ^دیکە<n><sg><abs>/other<n><sg><abs>$)^.<sent>/.<sent>$
+[/EZ4rbNpDtmmu]
+[E_HI-XhV8iw5#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*دڵتەنگم/*دڵتەنگم$^.<sent>/.<sent>$
+[/E_HI-XhV8iw5]
+[EeFYMjdvb85o#0] ^*کیۆس/*کیۆس$ - ^*ساڵۆنێکی/*ساڵۆنێکی$^.<sent>/.<sent>$
+[/EeFYMjdvb85o]
+[F4RlTACWIme0#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^دەنگ<n><sg><abs><px3sg>/vote<n><sg><abs><px3sg>/sound<n><sg><abs><px3sg>/voice<n><sg><abs><px3sg>$ ^بەرزتر<adj><pst>/louder<adj><pst>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/F4RlTACWIme0]
+[FSl0QYp9QA1v#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^توانین<vbmod><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^باش<adj><pst>/well<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^زمان<n><sg><abs><ezalos>/language<n><sg><abs><ezalos>$ (^ئینگلیز<n><sg><abs><px3sg>/English<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$) ^قسە کردن<vblex><tv><prs><p1><sg>/speak<vblex><tv><prs><p1><sg>$^.<sent>/.<sent>$
+[/FSl0QYp9QA1v]
+[F_tmPkaQmuqL#0] ^سانتی<n><sg><abs>/sanitary pad<n><sg><abs>$                 ^.<sent>/.<sent>$
+[/F_tmPkaQmuqL]
+[G3aZmla88831#0] ^بنەما<n><sg><abs>/base<n><sg><abs>/principle<n><sg><abs>$ ^لەسەر<pr>/on<pr>/on top of<pr>/according to<pr>$ ^یەکێک<n><sg><abs>/someone<n><sg><abs>$ ^یان<cnjcoo>/or<cnjcoo>$ ^زیاتر<adj><pst>/additional<adj><pst>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^هۆکار<n><pl><ind>/reason<n><pl><ind>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^:<sent>/:<sent>$^.<sent>/.<sent>$
+[/G3aZmla88831]
+[G6zG5Osf-ObJ#0] ^دابەشکردن<n><sg><abs><ezalos>/distribution<n><sg><abs><ezalos>$ ^جلوبەرگ<n><sg><abs>/clothes<n><sg><abs>/clothing<n><sg><abs>$^.<sent>/.<sent>$
+[/G6zG5Osf-ObJ]
+[GjNK4bpPL4HS#0] ^کا<n><sg><abs><px2sg>/straw<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^و<cnjcoo>/and<cnjcoo>$ ^ڕێکەوت<n><sg><abs>/date<n><sg><abs>$^:<sent>/:<sent>$ ^*کەنگێ/*کەنگێ$ ^شت<n><pl><def>/thing<n><pl><def>$ ^*پێش/*پێش$ ^دێ<n><sg><abs>/village<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$^.<sent>/.<sent>$
+[/GjNK4bpPL4HS]
+[Gso9BkYpCJE0#0] ^*جل/*جل$ ^و<cnjcoo>/and<cnjcoo>$ ^*پێلاوی/*پێلاوی$ ^منداڵ<n><pl><ind>/child<n><pl><ind>/kid<n><pl><ind>/infant<n><pl><ind>$ ^*لەوێن/*لەوێن$^.<sent>/.<sent>$
+[/Gso9BkYpCJE0]
+[HLlnDIGyVbMu#0] ^ئازار<n><sg><ind>/harm<n><sg><ind>/ache<n><sg><ind>/pain<n><sg><ind>/bother<n><sg><ind>/annoyance<n><sg><ind>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*توندوتیژە/*توندوتیژە$^.<sent>/.<sent>$
+[/HLlnDIGyVbMu]
+[HQilqvU84qY9#0] ^کوڕ<n><sg><def>/son<n><sg><def>/boy<n><sg><def>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/HQilqvU84qY9]
+[HwRh6Nm3KJrw#0] ^*شیبوونەوەی/*شیبوونەوەی$ ^خوێن<n><sg><abs><px1sg>/blood<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/HwRh6Nm3KJrw]
+[IMTP-9Zygn6g#0] ^ڕۆژ<n><pl><dem>/day<n><pl><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^دەرمان<n><sg><dem>/medication<n><sg><dem>$ ^خواردن<vblex><tv><pri><p1><sg>/eat<vblex><tv><pri><p1><sg>$^.<sent>/.<sent>$
+[/IMTP-9Zygn6g]
+[IeOKZ7fClnzV#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*سمتمەوە/*سمتمەوە$ ^خوێ<n><sg><abs>/salt<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^دێ<n><sg><abs><px2sg>/village<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/IeOKZ7fClnzV]
+[Ik6tG6vucmJ0#0] ^شێرپەنجە<n><sg><abs><ezalos>/cancer<n><sg><abs><ezalos>$ ^خوێن<n><sg><abs><px1sg>/blood<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/Ik6tG6vucmJ0]
+[It7UPcBvmtFr#0] ^*تۆم/*تۆم$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^دڵ<n><sg><abs>/heart<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/It7UPcBvmtFr]
+[J-BOHztkzUbu#0] ^توانین<vbmod><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>$ ^*ببینم/*ببینم$^.<sent>/.<sent>$
+[/J-BOHztkzUbu]
+[J4DsRQU_SsH6#0] ^کۆکە<n><sg><def><px1sg>/cough<n><sg><def><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^بەڵغەم<n><sg><abs><px3sg>/sputum<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*تێدایە/*تێدایە$^.<sent>/.<sent>$
+[/J4DsRQU_SsH6]
+[J63vG3cyl7gk#0] ^خەمۆکی<n><sg><abs><px3sg>/depression<n><sg><abs><px3sg>$ ^ئەو<prn><pers><clt><p3><sg>/he<prn><pers><clt><p3><sg>/she<prn><pers><clt><p3><sg>/it<prn><pers><clt><p3><sg>$ ^درێژخایەن<adj><pst>/chronic<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^لەگەڵ<pr>/with<pr>$^.<sent>/.<sent>$
+[/J63vG3cyl7gk]
+[JIhDP0EkG9q7#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوی/*کوی$ ^دە<pr>/on<pr>$ ^*توانم/*توانم$ ^حەمام<n><sg><abs>/bathroom<n><sg><abs>$ ^*بکەم/*بکەم$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/JIhDP0EkG9q7]
+[Ja9Q6PERrjV0#0] ^ڕێکخستن<n><sg><abs><ezalos>/organisation<n><sg><abs><ezalos>$ ^خاڵ<n><sg><abs>/spot<n><sg><abs>/point<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*چاوپێکەوتن/*چاوپێکەوتن$^.<sent>/.<sent>$
+[/Ja9Q6PERrjV0]
+[Jc2zosyHbNkY#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^زانیاری<n><sg><dem>/information<n><sg><dem>$ ^دان<vblex><tv><prs><p1><sg>/give<vblex><tv><prs><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^هاوکار<n><pl><ind><px1sg>/assisstance<n><pl><ind><px1sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*سربیار/*سربیار$ ^تا<n><sg><abs>/fever<n><sg><abs>$ ^*بتوانین/*بتوانین$ ^*خزمەتگوزاریت/*خزمەتگوزاریت$ ^بۆ<pr>/to<pr>/for<pr>$ ^*دابینبکەین/*دابینبکەین$ ^لەوێ<adv>/there<adv>$^.<sent>/.<sent>$
+[/Jc2zosyHbNkY]
+[JdFABL4J0swI#0] ^ئایا<qst>/$ ^*ئارام/*ئارام$ ^و<cnjcoo>/and<cnjcoo>$ ^دڵخۆش<adj><pst>/happy<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*جێگایا/*جێگایا$ ^ئەمڕۆ<n><sg><abs>/today<n><sg><abs>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/JdFABL4J0swI]
+[JkQxfwj7PdSY#0] ^....<sent>/....<sent>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/JkQxfwj7PdSY]
+[K03n7pz8_ghc#0] ^ئایا<qst>/$ ^پێویستی<n><sg><abs>/need<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*کۆپیەک/*کۆپیەک$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^بەڵگە<n><sg><def>/document<n><sg><def>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/K03n7pz8_ghc]
+[K4R0ddlvzp3_#0] ^*سوپاس/*سوپاس$^.<sent>/.<sent>$
+[/K4R0ddlvzp3_]
+[KEpPMrm8dBpo#0] ^ئایا<qst>/$ ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^وەرگێڕ<n><sg><abs>/translator<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/KEpPMrm8dBpo]
+[KHmw7FzLNgIR#0] ^کەس<n><sg><ind>/person<n><sg><ind>$ ^*لێیدام/*لێیدام$^.<sent>/.<sent>$
+[/KHmw7FzLNgIR]
+[KINSwqb_ltZ9#0] ^*خواحافیز/*خواحافیز$ ^*یا/*یا$ ^خوا<n><sg><abs><px2sg>/god<n><sg><abs><px2sg>/God<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^لەگەڵ<pr>/with<pr>$^.<sent>/.<sent>$
+[/KINSwqb_ltZ9]
+[KJbKZ-zryAzG#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem>/milk<n><sg><dem>$ ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^پێداویستی<n><pl><def><ezalos>/need<n><pl><def><ezalos>$ ^منداڵ<n><sg><ind>/child<n><sg><ind>/kid<n><sg><ind>/infant<n><sg><ind>$ ^*هەتا/*هەتا$ ^تەمەن<n><sg><abs><px3sg>/age<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ (^*6/*6$) ^شەش<num><pl>/six<num><pl>$ ^مانگ<n><sg><abs><px3sg>/month<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*دابین/*دابین$ ^*دەکات/*دەکات$^.<sent>/.<sent>$
+[/KJbKZ-zryAzG]
+[KNJIx0ycRS8l#0] ^*تینوومه/*تینوومه$^.<sent>/.<sent>$
+[/KNJIx0ycRS8l]
+[KaTwctdsPoPb#0] ^ئاخۆ<qst>/$ ^بەڵگە<n><pl><def>/document<n><pl><def>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*FYRMت/*FYRMت$ ^*پێگەیشتووە/*پێگەیشتووە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/KaTwctdsPoPb]
+[KiWiQAfufdQV#0] ^ئایا<qst>/$ ^*ئارام/*ئارام$ ^و<cnjcoo>/and<cnjcoo>$ ^دڵخۆش<adj><pst>/happy<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*جێگایا/*جێگایا$ ^ئەمشەو<adv>/tonight<adv>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/KiWiQAfufdQV]
+[L5zBRi-s9Z4z#0] ^*ئەوە/*ئەوە$ ^دەرمان<n><sg><def><px1sg>/medication<n><sg><def><px1sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/L5zBRi-s9Z4z]
+[LAA9fRfif85h#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*گیاخۆرم/*گیاخۆرم$^.<sent>/.<sent>$
+[/LAA9fRfif85h]
+[LZEYQygUxjeN#0] ^ئایا<qst>/$ ^چاکەتی ڕزگاربوون<n><sg><abs>/life jacket<n><sg><abs>$ ^لەسەر<pr>/on<pr>/on top of<pr>/according to<pr>$ ^قەراخ دەریا<n><sg><abs>/shore<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/LZEYQygUxjeN]
+[LZUOOFrHSPnY#0] ^*هەوڵی/*هەوڵی$ ^*گرتنی/*گرتنی$ ^مار<n><sg><def>/snake<n><sg><def>$ ^دان<vblex><tv><imp><neg><p2><sg>/give<vblex><tv><imp><neg><p2><sg>$^.<sent>/.<sent>$
+[/LZUOOFrHSPnY]
+[Lx6sp6KhdTfX#0] ^*ئەمانە/*ئەمانە$ ^منداڵ<n><sg><abs><px3sg>/child<n><sg><abs><px3sg>/kid<n><sg><abs><px3sg>/infant<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/Lx6sp6KhdTfX]
+[MK8ZuWTkZXUE#0] ^ئاخۆ<qst>/$ ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^*هەولت/*هەولت$ ^*داوە/*داوە$ ^بۆ<pr>/to<pr>/for<pr>$ ^*ڕاگرتنی/*ڕاگرتنی$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^کێش<n><sg><dem>/problem<n><sg><dem>$ ^و<cnjcoo>/and<cnjcoo>$ ^*گرفتانەی/*گرفتانەی$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^وڵات<n><sg><def><px2sg>/state<n><sg><def><px2sg>/country<n><sg><def><px2sg>/homeland<n><sg><def><px2sg>$ ^*بەسەرت/*بەسەرت$ ^*هاتووە/*هاتووە$، ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*دوایە/*دوایە$ ^*چی/*چی$ ^*پێش/*پێش$ ^*هات/*هات$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/MK8ZuWTkZXUE]
+[MS8734fTqgeU#0] ^ئایا<qst>/$ ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^دۆکیۆمێنت<n><sg><ind><ezalos>/document<n><sg><ind><ezalos>$ ^دیکە<n><sg><abs><px2sg>/other<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^پێ<n><sg><dem><ezaclo>/foot<n><sg><dem><ezaclo>$ ^ک<n><sg><abs>/K<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*ڕەگەزنامەی/*ڕەگەزنامەی$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*دەربخات/*دەربخات$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/MS8734fTqgeU]
+[Mg2kN2Tx7S0b#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*برسیمه‌/*برسیمه‌$^.<sent>/.<sent>$
+[/Mg2kN2Tx7S0b]
+[MxChjSaV5dmV#0] ^*جگەرە/*جگەرە$ ^*مەکێشە/*مەکێشە$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*ژوورەوە/*ژوورەوە$^.<sent>/.<sent>$
+[/MxChjSaV5dmV]
+[MzI_cnQ6-gw0#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^ڕۆژ<n><sg><abs><px3sg>/day<n><sg><abs><px3sg>$ ^*٥/*٥$ ^ی<pr>/of<pr>$ ^مانگ<n><sg><abs><px3sg>/month<n><sg><abs><px3sg>$ ^*حوزەیرانەوە/*حوزەیرانەوە$ ^*هەتاوەکو/*هەتاوەکو$ ^کۆتا<n><sg><abs><px3sg>/end<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^ماوە<n><sg><abs><ezalos>/period<n><sg><abs><ezalos>/duration<n><sg><abs><ezalos>$ ^ڕەمەزان<n><sg><abs>/Ramadan<n><sg><abs>$، ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*٥/*٥$ ^ی<pr>/of<pr>$ ^مانگ<n><sg><abs><px3sg>/month<n><sg><abs><px3sg>$ ^*تەمموزەوە/*تەمموزەوە$ ^نانی بەیانی<n><sg><abs>/breakfast<n><sg><abs>$ ^لەگەڵ<pr>/with<pr>$ ^نانی ئێوارە<n><sg><ezaclo>/dinner<n><sg><ezaclo>$ ^کاتژمێر<n><sg><abs>/hour<n><sg><abs>$ ^*١٩/*١٩$^:<sent>/:<sent>$^*٠٠/*٠٠$ (^*٧/*٧$^:<sent>/:<sent>$^*٠٠/*٠٠$) ^پێشکەش<n><sg><abs>/gift<n><sg><abs>$ ^*دەکرێت/*دەکرێت$^.<sent>/.<sent>$ ^نانی نیوەڕۆ<n><sg><abs>/lunch<n><sg><abs>$ ^وەکو<adj><pst>/like<adj><pst>$ ^خۆ<n><sg><abs>/self<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*دەمێنێتەوە/*دەمێنێتەوە$^.<sent>/.<sent>$
+[/MzI_cnQ6-gw0]
+[NDqsAQw3A3Cr#0] ^ئازار<adj><pst>/hurt<adj><pst>/painful<adj><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^توند<adj><pst>/serious<adj><pst>$ ^*واتە/*واتە$^:<sent>/:<sent>$^.<sent>/.<sent>$
+[/NDqsAQw3A3Cr]
+[NJATyICRDKer#0] ^هەست کردن<vblex><tv><pri><p1><sg>/feel<vblex><tv><pri><p1><sg>$ ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/NJATyICRDKer]
+[NrEfshHL7yCy#0] ^پێویست<adj><pst>/necessary<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^ئینسۆلین<n><sg><dem>/insulin<n><sg><dem>$^.<sent>/.<sent>$
+[/NrEfshHL7yCy]
+[OT5RzCpq5KBc#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^*بووم/*بووم$^.<sent>/.<sent>$
+[/OT5RzCpq5KBc]
+[OZY8saD34txj#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^ئالێرژی<n><sg><abs><px1sg>/allergy<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^..<sent>/..<sent>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/OZY8saD34txj]
+[OdivPmpi05nl#0] ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^خواردن<n><sg><abs>/food<n><sg><abs>$ ^و<cnjcoo>/and<cnjcoo>$ ^*خواردنەوەم/*خواردنەوەم$ ^*هێناوەتەوە/*هێناوەتەوە$^.<sent>/.<sent>$
+[/OdivPmpi05nl]
+[OtFDNfAoqkV_#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^پەیوەند<n><sg><abs><px3sg>/connection<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*پێوەبکەم/*پێوەبکەم$ ^کات<n><sg><ind>/time<n><sg><ind>$ ^بەلەم<n><sg><ind>/raft<n><sg><ind>$ ^*دەبینیت/*دەبینیت$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/OtFDNfAoqkV_]
+[P9y7CxHRYbjY#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*نێوان/*نێوان$ ^*سوڕی/*سوڕی$ ^*مانگانەکانمدا/*مانگانەکانمدا$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*دێتەوە/*دێتەوە$^.<sent>/.<sent>$
+[/P9y7CxHRYbjY]
+[PHF091OlHjc1#0] ^*پێش/*پێش$ ^هاتن<n><sg><abs>/arrive<n><sg><abs>$ ^تکت<n><sg><abs>/fare<n><sg><abs>/ticket<n><sg><abs>$ ^*بکڕە/*بکڕە$^.<sent>/.<sent>$
+[/PHF091OlHjc1]
+[PKY1SaiH4HdG#0] ^ئازار<n><sg><abs><px2sg>/harm<n><sg><abs><px2sg>/ache<n><sg><abs><px2sg>/pain<n><sg><abs><px2sg>/bother<n><sg><abs><px2sg>/annoyance<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*پێگەشتوە/*پێگەشتوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/PKY1SaiH4HdG]
+[PN8HIn6oXP8a#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*خەریکە/*خەریکە$ ^منداڵ<n><sg><abs>/child<n><sg><abs>/kid<n><sg><abs>/infant<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^دەبێت<n><sg><abs>/must<n><sg><abs>$^.<sent>/.<sent>$
+[/PN8HIn6oXP8a]
+[PfwhvQw5g5_j#0] ^*کیۆس/*کیۆس$ - ^*ئەسینا/*ئەسینا$^.<sent>/.<sent>$
+[/PfwhvQw5g5_j]
+[PmrhBfgjX3Z0#0] ^*دووسبەی/*دووسبەی$^.<sent>/.<sent>$
+[/PmrhBfgjX3Z0]
+[PnRTuvp0VRoc#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^شەکر<n><sg><abs><px1sg>/sugar<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/PnRTuvp0VRoc]
+[Q-09A1jq0Jz4#0] ^دەبێ<vbmod><pri>/must<vbmod><pri>$ ^چوون<vblex><iv><prs><p1><sg>/go<vblex><iv><prs><p1><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^نەخۆشخانە<n><sg><abs>/hospital<n><sg><abs>$^.<sent>/.<sent>$
+[/Q-09A1jq0Jz4]
+[QD6NpPznorfy#0] ^ژان<n><sg><def>/pain<n><sg><def>/illness<n><sg><def>$ ^دێ<n><sg><abs><px2sg>/village<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^و<cnjcoo>/and<cnjcoo>$ ^*دەڕوا/*دەڕوا$^.<sent>/.<sent>$
+[/QD6NpPznorfy]
+[QRcsA-4noUfi#0] ^*کڵێسا/*کڵێسا$^.<sent>/.<sent>$
+[/QRcsA-4noUfi]
+[QcnC-a_v6X0j#0] ^ئایا<qst>/$ ^زانن<vblex><tv><pri><p2><sg>/know<vblex><tv><pri><p2><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*چی/*چی$ ^*گروپێکایت/*گروپێکایت$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/QcnC-a_v6X0j]
+[QkOKxLQsz_H4#0] ^*چەندە/*چەندە$ ^دەبێ<vbmod><pri>/must<vbmod><pri>$ ^*لێرە/*لێرە$ ^*چاوەڕێ/*چاوەڕێ$ ^بوون<vbcop><prs><p1><pl>/be<vbser><prs><p1><pl>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/QkOKxLQsz_H4]
+[Qo-m2Wp85myA#0] ^کاتژمێر<n><sg><abs>/hour<n><sg><abs>$ ^*چەندە/*چەندە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/Qo-m2Wp85myA]
+[R6_Ekmz7TWWS#0] ^*لەمێژە/*لەمێژە$ ^*پێوەندی/*پێوەندی$ ^*جینسیم/*جینسیم$ ^*نەبووە/*نەبووە$^.<sent>/.<sent>$
+[/R6_Ekmz7TWWS]
+[R9OWQo8iR6aB#0] ^ناوئاخن<n><sg><def>/content<n><sg><def>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*بڕێژە/*بڕێژە$ ^ناو<pr>/into<pr>$ ^*پیاڵەیەکی/*پیاڵەیەکی$ ^*خاوێنەوە/*خاوێنەوە$^.<sent>/.<sent>$
+[/R9OWQo8iR6aB]
+[RDpNczfoTumG#0] ^*سڵاو/*سڵاو$^.<sent>/.<sent>$
+[/RDpNczfoTumG]
+[ROgVCCdC3iHs#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*چادرگە/*چادرگە$ ^*گەورەکەدا/*گەورەکەدا$ ^یان<cnjcoo>/or<cnjcoo>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^سەنتەر<n><sg><abs>/centre<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئای/*ئای$ ^سی<num><pl>/thirty<num><pl>$ ^*تی/*تی$ ^*شەحنبکەرەوە/*شەحنبکەرەوە$ ^.<sent>/.<sent>$
+[/ROgVCCdC3iHs]
+[ROzcuO3uym7-#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^شوێن<n><sg><ind><px3sg>/site<n><sg><ind><px3sg>/place<n><sg><ind><px3sg>$ ^*فێنک/*فێنک$ ^و<cnjcoo>/and<cnjcoo>$ ^ئیشک<adj><pst>/dry<adj><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ڕابگرن/*ڕابگرن$ ^و<cnjcoo>/and<cnjcoo>$ ^سەر<n><sg><def><px3sg>/head<n><sg><def><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^توند<adj><pst>/serious<adj><pst>$ ^*ببەستن/*ببەستن$^.<sent>/.<sent>$
+[/ROzcuO3uym7-]
+[RUUUm2wp_qRO#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*میزەکەمدا/*میزەکەمدا$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/RUUUm2wp_qRO]
+[RbcVN4r9WWN8#0] ^ویستن<vblex><tv><pri><p1><sg>/want<vblex><tv><pri><p1><sg>$ ^کات<n><sg><ind>/time<n><sg><ind>$ ^دیاری<n><sg><abs>/gift<n><sg><abs>$ ^*بکەم/*بکەم$^.<sent>/.<sent>$
+[/RbcVN4r9WWN8]
+[RhJMa8BPhNh5#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^*ئەوەم/*ئەوەم$ ^بۆ<pr>/to<pr>/for<pr>$ ^نووسين<vblex><tv><prs><p2><sg>/write<vblex><tv><prs><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/RhJMa8BPhNh5]
+[SBbxIQF11nSZ#0] ^پێویست<adj><pst>/necessary<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*ئوتۆمۆبیلی/*ئوتۆمۆبیلی$ ^*فریاکەوتن/*فریاکەوتن$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/SBbxIQF11nSZ]
+[SC_JiBPTXwne#0] ^کا<n><sg><abs><px2sg>/straw<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$^:<sent>/:<sent>$ ^کات<n><sg><ind>/time<n><sg><ind>$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^باس<n><sg><abs><ezalos>/matter<n><sg><abs><ezalos>$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^شت<n><pl><dem>/thing<n><pl><dem>$ ^*دەکەی/*دەکەی$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^ڕوو<n><sg><abs><px3sg>/side<n><sg><abs><px3sg>/aspect<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*داوە/*داوە$، ^بریتی<n><sg><dem>/include<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*لەوەی/*لەوەی$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^ڕووداو<n><pl><dem>/incident<n><pl><dem>$ ^*چەندەی/*چەندەی$ ^*خایاندووە/*خایاندووە$^.<sent>/.<sent>$
+[/SC_JiBPTXwne]
+[SSNuPQoW1Jiz#0] ^دەبێت<n><sg><abs>/must<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^نەخۆشخانە<n><sg><abs>/hospital<n><sg><abs>$ ^*وەرگیرێم/*وەرگیرێم$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/SSNuPQoW1Jiz]
+[Sj7dqtwGbBI0#0] ^*کۆڵنجی/*کۆڵنجی$ ^زگ<n><sg><abs><px1sg>/belly<n><sg><abs><px1sg>/stomach<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^لا<n><sg><abs><px3sg>/side<n><sg><abs><px3sg>$ ^*کەمەرم/*کەمەرم$^.<sent>/.<sent>$
+[/Sj7dqtwGbBI0]
+[SuSwAkIVrODL#0] ^*تووشی/*تووشی$ ^*پەرکەم/*پەرکەم$ ^*بووم/*بووم$^.<sent>/.<sent>$
+[/SuSwAkIVrODL]
+[T-oL708xeRYc#0] ^ئاگر<n><sg><abs>/fire<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*ژوورەوە/*ژوورەوە$ ^*مەکەرەوە/*مەکەرەوە$^.<sent>/.<sent>$
+[/T-oL708xeRYc]
+[TWyJ7pwVKOPd#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^شوێن<n><sg><abs><ezalos>/site<n><sg><abs><ezalos>/place<n><sg><abs><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^ئێمە<prn><pers><clt><p1><pl>/we<prn><pers><clt><p1><pl>$ ^لەسەر<pr>/on<pr>/on top of<pr>/according to<pr>$ ^*جی/*جی$ ^*پی/*پی$ ^ئێس<n><sg><abs>/S<n><sg><abs>$ ^*پێبڵێی/*پێبڵێی$ ^تا<n><sg><abs>/fever<n><sg><abs>$ ^*ئەوانی/*ئەوانی$ ^دیکە<n><sg><abs>/other<n><sg><abs>$ ^*بدۆزینەوە/*بدۆزینەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/TWyJ7pwVKOPd]
+[TkWzZBSsejwL#0] ^ئازار<n><sg><def>/harm<n><sg><def>/ache<n><sg><def>/pain<n><sg><def>/bother<n><sg><def>/annoyance<n><sg><def>$ ^*زیاد/*زیاد$ ^*ئەکات/*ئەکات$ ^ک<n><sg><abs>/K<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*رادەوەستم/*رادەوەستم$^.<sent>/.<sent>$
+[/TkWzZBSsejwL]
+[Tp8kT_c1bF3b#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ژمارە<n><sg><abs><ezalos>/number<n><sg><abs><ezalos>$ ^تەلەفۆن<n><sg><abs><ezalos>/phone<n><sg><abs><ezalos>/telephone<n><sg><abs><ezalos>$ ^خێزان<n><sg><def><px2sg>/family<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^زانن<vblex><tv><prs><p1><sg>/know<vblex><tv><prs><p1><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/Tp8kT_c1bF3b]
+[U606VJBCej7Q#0] ^*بیرم/*بیرم$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*خۆکوشتن/*خۆکوشتن$ ^*کردۆتەوە/*کردۆتەوە$^.<sent>/.<sent>$
+[/U606VJBCej7Q]
+[UFrxvk09_Ys8#0] ^توانین<vbmod><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>$ ^میز کردن<vblex><tv><prs><p1><sg>/urinate<vblex><tv><prs><p1><sg>$^.<sent>/.<sent>$
+[/UFrxvk09_Ys8]
+[UHj4OvjVNPiQ#0] ^چا<n><sg><abs><px2pl>/tea<n><sg><abs><px2pl>/chai<n><sg><abs><px2pl>$ ^ئێوە<prn><pers><clt><p2><pl>/you<prn><pers><clt><p2><pl>$ ^*پێدەدرێت/*پێدەدرێت$^.<sent>/.<sent>$
+[/UHj4OvjVNPiQ]
+[UbkmxJIor9od#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*شیزۆفرینیام/*شیزۆفرینیام$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/UbkmxJIor9od]
+[UhRBIQOfih7F#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*قەبزم/*قەبزم$^.<sent>/.<sent>$
+[/UhRBIQOfih7F]
+[Uli6EJgdgaz1#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*تالاسیمام/*تالاسیمام$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/Uli6EJgdgaz1]
+[V-YGeRSrRoSf#0] ^*کیۆس/*کیۆس$ - ^*پیرێس/*پیرێس$ (^*ئەسینا/*ئەسینا$)^.<sent>/.<sent>$
+[/V-YGeRSrRoSf]
+[VkQPHeT3lDzd#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^شەکرە<n><sg><abs><px1sg>/diabetes<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/VkQPHeT3lDzd]
+[VohJYDi2TJSX#0] ^*ئەمە/*ئەمە$ ^خوشک<n><sg><abs><px1sg>/sister<n><sg><abs><px1sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/VohJYDi2TJSX]
+[W2YXlutlyHAb#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ناو<n><sg><abs><ezalos>/name<n><sg><abs><ezalos>$ ^خێزان<n><sg><def><px2sg>/family<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^نووسين<vblex><tv><prs><p1><sg>/write<vblex><tv><prs><p1><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/W2YXlutlyHAb]
+[WEdXMGQMgl3p#0] ^ژن<n><sg><def>/wife<n><sg><def>/woman<n><sg><def>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/WEdXMGQMgl3p]
+[WGM57BM5WChT#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^شوێن<n><sg><ind>/site<n><sg><ind>/place<n><sg><ind>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*بەرزەوە/*بەرزەوە$ ^*بەربوومەوە/*بەربوومەوە$^.<sent>/.<sent>$
+[/WGM57BM5WChT]
+[WapChFIUtko0#0] ^ئایا<qst>/$ ^*دەتەوی/*دەتەوی$ ^*ئیمشەو/*ئیمشەو$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^ناوەند<n><sg><abs><ezalos>/centre<n><sg><abs><ezalos>/central<n><sg><abs><ezalos>$ ^منداڵ<n><pl><ind>/child<n><pl><ind>/kid<n><pl><ind>/infant<n><pl><ind>$ ^و<cnjcoo>/and<cnjcoo>$ ^خێزان<n><pl><def>/family<n><pl><def>$ ^دا<post>/$' ^*بمێنێتەوە/*بمێنێتەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/WapChFIUtko0]
+[WgdRBy0PWx0S#0] ^ئایا<qst>/$ ^زانن<vblex><tv><pri><p2><sg>/know<vblex><tv><pri><p2><sg>$ ^*کێ/*کێ$ ^*لێپرسراوی/*لێپرسراوی$ ^گروپ<n><sg><def><px2sg>/group<n><sg><def><px2sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/WgdRBy0PWx0S]
+[WoJL9N4nM3ch#0] ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^زمان<n><sg><abs><px3sg>/language<n><sg><abs><px3sg>$ ^....<sent>/....<sent>$ ^قسە کردن<vblex><tv><pri><p2><sg>/speak<vblex><tv><pri><p2><sg>$^.<sent>/.<sent>$
+[/WoJL9N4nM3ch]
+[X8S_dtQAhZhD#0] ^ئازار<n><sg><def>/harm<n><sg><def>/ache<n><sg><def>/pain<n><sg><def>/bother<n><sg><def>/annoyance<n><sg><def>$ ^*هێواش/*هێواش$ ^*هێواش/*هێواش$ ^*دەستیپێکرد/*دەستیپێکرد$^.<sent>/.<sent>$
+[/X8S_dtQAhZhD]
+[XGe2ZZ3z4jvP#0] ^ئایا<qst>/$ ^وێنە<n><sg><abs><ezalos>/picture<n><sg><abs><ezalos>$ ^دۆکیۆمێنت<n><sg><dem>/document<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*یۆنانیەکانت/*یۆنانیەکانت$ ^پێ<n><sg><dem>/foot<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/XGe2ZZ3z4jvP]
+[XHTdwDSKRO3i#0] ^ئایا<qst>/$ ^کەس<n><sg><ind>/person<n><sg><ind>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*گرووپەکەی/*گرووپەکەی$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^دا<post>/$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^زمان<n><sg><abs><ezalos>/language<n><sg><abs><ezalos>$ ^ئینگلیز<n><sg><abs><px3sg>/English<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^قسە کردن<vblex><tv><pri><p3><sg>/speak<vblex><tv><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/XHTdwDSKRO3i]
+[XPDQcwCtUd0r#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^یارمەتی<n><sg><abs><px2sg>/help<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^دان<vblex><tv><prs><p1><sg>/give<vblex><tv><prs><p1><sg>$ ^*پاکی/*پاکی$ ^*بکەیتەوە/*بکەیتەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/XPDQcwCtUd0r]
+[XYkvez9YmCFd#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^زانیاری<n><sg><dem>/information<n><sg><dem>$ ^دان<vblex><tv><prs><p1><sg>/give<vblex><tv><prs><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*کۆمسیۆنی/*کۆمسیۆنی$ ^کاروبار<n><sg><abs><px3sg>/affair<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئاوارەکانی/*ئاوارەکانی$ ^نەتەوە<n><sg><ezaclo>/nation<n><sg><ezaclo>/nationality<n><sg><ezaclo>$ ^یەکگرتوو<n><pl><def>/united<n><pl><def>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^سربیا<np><top><sg><abs>/Serbia<np><top><sg><abs>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/XYkvez9YmCFd]
+[X_Ek8m_O7Jn2#0] ^سینگ<n><sg><abs>/chest<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*دێشێت/*دێشێت$^.<sent>/.<sent>$
+[/X_Ek8m_O7Jn2]
+[Xd5p1z1Yx6mk#0] ^*لەکوێ/*لەکوێ$ ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^*نوسخەیە/*نوسخەیە$\/ ^*ڕەچەتەیە/*ڕەچەتەیە$ ^*وەرگرم/*وەرگرم$^.<sent>/.<sent>$
+[/Xd5p1z1Yx6mk]
+[Xm9kOUKeqG6Y#0] ^بانق<n><sg><abs>/bank<n><sg><abs>$^.<sent>/.<sent>$
+[/Xm9kOUKeqG6Y]
+[Y5WuGwp-W8bE#0] ^*حەوتووی/*حەوتووی$ ^*داهاتوو/*داهاتوو$^.<sent>/.<sent>$
+[/Y5WuGwp-W8bE]
+[YH6gjaEe9c2H#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^یارمەتی<n><sg><abs>/help<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/YH6gjaEe9c2H]
+[Ya2chfspFZSE#0] ^کات<n><sg><ind>/time<n><sg><ind>$ ^دەست<n><sg><abs><px2sg>/hand<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*پێکرد/*پێکرد$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem>/milk<n><sg><dem>$ ^دان<vblex><tv><prs><p2><sg>/give<vblex><tv><prs><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^منداڵ<n><sg><def><px2sg>/child<n><sg><def><px2sg>/kid<n><sg><def><px2sg>/infant<n><sg><def><px2sg>$، ^*لەوانەیە/*لەوانەیە$ ^*دانی/*دانی$ ^شیر<n><sg><abs><ezalos>/milk<n><sg><abs><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^منداڵ<n><sg><def>/child<n><sg><def>/kid<n><sg><def>/infant<n><sg><def>$ ^*ئیدی/*ئیدی$ ^*ئەوەندە/*ئەوەندە$ ^*هاسان/*هاسان$ ^*نەبێت/*نەبێت$^.<sent>/.<sent>$
+[/Ya2chfspFZSE]
+[Ydlw7336ZzBf#0] ^*بەپێی/*بەپێی$ ^بارودۆخ<n><sg><abs><ezalos>/circumstance<n><sg><abs><ezalos>/circumstances<n><sg><abs><ezalos>$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*وڵاتەی/*وڵاتەی$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*لێوەی/*لێوەی$ ^*هاتوون/*هاتوون$، ^*گرووپێکی/*گرووپێکی$ ^کۆمەڵایەتی<adj><pst>/social<adj><pst>$ ^تایبەتی<adj><pst>/privately<adj><pst>/particular<adj><pst>$ ^*هەبن/*هەبن$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^پێک<n><sg><abs>/game<n><sg><abs>$ ^*هاتبن/*هاتبن$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*گرووپێک/*گرووپێک$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^خاوەن<n><sg><abs><ezalos>/owner<n><sg><abs><ezalos>$ ^حەز<n><sg><abs><px3sg>/orientation<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*جینسی/*جینسی$ ^کۆمەڵایەتی<adj><pst>/social<adj><pst>$ ^*جیاواز/*جیاواز$ ^بوون<vbcop><prs><p2><pl>/be<vbser><prs><p2><pl>$^.<sent>/.<sent>$
+[/Ydlw7336ZzBf]
+[Yo2YS1rbjyXU#0] ^*لوتم/*لوتم$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*لێدەپژێت/*لێدەپژێت$^.<sent>/.<sent>$
+[/Yo2YS1rbjyXU]
+[Z7DeuoS6tkxi#0] ^..<sent>/..<sent>$ ^*م/*م$ ^*ئیفلیجە/*ئیفلیجە$^.<sent>/.<sent>$
+[/Z7DeuoS6tkxi]
+[ZCA7oaYvcLXp#0] ^*دەستدرێژیم/*دەستدرێژیم$ ^*کراوەتە/*کراوەتە$ ^سەر<n><sg><abs>/head<n><sg><abs>$^.<sent>/.<sent>$
+[/ZCA7oaYvcLXp]
+[ZQCCA_Tn4dmH#0] ^ئایا<qst>/$ ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^پارێزەر<n><sg><abs>/lawyer<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/ZQCCA_Tn4dmH]
+[ZZdCdfJRKwz7#0] ^شەرت و مەرج<n><sg><abs><ezalos>/criteria<n><sg><abs><ezalos>$ ^بار<n><sg><abs><ezalos>/burden<n><sg><abs><ezalos>$ ^پەنابەر<n><sg><abs>/asylum<n><sg><abs>/refugee<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$^.<sent>/.<sent>$
+[/ZZdCdfJRKwz7]
+[ZcmPCGLddmuo#0] ^ئایا<qst>/$ ^کەنار دەریا<n><sg><abs>/shore<n><sg><abs>/beach<n><sg><abs>$ ^پێویستی<n><sg><abs>/need<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*خاوێنکردنەوە/*خاوێنکردنەوە$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/ZcmPCGLddmuo]
+[_S7N8DgZ9E7M#0] ^ئایا<qst>/$ ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*سکەنکردنی/*سکەنکردنی$ ^*بەلگە/*بەلگە$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/_S7N8DgZ9E7M]
+[a8waEca-QVSD#0] ^جلوبەرگ<n><sg><abs>/clothes<n><sg><abs>/clothing<n><sg><abs>$ (^تەنیا<adj><pst>/alone<adj><pst>$ ^بۆ<pr>/to<pr>/for<pr>$ ^خەڵک<n><sg><ind>/people<n><sg><ind>$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^تەڕ<adj><pst>/wet<adj><pst>$ ^بوون<vbcop><past><p3><pl>/be<vbser><past><p3><pl>$)^.<sent>/.<sent>$
+[/a8waEca-QVSD]
+[aB737YPBpbo7#0] ^*شیردانی/*شیردانی$ ^منداڵ<n><sg><abs>/child<n><sg><abs>/kid<n><sg><abs>/infant<n><sg><abs>$^.<sent>/.<sent>$
+[/aB737YPBpbo7]
+[aCizzzyErOYV#0] ^هەرگیز<adv>/never<adv>$ ^شوێن<n><sg><abs><px3sg>/site<n><sg><abs><px3sg>/place<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*پێوەدانەکە/*پێوەدانەکە$ ^*مەبڕە/*مەبڕە$ ^و<cnjcoo>/and<cnjcoo>$ ^*هەوڵی/*هەوڵی$ ^*مژینی/*مژینی$ ^ژەهر<n><sg><def>/venom<n><sg><def>$ ^دان<vblex><tv><imp><neg><p2><sg>/give<vblex><tv><imp><neg><p2><sg>$^.<sent>/.<sent>$
+[/aCizzzyErOYV]
+[aJNd862owGqo#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ (^جووت<n><sg><abs>/pair<n><sg><abs>$ ^*کەسایەتی/*کەسایەتی$)^*م/*م$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/aJNd862owGqo]
+[az2rr-3rNkQ8#0] ^ئەوان<prn><pers><p3><pl>/they<prn><pers><p3><pl>$ ^یارمەتی<n><pl><ind>/help<n><pl><ind>$ ^*دای/*دای$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/az2rr-3rNkQ8]
+[br7qyr4wrmph#0] ^ئازار<n><sg><def>/harm<n><sg><def>/ache<n><sg><def>/pain<n><sg><def>/bother<n><sg><def>/annoyance<n><sg><def>$ ^کتوپڕ<n><sg><abs>/emergency<n><sg><abs>$ ^*دەستیپێکرد/*دەستیپێکرد$^.<sent>/.<sent>$
+[/br7qyr4wrmph]
+[bzMRY4grwSw1#0] ^بۆ<pr>/to<pr>/for<pr>$ ^منداڵ<n><sg><abs>/child<n><sg><abs>/kid<n><sg><abs>/infant<n><sg><abs>$ ^*ئیمکانی/*ئیمکانی$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^شیری دایک<n><sg><abs><px3sg>/breastmilk<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^خواردن<vblex><tv><prs><p3><sg>/eat<vblex><tv><prs><p3><sg>$^.<sent>/.<sent>$
+[/bzMRY4grwSw1]
+[c-7dit64AW8P#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem>/milk<n><sg><dem>$ ^هەر<det><ind><sg>/any<det><ind><sg>$ ^*وەکوو/*وەکوو$ ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^*مارکەکانی/*مارکەکانی$ ^دیکە<n><sg><abs><ezalos>/other<n><sg><abs><ezalos>$ ^شیر<n><sg><abs><px3sg>/milk<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^ئامادە<adj><pst><sg><dem>/ready<adj><pst><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^*فرۆشتن/*فرۆشتن$^.<sent>/.<sent>$
+[/c-7dit64AW8P]
+[cI-rcuH_8akS#0] ^ژوور<n><sg><abs><ezalos>/room<n><sg><abs><ezalos>$ ^ژمارە<n><sg><abs>/number<n><sg><abs>$ ___ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کۆ<n><sg><abs>/total<n><sg><abs>$ ^ئەو<prn><pers><clt><p3><sg>/he<prn><pers><clt><p3><sg>/she<prn><pers><clt><p3><sg>/it<prn><pers><clt><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/cI-rcuH_8akS]
+[cJMnFwWgEvKB#0] ^*پێشکەشکردن/*پێشکەشکردن$ ^بۆ<pr>/to<pr>/for<pr>$ ^*جێگۆڕین/*جێگۆڕین$ ^بۆ<pr>/to<pr>/for<pr>$ ^*ئەوروپا/*ئەوروپا$^.<sent>/.<sent>$
+[/cJMnFwWgEvKB]
+[cVv5oveYUOM4#0] ^ئایا<qst>/$ ^*ئارام/*ئارام$ ^و<cnjcoo>/and<cnjcoo>$ ^دڵخۆش<adj><pst>/happy<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*خێمەیەدا/*خێمەیەدا$ ^ئەمشەو<adv>/tonight<adv>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/cVv5oveYUOM4]
+[cfN8AgBfFgLD#0] ^*شتومەکی/*شتومەکی$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*بەجێ/*بەجێ$ ^*مەهێڵە/*مەهێڵە$ ^*لەملاولا/*لەملاولا$^.<sent>/.<sent>$
+[/cfN8AgBfFgLD]
+[cnII11ltS17d#0] ^مێروو<n><sg><abs>/insect<n><sg><abs>$ ^*پێیوەداوم/*پێیوەداوم$^.<sent>/.<sent>$
+[/cnII11ltS17d]
+[cpVFx24l_wz3#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^زانیاری<n><sg><dem>/information<n><sg><dem>$ ^دان<vblex><tv><prs><p1><sg>/give<vblex><tv><prs><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^هاوکار<n><pl><ind><px1sg>/assisstance<n><pl><ind><px1sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^وەستان<n><sg><abs><px3sg>/stop<n><sg><abs><px3sg>$ ^دواتر<adj><pst>/following<adj><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*شەمەندەفەردا/*شەمەندەفەردا$ ^تا<n><sg><abs>/fever<n><sg><abs>$ ^*بتوانین/*بتوانین$ ^*خزمەتگوزاریت/*خزمەتگوزاریت$ ^بۆ<pr>/to<pr>/for<pr>$ ^*دابینبکەین/*دابینبکەین$^.<sent>/.<sent>$
+[/cpVFx24l_wz3]
+[dLarj4oCL-40#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێ/*کوێ$ ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^نوێژ کردن<vblex><tv><prs><p1><sg>/pray<vblex><tv><prs><p1><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/dLarj4oCL-40]
+[dNNISIuXtDs4#0] ^*تەڕبوویت/*تەڕبوویت$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/dNNISIuXtDs4]
+[dkwBsfKmQ2D5#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*بیستنی/*بیستنی$ ^دەنگ<n><sg><abs>/vote<n><sg><abs>/sound<n><sg><abs>/voice<n><sg><abs>$ ^*دەکەم/*دەکەم$ ^کات<n><sg><ind>/time<n><sg><ind>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*تەنهام/*تەنهام$^.<sent>/.<sent>$
+[/dkwBsfKmQ2D5]
+[duogL5BXy0GK#0] ^ئایا<qst>/$ ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*جێگەیەک/*جێگەیەک$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^*لێی/*لێی$ ^*بمێنیتەوە/*بمێنیتەوە$ ^ئەمشەو<adv>/tonight<adv>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/duogL5BXy0GK]
+[dxeUKpMH1uz-#0] ^*ئێرەم/*ئێرەم$ ^ئازار<n><sg><abs><ezalos>/harm<n><sg><abs><ezalos>/ache<n><sg><abs><ezalos>/pain<n><sg><abs><ezalos>/bother<n><sg><abs><ezalos>/annoyance<n><sg><abs><ezalos>$ ^دێ<n><sg><abs><px2sg>/village<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$^.<sent>/.<sent>$
+[/dxeUKpMH1uz-]
+[e-YerOy_UaRD#0] ^سەر<n><sg><abs><px2sg>/head<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*گێژدەخوات/*گێژدەخوات$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/e-YerOy_UaRD]
+[eMgjbBy4nkZe#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*تەڕاییم/*تەڕاییم$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^ڕێ<n><sg><abs><px3sg>/way<n><sg><abs><px3sg>$ ^*مێزڕۆوە/*مێزڕۆوە$^.<sent>/.<sent>$
+[/eMgjbBy4nkZe]
+[f1qNQ1GirvP2#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*پاشەڕۆکەمدا/*پاشەڕۆکەمدا$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/f1qNQ1GirvP2]
+[f3vth7Uhuded#0] ^....<sent>/....<sent>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوییه/*کوییه$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/f3vth7Uhuded]
+[fFeJDQ22Lzc5#0] ^*مناداڵەکه‌م/*مناداڵەکه‌م$^.<sent>/.<sent>$
+[/fFeJDQ22Lzc5]
+[fHz_reeDlKR8#0] ^پێویست<adj><pst>/necessary<adj><pst>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*بنووم/*بنووم$^.<sent>/.<sent>$
+[/fHz_reeDlKR8]
+[fMZObXWzWI5L#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^دڵ<n><sg><abs>/heart<n><sg><abs>$ ^لەکارکەوتن<n><sg><abs><px1sg>/failure<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^لەگەڵ<pr>/with<pr>$^.<sent>/.<sent>$
+[/fMZObXWzWI5L]
+[fU48iRlSyDhf#0] ^گەروو<n><sg><abs>/throat<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*دێشێ/*دێشێ$^.<sent>/.<sent>$
+[/fU48iRlSyDhf]
+[fhb61ujU0Pwt#0] ^*چەند/*چەند$ ^*سالێکە/*سالێکە$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^دەرمان<n><sg><dem>/medication<n><sg><dem>$ ^خواردن<vblex><tv><pri><p1><sg>/eat<vblex><tv><pri><p1><sg>$^.<sent>/.<sent>$
+[/fhb61ujU0Pwt]
+[fqrvNG7-9RR0#0] ^کەس<n><pl><ind><ezalos>/person<n><pl><ind><ezalos>$ ^گەورەساڵ<n><sg><abs>/adult<n><sg><abs>$،^.<sent>/.<sent>$
+[/fqrvNG7-9RR0]
+[g9YlilMUhLcx#0] ^*زۆرت/*زۆرت$ ^سەرما<n><sg><abs>/cold<n><sg><abs>/coldness<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/g9YlilMUhLcx]
+[gCDVAxf7zQJI#0] ^مۆبایل<n><sg><def><px2sg>/cellphone<n><sg><def><px2sg>/mobile phone<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*لێرەدا/*لێرەدا$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*شەحن/*شەحن$ ^دان<vblex><tv><imp><neg><p2><sg>/give<vblex><tv><imp><neg><p2><sg>$^.<sent>/.<sent>$
+[/gCDVAxf7zQJI]
+[gaZoujflIENA#0] ^*بورابوومەوە/*بورابوومەوە$^.<sent>/.<sent>$
+[/gaZoujflIENA]
+[gk-BTAixTNrZ#0] ^ئایا<qst>/$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^زمان<n><sg><dem>/language<n><sg><dem>$ ^دە<pr><pro>/on<pr><pro>$ ^گەیشتن<vblex><tv><pri><p2><sg>/reach<vblex><tv><pri><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/gk-BTAixTNrZ]
+[gupQ4iv055_o#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*گۆشت/*گۆشت$ ^و<cnjcoo>/and<cnjcoo>$ ^ماسی<n><sg><abs>/fish<n><sg><abs>$ ^خواردن<vblex><tv><neg><pri><p1><sg>/eat<vblex><tv><neg><pri><p1><sg>$^.<sent>/.<sent>$
+[/gupQ4iv055_o]
+[h37BhI-fNBmS#0] ^پلە<n><pl><ind><px2sg>/level<n><pl><ind><px2sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^*پەنابەرێتی/*پەنابەرێتی$ ^پێشکەش<n><sg><abs>/gift<n><sg><abs>$ ^*بکەیت/*بکەیت$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کۆمار<n><sg><abs><px3sg>/republic<n><sg><abs><px3sg>$ ^*یۆگسلافیای/*یۆگسلافیای$ ^*پێشوو/*پێشوو$ ^*مەقەدۆنیا/*مەقەدۆنیا$^.<sent>/.<sent>$
+[/h37BhI-fNBmS]
+[h6vwGWeUumUG#0] ^*داوای/*داوای$ ^وەرگێڕ<n><sg><ind>/translator<n><sg><ind>$ ^*بکە/*بکە$ ^بۆ<pr>/to<pr>/for<pr>$ ^باسکردن<n><sg><abs><ezalos>/describing<n><sg><abs><ezalos>$ ^کێش<n><sg><abs>/problem<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*خێزانیەکان/*خێزانیەکان$^.<sent>/.<sent>$
+[/h6vwGWeUumUG]
+[hNAQZL5zU2Qj#0] ^ئایا<qst>/$ ^کەس<n><sg><ind>/person<n><sg><ind>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*گرووپەکەی/*گرووپەکەی$ ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^دا<post>/$ ^پێویستی<n><sg><abs>/need<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*چاوەدێری/*چاوەدێری$ ^پزیشک<n><sg><abs><px3sg>/doctor<n><sg><abs><px3sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/hNAQZL5zU2Qj]
+[hSL_j9GFNMeH#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*غەمباری/*غەمباری$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/hSL_j9GFNMeH]
+[hTsn5ewifx9r#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^ناو<n><sg><abs><ezalos>/name<n><sg><abs><ezalos>$ ^کەس<n><sg><abs>/person<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*وونبوەکە/*وونبوەکە$ ^*بنوسیت/*بنوسیت$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/hTsn5ewifx9r]
+[hWv_v_iyv7b7#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^بەبێ<pr>/without<pr>$ ^بەڵگە<n><sg><abs>/document<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*تۆمارگە/*تۆمارگە$ ^*دوورگەکە/*دوورگەکە$ ^*بەجێبهێڵم/*بەجێبهێڵم$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/hWv_v_iyv7b7]
+[h_4n85alDOsC#0] ^پەیوەند<n><sg><abs><px3sg>/connection<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*xxx/*xxx$ ^*ەوە/*ەوە$ ^*بکەو/*بکەو$ ^ئاگاداری<n><sg><abs>/attention<n><sg><abs>/information<n><sg><abs>$ ^*بکەرەوە/*بکەرەوە$ ^ک<n><sg><dem>/K<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*گەیشتی/*گەیشتی$^.<sent>/.<sent>$
+[/h_4n85alDOsC]
+[hhEeczPKsAuc#0] ^*میترۆ/*میترۆ$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێیە/*کوێیە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/hhEeczPKsAuc]
+[hi86ehfkW9jt#0] ^*حاڵم/*حاڵم$ ^باش<adj><pst>/well<adj><sint><pst>$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$^.<sent>/.<sent>$
+[/hi86ehfkW9jt]
+[hqQSU6IkPpXl#0] ^*پێشتر/*پێشتر$ ^هەرگیز<adv>/never<adv>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^ئازار<adj><pst><sg><dem>/hurt<adj><pst><sg><dem>/painful<adj><pst><sg><dem>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*نەبووە/*نەبووە$^.<sent>/.<sent>$
+[/hqQSU6IkPpXl]
+[i30L3L9WUi98#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^سەرەگێژە<n><sg><abs>/dizzy<n><sg><abs>/dizziness<n><sg><abs>$ ^*دەکەم/*دەکەم$^.<sent>/.<sent>$
+[/i30L3L9WUi98]
+[i9IGtpYHZexe#0] ^*هوشداری/*هوشداری$ ^گرنگ<n><sg><abs>/important<n><sg><abs>$^:<sent>/:<sent>$ ^شیری دایک<n><sg><abs>/breastmilk<n><sg><abs>$ ^باشترین<adj><pst>/good<adj><pst>$ ^*خۆراکە/*خۆراکە$ ^بۆ<pr>/to<pr>/for<pr>$ ^منداڵ<n><sg><abs>/child<n><sg><abs>/kid<n><sg><abs>/infant<n><sg><abs>$^.<sent>/.<sent>$
+[/i9IGtpYHZexe]
+[iCl5nQ_KE7tr#0] ^شیر<n><sg><def>/milk<n><sg><def>$ ^*قڵپ/*قڵپ$ ^*مەکەوە/*مەکەوە$ ^*نێو/*نێو$ ^*زاری/*زاری$ ^منداڵ<n><sg><def>/child<n><sg><def>/kid<n><sg><def>/infant<n><sg><def>$^.<sent>/.<sent>$ ^*بهێڵە/*بهێڵە$ ^با<n><sg><abs>/wind<n><sg><abs>$ ^هەر<det><ind><sg>/any<det><ind><sg>$ ^*چەندە/*چەندە$ ^توانین<vbmod><pri><p3><sg>/can<vbmod><pri><p3><sg>$ ^*بخواتەوە/*بخواتەوە$^.<sent>/.<sent>$
+[/iCl5nQ_KE7tr]
+[icd42v7DFFk-#0] ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^زانیاری<n><sg><dem>/information<n><sg><dem>$ ^دان<vblex><tv><prs><p1><sg>/give<vblex><tv><prs><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*کۆمسیۆنی/*کۆمسیۆنی$ ^کاروبار<n><sg><abs><px3sg>/affair<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئاوارەکانی/*ئاوارەکانی$ ^نەتەوە<n><sg><ezaclo>/nation<n><sg><ezaclo>/nationality<n><sg><ezaclo>$ ^یەکگرتوو<n><pl><def>/united<n><pl><def>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*تابێرنۆڤس/*تابێرنۆڤس$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/icd42v7DFFk-]
+[j-0eGFfdxFA7#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem><ezaclo>/milk<n><sg><dem><ezaclo>$ ^منداڵ<n><sg><def><px2sg>/child<n><sg><def><px2sg>/kid<n><sg><def><px2sg>/infant<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*دژی/*دژی$ ^*چڵک/*چڵک$ ^و<cnjcoo>/and<cnjcoo>$ ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ناپارێزێت/*ناپارێزێت$^.<sent>/.<sent>$
+[/j-0eGFfdxFA7]
+[jLsQ_tk2cAMP#0] ^ئالێرژی<n><sg><abs><px1sg>/allergy<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/jLsQ_tk2cAMP]
+[jzrDurCEH9AG#0] ^ئایا<qst>/$ ^منداڵ<n><sg><abs><px2sg>/child<n><sg><abs><px2sg>/kid<n><sg><abs><px2sg>/infant<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^پێ<n><sg><abs>/foot<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/jzrDurCEH9AG]
+[k-kd3T5_c8bR#0] ^*کەنگێ/*کەنگێ$ ^دەبێ<vbmod><pri>/must<vbmod><pri>$ ^*بێمەوە/*بێمەوە$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/k-kd3T5_c8bR]
+[k1f1QRI-ArBD#0] ^زۆر<adv>/very<preadv>$ ^*دێشیێ/*دێشیێ$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^دەست<n><sg><abs>/hand<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*لێدەدەم/*لێدەدەم$^.<sent>/.<sent>$
+[/k1f1QRI-ArBD]
+[k2Om5QY43PCe#0] ^تۆ<prn><pers><p2><sg>/you<prn><pers><p2><mf><sg>$ ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^*ڕێنماییەکان/*ڕێنماییەکان$ ^دە<pr><pro>/on<pr><pro>$ ^گەیشتن<vblex><tv><pri><p2><sg>/reach<vblex><tv><pri><p2><sg>$^.<sent>/.<sent>$
+[/k2Om5QY43PCe]
+[kXVOh5PB1jFk#0] ^وێستگە<n><sg><abs><ezalos>/stop<n><sg><abs><ezalos>$ ^پاس<n><sg><abs>/bus<n><sg><abs>$^.<sent>/.<sent>$
+[/kXVOh5PB1jFk]
+[k_CtzZX07Ttn#0] ^*پێشتر/*پێشتر$ ^ئاو<n><sg><abs><px3sg>/water<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^خاوێن<adj><pst>/clean<adj><sint><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*پێوە/*پێوە$ ^*زیادکراوە/*زیادکراوە$^:<sent>/:<sent>$ ^پێویست<adj><pst>/necessary<adj><pst>$ ^*ناکات/*ناکات$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^ئاو<n><sg><abs><px3sg>/water<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*تێبکەی/*تێبکەی$^.<sent>/.<sent>$
+[/k_CtzZX07Ttn]
+[k_XpyTTWDQqM#0] ^ژ<n><pl><def><ezaclo>/J<n><pl><def><ezaclo>$ ^زگ<n><sg><abs><px1sg>/belly<n><sg><abs><px1sg>/stomach<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/k_XpyTTWDQqM]
+[ksPJKZJGUrDM#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^پێویست<adj><pst>/necessary<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*دوکتورێکە/*دوکتورێکە$^.<sent>/.<sent>$
+[/ksPJKZJGUrDM]
+[l9LzfB83mrGs#0] ^پانتۆڵ<n><sg><abs>/trousers<n><pl><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^وشک<adj><pst>/dry<adj><pst>$^.<sent>/.<sent>$
+[/l9LzfB83mrGs]
+[lYHD5c0G8bwu#0] ^ک<n><sg><abs>/K<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*رادەکشێم/*رادەکشێم$ ^خراپتر<adj><pst>/worse<adj><pst>$ ^دەبێت<n><sg><abs>/must<n><sg><abs>$^.<sent>/.<sent>$
+[/lYHD5c0G8bwu]
+[ljiDVUv4GPkt#0] ^دەرگا<n><sg><abs>/door<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*چوونەدەرەوەی/*چوونەدەرەوەی$ ^*بەپەلە/*بەپەلە$^.<sent>/.<sent>$
+[/ljiDVUv4GPkt]
+[lqxpRPMXH8rn#0] ^دڵ<n><sg><abs>/heart<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*خێرا/*خێرا$ ^*لێدەدات/*لێدەدات$^.<sent>/.<sent>$
+[/lqxpRPMXH8rn]
+[lr78z1fjY_OD#0] ^شەرت و مەرج<n><sg><abs><ezalos>/criteria<n><sg><abs><ezalos>$ ^یارمەتی<n><pl><def><ezalos>/help<n><pl><def><ezalos>$ ^پاراستن<n><sg><abs>/protection<n><sg><abs>$^.<sent>/.<sent>$
+[/lr78z1fjY_OD]
+[ltIaHXheMwaH#0] ^*ئەمە/*ئەمە$ ^برا<n><sg><abs><px1sg>/brother<n><sg><abs><px1sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/ltIaHXheMwaH]
+[mA7I9JHvm_-R#0] ^ئایا<qst>/$ ^*هەوڵتداوە/*هەوڵتداوە$ ^*بگوازیتەوە/*بگوازیتەوە$ ^بۆ<pr>/to<pr>/for<pr>$ ^پارچە<n><sg><ind><ezalos>/piece<n><sg><ind><ezalos>$ ^دیکە<n><sg><abs><ezalos>/other<n><sg><abs><ezalos>$ ^وڵات<n><sg><def><ezalos>/state<n><sg><def><ezalos>/country<n><sg><def><ezalos>/homeland<n><sg><def><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^بۆ<pr>/to<pr>/for<pr>$ ^*ڕزگاربوونت/*ڕزگاربوونت$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^کێش<n><pl><def><px2sg>/problem<n><pl><def><px2sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/mA7I9JHvm_-R]
+[mLkMOaVPS5IL#0] ^دايبي<n><sg><abs>/nappy<n><sg><abs>/diaper<n><sg><abs>$ ^.<sent>/.<sent>$
+[/mLkMOaVPS5IL]
+[mN_h9i3XR2BU#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^ناو<n><sg><abs><ezalos>/name<n><sg><abs><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*بنوسیت/*بنوسیت$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/mN_h9i3XR2BU]
+[mkqCumgXjoL2#0] ^*صەرعم/*صەرعم$ ^لەگەڵ<pr>/with<pr>$^.<sent>/.<sent>$
+[/mkqCumgXjoL2]
+[mzerbdZ4Ucba#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*خۆشحاڵم/*خۆشحاڵم$^.<sent>/.<sent>$
+[/mzerbdZ4Ucba]
+[nbGQMam-lnEg#0] ^زۆر<adv>/very<preadv>$ ^*زوو/*زوو$^.<sent>/.<sent>$
+[/nbGQMam-lnEg]
+[nkmnSvZmO3wd#0] ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێ/*کوێ$ ^توانین<vbmod><pri><p1><sg>/can<vbmod><pri><p1><sg>$ ^...<sent>/...<sent>$ ^*بسەنم/*بسەنم$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/nkmnSvZmO3wd]
+[nnLeFABkBlFM#0] ^یارمەتی<n><sg><abs><px1sg>/help<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دان<vblex><tv><prs><p3><pl>/give<vblex><tv><prs><p3><pl>$^!.<sent>/!.<sent>$
+[/nnLeFABkBlFM]
+[noPkeWHQtaiY#0] ^دەستە<n><pl><def><px2sg>/group<n><pl><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^سابوون<n><sg><abs>/soap<n><sg><abs>$ ^و<cnjcoo>/and<cnjcoo>$ ^ئاو<n><sg><abs>/water<n><sg><abs>$ ^شتن<vblex><tv><imp><p2><sg>/wash<vblex><tv><imp><p2><sg>$^.<sent>/.<sent>$
+[/noPkeWHQtaiY]
+[nzXGC8PmL0Mf#0] ^حەمام<n><sg><abs>/bathroom<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*کوێیه/*کوێیه$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/nzXGC8PmL0Mf]
+[nzcw7SnJI2qd#0] ^شەرت و مەرج<n><sg><abs>/criteria<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئیجازەی/*ئیجازەی$ ^*ئیقامەی/*ئیقامەی$ ^*مرۆڤدۆستانە/*مرۆڤدۆستانە$^.<sent>/.<sent>$
+[/nzcw7SnJI2qd]
+[oLvZ9RPXv5fx#0] ^*ڕێنماییەکان/*ڕێنماییەکان$^.<sent>/.<sent>$
+[/oLvZ9RPXv5fx]
+[oNr4jDcWSUoQ#0] ^*هەردوولا/*هەردوولا$ ^یاسا<n><sg><abs><ezalos>/law<n><sg><abs><ezalos>/statute<n><sg><abs><ezalos>$ ^سیاسەت<n><sg><abs><ezalos>/politic<n><sg><abs><ezalos>/politics<n><sg><abs><ezalos>$ ^نرخ<n><sg><abs><px3pl>/fare<n><sg><abs><px3pl>/price<n><sg><abs><px3pl>/pricing<n><sg><abs><px3pl>$ ^ئەوان<prn><pers><clt><p3><pl>/they<prn><pers><clt><p3><pl>$ ^*لەیەکدەچێت/*لەیەکدەچێت$^.<sent>/.<sent>$
+[/oNr4jDcWSUoQ]
+[omF2kLdXSXVv#0] ^شت<n><sg><ind>/thing<n><sg><ind>$ ^*پێیوەداوم/*پێیوەداوم$^.<sent>/.<sent>$
+[/omF2kLdXSXVv]
+[osdwVGvTgue8#0] ^*پولیس/*پولیس$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*تۆی/*تۆی$ ^*گوت/*گوت$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^سوار<n><sg><abs><px3sg>/ride<n><sg><abs><px3sg>/passenger<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*کالیسکە/*کالیسکە$ ^بوون<vbcop><prs><p2><sg>/be<vbser><prs><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/osdwVGvTgue8]
+[pAo_2eQc-srb#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^گۆشتی بەراز<n><sg><abs>/pork<n><sg><abs>$ ^خواردن<vblex><tv><neg><pri><p1><sg>/eat<vblex><tv><neg><pri><p1><sg>$^.<sent>/.<sent>$
+[/pAo_2eQc-srb]
+[pMvq0AxnHVeO#0] ^*وریابە/*وریابە$^.<sent>/.<sent>$ ^*مەهێڵە/*مەهێڵە$ ^منداڵ<n><pl><ind>/child<n><pl><ind>/kid<n><pl><ind>/infant<n><pl><ind>$ ^*نزیك/*نزیك$ ^*ببنەوە/*ببنەوە$^.<sent>/.<sent>$ ^تەنها<adv>/only<adv>$ ^کەس<n><pl><ind>/person<n><pl><ind>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^گەورە<adj><pst>/big<adj><sint><pst>$^.<sent>/.<sent>$
+[/pMvq0AxnHVeO]
+[pSYAnzeQYqqL#0] ^*هەمووتان/*هەمووتان$ ^باش<adj><pst>/well<adj><sint><pst>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/pSYAnzeQYqqL]
+[pSwNOrYsML3f#0] ^*سەرکەشتی/*سەرکەشتی$^:<sent>/:<sent>$ € ^*41/*41$,^*5/*5$^.<sent>/.<sent>$
+[/pSwNOrYsML3f]
+[pUiuFHw3dt_Y#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دووگیان<adj><pst>/pregnant<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^و<cnjcoo>/and<cnjcoo>$ ^خوێن<n><sg><abs><px1sg>/blood<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*لەبەر/*لەبەر$ ^*دەڕوا/*دەڕوا$^.<sent>/.<sent>$
+[/pUiuFHw3dt_Y]
+[pYByymIGM3Wz#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*قەسەباتی/*قەسەباتی$ ^درێژخایەن<adj><pst>/chronic<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^لەگەڵ<pr>/with<pr>$^.<sent>/.<sent>$
+[/pYByymIGM3Wz]
+[pf_QGeo9vLoD#0] ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^شت<n><sg><ind><px3sg>/thing<n><sg><ind><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*تەسکی/*تەسکی$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*دەوردا/*دەوردا$ ^مەبەست<n><sg><dem>/purpos<n><sg><dem>/mean<n><sg><dem>/purpose<n><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$، ^وەکو<adj><pst>/like<adj><pst>$ ^*لاستیک/*لاستیک$^.<sent>/.<sent>$
+[/pf_QGeo9vLoD]
+[q4jeroef0ihx#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^خواردن<n><sg><abs>/food<n><sg><abs>$، ^قاوە<n><sg><abs>/coffee<n><sg><abs>$، ^*یا/*یا$ ^چا<n><sg><abs>/tea<n><sg><abs>/chai<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/q4jeroef0ihx]
+[q5dFyah9lQY7#0] ^ئایا<qst>/$ ^پارە<n><sg><abs><px2sg>/money<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*پییە/*پییە$ ^بۆ<pr>/to<pr>/for<pr>$ ^*کڕینی/*کڕینی$ ^بلیت<n><pl><def>/ticket<n><pl><def>/tickets<n><pl><def>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/q5dFyah9lQY7]
+[qDO5rQlUu_4g#0] ^*بگەڕێوە/*بگەڕێوە$ ^بۆ<pr>/to<pr>/for<pr>$ ^خێوەت<n><sg><abs>/tent<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*UNHCR/*UNHCR$ (^*سبەینێ/*سبەینێ$)^.<sent>/.<sent>$
+[/qDO5rQlUu_4g]
+[qVMWpMp_OvoU#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^بەرهەم<n><sg><dem>/product<n><sg><dem>$ ^*نابێ/*نابێ$ ^*لەپاش/*لەپاش$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*ڕێکەوتەی/*ڕێکەوتەی$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^خوارەوە<n><sg><abs><px3sg>/bottom<n><sg><abs><px3sg>$ ^*قتووەکە/*قتووەکە$\/^پاکەت<n><sg><def>/packet<n><sg><def>$ ^*نووسراوە/*نووسراوە$، ^کەڵک<n><sg><abs>/benefit<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*لێوەربگیرێت/*لێوەربگیرێت$^.<sent>/.<sent>$
+[/qVMWpMp_OvoU]
+[qc_1D0jheiFC#0] ^شوێن<n><sg><abs><ezalos>/site<n><sg><abs><ezalos>/place<n><sg><abs><ezalos>$ ^یاری<n><sg><abs>/game<n><sg><abs>/playing<n><sg><abs>$ ^منداڵ<n><pl><ind>/child<n><pl><ind>/kid<n><pl><ind>/infant<n><pl><ind>$^.<sent>/.<sent>$
+[/qc_1D0jheiFC]
+[qdL_ecx-rXi4#0] ^*بتڵ/*بتڵ$ ^و<cnjcoo>/and<cnjcoo>$ ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*پیاڵانەی/*پیاڵانەی$ ^خاوێن<adj><pst>/clean<adj><sint><pst>$ ^بوون<vbcop><pri><neg><p2><pl>/be<vbser><pri><neg><p2><pl>$ ^*مندالەکەت/*مندالەکەت$ ^نەخۆش<adj><pst>/ill<adj><sint><pst>/sick<adj><sint><pst>$ ^خستن<vblex><tv><pri><p3><sg>/throw<vblex><tv><pri><p3><sg>$^!.<sent>/!.<sent>$
+[/qdL_ecx-rXi4]
+[rL3DvL9P87SJ#0] ^ھەست<n><sg><abs>/feeling<n><sg><abs>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^سەرما<n><sg><abs>/cold<n><sg><abs>/coldness<n><sg><abs>$ ^*ئەکەم/*ئەکەم$^.<sent>/.<sent>$
+[/rL3DvL9P87SJ]
+[rQWfZEEH59sn#0] ^ناز<n><pl><ind>/pamper<n><pl><ind>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$^.<sent>/.<sent>$
+[/rQWfZEEH59sn]
+[rY95YTi99ZYf#0] ^ھەروەھا<adv>/also<adv>$ ^باس<n><sg><abs>/matter<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*ئەوە/*ئەوە$ ^*بکە/*بکە$ ^*ئەگەر/*ئەگەر$ ^*هەوڵی/*هەوڵی$ ^*بەجێهێشتنی/*بەجێهێشتنی$ ^وڵات<n><sg><def><px2sg>/state<n><sg><def><px2sg>/country<n><sg><def><px2sg>/homeland<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*داوە/*داوە$ ^بەڵام<cnjcoo>/but<cnjcoo>$ ^*نەتوانیوە/*نەتوانیوە$ ^و<cnjcoo>/and<cnjcoo>$ ^*چی/*چی$ ^*وەستاندوتی/*وەستاندوتی$^.<sent>/.<sent>$
+[/rY95YTi99ZYf]
+[s8t6G9Ghn8Bf#0] ^بەتانی<n><pl><def>/blanket<n><pl><def>$ ^*لەوێن/*لەوێن$^.<sent>/.<sent>$
+[/s8t6G9Ghn8Bf]
+[sD32Zi6LwWvX#0] ^شار<n><sg><abs>/city<n><sg><abs>$^.<sent>/.<sent>$
+[/sD32Zi6LwWvX]
+[sJmg0xyhs74c#0] ^نەخۆشی<n><sg><abs>/illness<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*HIVم/*HIVم$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/sJmg0xyhs74c]
+[sOnuDCU5ZD5Y#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*بەکارهێنانی/*بەکارهێنانی$ ^کۆمپیوتەر<n><sg><abs>/computer<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/sOnuDCU5ZD5Y]
+[su__wNzPMXUK#0] ^چەقۆ<n><sg><abs>/knife<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*لێدرا/*لێدرا$\/^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^چەقۆ<n><sg><abs>/knife<n><sg><abs>$ ^بریندار<adj><pst>/injured<adj><pst>$ ^*کرام/*کرام$^.<sent>/.<sent>$
+[/su__wNzPMXUK]
+[tchzZKFMNYHq#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem>/milk<n><sg><dem>$ ^*بەکار/*بەکار$ ^*بهێنن/*بهێنن$ ^*ئەگەر/*ئەگەر$^:<sent>/:<sent>$^.<sent>/.<sent>$
+[/tchzZKFMNYHq]
+[tq5oXhyzHWiO#0] ^سەرما<n><sg><abs><px2sg>/cold<n><sg><abs><px2sg>/coldness<n><sg><abs><px2sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/tq5oXhyzHWiO]
+[u72xXS3dvqA6#0] ^*ئەمه/*ئەمه$ ^*دايكمه/*دايكمه$^.<sent>/.<sent>$
+[/u72xXS3dvqA6]
+[ub5a3ej__8Wh#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*تەڕاییم/*تەڕاییم$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^ڕێ<n><sg><abs><ezalos>/way<n><sg><abs><ezalos>$ ^ئەندام<n><sg><abs><px3sg>/member<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*زاوزێوە/*زاوزێوە$^.<sent>/.<sent>$
+[/ub5a3ej__8Wh]
+[ulcVZgyG53Tc#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^خەڵک<n><sg><abs>/people<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$^.<sent>/.<sent>$
+[/ulcVZgyG53Tc]
+[um0MsJHE_DA_#0] ^*خەم/*خەم$ ^خواردن<vblex><tv><imp><neg><p2><sg>/eat<vblex><tv><imp><neg><p2><sg>$^.<sent>/.<sent>$
+[/um0MsJHE_DA_]
+[v3QcCfs00wvK#0] ^*پێشکەشکردن/*پێشکەشکردن$ ^بۆ<pr>/to<pr>/for<pr>$ ^*پەنابەرێتی/*پەنابەرێتی$^.<sent>/.<sent>$
+[/v3QcCfs00wvK]
+[vO0YGG-8DZDx#0] ^پێویست<adj><pst>/necessary<adj><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*دوکتورێکە/*دوکتورێکە$^.<sent>/.<sent>$
+[/vO0YGG-8DZDx]
+[vV0EMN2fPvHB#0] ^منداڵ<n><sg><def><px2sg>/child<n><sg><def><px2sg>/kid<n><sg><def><px2sg>/infant<n><sg><def><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^ھەڵگر<n><sg><abs>/carrier<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^و<cnjcoo>/and<cnjcoo>$ ^*بهێڵە/*بهێڵە$ ^*لەسەرەخۆ/*لەسەرەخۆ$ ^*بیخواتەوە/*بیخواتەوە$^.<sent>/.<sent>$
+[/vV0EMN2fPvHB]
+[vfMXzSrzU4kC#0] ^*سوڕی/*سوڕی$ ^مانگ<n><pl><dem><px1sg>/month<n><pl><dem><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^*تەواوبووە/*تەواوبووە$، ^بەڵام<cnjcoo>/but<cnjcoo>$ ^*دووبارە/*دووبارە$ ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p2><pl>/be<vbser><pri><p2><pl>$ ^*دەڕێژم/*دەڕێژم$^.<sent>/.<sent>$
+[/vfMXzSrzU4kC]
+[voIxZ4560CXX#0] ^*کیۆس/*کیۆس$ - ^*کاڤالا/*کاڤالا$^.<sent>/.<sent>$
+[/voIxZ4560CXX]
+[w7AxRPZX1zqV#0] ^*پێشتر/*پێشتر$ ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^ئازار<adj><pst><sg><dem>/hurt<adj><pst><sg><dem>/painful<adj><pst><sg><dem>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^ھەبوون<vbhaver><perf><p3><sg>/exist<vblex><perf><p3><sg>/have<vbhaver><perf><p3><sg>$^.<sent>/.<sent>$
+[/w7AxRPZX1zqV]
+[wLGt1FiZRXSl#0] ^لەگەڵ<pr>/with<pr>$ ^*دوکتورەکەت/*دوکتورەکەت$ ^قسە کردن<vblex><tv><imp><p2><sg>/speak<vblex><tv><imp><p2><sg>$ ^*بەر/*بەر$ ^*لەوەی/*لەوەی$ ^*شیردان/*شیردان$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^منداڵ<n><sg><def><px2sg>/child<n><sg><def><px2sg>/kid<n><sg><def><px2sg>/infant<n><sg><def><px2sg>$ ^*ڕابگری/*ڕابگری$ ^یان<cnjcoo>/or<cnjcoo>$ ^*بەر/*بەر$ ^*لەوەی/*لەوەی$ ^هەر<det><ind><sg>/any<det><ind><sg>$ ^جۆر<n><sg><dem><ezaclo>/way<n><sg><dem><ezaclo>/type<n><sg><dem><ezaclo>/brand<n><sg><dem><ezaclo>$ ^شیر<n><sg><ind><ezalos>/milk<n><sg><ind><ezalos>$ ^دیکە<n><sg><abs>/other<n><sg><abs>$ ^*بەجێی/*بەجێی$ ^شیر<n><sg><abs><ezalos>/milk<n><sg><abs><ezalos>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بە<pr><pro>/by<pr><pro>/to<pr><pro>/of<pr><pro>/with<pr><pro>$ ^دان<vblex><tv><prs><p2><sg>/give<vblex><tv><prs><p2><sg>$^.<sent>/.<sent>$
+[/wLGt1FiZRXSl]
+[wcVc25Bl5wt0#0] ^توانین<vbmod><pri><p2><sg>/can<vbmod><pri><p2><sg>$ ^یارمەتی<n><sg><abs><px1sg>/help<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دان<vblex><tv><prs><p2><sg>/give<vblex><tv><prs><p2><sg>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^*پاککردنەوەدا/*پاککردنەوەدا$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/wcVc25Bl5wt0]
+[wwRBU0LwA0dI#0] ^*وەکوو/*وەکوو$ ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^شیر<n><sg><ind><px3sg>/milk<n><sg><ind><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^دەستکرد<adj><pst>/artificial<adj><pst>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^دیکە<n><sg><abs>/other<n><sg><abs>$، ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^شیر<n><sg><dem><ezaclo>/milk<n><sg><dem><ezaclo>$ ^خاوەن<n><sg><abs><ezalos>/owner<n><sg><abs><ezalos>$ ^هیچ<n><sg><abs>/none<n><sg><abs>$ ^دژەتەن<n><sg><ind><px3sg>/antibody<n><sg><ind><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ (^*ئانتی/*ئانتی$ ^*بادی/*بادی$) ^سروشت<n><sg><abs><px3sg>/nature<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^بوون<vbcop><pri><neg><p3><sg>/be<vbser><pri><neg><p3><sg>$، ^ئەو<det><dem><sg>/that<det><dem><sg>$ ^*جۆرەی/*جۆرەی$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^شیری دایک<n><sg><abs>/breastmilk<n><sg><abs>$ ^دایە<n><sg><abs>/mother<n><sg><abs>$^.<sent>/.<sent>$
+[/wwRBU0LwA0dI]
+[wxcS6222OdJi#0] ^ئایا<qst>/$ ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^بینین<n><sg><abs><ezalos>/see<n><sg><abs><ezalos>$ ^دکتۆر<n><sg><abs>/doctor<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/wxcS6222OdJi]
+[x4agqB2yllfc#0] ^پارە<n><sg><ezaclo>/money<n><sg><ezaclo>$ ^گۆڕینەوە<n><sg><abs>/exchange<n><sg><abs>$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^بانک<n><sg><abs>/bank<n><sg><abs>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*کیۆس/*کیۆس$\/ ^*Chios/*Chios$^.<sent>/.<sent>$
+[/x4agqB2yllfc]
+[x8fVKSgWd3QU#0] ^*عەرەقی/*عەرەقی$ ^سارد<adj><pst>/cold<adj><sint><pst>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*دەردا/*دەردا$^.<sent>/.<sent>$
+[/x8fVKSgWd3QU]
+[xUVXOZJch5NS#0] ^*هیترم/*هیترم$ ^لە<pr>/at<pr>/by<pr>/in<pr>/from<pr>$ ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دەرمان<n><sg><abs>/medication<n><sg><abs>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^*دەوێت/*دەوێت$^.<sent>/.<sent>$
+[/xUVXOZJch5NS]
+[xxAhBVC1e6G8#0] ^*زوو/*زوو$ ^گەڕانەوە<vblex><iv><pri><p1><sg>/return<vblex><iv><pri><p1><sg>$^.<sent>/.<sent>$
+[/xxAhBVC1e6G8]
+[y1t7qMMGaqSW#0] ^ناو<n><sg><abs><px2sg>/name<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^*چیه/*چیه$ ^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/y1t7qMMGaqSW]
+[y3pXmASdl0TS#0] ^*پیش/*پیش$ ^*ئەوەی/*ئەوەی$ ^پاکەت<n><sg><def>/packet<n><sg><def>$ ^*بکەیەوە/*بکەیەوە$، ^*بیسڕە/*بیسڕە$ ^و<cnjcoo>/and<cnjcoo>$ ^*ڕایوەشێنە/*ڕایوەشێنە$^.<sent>/.<sent>$
+[/y3pXmASdl0TS]
+[y9n0ZnMnl3GP#0] ^*سەیارە/*سەیارە$ ^*لێیدام/*لێیدام$^.<sent>/.<sent>$
+[/y9n0ZnMnl3GP]
+[yPrtqvRxxSSe#0] ^*لێدانی/*لێدانی$ ^دڵ<n><sg><abs>/heart<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*ناڕێکە/*ناڕێکە$^.<sent>/.<sent>$
+[/yPrtqvRxxSSe]
+[yfO_GfMrhYmp#0] ^پێویست<vbmod><pri><p2><sg>/need<vbmod><pri><p2><sg>$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*چاودێری/*چاودێری$ ^پزیشک<n><sg><abs>/doctor<n><sg><abs>$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/yfO_GfMrhYmp]
+[yfSOinnK5AO6#0] ^*تکایە/*تکایە$ ^یارمەتی<n><sg><abs><px1sg>/help<n><sg><abs><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^دان<vblex><tv><prs><p3><pl>/give<vblex><tv><prs><p3><pl>$^!.<sent>/!.<sent>$
+[/yfSOinnK5AO6]
+[ynWdmKzKcyak#0] ^*هەناسەبڕکێم/*هەناسەبڕکێم$ ^ھەبوون<vbhaver><pri><p3><sg>/exist<vblex><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/ynWdmKzKcyak]
+[ypgWNIKe3k1V#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^ئەڵکۆڵ<n><sg><abs>/alcohol<n><sg><abs>$ ^*ناخۆمەوە/*ناخۆمەوە$^.<sent>/.<sent>$
+[/ypgWNIKe3k1V]
+[yqdYlBeV1et7#0] ^توانین<vbmod><neg><pri><p1><sg>/can<vbmod><neg><pri><p1><sg>$ ^مل<n><sg><abs>/neck<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*بسووڕێنم/*بسووڕێنم$^.<sent>/.<sent>$
+[/yqdYlBeV1et7]
+[yqfR09u6Kqhu#0] ^خوێن<n><sg><abs>/blood<n><sg><abs>$ ^بوون<vbcop><pri><p1><sg>/be<vbser><pri><p1><sg>$ ^*لێدەڕژێت/*لێدەڕژێت$^.<sent>/.<sent>$
+[/yqfR09u6Kqhu]
+[yrMsYS_uL845#0] ^*پولیس/*پولیس$ ^بە<pr>/by<pr>/to<pr>/of<pr>/with<pr>$ ^*تۆی/*تۆی$ ^*گوت/*گوت$ ^ک<n><sg><dem><ezaclo>/K<n><sg><dem><ezaclo>$ ^سوار<n><sg><abs><px3sg>/ride<n><sg><abs><px3sg>/passenger<n><sg><abs><px3sg>$ ^بوون<vbcop><pri><p2><sg>/be<vbser><pri><p2><sg>$ ^*قەتار/*قەتار$ ^بوون<vbcop><prs><p2><sg>/be<vbser><prs><p2><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/yrMsYS_uL845]
+[z5z-mIzAAeBJ#0] ^*بەردەوام/*بەردەوام$ ^ئازار<n><sg><abs><px1sg>/harm<n><sg><abs><px1sg>/ache<n><sg><abs><px1sg>/pain<n><sg><abs><px1sg>/bother<n><sg><abs><px1sg>/annoyance<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>/have<vbhaver><pri><p3><sg>$^.<sent>/.<sent>$
+[/z5z-mIzAAeBJ]
+[z8VCDMF4y_2e#0] ^*پیاڵیەی/*پیاڵیەی$ ^خاوێن<adj><pst>/clean<adj><sint><pst>$ ^*بەکار/*بەکار$ ^*دەهێنی/*دەهێنی$^.<sent>/.<sent>$
+[/z8VCDMF4y_2e]
+[zAz14yrIIW_x#0] ^ئەم<det><dem><sg>/this<det><dem><sg>$ ^خواردن<n><sg><dem>/food<n><sg><dem>$ ^حەڵاڵ<adj><pst>/Halal<adj><pst>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^؟<sent>/?<sent>$^.<sent>/.<sent>$
+[/zAz14yrIIW_x]
+[ziKWIJfkJPSi#0] ^من<prn><pers><p1><sg>/prpers<prn><pers><p1><mf><sg>$ ^سەرما<n><sg><abs><px1sg>/cold<n><sg><abs><px1sg>/coldness<n><sg><abs><px1sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$\/^*ڕەقم/*ڕەقم$ ^*بردەوە/*بردەوە$^.<sent>/.<sent>$
+[/ziKWIJfkJPSi]
+[zpuQA2Hs6uH8#0] ^ھەموو<det><qnt><pl>/all<det><qnt><pl>$ ^کا<n><sg><abs><px2sg>/straw<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^دۆکیۆمێنت<n><sg><abs><ezalos>/document<n><sg><abs><ezalos>$ ^فەرمی<n><sg><abs>/official<n><sg><abs>$ ^خۆ<n><sg><abs><px2sg>/self<n><sg><abs><px2sg>$ ^تۆ<prn><pers><clt><p2><sg>/you<prn><pers><p2><mf><sg>$ ^با<n><sg><abs>/wind<n><sg><abs>$ ^لەگەڵ<pr>/with<pr>$ ^بوون<vbcop><prs><p3><sg>/be<vbser><prs><p3><sg>$^.<sent>/.<sent>$
+[/zpuQA2Hs6uH8]
+[zsvjLfkOdwVy#0] (^منداڵ<n><sg><def><px1sg>/child<n><sg><def><px1sg>/kid<n><sg><def><px1sg>/infant<n><sg><def><px1sg>$ ^من<prn><pers><clt><p1><sg>/prpers<prn><pers><p1><mf><sg>$) ^نەخۆش<adj><pst><sg><dem>/ill<adj><sint><pst><sg><dem>/sick<adj><sint><pst><sg><dem>$ ^بوون<vbcop><pri><p3><sg>/be<vbser><pri><p3><sg>$^.<sent>/.<sent>$
+[/zsvjLfkOdwVy]

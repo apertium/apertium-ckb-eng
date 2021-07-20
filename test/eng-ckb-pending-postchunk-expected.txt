@@ -1,0 +1,718 @@
+[-cVMdYpBQP14#0] ^*It$ ^بوون<vbcop><pri><p3><sg>$ ^*not$ ^دەگونجێت<adj><pst>$ ^بۆ<pr>$ ^*the$ ^ساوا<n><sg>$ ^بە<pr>$ ^ھەبوون<vbhaver><inf>$ ^*breastmilk$.
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^بەهانە<n><sg>$ ^*me$.
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^ھەموو<det><qnt><pl>$ ^*well$?.
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^*I$’^*m$ ^ترس<adj><pst>$.
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^یەك<num><sg>$ ^کاتژمێر<n><sg>$.
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^قسە کردن<vblex><inf>$..
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^*I$ ^توانین<vbmod><pres>$´^*t$ ^میز کردن<vblex><inf>$.
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^سینگ<n><sg>$ ^ئێش<n><sg>$.
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^بەتانی<n><pl>$ ^بوون<vbcop><pri>$ ^*over$ ^ئەوێ<adv>$.
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^گرژبوونی سك<n><sg>$ ^ئێش<n><sg>$ ^لە<pr>$ ^لا<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^دووجەمسەری<adj><pst>$ ^ناڕێکی<n><sg>$.
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^توانین<vbmod><pres>$ ^*I$ ^*leave$ ^*the$ ^دورگە<n><sg>$ ^بەبێ<pr>$ ^*the$ ^تۆمار<n><sg>$ ^بەڵگە<n><sg>$?.
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^کچ<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^توانین<vbmod><inf>$ ^تۆ<prn><pers><p2><sg>$ ^یارمەتی<n><sg>$ ^پاك<adj><pst>$ ^*up$?.
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^قوتو<n><sg>$ ^تۆ<prn><pers><p2><sg>$ ^نووسين<vblex><inf>$ ^كە<cnjsub>$ ^*down$ ^بۆ<pr>$ ^*me$?.
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^چاک<n><sg>$ ^*evening$.
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^چای<n><sg>$ ^ویستن<n><sg>$ ^بوون<vbcop><inf>$ ^*served$.
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^سنوورداشکردن<n><sg>$ ^بە<pr>$ ^تورکیا<np><top><sg>$.
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^*I$ ^ھەبوون<vbhaver><pres>$ ^بوون<vbcop><pp>$ ^گرتن<vblex><ger>$ ^ئەم<det><dem><sg>$ ^دەرمان<n><sg>$ ^بۆ<pr>$ ^ساڵ<n><pl>$.
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^گرتن<vblex><pres>$ ^*a$ ^وێنەگرتن<n><sg>$ ^دە<pr>$ ^*your$ ^تەلەفۆن<n><sg>$ ^بە<pr>$ ^*your$ ^یوونانی<n><sg>$ ^بەڵگەنامە<n><sg>$?.
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^سکچوون<n><sg>$.
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^*I$ ^ھەبوون<vbhaver><pres>$ ^بوون<vbcop><pp>$ ^*raped$.
+[/3Tzl3L2PRqxH]
+[3XgwFnTh_9iS#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^داس<n><sg>$ ^خانە<n><sg>$ ^نەخۆشیی<n><sg>$.
+[/3XgwFnTh_9iS]
+[3wT-s_MxqncE#0] ^*I$’^*m$ ^نەخۆش<adj><pst>$.
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^سیتی<n><sg>$.
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^باشترین<adj><sint><pst>$ ^بەیانی<n><sg>$.
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^تەلەفۆن<n><sg>$ ^یان<cnjcoo>$ ^*viber$ ^ژمارە<n><sg>$ ^بە<pr>$ ^*the$ ^مرۆڤ<n><sg>$ ^ونبوو<adj><pst>$?.
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*stung$ ^بە<pr>$ ^*an$ ^مێروو<n><sg>$.
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^جلوبەرگ<n><pl>$ ^دابەشکردن<n><sg>$.
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^هەرگیز<adv>$ ^ھەبوون<vbhaver><past>$ ^ئەم<det><dem><sg>$ ^ئێش<n><sg>$ ^پێش‬<pr>$.
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^*I$ ^هەست کردن<vblex><pres>$ ^سەرما<n><sg>$.
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^*I$ ^كردن<vblex><pres>$ ^*not$ ^خواردن<vblex><inf>$ ^گۆشتی بەراز<n><sg>$.
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^شێو<n><sg>$, ^قاوە<n><sg>$, ^چا<n><sg>$?.
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*wheezing$.
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^كردن<vblex><inf>$ ^*NOT$ ^*ADD$ ^ئاو<n><sg>$ ^بە<pr>$ ^ئەم<det><dem><sg>$ ^بەرهەم<n><sg>$.
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^كردن<vblex><pres><p3><sg>$ ^*anyone$ ^لە<pr>$ ^*your$ ^کۆمەڵ<n><sg>$ ^*require$ ^*medical$ ^ئاگاداری<n><sg>$?.
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><pres>$ ^منداڵ<n><pl>$ ^بە<pr>$ ^تۆ<prn><pers><p2><sg>$?.
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^زگ<n><sg>$ ^ئازار<n><sg>$.
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^*Both$ ^بە<pr>$ ^ئەوە<prn><dem><pl>$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^وەکوویەک<adj><pst>$ ^نرخ<n><sg>$ ^بەرنامەی کار<n><sg>$:.
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^*The$ ^ئێش<n><sg>$ ^*started$ ^*gradually$.
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^*IMPORTANT$ ^هۆشداریی<n><sg>$: ^*A$ ^دایە<n><sg>$^ھەبوون<vbhaver><pres><p3><sg>$ ^*breastmilk$ ^بوون<vbcop><pri><p3><sg>$ ^*the$ ^باشترین<adj><sint><sup><pst>$ ^شێو<n><sg>$ ^بۆ<pr>$ ^*her$ ^منداڵ<n><sg>$.
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*bitten$.
+[/7TjQfxS68p1_]
+[7Ugg4-_QVJL7#0] ^*I$ ^*cannot$ ^*see$.
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^*I$’^*m$ ^تینو<adj><pst>$.
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^*As$ ^بە<pr>$ ^*5th$ ^بە<pr>$ ^حەزیران<n><sg>$ ^و<cnjcoo>$ ^*until$ ^*the$ ^کۆتایی<n><sg>$ ^بە<pr>$ ^*the$ ^*Ramadan$ ^ماوە<n><sg>$, ^دە<pr>$ ^*5th$ ^بە<pr>$ ^تەمووز<n><sg>$, ^نانی بەیانی<n><sg>$ ^ویستن<n><sg>$ ^بوون<vbcop><inf>$ ^*served$ ^بە<pr>$ ^نانی شیڤ<n><sg>$ ^لە<pr>$ ^*19$.^*00$, ^لەکاتێکدا<cnjsub>$ ^نانی نیوەڕۆ<n><sg>$ ^ویستن<n><sg>$ ^بوون<vbcop><inf>$ ^*served$ ^*as$ ^ئاسایی<adj><pst>$.
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^*I$ ^*vomit$ ^*up$ ^ھەموو<det><qnt><pl>$ ^شێو<n><sg>$ ^و<cnjcoo>$ ^*drinks$.
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^ساوا<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^*Chios$ – ^*Kavala$.
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*bleeding$.
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^بەساڵاچوو<adj><pst>$ ^مرۆڤ<n><pl>$,.
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^قاوە<n><sg>$.
+[/8iGw5cgrRTDN]
+[9Rvq1IjhS2Vq#0] ^سپاس<ij>$.
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^*Somebody$ ^*hit$ ^*me$.
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^كردن<vblex><inf>$ ^*not$ ^*use$ ^*a$ ^بوتڵ<n><sg>$. ^*Use$ ^*a$ ^پاك<adj><pst>$ ^جام<n><sg>$.
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^دڵ<n><sg><abs>+من<prn><pers><p1><sg>$ ^*beats$ ^نائاسایی<adj><pst>$.
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^<sp>$ . ^بوون<vbcop><pri><p3><sg>$ ^لەکارکەوتو<adj><pst>$.
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^*I$ ^گرتن<vblex><pres>$ ^ئەم<det><dem><sg>$ ^دەرمان<n><sg>$ ^*every$ ^رۆژ<n><sg>$.
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^كردن<vblex><pres><p3><sg>$ ^*anyone$ ^لە<pr>$ ^*your$ ^کۆمەڵ<n><sg>$ ^قسە کردن<vblex><inf>$ ^ئینگلیز<n><sg>$?.
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^جلوبەرگ<n><sg>$ (^تەنها<adv>$ ^بۆ<pr>$ ^تەڕ<adj><sint><pst>$ ^مرۆڤ<n><pl>$).
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^*Criteria$ ^بۆ<pr>$ ^*Subsidiary$ ^پاراستن<n><sg>$.
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^*I$ ^*don$’^*t$ ^زانن<vblex><pres>$.
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^وێنەگرتن<n><sg>$ ^بە<pr>$ ^یوونانی<n><sg>$ ^بەڵگە<n><pl>$?.
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^*I$ ^*don$'^*t$ ^قسە کردن<vblex><pres>$ (^ئینگلیز<n><pl>$) ^زۆر<adv>$ ^*well$.
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^ژانەسەر<n><sg>$.
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^بوون<vbcop><imp>$ ^بوار<n><sg>$ ^بە<pr>$ ^*the$ ^ڕاگواستن<n><sg>$ ^پرۆسە<n><sg>$ ^بەڵام<cnjcoo>$ ^تۆ<prn><pers><p2><sg>$ ^بوون<vbcop><pri>$ ^لە<pr>$ ^*the$ ^کۆتایی<n><sg>$ ^بە<pr>$ ^*the$ ^هێڵ<n><sg>$.
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^*It$ ^*hurts$ ^*here$.
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^*able$ ^بە<pr>$ ^نووسين<vblex><inf>$ ^*your$ ^ناو<n><sg>$?.
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^*I$ ^*don$’^*t$ ^*understand$.
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ویستن<vblex><inf>$ ^بە<pr>$ ^مانەوە<n><sg>$ ^لە<pr>$ ^*the$ ^منداڵ<n><pl>$ ^و<cnjcoo>$ ^بنەماڵ<n><pl>$' ^سەنتەر<n><sg>$ ^ئەمشەو<adv>$?.
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^*What$ ^*happened$?.
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^دووگیان<adj><pst>$.
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^توانین<vbmod><pres>$ ^*I$ ^*share$ ^*your$ ^ئاگاداری<n><sg>$ ^بە<pr>$ ^هاوپیشە<n><pl><abs>+من<prn><pers><p1><sg>$ ^لە<pr>$ ^*the$ ^دوایی<adj><pst>$ ^شەمەندەفەر<n><sg>$ ^وەستان<n><sg>$ ^*so$ ^*we$ ^توانین<vbmod><pres>$ ^*provide$ ^خزمەت<n><pl>$ ^بۆ<pr>$ ^تۆ<prn><pers><p2><sg>$ ^ئەوێ<adv>$?.
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^*I$ ^ھەبوون<vbhaver><past>$ ^*a$ ^سارد<adj><pst>$ ^ئارەق<n><sg>$.
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^*Ask$ ^بۆ<pr>$ ^*a$ ^وەرگێڕ<n><sg>$ ^بە<pr>$ ^تاووتوێ کردن<vblex><inf>$ ^بنەماڵ<n><sg>$ ^کێش<n><pl>$.
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^*hurt$?.
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^*I$’^*m$ ^خەمبار<adj><pst>$.
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^قسە کردن<vblex><inf>$ ^ئینگلیز<n><sg>$?.
+[/DOPvRI4vmIpN]
+[DQ_5BdTUNhOG#0] ^دايبي<n><sg>$.
+[/DQ_5BdTUNhOG]
+[DUk1Nz6k1DXN#0] ^توانین<vbmod><pres>$ ^*I$ ^یارمەتی<n><sg>$ ^تۆ<prn><pers><p2><sg>$ ^پاك<adj><pst>$?.
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^*Once$ ^تۆ<prn><pers><p2><sg>$ ^سەرەتا<n><sg>$ ^*using$ ^ئەم<det><dem><sg>$ ^شیر<n><sg>$ ^*it$ ^*might$ ^*not$ ^بوون<vbcop><inf>$ ^*easy$ ^بە<pr>$ ^سەرەتا<n><sg>$ ^*breastfeeding$ ^*again$.
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^میز<n><sg><abs>+من<prn><pers><p1><sg>$ ^بۆن کردن<vblex><pres><p3><sg>$ ^خراپ<adj><pst>$.
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^<sp>$ . ^بوون<vbcop><pri><p3><sg>$ ^لاواز<adj><pst>$.
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^پلەی گەرما<n><sg>$.
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*raped$.
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^ئەم<det><dem><sg>$ ^بەرهەم<n><sg>$ ^دەبێت<n><sg>$ ^*not$ ^بوون<vbcop><inf>$ ^*used$ ^پاش‬<pr>$ ^بەروار<n><sg>$ ^*printed$ ^لە<pr>$ ^*the$ ^خوارەوە<n><sg>$ ^بە<pr>$ ^*the$ ^تەنەکە<n><sg>$\/^گەلە<n><sg>$.
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^بە<pr>$ ^فۆتۆکۆپی<n><sg>$ ^*a$ ^بەڵگە<n><sg>$?.
+[/EAsRVvHJqusl]
+[EfiSikrcaGWb#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^*understand$ ^ئەم<det><dem><sg>$ ^زمان<n><sg>$?.
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^تۆ<prn><pers><p2><sg>$'^*re$ ^*welcome$.
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^سەربان<n><sg>$: € ^*41$,^*5$.
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^*Criteria$ ^بۆ<pr>$ ^*Humanitarian$ ^*Residency$ ^*permit$.
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^بە<pr>$ ^ڕێكە پێدان<n><sg>$ ^*a$ ^کۆمپیوتەر<n><sg>$?.
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^ئەوێ<adv>$ ^بوون<vbcop><pri><p3><sg>$ ^*a$ ^*medical$ ^هۆکار<n><sg>$ ^*not$ ^بە<pr>$ ^*breastfeed$.
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^زانن<vblex><inf>$ ^*which$ ^کۆمەڵ کردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^بوون<vbcop><pri>$ ^لە<pr>$?.
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^*I$ ^*think$ ^*about$ ^خوکۆشتن<n><sg>$.
+[/GE_dWfKFIf1F]
+[GRg-7lSr3uM6#0] ^*sanitary$ ^*pad$.
+[/GRg-7lSr3uM6]
+[GbgJ9QOY6EvK#0] ^*I$ ^هەست کردن<vblex><pres>$ ^*frightened$.
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*coughing$ ^*up$ ^بەڵغەم<n><sg>$.
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^هەوڵدان<vblex><inf>$ ^بە<pr>$ ^جووڵە<n><sg>$ ^بە<pr>$ ^*another$ ^بوار<n><sg>$ ^بە<pr>$ ^*your$ ^ووڵات<n><sg>$ ^بە<pr>$ ^*avoid$ ^*your$ ^کێش<n><pl>$?.
+[/Gyxo2wCba4gs]
+[GzbLmJIG8aJO#0] ^دايبي<n><sg>$.
+[/GzbLmJIG8aJO]
+[H8UUTWU1XHb2#0] ^كردن<vblex><past>$ ^*the$ ^پۆلیس<n><pl>$ ^*tell$ ^تۆ<prn><pers><p2><sg>$ ^بە<pr>$ ^گرتن<vblex><inf>$ ^*a$ ^شەمەندەفەر<n><sg>$?.
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^كڕین<vblex><imp>$ ^بلیت<n><pl>$ ^لە<pr>$ ^*advance$.
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^دەرمان<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^تۆ<prn><pers><p2><sg>$ ^*understand$ ^ھەموو<det><qnt><pl>$ ^*the$ ^*instructions$.
+[/Hz9VIgZKQjRB]
+[IB6kPZKa2QmR#0] ‘^توند<adj><pst>$ ^زیان<n><sg>$’ ^مەبەست<n><pl>$:.
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*coughing$ ^*up$ ^خوێن<n><sg>$.
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^ڕەبۆ<n><sg>$.
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^*Where$ ^توانین<vbmod><pres>$ ^*I$ ^*fill$ ^ئەم<det><dem><sg>$ ^نوسخەی دوکتور<n><sg>$?.
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^منداڵ<n><pl><abs>+من<prn><pers><p1><sg>$.
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^ئێش<n><sg>$ ^كە<cnjsub>$ ^میز کردن<vblex><ger>$.
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$ ^*the$ ^تەوالێت<n><sg>$?.
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^كردن<vblex><inf>$ ^*not$ ^بارگە<n><sg>$ ^*your$ ^تەلەفۆن<n><sg>$ ^*here$.
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^*I$ ^نیاز<n><sg>$ ^بە<pr>$ ^*sleep$.
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^بوون<vbcop><pri><p3><sg>$ ^ئەم<det><dem><sg>$ ^شێو<n><sg>$ ^*Halal$?.
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^*Goodbye$.
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^*It$ ^بوون<vbcop><pri><p3><sg>$ ^*a$ ^تیژ<adj><pst>$ ^ئێش<n><sg>$.
+[/KOPLmrEZP_rP]
+[KgsaD1YZVhKJ#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^سارد<adj><pst>$\/ ^بەستوو<adj><pst>$.
+[/KgsaD1YZVhKJ]
+[Kn7iWMHz3E47#0] ^*It$ ^*hurts$ ^كە<cnjsub>$ ^*I$ ^*touch$ ^*it$.
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^*I$’^*m$ ^برسی<adj><pst>$.
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^كردن<vblex><past>$ ^*the$ ^پۆلیس<n><pl>$ ^*tell$ ^تۆ<prn><pers><p2><sg>$ ^بە<pr>$ ^گرتن<vblex><inf>$ ^*a$ ^تاکسی<n><sg>$?.
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ویستن<vblex><pres>$ ^*a$ ^پارێزەر<n><sg>$?.
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^كردن<vblex><pres><p3><sg>$ ^*the$ ^کەنار دەریا<n><sg>$ ^نیاز<n><sg>$ ^پاك<adj><pst>$ ^*up$?.
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^دەرچوون<n><sg>$ ^خاڵ<n><sg>$.
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^*pay$ ^*more$ ^*than$ ^*the$ ^*stated$ ^نرخ<n><sg>$?.
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^*Hello$.
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^*It$ ^*gets$ ^خراپ<adj><comp><pst>$ ^كە<cnjsub>$ ^*I$ ^درۆ کردن<vblex><pres>$ ^*down$.
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^قەبزی<n><sg>$.
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$.?.
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^ھەبوون<vbhaver><past>$ ^ئەمە<prn><rel><an><mf><sp>$ ^ئێش<n><sg>$ ^پێش‬<pr>$.
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^*Where$ ^توانین<vbmod><pres>$ ^*I$ ^نوێژ کردن<vblex><pres>$?.
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^دژواری<n><sg>$ ^هەناسەدان<n><sg>$.
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^<sp>$ . ^بوون<vbcop><pri><p3><sg>$ ^*tingling$.
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^*It$ ^بوون<vbcop><pri><p3><sg>$ ^*a$ ^*dull$ ^ئێش<n><sg>$.
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^کێم<n><sg>$ ^گەروو<n><sg>$.
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^نەخۆشی ڤایرۆسی پەککەوتنی بەرگریی مرۆڤ<n><acr><sg>$.
+[/NKA0kPBBNPhW]
+[NmCWGWheVbQ5#0] ^كردن<vblex><inf>$ ^*NOT$ ^*cut$  ^*the$ ^برین<n><sg>$ ^کراوە<adj><pst>$ ^*oر$ ^هەوڵدان<vblex><pres>$ ^بە<pr>$ ^*remove$ ^*the$ ^زەهر<n><sg>$.
+[/NmCWGWheVbQ5]
+[Np5pm40Gt6Xg#0] ^*I$ ^*fell$ ^لە<pr>$ ^*a$ ^بەرز<n><sg>$.
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^ھاتن<vblex><imp>$ ^*over$ ^*here$!.
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^*Arrange$ ^*a$ ^کۆبوونەوە<n><sg>$ ^خاڵ<n><sg>$.
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^*receive$ ^*a$ ^بەتانی<n><sg>$ ^یان<cnjcoo>$ ^گەرم<adj><sint><pst>$ ^جلوبەرگ<n><sg>$?.
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^*The$ ^ئێش<n><sg>$ ^*started$ ^*here$ ^و<cnjcoo>$ ^چوون<vblex><pres><p3><sg>$ ^بە<pr>$ ^*here$.
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^*What$ ^وەخت<n><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^*it$?.
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^دراو<n><sg>$ ^گۆڕینەوە<n><sg>$ ^لە<pr>$ ^*Chios$ ^بانک<n><sg>$.
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^*I$ ^ویستن<n><sg>$ ^بوون<vbcop><inf>$ ^*back$ ^*soon$.
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^*I$ ^هەست کردن<vblex><pres>$ ^نەخۆش<adj><pst>$.
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^*able$ ^بە<pr>$ ^نووسين<vblex><inf>$ ^*the$ ^ناو<n><sg>$ ^بە<pr>$ ^*the$ ^مرۆڤ<n><sg>$ ^ونبوو<adj><pst>$?.
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^*I$ ^هەست کردن<vblex><pres>$ ^خەمبار<adj><pst>$.
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^پەنابەر<n><sg>$ ^لە<pr>$ ^یۆنان<np><top><sg>$.
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^فێ<n><sg>$.
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^دایە<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^هەست کردن<vblex><ger>$ ^سەرەگێژە<adj><pst>$?.
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^پلاندانان<n><sg>$ ^بە<pr>$ ^داوا کردن<vblex><inf>$ ^بۆ<pr>$ ^پەنابەر<n><sg>$ ^لە<pr>$ ^*fYR$ ^مەکەدۆنیا<np><top><sg>$?.
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^*I$’^*m$ ^دڵخۆش<adj><pst>$.
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^*It$ ^*already$ ^ھەبوون<vbhaver><pres><p3><sg>$ ^*pure$ ^ئاو<n><sg>$ ^*added$: ^*it$ ^بوون<vbcop><pri><p3><sg>$ ^*not$ ^پێویست<adj><pst>$ ^بە<pr>$ ^*add$ ^ئاو<n><sg>$.
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^جلوبەرگ<n><pl>$ ^تەنها<adv>$ ^بۆ<pr>$ ^تەڕ<adj><sint><pst>$ ^مرۆڤ<n><pl>$.
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^*Hold$ ^*your$ ^ساوا<n><sg>$ ^داخراو<adj><sint><pst>$ ^بە<pr>$ ^تۆ<prn><pers><p2><sg>$ ^و<cnjcoo>$ ^*let$ ^*him$\/^*her$ ^قوم<n><sg>$ ^*slowly$.
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><inf>$ ^هەر<det><ind><sp>$ ^*other$ ^بەڵگەنامە<n><sg>$ ^ئەو<det><dem><sg>$ ^پیشانگە<n><pl>$ ^*your$ ^نەتەوە<n><sg>$?.
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^هەست کردن<vblex><inf>$ ^ڕاحەت<adj><pst>$ ^*staying$ ^لە<pr>$ ^ئەم<det><dem><sg>$ ^شوێن<n><sg>$ ^ئەمرۆ<n><sg>$?.
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^بوون<vbcop><pri>$ ^ئەمە<prn><dem><mf><pl>$ ^*your$ ^منداڵ<n><pl>$?.
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$ ^*the$ ^شەمەندەفەری ژێرزەمینی<n><sg>$\/^ژێرزەمین<n><sg>$?.
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^*I$ ^وەک<pr>$ ^تۆ<prn><pers><p2><sg>$.
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^كردن<vblex><pres><p3><sg>$ ^*the$ ^مرۆڤ<n><sg>$ ^ونبوو<adj><pst>$ ^ھەبوون<vbhaver><inf>$ ^*your$ ^تەلەفۆن<n><sg>$ ^یان<cnjcoo>$ ^*viber$ ^ژمارە<n><sg>$?.
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^كردن<vblex><inf>$ ^*not$ ^*keep$ ^پاشماوە<n><sg>$ ^شیر<n><sg>$ ^بۆ<pr>$ ^*more$ ^*than$ ^*1$ ^کاتژمێر<n><sg>$ – ^*it$ ^ویستن<n><sg>$ ^*become$ ^*unclean$ ^و<cnjcoo>$ ^ناسەلامەت<adj><pst>$.
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^كردن<vblex><inf>$ ^*not$ ^دووکەڵ<n><sg>$ ^ناوەوە<pr>$.
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^کەنیسە<n><sg>$.
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*bleeding$ ^لە<pr>$ ^کۆم<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^*medical$ ^ئاگاداری<n><sg>$?.
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^*The$ ^ئێش<n><sg>$ ^*started$ ^*suddenly$.
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^ھاتن<vblex><imp>$ ^*back$ ^بە<pr>$ ^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$ ^چادر<n><sg>$ (^کەمێك<adj><sint><pst>$ ^کاتژمێر<n><pl>$).
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^لەهۆشچوو<adj><pst>$.
+[/RarAZAGzPqXb]
+[RwL1QwPACoTR#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*thalassaemia$.
+[/RwL1QwPACoTR]
+[S39AB8yOpqW1#0] ^<sp>$ .. ^هەست کردن<vblex><pres><p3><sg>$ ^*numb$.
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^*Because$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^*well$-^*founded$ ^ترس<n><sg>$:.
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^ئەم<det><dem><sg>$ ^شیر<n><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^سەرومڕ<adj><pst>$ ^بۆ<pr>$ ^ھەموو<det><qnt><pl>$ ^نیاز<n><pl>$ ^بە<pr>$ ^*a$ ^ساوا<n><sg>$ ^*until$ ^*the$ ^تەمەن<n><sg>$ ^بە<pr>$ ^شەش<num><pl>$ (^*6$) ^مانگ<n><pl>$.
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^یارمەتی<n><sg>$?.
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^ئەوێ<adv>$ ^بوون<vbcop><pri><p3><sg>$ ^خوێن<n><sg>$ ^لە<pr>$ ^پیسایی<n><pl><abs>+من<prn><pers><p1><sg>$.
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ویستن<vblex><inf>$ ^بە<pr>$ ^قسە کردن<vblex><inf>$ ^*privately$ ^بە<pr>$ ^*a$ ^وەرگێڕ<n><sg>$?.
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^*Airplanes$:.
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^توانین<vbmod><pres>$ ^*I$ ^*please$ ^گرتن<vblex><pres>$ ^*your$ ^ناو<n><sg>$ ^*so$ ^*I$ ^توانین<vbmod><pres>$ ^*check$ ^*the$ ^داتا<n><sg>$?.
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^*Don$’^*t$ ^*worry$.
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^*I$ ^نیاز<n><sg>$ ^*more$ ^بە<pr>$ ^ئەم<det><dem><sg>$ ^دەرمان<n><sg>$.
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^توانین<vbmod><pres>$ ^*I$ ^*share$ ^*your$ ^ئاگاداری<n><sg>$ ^بە<pr>$ ^هاوپیشە<n><pl><abs>+من<prn><pers><p1><sg>$ ^لە<pr>$ ^سربیا<np><top><sg>$ ^*so$ ^*we$ ^توانین<vbmod><pres>$ ^*provide$ ^خزمەت<n><pl>$ ^بۆ<pr>$ ^تۆ<prn><pers><p2><sg>$ ^ئەوێ<adv>$?.
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^*I$ ^نیاز<n><sg>$ ^بە<pr>$ ^كردن<vblex><inf>$ ^*a$ ^تەلەفۆن<n><sg>$ ^بانگ<n><sg>$.
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^توانین<vbmod><inf>$ ^تۆ<prn><pers><p2><sg>$ ^پیشانگە<n><sg>$ ^*us$ ^*the$ ^سیستمی شوێن دیاریکردنی جیهانیی<n><acr><sg>$ ^خاڵ<n><sg>$ ^دە<pr>$ ^*your$ ^تەلەفۆن<n><sg>$ ^بە<pr>$ ^*find$ ^*the$ ^*others$!.
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^پاس<n><sg>$ ^نرخ<n><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^*3$ ^یۆرۆ<n><pl>$.
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*diabetic$.
+[/V15Z8xG6v1ck]
+[VO7AsGXpkakT#0] ^*Where$ ^توانین<vbmod><pres>$ ^*I$ ^كڕین<vblex><pres>$_____?.
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^*see$ ^هەر<det><ind><sp>$ ^پەنابەر<n><pl>$?.
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^*Emergency$ ^جلوبەرگ<n><sg>$ ^سەنتەر<n><sg>$.
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^بانگ<n><sg>$ ^و<cnjcoo>$ ^*notify$ ^*XXX$ ^*upon$ ^گەشتن<n><sg>$.
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^*I$ ^نیاز<n><sg>$ ^بە<pr>$ ^*see$ ^*a$ ^دکتۆر<n><sg>$.
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^گونجاو<adj><pst>$ ^لە<pr>$ ^لەدایکبوون<n><sg>$.
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><pres>$ ^پووڵ<n><sg>$ ^بە<pr>$ ^*purchase$ ^*your$ ^بلیت<n><pl>$?.
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^منداڵ<n><sg>$ ^فرمۆڵ<n><sg>$.
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^تا<n><sg>$.
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^*The$ ^ئێش<n><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^ئەوێ<adv>$ ^ھەموو<det><qnt><pl>$ ^*the$ ^وەخت<n><sg>$.
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^*I$ ^هەست کردن<vblex><pres>$ ^سەرەگێژە<adj><pst>$.
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^*I$ ^میز کردن<vblex><pres>$ ^*every$ ^کاتژمێر<n><sg>$.
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^بوتڵ<n><pl>$ ^و<cnjcoo>$ ^*UNCLEAN$ ^جام<n><pl>$ ^توانین<vbmod><pres>$ ^كردن<vblex><inf>$ ^*YOUR$ ^منداڵ<n><sg>$ ^نەخۆش<adj><pst>$!.
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$ ^برسی<adj><pst>$ ^بوون<vbcop><pri><p3><sg>$.
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^بارگە<n><sg>$ ^*your$ ^تەلەفۆن<n><sg>$ ^لە<pr>$ ^گەورە<adj><pst>$ ^چادر<n><pl>$ ^یان<cnjcoo>$ ^تەکنۆلۆژیای پەیوەندی و زانیاری<n><acr><sg>$ ^سەنتەر<n><sg>$.
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^زگ<n><sg>$ ^ئازار<n><sg>$.
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^*I$ ^*would$ ^وەک<pr>$ ^*an$ ^مەوعید<n><sg>$.
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^*I$ ^نیاز<n><sg>$ ^ئەنسۆلین<n><sg>$.
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^مێرد <n><sg><abs>+من<prn><pers><p1><sg>$.
+[/YWyXdLfrEb_I]
+[Y_XLpgYI7Yki#0] ^*Depending$ ^دە<pr>$ ^*the$ ^بارودۆخ<n><pl>$ ^لە<pr>$ ^*the$ ^ووڵات<n><sg>$ ^بە<pr>$ ^ڕەگەز<n><sg>$, ^*a$ ^تایبەتی<adj><pst>$ ^کۆمەڵایەتی<adj><pst>$ ^کۆمەڵ<n><sg>$ ^*might$ ^*include$ ^*a$ ^کۆمەڵ<n><sg>$ ^*based$ ^دە<pr>$ ^*a$ ^باو<n><sg>$ ^جیاکەرەوە<adj><pst>$ ^بە<pr>$ ^جوتكرتن<adj><pst>$ ^حەز<n><sg>$.
+[/Y_XLpgYI7Yki]
+[YwKNfGdoL7b2#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><pres>$ ^ڕێكە پێدان<n><sg>$ ^بە<pr>$ ^*a$ ^تەلەفۆن<n><sg>$?.
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^ھەبوون<vbhaver><ger>$ ^*an$ ^هەستەوەر<adj><pst>$ ^کاردانەوە<n><sg>$.
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^*Please$.
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^شەکرە<n><sg>$.
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^کوڕ<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^*I$ ^*hear$ ^دەنگ<n><pl>$ ^كە<cnjsub>$ ^*i$ ^بوون<vbcop><pri><p1><sg>$ ^تەنیا<adj><pst>$.
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^توانین<vbmod><pres>$ ^*I$ ^چوون<vblex><inf>$ ^بە<pr>$ ^*a$ ^ئوتێل<n><sg>$?.
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^كردن<vblex><inf>$ ^*not$ ^تیشک<n><sg>$ ^ئاگر<n><pl>$ ^ناوەوە<pr>$.
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^توانین<vbmod><pres>$ ^*I$ ^*share$ ^ئاگاداری<n><sg>$ ^بە<pr>$ ^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$ ^*Tabernovce$?.
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^هەست کردن<vblex><ger>$ ^زۆر<adv>$ ^سارد<adj><pst>$?.
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^*receive$ ^مەکەدۆنیا<np><top><sg>$ ^بەڵگە<n><pl>$?.
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^*I$ ^ھەبوون<vbhaver><pres>$ ^بوون<vbcop><pp>$ ^نەخۆش<adj><pst>$.
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^كردن<vblex><past>$ ^*they$ ^یارمەتی<n><sg>$?.
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^سیل<n><sg>$.
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^توانین<vbmod><pres>$ ^*I$ ^نووسين<vblex><inf>$ ^*your$ ^ناو<n><sg>$ ^بۆ<pr>$ ^*your$ ^بنەماڵ<n><sg>$?.
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^*the$ ^بەش<n><sg>$ ^*louder$?.
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^*I$ ^ھەبوون<vbhaver><past>$ ^*a$ ^فێ<n><sg>$.
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^*I$ ^نیاز<n><sg>$ ^*an$ ^ئامبوڵانس<n><sg>$.
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^بوون<vbcop><imp>$ ^بەئاگا<adj><pst>$. ^*Don$’^*t$ ^*leave$ ^*the$ ^منداڵ<n><pl>$ ^*approaching$. ^تەنها<adv>$ ^گەورەساڵ<n><pl>$.
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^كردن<vblex><past>$ ^*the$ ^پۆلیس<n><pl>$ ^*tell$ ^تۆ<prn><pers><p2><sg>$ ^بە<pr>$ ^گرتن<vblex><inf>$ ^*a$ ^پاسی ڕێگای دوور<n><sg>$?.
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^*What$ ^بوون<vbcop><pri><p3><sg>$ ^*your$ ^ناو<n><sg>$?.
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^یەك<num><sg>$ ^مانگ<n><sg>$.
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^توانین<vbmod><inf>$ ^تۆ<prn><pers><p2><sg>$ ^*read$ ^ئەم<det><dem><sg>$ ^زمان<n><sg>$?.
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^*It$ ^ویستن<n><sg>$ ^*not$ ^پارێزگاری کردن<vblex><inf>$ ^*your$ ^ساوا<n><sg>$ ^*against$ ^هەوکردن<n><pl>$.
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^ئاودیۆ<adj><pst>$ ^ڕاگەیاندن<n><pl>$ ^ھەبوون<vbhaver><pres>$ ^*more$ ^ئاگاداری<n><sg>$.
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^كردن<vblex><past>$ ^ئەوە<prn><dem><mf><sg>$ ^یارمەتی<n><sg>$?.
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^داوا کردن<vblex><imp>$ ^بۆ<pr>$ ^پەنابەر<n><sg>$.
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^*An$ ^نزیکەی<adj><pst>$ ^نرخ<n><sg>$ ^بوون<vbcop><pri><p3><sg>$:.
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^*I$ ^هەست کردن<vblex><pres>$ ^وەک<pr>$ ^*I$'^*m$ ^بوون<vbcop><pprs>$ ^تەماشا کردن<vblex><pp>$.
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^یارمەتی<n><sg>$!.
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^بوون<vbcop><pri>$ ^ئەوێ<adv>$ ^ژیان<n><sg>$ ^چاکەت<n><pl>$ ^دە<pr>$ ^*the$ ^ڕۆخی دەریا<n><sg>$?.
+[/cp106njscflr]
+[dLVFrZpmXOFH#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^باوك<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^کۆکە<n><sg>$.
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^توانین<vbmod><inf>$ ^تۆ<prn><pers><p2><sg>$ ^بانگ كردن<vblex><inf>$ ^كە<cnjsub>$ ^تۆ<prn><pers><p2><sg>$ ^*see$ ^*a$ ^بەلەم<n><sg>$?.
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*injured$.
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^*I$ ^*don$’^*t$ ^خواردن<vblex><pres>$ ^گۆشت <n><sg>$ ^و<cnjcoo>$ ^ماسی<n><sg>$.
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^ڕاوێژ کردن<vblex><imp>$ ^*a$ ^دکتۆر<n><sg>$ ^پێش‬<pr>$ ^تۆ<prn><pers><p2><sg>$ ^وەستان<n><sg>$ ^*breastfeeding$ ^یان<cnjcoo>$ ^پێش‬<pr>$ ^تۆ<prn><pers><p2><sg>$ ^دان<vblex><pres>$ ^هەر<det><ind><sp>$ ^*breastmilk$ ^جێگرەوە<n><sg>$ ^بە<pr>$ ^*your$ ^ساوا<n><sg>$.
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^*I$ ^*don$'^*t$ ^هەست کردن<vblex><inf>$ ^*well$ .
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^*Wipe$ ^و<cnjcoo>$ ^*shake$ ^*the$ ^پاکەت<n><sg>$ ^پێش‬<pr>$ ^كردنەوە<vblex><subs>$.
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^*I$ ^*cannot$ ^قسە کردن<vblex><inf>$.
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^*Where$ ^توانین<vbmod><pres>$ ^*I$ ^گرتن<vblex><pres>$ ^*a$ ^دوش<n><sg>$?.
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^زانن<vblex><inf>$ ^*who$ ^*your$ ^کۆمەڵ<n><sg>$ ^پێشەوا<n><sg>$ ^بوون<vbcop><pri><p3><sg>$?.
+[/f-rVGHiVH4eO]
+[fAdk1Jb1YJj5#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^درێژخایەن<adj><pst>$ ^هەوکردنی سی<n><sg>$.
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^قوتو<n><sg>$ ^تۆ<prn><pers><p2><sg>$ ^*hear$ ^ئەمە<prn><dem><mf><sg>$ ^*recording$?.
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^لە<pr>$ ^کارکردن<n><sg>$.
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^زۆر<adv>$ ^*soon$.
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^ماوە<n><pl><abs>+من<prn><pers><p1><sg>$ ^تەواو کردن<vblex><past>$, ^بەڵام<cnjcoo>$ ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*bleeding$ ^*again$.
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^سپی بونەوەی خوێن<n><sg>$.
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^دەردراو<n><sg>$ ^لە<pr>$ ^زێ<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^*Use$ ^ئەم<det><dem><sg>$ ^شیر<n><sg>$ ^تەنها<adv>$ ^*if$:.
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^داوا کردن<vblex><imp>$ ^بۆ<pr>$ ^ڕاگواستن<n><sg>$ ^بە<pr>$ ^ئەورۆپا<np><top><sg>$.
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^دووگیان<adj><pst>$ ^و<cnjcoo>$ ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*bleeding$.
+[/g8HAVQxvCJto]
+[gTu_7uLkHWhV#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^هەستەوەر<adj><pst>$ ^بە<pr>$….
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^كردن<vblex><inf>$ ^*not$ ^*leave$ ^*belongings$ ^پشتگوێخراو<adj><pst>$.
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^*The$ ^ئێش<n><sg>$ ^ھاتن<vblex><pres><p3><sg>$ ^و<cnjcoo>$ ^چوون<vblex><pres><p3><sg>$.
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^ئەوێ<adv>$ ^بوون<vbcop><pri><p3><sg>$ ^خوێن<n><sg>$ ^لە<pr>$ ^میز<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^ماوە<n><sg>$: ^كە<cnjsub>$ ^تۆ<prn><pers><p2><sg>$’^*re$ ^*describing$ ^شت<n><pl>$ ^ئەوە<prn><rel><an><mf><sp>$ ^*happened$ ^بە<pr>$ ^تۆ<prn><pers><p2><sg>$, ^*include$ ^*how$ ^درێژ<adj><pst>$ ^ئەمە<prn><dem><mf><pl>$ ^شت<n><pl>$ ^*lasted$.
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^*Thank$ ^تۆ<prn><pers><p2><sg>$.
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^ھاتن<vblex><imp>$ ^*back$ ^بە<pr>$ ^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$ ^چادر<n><sg>$ (^*1$ ^کاتژمێر<n><sg>$).
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^كردن<vblex><inf>$ ^*I$ ^دەبێ<vbmod><pres>$ ^بوون<vbcop><inf>$ ^*admitted$ ^بە<pr>$ ^*the$ ^نەخۆشخانە<n><sg>$?.
+[/huTy0MmshOEv]
+[hxJ7aubwTPdR#0] ^سانتی گەورە<n><sg>$.
+[/hxJ7aubwTPdR]
+[iDX0TI6GWWU8#0] ^كردن<vblex><inf>$ ^*not$ ^*pour$ ^*the$ ^شیر<n><sg>$ ^ناو<pr>$ ^*his$\/^*her$ ^دەم<n><sg>$. ^*Let$ ^*the$ ^ساوا<n><sg>$ ^گرتن<vblex><inf>$ ^*as$ ^*much$ ^*as$ ^*he$ \/ ^*she$ ^ویستن<vblex><pres><p3><sg>$.
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^ھەروەھا<adv>$ ^*explain$ ^*if$ ^تۆ<prn><pers><p2><sg>$ ^هەوڵدان<vblex><past>$ ^بە<pr>$ ^*leave$ ^*your$ ^ووڵات<n><sg>$ ^بەڵام<cnjcoo>$ ^*couldn$’^*t$ ^و<cnjcoo>$ ^*what$ ^*stopped$ ^تۆ<prn><pers><p2><sg>$.
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^*I$ ^هەست کردن<vblex><pres>$ ^*depressed$.
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ویستن<vblex><pres>$ ^*a$ ^وەرگێڕ<n><sg>$?.
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$ ^*the$ ^حەمام<n><sg>$?.
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^*Chios$ – ^*Pireas$ (^*Athens$).
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^ئەم<det><dem><sg>$ ^شیر<n><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^وەکوویەک<adj><pst>$ ^بە<pr>$ ^ئەوە<prn><rel><an><mf><sp>$ ^بە<pr>$ ^ھەموو<det><qnt><pl>$ ^*other$ ^جۆر<n><pl>$ ^بە<pr>$ ^ئامادە<adj><sint><pst>$-^كردن<vblex><pp>$ ^فرمۆڵ<n><pl>$ ^بۆ<pr>$ ^هەڕاجکردن<n><sg>$.
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^یەك<num><sg>$ ^رۆژ<n><sg>$.
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^دڵ<n><sg><abs>+من<prn><pers><p1><sg>$ ^*beats$ ^*fast$.
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^تۆ<prn><pers><p2><sg>$ ^دەبێ<vbmod><pres>$ ^*wait$.
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^*I$ ^نیاز<n><sg>$ ^بە<pr>$ ^گرتن<vblex><inf>$ ^*a$ ^دوش<n><sg>$.
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^بە<pr>$ ^*scan$ ^*a$ ^بەڵگە<n><sg>$?.
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^*I$ ^*don$'^*t$ ^*drink$ ^ئەڵکۆڵ<n><sg>$.
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^پاش‬<pr>$ ^شەش<num><pl>$ ^مانگ<n><pl>$, ^*he$\/^*she$ ^*should$ ^ھەروەھا<adv>$ ^سەرەتا<n><sg>$ ^بە<pr>$ ^*receive$ ^*other$ ^شێو<n><pl>$.
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^وەک<pr>$ ^ھەموو<det><qnt><pl>$ ^دەستکرد<adj><pst>$ ^فرمۆڵ<n><pl>$ ^ئەم<det><dem><sg>$ ^شیر<n><sg>$ ^كردن<vblex><pres><p3><sg>$ ^*not$ ^*contain$ ^*the$ ^*living$ ^دژەتەن<n><pl>$ ^*which$ ^بوون<vbcop><pri>$ ^لە<pr>$ ^دایە<n><sg>$^ھەبوون<vbhaver><pres><p3><sg>$ ^شیر<n><sg>$.
+[/k80CqVkntef_]
+[kLiinEJtx4Xq#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*cut$ ^بە<pr>$ ^*a$ ^کارد<n><sg>$.
+[/kLiinEJtx4Xq]
+[k_aTscixQ_zT#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*hit$ ^بە<pr>$ ^*a$ ^ماشێن<n><sg>$.
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^*Chios$ – ^سالونیکی<np><top><sg>$.
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><pres>$..
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^برا<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^*I$ ^*cannot$ ^*flex$ ^مل<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^*I$ ^نیاز<n><sg>$ ^بە<pr>$ ^چوون<vblex><inf>$ ^بە<pr>$ ^*the$ ^نەخۆشخانە<n><sg>$.
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^ژووری گەشتیاران<n><pl>$ (^*4$-^جێگەوبان<n><sg>$ ^یان<cnjcoo>$ ^*2$-^جێگەوبان<n><sg>$): € ^*61$ - € ^*81$,^*5$.
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^*INSTRUCTIONS$.
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^*Chios$ - ^*Athens$.
+[/ljZDDl39wxUQ]
+[mIMyvwEIK6GK#0] ^توانین<vbmod><pres>$ ^*I$ ^*share$ ^ئاگاداری<n><sg>$ ^بە<pr>$ ^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$ ^سربیا<np><top><sg>$?.
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^وێستگەی پاس <n><sg>$.
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^*I$ ^*might$ ^بوون<vbcop><inf>$ ^دووگیان<adj><pst>$.
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^كردن<vblex><inf>$ ^*not$ ^تەختەی ئاگاداریەکان<n><sg>$ ^شەمەندەفەر<n><sg>$ ^*if$ ^*your$ ^بنەماڵ<n><sg>$ ^بوون<vbcop><pri>$ ^ونبوو<adj><pst>$ ^بەڵگە<n><pl>$.
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^*Pour$ ^*the$ ^ناوئاخن<n><pl>$ ^ناو<pr>$ ^*a$ ^پاك<adj><pst>$ ^جام<n><sg>$.
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*a$ ^ڕووەکی<n><sg>$.
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^*a$ ^دکتۆر<n><sg>$?.
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^*the$ ^رۆژ<n><sg>$ ^پاش‬<pr>$ ^سبەی<adv>$.
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^شیزۆفرنیا<n><sg>$.
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^توانین<vbmod><pres>$ ^*I$ ^نووسين<vblex><inf>$ ^*your$ ^ژمارە<n><sg>$ ^بۆ<pr>$ ^*your$ ^بنەماڵ<n><sg>$?.
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^*I$ ^ھەبوون<vbhaver><past>$ ^*a$ ^*myocardial$ ^*infarction$.
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^دوایی<adj><pst>$ ^هەفتە<n><sg>$.
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^هەوڵدان<vblex><inf>$ ^بە<pr>$ ^كردن<vblex><inf>$ ^*anything$ ^بە<pr>$ ^وەستان<n><sg>$ ^*the$ ^کێش<n><pl>$ ^ئەوە<prn><rel><an><mf><sp>$ ^*happened$ ^بە<pr>$ ^تۆ<prn><pers><p2><sg>$ ^لە<pr>$ ^*your$ ^ووڵات<n><sg>$ ^و<cnjcoo>$ ^*what$ ^*happened$?.
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$ ^*the$ ^تۆمار<n><sg>$ ^سەنتەر<n><sg>$?.
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^وشک<adj><sint><pst>$ ^گۆرەوی<n><pl>$.
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^هەست کردن<vblex><inf>$ ^ڕاحەت<adj><pst>$ ^*staying$ ^لە<pr>$ ^ئەم<det><dem><sg>$ ^چادر<n><sg>$ ^ئەمشەو<adv>$?.
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^*It$ ^*gets$ ^خراپ<adj><comp><pst>$ ^كە<cnjsub>$ ^*I$ ^*stand$ ^*up$.
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^بانک<n><sg>$.
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^درێژخایەن<adj><pst>$ ^خەمۆکی<n><sg>$.
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^*I$ ^بوون<vbcop><pri><p1><sg>$ ^*bleeding$ ^*between$ ^ماوە<n><pl><abs>+من<prn><pers><p1><sg>$.
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^بەروار<n><pl>$ ^و<cnjcoo>$ ^وەخت<n><pl>$: ^كە<cnjsub>$ ^شت<n><pl>$ ^*happened$.
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^شێرپەنجە<n><sg>$.
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^سارد<adj><pst>$?.
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^*I$ ^هەست کردن<vblex><pres>$ ^نەخۆش<adj><pst>$.
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$ ^نەخۆش<adj><pst>$ ^بوون<vbcop><pri><p3><sg>$.
+[/rruTPdItSDzt]
+[rwfNGW4JCWSW#0] ^*I$ ^بوون<vbcop><past><p1><sg>$ ^*stabbed$ ^بە<pr>$ ^*a$ ^کارد<n><sg>$.
+[/rwfNGW4JCWSW]
+[s7Q0OGfjZRnp#0] ^نانەواخانە<n><sg>$.
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^*I$’^*m$ ^لە<pr>$..
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^هەست کردن<vblex><inf>$ ^ڕاحەت<adj><pst>$ ^*staying$ ^لە<pr>$ ^ئەم<det><dem><sg>$ ^شوێن<n><sg>$ ^ئەمشەو<adv>$?.
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^منداڵ<n><pl>$^ھەبوون<vbhaver><pres><p3><sg>$ ^جلوبەرگ<n><pl>$ ^و<cnjcoo>$ ^پێڵاو<n><pl>$ ^بوون<vbcop><pri>$ ^*over$ ^ئەوێ<adv>$.
+[/sKnVg9c3wgPk]
+[sL_HBGnjWZZ7#0] ^كردن<vblex><past>$ ^تۆ<prn><pers><p2><sg>$ ^هەوڵدان<vblex><inf>$ ^بە<pr>$ ^*get$ ^یارمەتی<n><sg>$ ^لە<pr>$ ^*your$ ^حکوومەت<n><sg>$, ^*the$ ^پۆلیس<n><pl>$ ^یان<cnjcoo>$ ^*anyone$ ^*else$?.
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^ئەوێ<adv>$ ^بوون<vbcop><pri><p3><sg>$ ^خوێن<n><sg>$ ^لە<pr>$ ^<sp>$ ^*vomit$.
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^ئاگاداری<n><sg>$ ^دە<pr>$ ^*the$ ^شەمەندەفەر<n><sg>$ ^گەشتن<n><sg>$ ^وەخت<n><sg>$?.
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^*Criteria$ ^بۆ<pr>$ ^پەنابەر<n><sg>$ ^ڕەوش<n><sg>$.
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^شتن<vblex><imp>$ ^*your$ ^دەست<n><pl>$ ^بە<pr>$ ^سابون<n><sg>$ ^و<cnjcoo>$ ^ئاو<n><sg>$.
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^*Please$ ^یارمەتی<n><sg>$ ^*me$!.
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^تەڕ<adj><sint><pst>$?.
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^كردن<vblex><inf>$ ^*not$ ^*leave$ ^بەبێ<pr>$ ^*your$ ^بەڵگە<n><pl>$.
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^*I$ ^دواجار<adj><ord><pst>$ ^ھەبوون<vbhaver><past>$ ^سێکس<n><sg>$ ^*2$ ^رۆژ<n><pl>$ ^*ago$.
+[/tUSD4dCLXWX0]
+[u0Ua6BswCLAS#0] ^كردن<vblex><inf>$ ^تۆ<prn><pers><p2><sg>$ ^نیاز<n><sg>$ ^*somewhere$ ^بە<pr>$ ^مانەوە<n><sg>$ ^ئەمشەو<adv>$?.
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^*How$ ^درێژ<adj><pst>$ ^كردن<vblex><inf>$ ^*we$ ^دەبێ<vbmod><pres>$ ^*wait$ ^*here$?.
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^*Keep$ ^لە<pr>$ ^*a$ ^فینک<adj><sint><pst>$, ^وشک<adj><sint><pst>$ ^شوێن<n><sg>$ ^بە<pr>$ ^*the$ ^سەرقاپ<n><sg>$ ^*tightly$ ^*closed$.
+[/uV1Knjxoza8R]
+[vRAgJar8tn00#0] ^كە<cnjsub>$ ^كردن<vblex><inf>$ ^*I$ ^دەبێ<vbmod><pres>$ ^ھاتن<vblex><inf>$ ^*back$?.
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^دەردراو<n><sg>$ ^لە<pr>$ ^مێزڕۆ<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^*I$ ^ھەبوون<vbhaver><pres>$ ^*not$ ^ھەبوون<vbhaver><past>$ ^سێکس<n><sg>$ ^بۆ<pr>$ ^*a$ ^درێژ<adj><pst>$ ^وەخت<n><sg>$.
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^*I$’^*m$ ^نەخۆش<adj><pst>$.
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^*Where$ ^بوون<vbcop><pri><p3><sg>$ ^ژوور<n><sg>$ ^ژمارە<n><sg>$ ____?.
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^منداڵ<n><pl>$ ^یاریگا<n><sg>$.
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^*a$ ^خوێنبەربوونی لوت<n><sg>$.
+[/w0AvVZIxpGhd]
+[wC993Gwit5JM#0] ^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$ ^ھەبوون<vbhaver><pres><p3><sg>$ ^*a$ ^کێم<n><sg>$ ^گەروو<n><sg>$\/ ^کۆکە<n><sg>$.
+[/wC993Gwit5JM]
+[x9ZR51bquijB#0] ^ناو<n><sg><abs>+من<prn><pers><p1><sg>$ ^بوون<vbcop><pri><p3><sg>$..
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^ژن<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^بوون<vbcop><pri>$ ^تۆ<prn><pers><p2><sg>$ ^پلاندانان<n><sg>$ ^بە<pr>$ ^مانەوە<n><sg>$ ^*here$ ^لە<pr>$ ^*fYR$ ^مەکەدۆنیا<np><top><sg>$?.
+[/xP8oBT2cOS_l]
+[xbZhurUzUjTa#0] ^وشک<adj><sint><pst>$ ^پانتۆڵ<n><sg>$.
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^*I$ ^*don$’^*t$ ^ھەبوون<vbhaver><inf>$ ^هەر<det><ind><sp>$ ^پووڵ<n><sg>$.
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^*I$ ^نیاز<n><sg>$ ^*a$ ^دکتۆر<n><sg>$.
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^كردن<vblex><inf>$ ^*NOT$ ^هەوڵدان<vblex><inf>$ ^بە<pr>$ ^بەزۆر داگیر کردن<vblex><inf>$ ^*the$ ^مار<n><sg>$.
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^*Where$ ^توانین<vbmod><pres>$ ^*I$ ^*find$____?.
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^*I$ ^*fainted$.
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^كردن<vblex><inf>$ ^*NOT$ ^*put$ ^*anything$ ^تەسك<adj><sint><pst>$ ^*around$, ^*such$ ^*as$ ^*a$ ^لەفاف<n><sg>$.
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^*I$ ^ھەبوون<vbhaver><pres>$ ^بوون<vbcop><pp>$ ^*shaking$.
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^*Based$ ^دە<pr>$ ^یەك<num><sg>$ ^یان<cnjcoo>$ ^*more$ ^بە<pr>$ ^*the$ ^دواتر<adj><pst>$ ^هۆکار<n><pl>$:.
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^ئەمە<prn><dem><mf><sg>$ ^بوون<vbcop><pri><p3><sg>$ ^خوشک<n><sg><abs>+من<prn><pers><p1><sg>$.
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^دەرچونی کتوپڕ<n><sg>$.
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^*I$ ^ھەبوون<vbhaver><inf>$ ^دڵ<n><sg>$ ^شکست<n><sg>$.
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^ھاتن<vblex><imp>$ ^*back$ ^بە<pr>$ ^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$ ^چادر<n><sg>$ (^بەیانی<n><sg>$).
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^تۆ<prn><pers><p2><sg>$ ^ھەبوون<vbhaver><pres>$ ^ڕێكە پێدان<n><sg>$ ^بە<pr>$ ^پاك<adj><pst>$ ^جام<n><pl>$.
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^*I$ ^*fell$ ^*down$.
+[/zdsTseZB0L6p]

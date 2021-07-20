@@ -341,7 +341,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -376,7 +376,7 @@
       <program name="lt-proc -w">
         <file name="eng-ckb.automorf.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -416,7 +416,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -471,7 +471,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
     </pipeline>
@@ -487,7 +487,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -504,7 +504,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -524,7 +524,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -547,7 +547,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -571,7 +571,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>
@@ -599,7 +599,7 @@
       <program name="cg-proc -w">
         <file name="eng-ckb.rlx.bin"/>
       </program>
-      <program name="apertium-tagger -g $2">
+      <program name="apertium-tagger -g -x $2">
         <file name="eng-ckb.prob"/>
       </program>
       <program name="apertium-pretransfer"/>

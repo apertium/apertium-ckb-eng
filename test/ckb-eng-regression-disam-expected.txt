@@ -1,0 +1,28 @@
+[-nkpwjClSL6B#0] ^هەست/ھەست<n><sg><abs>/هەست<n><sg><abs>$ ^بە/بە<pr>/بە<pr><pro>$ ^نەخۆشی/نەخۆش<adj><pst>+بوون<vbcop><pri><p2><sg>$ ^دەکەم/*دەکەم$^./.<sent>$
+[/-nkpwjClSL6B]
+[BVmB5NEPGT9_#0] ^هەست/ھەست<n><sg><abs>/هەست<n><sg><abs>$ ^بە/بە<pr>/بە<pr><pro>$ ^ترس/ترس<n><sg><abs>$ ^دەکەم/*دەکەم$^./.<sent>$
+[/BVmB5NEPGT9_]
+[EbcpDdZ84bSW#0] ^من/من<prn><pers><p1><sg>$ ^تام/تا<n><sg><abs><px1sg>$ ^هەیە/ھەبوون<vbhaver><pri><p3><sg>$^./.<sent>$
+[/EbcpDdZ84bSW]
+[IDQFBG-HKmrR#0] ^شێرپەنجەم/شێرپەنجە<n><sg><abs><px1sg>$ ^هەیە/ھەبوون<vbhaver><pri><p3><sg>$^./.<sent>$
+[/IDQFBG-HKmrR]
+[LOzS4ZD4ylb_#0] ^من/من<prn><pers><p1><sg>$ ^ڕەبۆم/ڕەبۆ<n><sg><abs><px1sg>$ ^هەیە/ھەبوون<vbhaver><pri><p3><sg>$^./.<sent>$
+[/LOzS4ZD4ylb_]
+[QgV_QcovfgB4#0] ^ژانەسەرم/ژانەسەر<n><sg><abs><px1sg>$ ^هەیە/ھەبوون<vbhaver><pri><p3><sg>$^./.<sent>$
+[/QgV_QcovfgB4]
+[W4r_A23apXgp#0] ^نەخۆشم/نەخۆش<adj><pst>+بوون<vbcop><pri><p1><sg>$^./.<sent>$
+[/W4r_A23apXgp]
+[YJGdt87qar30#0] ^یەک/*یەک$ ^کاتژمێر/کاتژمێر<n><sg><abs>$^./.<sent>$
+[/YJGdt87qar30]
+[_YmJhY4WaxXa#0] ^من/من<prn><pers><p1><sg>$ ^دووگیانم/دووگیان<adj><pst>+بوون<vbcop><pri><p1><sg>$^./.<sent>$
+[/_YmJhY4WaxXa]
+[fZYdaiGlTCh8#0] ^تام/تا<n><sg><abs><px1sg>$ ^هەیە/ھەبوون<vbhaver><pri><p3><sg>$^./.<sent>$
+[/fZYdaiGlTCh8]
+[i30L3L9WUi98#0] ^هەست/ھەست<n><sg><abs>/هەست<n><sg><abs>$ ^بە/بە<pr>/بە<pr><pro>$ ^سەرەگێژە/سەرەگێژە<n><sg><abs>/سەرەگێژە<n><sg><ezaclo>/سەرەگێژە<n><sg><dem><ezaclo>/سەرەگێژە<n><sg><dem><ezalos>/سەرەگێژە<n><sg><ind><ezaclo>/سەرەگێژە<n><sg><def><ezaclo>/سەرەگێژە<n><pl><dem><ezaclo>/سەرەگێژە<n><pl><ind><ezaclo>$ ^دەکەم/*دەکەم$^./.<sent>$
+[/i30L3L9WUi98]
+[tKSlq4bhRAkF#0] ^فڕۆکەکان/فڕۆکە<n><pl><def>$^:/:<sent>$
+[/tKSlq4bhRAkF]
+[tzRl-hsxh6B6#0] ^دەکۆخم/*دەکۆخم$^./.<sent>$
+[/tzRl-hsxh6B6]
+[wdWYtlBOWY4X#0] ^یەک/*یەک$ ^ڕۆژ/ڕۆژ<n><sg><abs>$^./.<sent>$
+[/wdWYtlBOWY4X]

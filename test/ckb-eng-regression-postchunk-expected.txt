@@ -1,0 +1,28 @@
+[-nkpwjClSL6B#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^ill<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^*دەکەم$^.<sent>$
+[/-nkpwjClSL6B]
+[BVmB5NEPGT9_#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^fear<n><sg>$ ^*دەکەم$^.<sent>$
+[/BVmB5NEPGT9_]
+[EbcpDdZ84bSW#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^a<det><ind><sg>$ ^fever<n><sg>$^.<sent>$
+[/EbcpDdZ84bSW]
+[IDQFBG-HKmrR#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^cancer<n><sg>$^.<sent>$
+[/IDQFBG-HKmrR]
+[LOzS4ZD4ylb_#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres>$ ^a<det><ind><sg>$ ^asthma<n><sg>$^.<sent>$
+[/LOzS4ZD4ylb_]
+[QgV_QcovfgB4#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^headache<n><sg>$^.<sent>$
+[/QgV_QcovfgB4]
+[W4r_A23apXgp#0] ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$^ill<adj><sint>$ ^.<sent>$
+[/W4r_A23apXgp]
+[YJGdt87qar30#0] ^*یەک$ ^hour<n><sg>$^.<sent>$
+[/YJGdt87qar30]
+[_YmJhY4WaxXa#0] ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$^.<sent>$
+[/_YmJhY4WaxXa]
+[fZYdaiGlTCh8#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^fever<n><sg>$^.<sent>$
+[/fZYdaiGlTCh8]
+[i30L3L9WUi98#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^dizzy<n><sg>$ ^*دەکەم$^.<sent>$
+[/i30L3L9WUi98]
+[tKSlq4bhRAkF#0] ^aeroplane<n><pl>$^:<sent>$
+[/tKSlq4bhRAkF]
+[tzRl-hsxh6B6#0] ^*دەکۆخم$^.<sent>$
+[/tzRl-hsxh6B6]
+[wdWYtlBOWY4X#0] ^*یەک$ ^day<n><sg>$^.<sent>$
+[/wdWYtlBOWY4X]

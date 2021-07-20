@@ -1,0 +1,28 @@
+[-nkpwjClSL6B#0] ^ھەست<n><sg><abs>$ ^بە<pr>$ ^نەخۆش<adj><pst>+بوون<vbcop><pri><p2><sg>$ ^*دەکەم$^.<sent>$
+[/-nkpwjClSL6B]
+[BVmB5NEPGT9_#0] ^ھەست<n><sg><abs>$ ^بە<pr>$ ^ترس<n><sg><abs>$ ^*دەکەم$^.<sent>$
+[/BVmB5NEPGT9_]
+[EbcpDdZ84bSW#0] ^من<prn><pers><p1><sg>$ ^تا<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>$^.<sent>$
+[/EbcpDdZ84bSW]
+[IDQFBG-HKmrR#0] ^شێرپەنجە<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>$^.<sent>$
+[/IDQFBG-HKmrR]
+[LOzS4ZD4ylb_#0] ^من<prn><pers><p1><sg>$ ^ڕەبۆ<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>$^.<sent>$
+[/LOzS4ZD4ylb_]
+[QgV_QcovfgB4#0] ^ژانەسەر<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>$^.<sent>$
+[/QgV_QcovfgB4]
+[W4r_A23apXgp#0] ^نەخۆش<adj><pst>+بوون<vbcop><pri><p1><sg>$^.<sent>$
+[/W4r_A23apXgp]
+[YJGdt87qar30#0] ^*یەک$ ^کاتژمێر<n><sg><abs>$^.<sent>$
+[/YJGdt87qar30]
+[_YmJhY4WaxXa#0] ^من<prn><pers><p1><sg>$ ^دووگیان<adj><pst>+بوون<vbcop><pri><p1><sg>$^.<sent>$
+[/_YmJhY4WaxXa]
+[fZYdaiGlTCh8#0] ^تا<n><sg><abs><px1sg>$ ^ھەبوون<vbhaver><pri><p3><sg>$^.<sent>$
+[/fZYdaiGlTCh8]
+[i30L3L9WUi98#0] ^ھەست<n><sg><abs>$ ^بە<pr>$ ^سەرەگێژە<n><sg><abs>$ ^*دەکەم$^.<sent>$
+[/i30L3L9WUi98]
+[tKSlq4bhRAkF#0] ^فڕۆکە<n><pl><def>$^:<sent>$
+[/tKSlq4bhRAkF]
+[tzRl-hsxh6B6#0] ^*دەکۆخم$^.<sent>$
+[/tzRl-hsxh6B6]
+[wdWYtlBOWY4X#0] ^*یەک$ ^ڕۆژ<n><sg><abs>$^.<sent>$
+[/wdWYtlBOWY4X]

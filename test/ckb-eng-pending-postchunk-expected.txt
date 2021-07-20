@@ -1,0 +1,682 @@
+[-LlDvCwdDcvF#0] ^child<n><sg><def><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^throat<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*دێشێ$ \/ ^*دەکۆخێ$^.<sent>$
+[/-LlDvCwdDcvF]
+[-iVQR8j2gloX#0] ^that<det><dem><sg>$ ^*کەسەی$ ^missing<n><sg>$ ^be<vbser><perf><p3><sg>$ ^number<n><sg><ezaclo>$ ^phone<n><sg>$ ^or<cnjcoo>$ ^number<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*وایبری$ ^*تۆی$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/-iVQR8j2gloX]
+[-iiLECo3crRm#0] ^fare<n><sg><ind><px3sg>$ ^be<vbser><pres><p2><sg>$ ^approximate<adj>$ ^be<vbser><pres><p2><sg>$ ^include<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^at<pr>$^:<sent>$^.<sent>$
+[/-iiLECo3crRm]
+[0-sDeBLkTybz#0] ^..<sent>$ ^*م$ ^*سڕن$^.<sent>$
+[/0-sDeBLkTybz]
+[0HPaTiZE6ksB#0] ^can<vbmod><neg><pri><p1><sg>$ ^speak<vblex><tv><prs><p1><sg>$^.<sent>$
+[/0HPaTiZE6ksB]
+[0KngPkCLe5AW#0] ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^frightened<adj>$^.<sent>$
+[/0KngPkCLe5AW]
+[0Tc8fAbuudwF#0] ^*منداله$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*م$ ^hungry<adj><sint>$ ^be<vbser><pres><p3><sg>$ ^*تی$^.<sent>$
+[/0Tc8fAbuudwF]
+[0Y9nJEoPwILi#0] ^fare<n><sg><abs><ezalos>$ ^bus<n><sg>$ ^*3$ ^euro<n><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/0Y9nJEoPwILi]
+[0hJ8vsQEvoDX#0] ^with<pr>$ ^*کۆکەدا$ ^salt<n><sg>$ ^be<vbser><pres><p2><pl>$ ^village<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$^.<sent>$
+[/0hJ8vsQEvoDX]
+[0m8YNV0stCcG#0] ^urine<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*بۆنێکی$ ^*پیسی$ ^*لێدێت$^.<sent>$
+[/0m8YNV0stCcG]
+[0wqtjFJqtiSZ#0] ^prpers<prn><pers><p1><mf><sg>$ ^*دەستدرێژیم$ ^*کراوەتە$ ^head<n><sg>$^.<sent>$
+[/0wqtjFJqtiSZ]
+[18RPdihMlZDz#0] ^attention<n><sg><abs><px3sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$ ^*دەنگییەکان$ ^information<n><sg>$ ^*زیاتریان$ ^*تێدایە$^.<sent>$
+[/18RPdihMlZDz]
+[1AMFQ0q9gdOe#0] ^*تێلەفۆنت$ ^foot<n><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/1AMFQ0q9gdOe]
+[1BjlxymV7yYJ#0] ^..<sent>$ ^*م$ ^*چزووی$ ^*پێدادێت$^.<sent>$
+[/1BjlxymV7yYJ]
+[1TkvMPHwTdKg#0] ^carry<vblex><imp>$ ^by<pr>$ ^a<det><ind><sg>$ ^part<n><sg>$ ^at<pr>$ ^process<n><sg><abs><px3sg>$ ^*جێگۆڕینەکە$ ^but<cnjcoo>$ ^you<prn><pers><p2><mf><sg>$ ^*لەکۆتایی$ ^*هێڵەکەدایت$^.<sent>$
+[/1TkvMPHwTdKg]
+[1kBR6YYpHSqr#0] ^*نانەوا$^.<sent>$
+[/1kBR6YYpHSqr]
+[24gCepOBkVQ_#0] ^*پاش$ ^six<num><pl>$ ^month<n><pl>$، ^child<n><sg>$ ^must<vbmod><pri>$ ^food<n><sg><abs><ezalos>$ ^other<n><sg><abs><emph>$ ^be<vbser><pres><p2><sg>$ ^*پێبدرێت$^.<sent>$
+[/24gCepOBkVQ_]
+[2Cx3DF9VA8D6#0] ^none<n><sg>$ ^money<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^by<pr><pro>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/2Cx3DF9VA8D6]
+[2rSYjSz7GPwB#0] ^*دەتەوی$ ^by<pr>$ ^alone<adj>$ ^*لەگەل$ ^a<det><ind><sg>$ ^translator<n><sg>$  ^speak<vblex><imp>$^?<sent>$ ^.<sent>$
+[/2rSYjSz7GPwB]
+[2sP1JPKha5a-#0] ^*تکایە$^.<sent>$
+[/2sP1JPKha5a-]
+[2uaQSYlnz6Ct#0] ^*ئەمە$ ^*مێرده‌که‌ە$^.<sent>$
+[/2uaQSYlnz6Ct]
+[353WqS2zb0rU#0] ^*پەنابەرێتی$ ^at<pr>$ ^Greece<np><top><sg>$^.<sent>$
+[/353WqS2zb0rU]
+[3JY9d1BCze59#0] ^you<prn><pers><p2><mf><sg>$ ^additional<adj>$ ^at<pr>$ ^money<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*دیاریکراو$ ^money<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*داوە$^?<sent>$^.<sent>$
+[/3JY9d1BCze59]
+[3r9px7G99hsB#0] ^prpers<prn><subj><p2><mf><sg>$ ^have<vbhaver><pres><p2><sg>$ ^level<n><pl>$ ^*بمێنیتەوە$ ^*لێرە$ ^at<pr>$ ^republic<n><sg><abs><px3sg>$ ^*یۆگسلافیای$ ^*پێشوو$ ^*مەقەدۆنیا$^?<sent>$^.<sent>$
+[/3r9px7G99hsB]
+[3rfxeGD_Dj45#0] ^*چی$ ^*رویدا$^?<sent>$^.<sent>$
+[/3rfxeGD_Dj45]
+[4B3lllHA-DZY#0] ^*توالیت$ ^at<pr>$ ^*کوێیە$^?<sent>$^.<sent>$
+[/4B3lllHA-DZY]
+[4Ds5EW6sOfoJ#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^tuberculosis<n><sg>$^.<sent>$
+[/4Ds5EW6sOfoJ]
+[4tb52NuxNB8Z#0] ^daughter<n><sg>$ ^be<vbser><pres><p1><sg>$^.<sent>$
+[/4tb52NuxNB8Z]
+[4u3Xljk070vE#0] ^prpers<prn><pers><p1><mf><sg>$ ^*سگچوونم$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/4u3Xljk070vE]
+[4uGVyndDOokS#0] ^can<vbmod><pri><p2><sg>$ ^ear<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^registration<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^vote<n><sg><abs><px3sg>$ ^he<prn><pers><clt><p3><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><prs><p3><sg>$^?<sent>$^.<sent>$
+[/4uGVyndDOokS]
+[5Dp7GZGXk2Kd#0] ^belly<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*دێشێ$^.<sent>$
+[/5Dp7GZGXk2Kd]
+[5DpjAp17CXCk#0] ^deportation<n><sg>$ ^to<pr>$ ^Turkey<np><top><sg>$^.<sent>$
+[/5DpjAp17CXCk]
+[5HclXJ11yVg8#0] ^*چونکە$ ^you<prn><pers><p2><mf><sg>$ ^fear<n><sg><ind><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*قوڵت$ ^exist<vblex><pri><p3><sg>$^:<sent>$^.<sent>$
+[/5HclXJ11yVg8]
+[5LqCY8jwA4nr#0] ^can<vbmod><pri><p1><sg>$ ^name<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^know<vblex><tv><prs><p1><sg>$ ^fever<n><sg>$ ^*داتابەیسەکە$ ^turn<vblex><tv><prs><p1><sg>$^?<sent>$^.<sent>$
+[/5LqCY8jwA4nr]
+[5QJaq4Jkw9ek#0] ^blanket<n><sg>$ ^and<cnjcoo>$ ^clothes<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*گەرمیان$ ^*پێداوی$^?<sent>$^.<sent>$
+[/5QJaq4Jkw9ek]
+[62pMfieJYYca#0] ^centre<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*ناونووسیکردن$ ^at<pr>$ ^total<n><sg><dem>$^?<sent>$^.<sent>$
+[/62pMfieJYYca]
+[6EVAqvT3SkLx#0] ^reason<n><sg><abs><ezalos>$ ^prpers<prn><subj><p3><m><sg>$ ^have<vbhaver><pres><p3><sg>$ ^a<det><ind><sg>$ ^doctor<n><sg>$ ^K<n><sg><dem><ezaclo>$ ^breastmilk<n><sg><abs><ezalos>$ ^by<pr><pro>$ ^*نەدرێت$^.<sent>$
+[/6EVAqvT3SkLx]
+[6RLyu5EtvW2t#0] ^*شایەنی$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/6RLyu5EtvW2t]
+[6_M5zK4tYX_F#0] ^*ئێواره‌ت$ ^well<adj><sint>$^.<sent>$
+[/6_M5zK4tYX_F]
+[6d5jy25OkW1f#0] ^*تێناگەم$^.<sent>$
+[/6d5jy25OkW1f]
+[6gB-R2OY1GXY#0] ^coffee<n><sg>$^.<sent>$
+[/6gB-R2OY1GXY]
+[6wsLPUcRnv-Y#0] ^*بەرماوەی$ ^milk<n><sg>$ ^at<pr>$ ^a<det><ind><sg>$ ^hour<n><sg>$ ^additional<adj>$ ^*ڕامەگرە$ - ^*چون$ ^*پیس$ ^must<n><sg>$ ^and<cnjcoo>$ ^*ناسڵامەتە$^.<sent>$
+[/6wsLPUcRnv-Y]
+[6y9Z9ZcsV3Qf#0] ^*وەرە$ ^to<pr>$ ^*ئێرە$^!.<sent>$
+[/6y9Z9ZcsV3Qf]
+[79xaIpsejwNr#0] ^suitable<adj>$، ^at<pr>$ ^time<n><sg><abs><ezalos>$ ^birth<n><sg>$^.<sent>$
+[/79xaIpsejwNr]
+[7DlKNNb7fLpF#0] ^*ئەمە$ ^*باوكمه$^.<sent>$
+[/7DlKNNb7fLpF]
+[7P5EWUuvaKmO#0] ^two<num><pl>$ ^day<n><pl>$ ^at<pr>$ ^you<prn><pers><p2><pl>$ ^*پێش$ ^*پێوەندی$ ^*جینسیم$ ^exist<vblex><past><p3><sg>$^.<sent>$
+[/7P5EWUuvaKmO]
+[7QRP3lmIxQtv#0] ^at<pr>$ ^*کوێ$ ^....<sent>$ ^*بدۆزمەوە$^?<sent>$^.<sent>$
+[/7QRP3lmIxQtv]
+[7bKwWLoRhFlo#0] ^needed\/required<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*چاوەڕوان$ ^be<vbser><prs><p2><sg>$^.<sent>$
+[/7bKwWLoRhFlo]
+[7tUQXVx6ZiLQ#0] ^feel<vblex><pres>$ ^*چاودێری$ ^*دەکرێم$^.<sent>$
+[/7tUQXVx6ZiLQ]
+[7yDobGDD_slg#0] ^morning<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^well<adj><sint>$^.<sent>$
+[/7yDobGDD_slg]
+[7yY1_NXvm-PE#0] ^socks<n><sg>$ ^dry<adj>$^.<sent>$
+[/7yY1_NXvm-PE]
+[815Ab21RoJ_z#0] ^number<n><sg><abs><ezalos>$ ^cellphone<n><sg>$ ^*یا$ ^viber<n><sg><abs><ezalos>$ ^that<det><dem><sg>$ ^*کەسەت$ ^*پێە$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*وون$ ^be<vbser><perf><p3><sg>$^?<sent>$^.<sent>$
+[/815Ab21RoJ_z]
+[8G49ox_ug_Q9#0] ^*پیویسته$ ^*حەمامیک$ ^*بکەم$^.<sent>$
+[/8G49ox_ug_Q9]
+[8K7vXh9OVaAB#0] ^water<n><sg>$ ^*زێدە$ ^*مەکە$ ^this<det><dem><sg>$ ^product<n><sg>$^.<sent>$
+[/8K7vXh9OVaAB]
+[8POGSakgWFjH#0] ^*توشی$ ^some<det><qnt><sp>$ ^game<n><pl>$ ^*بووم$^.<sent>$
+[/8POGSakgWFjH]
+[8TVvIYNcnS02#0] ^..<sent>$ ^*م$ ^be<vbser><prs><p3><sg>$ ^force<n><sg><dem>$^.<sent>$
+[/8TVvIYNcnS02]
+[8Z9gin3WiSud#0] ^*یەک$ ^month<n><sg>$^.<sent>$
+[/8Z9gin3WiSud]
+[8nG4z-fwiKzT#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*ئەستوربوونی$ ^myocardial<n><sg><abs><px1sg>$ ^have<vbhaver><perf><p3><sg>$^.<sent>$
+[/8nG4z-fwiKzT]
+[8roEAFDFgw5_#0] ^site<n><sg><abs><ezalos>$ ^departure<n><sg>$^.<sent>$
+[/8roEAFDFgw5_]
+[90hKOA9CMuIw#0] ^any<det><ind><sg>$ ^hour<n><sg><abs><ezalos>$ ^a<det><ind><sg>$ ^time<n><sg>$ ^urinate<vblex><pres>$^.<sent>$
+[/90hKOA9CMuIw]
+[90sKpsAMIfrM#0] ^can<vbmod><pri><p1><pl>$ ^*بەم$ ^language<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*بخوێنیتەوە$^?<sent>$^.<sent>$
+[/90sKpsAMIfrM]
+[9MOxgAQ52n2R#0] ^can<vbmod><pri><p1><sg>$ ^go<vblex><iv><prs><p1><sg>$ ^to<pr>$ ^a<det><ind><sg>$ ^hotel<n><sg>$^?<sent>$^.<sent>$
+[/9MOxgAQ52n2R]
+[9MPJ0JycxTJA#0] ^by<pr>$ ^*تەلەفونەکەت$ ^picture<n><sg><abs><ezalos>$ ^document<n><pl>$ ^be<vbser><pres><p2><sg>$ ^*یوونانت$ ^*هەڵگرتووە$^?<sent>$^.<sent>$
+[/9MPJ0JycxTJA]
+[9NRPA5EOOjiM#0] ^*بورامەوە$^.<sent>$
+[/9NRPA5EOOjiM]
+[9drsNzdU8YDD#0] ^bottle<n><sg>$ ^*بەکار$ ^*مەهێنە$^.<sent>$ ^*پیاڵەیەکی$ ^clean<adj><sint>$ ^*بەکار$ ^*بێنە$^.<sent>$
+[/9drsNzdU8YDD]
+[9sLdOXWYco7D#0] ^none<n><sg>$ ^asylum<n><sg><ind><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*بینیوە$^?<sent>$^.<sent>$
+[/9sLdOXWYco7D]
+[9woHonjzKM41#0] ^at<pr>$ ^*رشانەوەمدا$ ^blood<n><sg>$ ^be<vbser><pres><p2><pl>$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/9woHonjzKM41]
+[A6LFOkF59C4j#0] ^*مناڵه‌کانم$^.<sent>$
+[/A6LFOkF59C4j]
+[AKJYa_FsAK95#0] ^a<det><ind><sg>$ ^harm<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*کەمە$^.<sent>$
+[/AKJYa_FsAK95]
+[ArvOj8CP9Oop#0] ^*کەوتم$^.<sent>$
+[/ArvOj8CP9Oop]
+[AuLoyIg1QRX9#0] ^*تووشی$ ^*تەنگەفەسیی$ ^*بووم$^.<sent>$
+[/AuLoyIg1QRX9]
+[AwNs-umTp1GM#0] ^*لەوانەیە$ ^pregnant<adj>$ ^be<vbser><prs><p1><sg>$^.<sent>$
+[/AwNs-umTp1GM]
+[AzlJnkKHWSfM#0] ^*پولیس$ ^by<pr>$ ^*تۆی$ ^*گوت$ ^K<n><sg><dem><ezaclo>$ ^ride<n><sg><abs><ezalos>$ ^taxi<n><sg>$ ^be<vbser><prs><p2><sg>$^?<sent>$^.<sent>$
+[/AzlJnkKHWSfM]
+[B4d7B6_S-WyW#0] ^*لەکاتی$ ^*میزکردن$  ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^J<n><pl>$^.<sent>$
+[/B4d7B6_S-WyW]
+[BHvniXtyxq8x#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^information<n><sg>$ ^exist<vblex><pri><p3><sg>$ ^on<pr>$ ^arrival time<n><sg><abs><ezalos>$ ^train<n><sg>$^?<sent>$^.<sent>$
+[/BHvniXtyxq8x]
+[BM0DTs8fqGmq#0] ^*بگەڕێوە$ ^to<pr>$ ^tent<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*UNHCR$ (^*یەک$ ^hour<n><sg><abs><ezalos>$ ^other<n><sg>$)^.<sent>$
+[/BM0DTs8fqGmq]
+[BuJc6pyRlLR9#0] ^clothes<n><sg>$ ^alone<adj>$ ^to<pr>$ ^a<det><ind><sg>$ ^people<n><sg>$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^wet<adj>$ ^be<vbser><past><p3><pl>$^.<sent>$
+[/BuJc6pyRlLR9]
+[C2jgS2OJzmsk#0] ^needed\/required<n><sg><ezaclo>$ ^a<det><ind><sg>$ ^phone<n><sg>$ ^*بکەم$^.<sent>$
+[/C2jgS2OJzmsk]
+[C5ypHTbaZnYw#0] ^ride<n><sg><abs><ezalos>$ ^none<n><sg>$ ^a<det><ind><sg>$ ^train<n><sg>$ ^carry<vblex><imp><neg>$ ^*ئەگەر$ ^family<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^document<n><sg><abs><ezalos>$ ^official<n><sg>$ ^*تەواویان$ ^by<pr><pro>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/C5ypHTbaZnYw]
+[CL1VQgGhngbS#0] ^*ببوره‌$^.<sent>$
+[/CL1VQgGhngbS]
+[CNydPBW8hx46#0] ^English<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^speak<vblex><pres>$^?<sent>$^.<sent>$
+[/CNydPBW8hx46]
+[CPnK5ODQDZT3#0] ^*ماوەیەکە$ ^*دەلەرزم$^.<sent>$
+[/CPnK5ODQDZT3]
+[CSWlurwTrJAW#0] ^harm<n><sg>$ ^*لێرەوە$ ^*دەستپێدەکات$ ^and<cnjcoo>$ ^village<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^to<pr>$ ^*ئێرە$^.<sent>$
+[/CSWlurwTrJAW]
+[Cck9OBw3PtY1#0] ^*ئەوە$ ^helpful<adj>$ ^be<vbser><past><p3><sg>$^?<sent>$^.<sent>$
+[/Cck9OBw3PtY1]
+[CfAY8OIUbLPE#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^*دڵتەنگی$ ^*دەکەم$^.<sent>$
+[/CfAY8OIUbLPE]
+[CgcuEm1aXUwz#0] ^cabins<n><sg>$ ^be<vbser><pres><p2><sg>$ (^*4$-^*جێگە$ ^or<cnjcoo>$ ^*2$-^*جێگە$)^:<sent>$ ^*٦١$ ^euro<n><sg>$ - ^*٨١$،^*٥$ ^euro<n><sg>$^.<sent>$
+[/CgcuEm1aXUwz]
+[D2Nqga_iFbYs#0] ^name<n><sg>$ ^be<vbser><pres><p1><sg>$^.<sent>$
+[/D2Nqga_iFbYs]
+[E416LcZbN5RL#0] ^*هەوڵتداوە$ ^*داوای$ ^help<n><sg>$ ^*بکەیت$ ^at<pr>$ ^government<n><sg><abs><ezalos>$ ^state<n><sg><abs><ezalos>$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$، ^*یا$ ^at<pr>$ ^police<n><sg>$ ^*یا$ ^at<pr>$ ^*هەرکەسێکی$ ^other<n><sg>$^?<sent>$^.<sent>$
+[/E416LcZbN5RL]
+[EB_f23np4WTc#0] ^centre<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*جلی$ ^*فریاکەوتن$^.<sent>$
+[/EB_f23np4WTc]
+[EZ4rbNpDtmmu#0] ^*بگەڕێوە$ ^to<pr>$ ^tent<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*UNHCR$ (^*چەند$ ^hour<n><sg><abs><ezalos>$ ^other<n><sg>$)^.<sent>$
+[/EZ4rbNpDtmmu]
+[E_HI-XhV8iw5#0] ^prpers<prn><pers><p1><mf><sg>$ ^*دڵتەنگم$^.<sent>$
+[/E_HI-XhV8iw5]
+[EeFYMjdvb85o#0] ^*کیۆس$ - ^*ساڵۆنێکی$^.<sent>$
+[/EeFYMjdvb85o]
+[F4RlTACWIme0#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^vote<n><sg><abs><px3sg>$ ^prpers<prn><subj><p3><GD><sg>$ ^be<vbser><pres><p3><sg>$^louder<adj>$ ^?<sent>$^.<sent>$
+[/F4RlTACWIme0]
+[FSl0QYp9QA1v#0] ^prpers<prn><pers><p1><mf><sg>$ ^can<vbmod><neg><pri><p1><sg>$ ^by<pr>$ ^well<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^by<pr>$ ^language<n><sg><abs><ezalos>$ (^English<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$) ^speak<vblex><tv><prs><p1><sg>$^.<sent>$
+[/FSl0QYp9QA1v]
+[F_tmPkaQmuqL#0] ^sanitary pad<n><sg>$                 ^.<sent>$
+[/F_tmPkaQmuqL]
+[G3aZmla88831#0] ^base<n><sg>$ ^on<pr>$ ^someone<n><sg>$ ^or<cnjcoo>$ ^additional<adj>$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^some<det><qnt><sp>$ ^reason<n><pl>$ ^be<vbser><pres><p3><sg>$^:<sent>$^.<sent>$
+[/G3aZmla88831]
+[G6zG5Osf-ObJ#0] ^distribution<n><sg><abs><ezalos>$ ^clothes<n><sg>$^.<sent>$
+[/G6zG5Osf-ObJ]
+[GjNK4bpPL4HS#0] ^straw<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^and<cnjcoo>$ ^date<n><sg>$^:<sent>$ ^*کەنگێ$ ^thing<n><pl>$ ^*پێش$ ^village<n><sg>$ ^be<vbser><pres><p2><pl>$^.<sent>$
+[/GjNK4bpPL4HS]
+[Gso9BkYpCJE0#0] ^*جل$ ^and<cnjcoo>$ ^*پێلاوی$ ^some<det><qnt><sp>$ ^child<n><pl>$ ^*لەوێن$^.<sent>$
+[/Gso9BkYpCJE0]
+[HLlnDIGyVbMu#0] ^a<det><ind><sg>$ ^harm<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*توندوتیژە$^.<sent>$
+[/HLlnDIGyVbMu]
+[HQilqvU84qY9#0] ^son<n><sg>$ ^be<vbser><pres><p1><sg>$^.<sent>$
+[/HQilqvU84qY9]
+[HwRh6Nm3KJrw#0] ^*شیبوونەوەی$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^blood<n><sg>$^.<sent>$
+[/HwRh6Nm3KJrw]
+[IMTP-9Zygn6g#0] ^day<n><pl><dem>$ ^be<vbser><pres><p3><sg>$ ^this<det><dem><sg>$ ^medication<n><sg>$ ^eat<vblex><pres>$^.<sent>$
+[/IMTP-9Zygn6g]
+[IeOKZ7fClnzV#0] ^at<pr>$ ^*سمتمەوە$ ^salt<n><sg>$ ^be<vbser><pres><p2><pl>$ ^village<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$^.<sent>$
+[/IeOKZ7fClnzV]
+[Ik6tG6vucmJ0#0] ^cancer<n><sg><abs><ezalos>$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^blood<n><sg>$^.<sent>$
+[/Ik6tG6vucmJ0]
+[It7UPcBvmtFr#0] ^*تۆم$ ^by<pr>$ ^heart<n><sg>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/It7UPcBvmtFr]
+[J-BOHztkzUbu#0] ^can<vbmod><neg><pri><p1><sg>$ ^*ببینم$^.<sent>$
+[/J-BOHztkzUbu]
+[J4DsRQU_SsH6#0] ^cough<n><sg><def><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^sputum<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*تێدایە$^.<sent>$
+[/J4DsRQU_SsH6]
+[J63vG3cyl7gk#0] ^depression<n><sg><abs><px3sg>$ ^he<prn><clt><p3><sg>$ ^be<vbser><pres><p1><sg>$ ^chronic<adj>$ ^with<pr>$^.<sent>$
+[/J63vG3cyl7gk]
+[JIhDP0EkG9q7#0] ^at<pr>$ ^*کوی$ ^on<pr>$ ^*توانم$ ^bathroom<n><sg>$ ^*بکەم$^?<sent>$^.<sent>$
+[/JIhDP0EkG9q7]
+[Ja9Q6PERrjV0#0] ^organisation<n><sg><abs><ezalos>$ ^spot<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*چاوپێکەوتن$^.<sent>$
+[/Ja9Q6PERrjV0]
+[Jc2zosyHbNkY#0] ^can<vbmod><pri><p1><sg>$ ^this<det><dem><sg>$ ^information<n><sg>$ ^give<vblex><tv><prs><p1><sg>$ ^by<pr>$ ^assisstance<n><pl><ind><px1sg>$ ^at<pr>$ ^*سربیار$ ^fever<n><sg>$ ^*بتوانین$ ^*خزمەتگوزاریت$ ^to<pr>$ ^*دابینبکەین$ ^there<adv>$^.<sent>$
+[/Jc2zosyHbNkY]
+[JdFABL4J0swI#0] ^*ئارام$ ^and<cnjcoo>$ ^happy<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^*جێگایا$ ^today<n><sg>$^?<sent>$^.<sent>$
+[/JdFABL4J0swI]
+[JkQxfwj7PdSY#0] ^....<sent>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/JkQxfwj7PdSY]
+[K03n7pz8_ghc#0] ^need<n><sg>$ ^be<vbser><pres><p2><sg>$ ^by<pr>$ ^*کۆپیەک$ ^at<pr>$ ^document<n><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/K03n7pz8_ghc]
+[K4R0ddlvzp3_#0] ^*سوپاس$^.<sent>$
+[/K4R0ddlvzp3_]
+[KEpPMrm8dBpo#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^translator<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/KEpPMrm8dBpo]
+[KHmw7FzLNgIR#0] ^a<det><ind><sg>$ ^person<n><sg>$ ^*لێیدام$^.<sent>$
+[/KHmw7FzLNgIR]
+[KINSwqb_ltZ9#0] ^*خواحافیز$ ^*یا$ ^god<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^with<pr>$^.<sent>$
+[/KINSwqb_ltZ9]
+[KJbKZ-zryAzG#0] ^this<det><dem><sg>$ ^milk<n><sg>$ ^all<det><qnt><pl>$ ^need<n><pl><def><ezalos>$ ^a<det><ind><sg>$ ^child<n><sg>$ ^*هەتا$ ^age<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ (^*6$) ^six<num><pl>$ ^month<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*دابین$ ^*دەکات$^.<sent>$
+[/KJbKZ-zryAzG]
+[KNJIx0ycRS8l#0] ^*تینوومه$^.<sent>$
+[/KNJIx0ycRS8l]
+[KaTwctdsPoPb#0] ^document<n><pl>$ ^be<vbser><pres><p2><sg>$ ^*FYRMت$ ^*پێگەیشتووە$^?<sent>$^.<sent>$
+[/KaTwctdsPoPb]
+[KiWiQAfufdQV#0] ^*ئارام$ ^and<cnjcoo>$ ^happy<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^*جێگایا$ ^tonight<adv>$^?<sent>$^.<sent>$
+[/KiWiQAfufdQV]
+[L5zBRi-s9Z4z#0] ^*ئەوە$ ^medication<n><sg><def><px1sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/L5zBRi-s9Z4z]
+[LAA9fRfif85h#0] ^prpers<prn><pers><p1><mf><sg>$ ^*گیاخۆرم$^.<sent>$
+[/LAA9fRfif85h]
+[LZEYQygUxjeN#0] ^life jacket<n><sg>$ ^on<pr>$ ^shore<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/LZEYQygUxjeN]
+[LZUOOFrHSPnY#0] ^*هەوڵی$ ^*گرتنی$ ^snake<n><sg>$ ^give<vblex><imp><neg>$^.<sent>$
+[/LZUOOFrHSPnY]
+[Lx6sp6KhdTfX#0] ^*ئەمانە$ ^child<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^self<n><sg><abs><px2sg>$ ^be<vbser><pres><p2><pl>$ ^be<vbser><pres><p2><pl>$^?<sent>$^.<sent>$
+[/Lx6sp6KhdTfX]
+[MK8ZuWTkZXUE#0] ^none<n><sg>$ ^*هەولت$ ^*داوە$ ^to<pr>$ ^*ڕاگرتنی$ ^that<det><dem><sg>$ ^problem<n><sg>$ ^and<cnjcoo>$ ^*گرفتانەی$ ^at<pr>$ ^state<n><sg><def><px2sg>$ ^*بەسەرت$ ^*هاتووە$، ^at<pr>$ ^*دوایە$ ^*چی$ ^*پێش$ ^*هات$^?<sent>$^.<sent>$
+[/MK8ZuWTkZXUE]
+[MS8734fTqgeU#0] ^none<n><sg>$ ^document<n><sg><ind><ezalos>$ ^other<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^foot<n><sg><dem><ezaclo>$ ^K<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*ڕەگەزنامەی$ ^you<prn><pers><p2><mf><sg>$ ^*دەربخات$^?<sent>$^.<sent>$
+[/MS8734fTqgeU]
+[Mg2kN2Tx7S0b#0] ^prpers<prn><pers><p1><mf><sg>$ ^*برسیمه‌$^.<sent>$
+[/Mg2kN2Tx7S0b]
+[MxChjSaV5dmV#0] ^*جگەرە$ ^*مەکێشە$ ^at<pr>$ ^*ژوورەوە$^.<sent>$
+[/MxChjSaV5dmV]
+[MzI_cnQ6-gw0#0] ^at<pr>$ ^day<n><sg><abs><px3sg>$ ^*٥$ ^of<pr>$ ^month<n><sg><abs><px3sg>$ ^*حوزەیرانەوە$ ^*هەتاوەکو$ ^end<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^be<vbser><pres><p2><sg>$ ^period<n><sg><abs><ezalos>$ ^Ramadan<n><sg>$، ^at<pr>$ ^*٥$ ^of<pr>$ ^month<n><sg><abs><px3sg>$ ^*تەمموزەوە$ ^breakfast<n><sg>$ ^with<pr>$ ^dinner<n><sg><ezaclo>$ ^hour<n><sg>$ ^*١٩$^:<sent>$^*٠٠$ (^*٧$^:<sent>$^*٠٠$) ^gift<n><sg>$ ^*دەکرێت$^.<sent>$ ^lunch<n><sg>$ ^like<adj>$ ^self<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*دەمێنێتەوە$^.<sent>$
+[/MzI_cnQ6-gw0]
+[NDqsAQw3A3Cr#0] ^hurt<adj>$ ^be<vbser><pres><p2><sg>$ ^serious<adj>$ ^*واتە$^:<sent>$^.<sent>$
+[/NDqsAQw3A3Cr]
+[NJATyICRDKer#0] ^feel<vblex><pres>$ ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$^ill<adj><sint>$ ^.<sent>$
+[/NJATyICRDKer]
+[NrEfshHL7yCy#0] ^necessary<adj>$ ^be<vbser><pres><p1><sg>$ ^by<pr>$ ^insulin<n><sg><dem>$^.<sent>$
+[/NrEfshHL7yCy]
+[OT5RzCpq5KBc#0] ^prpers<prn><pers><p1><mf><sg>$ ^ill<adj><sint>$ ^*بووم$^.<sent>$
+[/OT5RzCpq5KBc]
+[OZY8saD34txj#0] ^prpers<prn><pers><p1><mf><sg>$ ^allergy<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^by<pr>$ ^..<sent>$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/OZY8saD34txj]
+[OdivPmpi05nl#0] ^all<det><qnt><pl>$ ^food<n><sg>$ ^and<cnjcoo>$ ^*خواردنەوەم$ ^*هێناوەتەوە$^.<sent>$
+[/OdivPmpi05nl]
+[OtFDNfAoqkV_#0] ^can<vbmod><pri><p1><sg>$ ^connection<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^be<vbser><pres><p2><sg>$ ^*پێوەبکەم$ ^a<det><ind><sg>$ ^time<n><sg>$ ^a<det><ind><sg>$ ^raft<n><sg>$ ^*دەبینیت$^?<sent>$^.<sent>$
+[/OtFDNfAoqkV_]
+[P9y7CxHRYbjY#0] ^at<pr>$ ^*نێوان$ ^*سوڕی$ ^*مانگانەکانمدا$ ^blood<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*دێتەوە$^.<sent>$
+[/P9y7CxHRYbjY]
+[PHF091OlHjc1#0] ^*پێش$ ^arrive<n><sg>$ ^fare<n><sg>$ ^*بکڕە$^.<sent>$
+[/PHF091OlHjc1]
+[PKY1SaiH4HdG#0] ^harm<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*پێگەشتوە$^?<sent>$^.<sent>$
+[/PKY1SaiH4HdG]
+[PN8HIn6oXP8a#0] ^prpers<prn><pers><p1><mf><sg>$ ^*خەریکە$ ^child<n><sg>$ ^be<vbser><pres><p1><sg>$ ^must<n><sg>$^.<sent>$
+[/PN8HIn6oXP8a]
+[PfwhvQw5g5_j#0] ^*کیۆس$ - ^*ئەسینا$^.<sent>$
+[/PfwhvQw5g5_j]
+[PmrhBfgjX3Z0#0] ^*دووسبەی$^.<sent>$
+[/PmrhBfgjX3Z0]
+[PnRTuvp0VRoc#0] ^prpers<prn><pers><p1><mf><sg>$ ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^sugar<n><sg>$^.<sent>$
+[/PnRTuvp0VRoc]
+[Q-09A1jq0Jz4#0] ^must<vbmod><pri>$ ^go<vblex><iv><prs><p1><sg>$ ^to<pr>$ ^hospital<n><sg>$^.<sent>$
+[/Q-09A1jq0Jz4]
+[QD6NpPznorfy#0] ^pain<n><sg>$ ^village<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^and<cnjcoo>$ ^*دەڕوا$^.<sent>$
+[/QD6NpPznorfy]
+[QRcsA-4noUfi#0] ^*کڵێسا$^.<sent>$
+[/QRcsA-4noUfi]
+[QcnC-a_v6X0j#0] ^know<vblex><pres>$ ^at<pr>$ ^*چی$ ^*گروپێکایت$^?<sent>$^.<sent>$
+[/QcnC-a_v6X0j]
+[QkOKxLQsz_H4#0] ^*چەندە$ ^must<vbmod><pri>$ ^*لێرە$ ^*چاوەڕێ$ ^be<vbser><prs><p1><pl>$^?<sent>$^.<sent>$
+[/QkOKxLQsz_H4]
+[Qo-m2Wp85myA#0] ^hour<n><sg>$ ^*چەندە$^?<sent>$^.<sent>$
+[/Qo-m2Wp85myA]
+[R6_Ekmz7TWWS#0] ^*لەمێژە$ ^*پێوەندی$ ^*جینسیم$ ^*نەبووە$^.<sent>$
+[/R6_Ekmz7TWWS]
+[R9OWQo8iR6aB#0] ^content<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*بڕێژە$ ^into<pr>$ ^*پیاڵەیەکی$ ^*خاوێنەوە$^.<sent>$
+[/R9OWQo8iR6aB]
+[RDpNczfoTumG#0] ^*سڵاو$^.<sent>$
+[/RDpNczfoTumG]
+[ROgVCCdC3iHs#0] ^at<pr>$ ^*چادرگە$ ^*گەورەکەدا$ ^or<cnjcoo>$ ^at<pr>$ ^centre<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*ئای$ ^thirty<num><pl>$ ^*تی$ ^*شەحنبکەرەوە$ ^.<sent>$
+[/ROgVCCdC3iHs]
+[ROzcuO3uym7-#0] ^at<pr>$ ^site<n><sg><ind><px3sg>$ ^*فێنک$ ^and<cnjcoo>$ ^dry<adj>$ ^be<vbser><pres><p2><sg>$ ^*ڕابگرن$ ^and<cnjcoo>$ ^head<n><sg><def><px3sg>$ ^be<vbser><pres><p2><sg>$ ^serious<adj>$ ^*ببەستن$^.<sent>$
+[/ROzcuO3uym7-]
+[RUUUm2wp_qRO#0] ^at<pr>$ ^*میزەکەمدا$ ^blood<n><sg>$ ^be<vbser><pres><p2><pl>$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/RUUUm2wp_qRO]
+[RbcVN4r9WWN8#0] ^want<vblex><pres>$ ^a<det><ind><sg>$ ^time<n><sg>$ ^gift<n><sg>$ ^*بکەم$^.<sent>$
+[/RbcVN4r9WWN8]
+[RhJMa8BPhNh5#0] ^can<vbmod><pri><p2><sg>$ ^*ئەوەم$ ^to<pr>$ ^write<vblex><tv><prs><p2><sg>$^?<sent>$^.<sent>$
+[/RhJMa8BPhNh5]
+[SBbxIQF11nSZ#0] ^necessary<adj>$ ^be<vbser><pres><p1><sg>$ ^by<pr>$ ^*ئوتۆمۆبیلی$ ^*فریاکەوتن$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/SBbxIQF11nSZ]
+[SC_JiBPTXwne#0] ^straw<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$^:<sent>$ ^a<det><ind><sg>$ ^time<n><sg>$ ^you<prn><pers><p2><mf><sg>$ ^matter<n><sg><abs><ezalos>$ ^that<det><dem><sg>$ ^thing<n><pl>$ ^*دەکەی$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^to<pr>$ ^you<prn><pers><p2><mf><sg>$ ^side<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*داوە$، ^include<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*لەوەی$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^this<det><dem><sg>$ ^incident<n><pl>$ ^*چەندەی$ ^*خایاندووە$^.<sent>$
+[/SC_JiBPTXwne]
+[SSNuPQoW1Jiz#0] ^must<n><sg>$ ^at<pr>$ ^hospital<n><sg>$ ^*وەرگیرێم$^?<sent>$^.<sent>$
+[/SSNuPQoW1Jiz]
+[Sj7dqtwGbBI0#0] ^*کۆڵنجی$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^belly<n><sg>$ ^at<pr>$ ^side<n><sg><abs><px3sg>$ ^*کەمەرم$^.<sent>$
+[/Sj7dqtwGbBI0]
+[SuSwAkIVrODL#0] ^*تووشی$ ^*پەرکەم$ ^*بووم$^.<sent>$
+[/SuSwAkIVrODL]
+[T-oL708xeRYc#0] ^fire<n><sg>$ ^at<pr>$ ^*ژوورەوە$ ^*مەکەرەوە$^.<sent>$
+[/T-oL708xeRYc]
+[TWyJ7pwVKOPd#0] ^can<vbmod><pri><p2><sg>$ ^site<n><sg><abs><ezalos>$ ^self<n><sg><abs><px2sg>$ ^we<prn><pers><clt><p1><pl>$ ^on<pr>$ ^*جی$ ^*پی$ ^S<n><sg>$ ^*پێبڵێی$ ^fever<n><sg>$ ^*ئەوانی$ ^other<n><sg>$ ^*بدۆزینەوە$^?<sent>$^.<sent>$
+[/TWyJ7pwVKOPd]
+[TkWzZBSsejwL#0] ^harm<n><sg>$ ^*زیاد$ ^*ئەکات$ ^K<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*رادەوەستم$^.<sent>$
+[/TkWzZBSsejwL]
+[Tp8kT_c1bF3b#0] ^can<vbmod><pri><p1><sg>$ ^number<n><sg><abs><ezalos>$ ^phone<n><sg><abs><ezalos>$ ^family<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^know<vblex><tv><prs><p1><sg>$^?<sent>$^.<sent>$
+[/Tp8kT_c1bF3b]
+[U606VJBCej7Q#0] ^*بیرم$ ^at<pr>$ ^*خۆکوشتن$ ^*کردۆتەوە$^.<sent>$
+[/U606VJBCej7Q]
+[UFrxvk09_Ys8#0] ^can<vbmod><neg><pri><p1><sg>$ ^urinate<vblex><tv><prs><p1><sg>$^.<sent>$
+[/UFrxvk09_Ys8]
+[UHj4OvjVNPiQ#0] ^tea<n><sg><abs><px2pl>$ ^you<prn><pers><clt><p2><pl>$ ^*پێدەدرێت$^.<sent>$
+[/UHj4OvjVNPiQ]
+[UbkmxJIor9od#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*شیزۆفرینیام$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/UbkmxJIor9od]
+[UhRBIQOfih7F#0] ^prpers<prn><pers><p1><mf><sg>$ ^*قەبزم$^.<sent>$
+[/UhRBIQOfih7F]
+[Uli6EJgdgaz1#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*تالاسیمام$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/Uli6EJgdgaz1]
+[V-YGeRSrRoSf#0] ^*کیۆس$ - ^*پیرێس$ (^*ئەسینا$)^.<sent>$
+[/V-YGeRSrRoSf]
+[VkQPHeT3lDzd#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^diabetes<n><sg>$^.<sent>$
+[/VkQPHeT3lDzd]
+[VohJYDi2TJSX#0] ^*ئەمە$ ^sister<n><sg><abs><px1sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/VohJYDi2TJSX]
+[W2YXlutlyHAb#0] ^can<vbmod><pri><p1><sg>$ ^name<n><sg><abs><ezalos>$ ^family<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^write<vblex><tv><prs><p1><sg>$^?<sent>$^.<sent>$
+[/W2YXlutlyHAb]
+[WEdXMGQMgl3p#0] ^wife<n><sg>$ ^be<vbser><pres><p1><sg>$^.<sent>$
+[/WEdXMGQMgl3p]
+[WGM57BM5WChT#0] ^at<pr>$ ^a<det><ind><sg>$ ^site<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*بەرزەوە$ ^*بەربوومەوە$^.<sent>$
+[/WGM57BM5WChT]
+[WapChFIUtko0#0] ^*دەتەوی$ ^*ئیمشەو$ ^at<pr>$ ^centre<n><sg><abs><ezalos>$ ^some<det><qnt><sp>$ ^child<n><pl>$ ^and<cnjcoo>$ ^family<n><pl>$ ' ^*بمێنێتەوە$^?<sent>$^.<sent>$
+[/WapChFIUtko0]
+[WgdRBy0PWx0S#0] ^know<vblex><pres>$ ^*کێ$ ^*لێپرسراوی$ ^group<n><sg><def><px2sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/WgdRBy0PWx0S]
+[WoJL9N4nM3ch#0] ^by<pr>$ ^language<n><sg><abs><px3sg>$ ^....<sent>$ ^speak<vblex><pres>$^.<sent>$
+[/WoJL9N4nM3ch]
+[X8S_dtQAhZhD#0] ^harm<n><sg>$ ^*هێواش$ ^*هێواش$ ^*دەستیپێکرد$^.<sent>$
+[/X8S_dtQAhZhD]
+[XGe2ZZ3z4jvP#0] ^picture<n><sg><abs><ezalos>$ ^document<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*یۆنانیەکانت$ ^foot<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/XGe2ZZ3z4jvP]
+[XHTdwDSKRO3i#0] ^a<det><ind><sg>$ ^person<n><sg>$ ^at<pr>$ ^*گرووپەکەی$ ^you<prn><pers><p2><mf><sg>$  ^by<pr>$ ^language<n><sg><abs><ezalos>$ ^English<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^speak<vblex><pres><p3><sg>$^?<sent>$^.<sent>$
+[/XHTdwDSKRO3i]
+[XPDQcwCtUd0r#0] ^can<vbmod><pri><p1><sg>$ ^help<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^give<vblex><tv><prs><p1><sg>$ ^*پاکی$ ^*بکەیتەوە$^?<sent>$^.<sent>$
+[/XPDQcwCtUd0r]
+[XYkvez9YmCFd#0] ^can<vbmod><pri><p1><sg>$ ^this<det><dem><sg>$ ^information<n><sg>$ ^give<vblex><tv><prs><p1><sg>$ ^by<pr>$ ^*کۆمسیۆنی$ ^affair<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*ئاوارەکانی$ ^nation<n><sg><ezaclo>$ ^united<n><pl>$ ^at<pr>$ ^Serbia<np><top><sg>$^?<sent>$^.<sent>$
+[/XYkvez9YmCFd]
+[X_Ek8m_O7Jn2#0] ^chest<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*دێشێت$^.<sent>$
+[/X_Ek8m_O7Jn2]
+[Xd5p1z1Yx6mk#0] ^*لەکوێ$ ^can<vbmod><pri><p1><sg>$ ^this<det><dem><sg>$ ^*نوسخەیە$\/ ^*ڕەچەتەیە$ ^*وەرگرم$^.<sent>$
+[/Xd5p1z1Yx6mk]
+[Xm9kOUKeqG6Y#0] ^bank<n><sg>$^.<sent>$
+[/Xm9kOUKeqG6Y]
+[Y5WuGwp-W8bE#0] ^*حەوتووی$ ^*داهاتوو$^.<sent>$
+[/Y5WuGwp-W8bE]
+[YH6gjaEe9c2H#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^help<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/YH6gjaEe9c2H]
+[Ya2chfspFZSE#0] ^a<det><ind><sg>$ ^time<n><sg>$ ^hand<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*پێکرد$ ^this<det><dem><sg>$ ^milk<n><sg>$ ^give<vblex><tv><prs><p2><sg>$ ^by<pr>$ ^child<n><sg><def><px2sg>$، ^*لەوانەیە$ ^*دانی$ ^milk<n><sg><abs><ezalos>$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^by<pr>$ ^child<n><sg>$ ^*ئیدی$ ^*ئەوەندە$ ^*هاسان$ ^*نەبێت$^.<sent>$
+[/Ya2chfspFZSE]
+[Ydlw7336ZzBf#0] ^*بەپێی$ ^circumstance<n><sg><abs><ezalos>$ ^that<det><dem><sg>$ ^*وڵاتەی$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*لێوەی$ ^*هاتوون$، ^*گرووپێکی$ ^social<adj>$ ^privately<adj>$ ^*هەبن$ ^K<n><sg><dem><ezaclo>$ ^game<n><sg>$ ^*هاتبن$ ^at<pr>$ ^*گرووپێک$ ^K<n><sg><dem><ezaclo>$ ^owner<n><sg><abs><ezalos>$ ^orientation<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*جینسی$ ^social<adj>$ ^*جیاواز$ ^be<vbser><prs><p2><pl>$^.<sent>$
+[/Ydlw7336ZzBf]
+[Yo2YS1rbjyXU#0] ^*لوتم$ ^blood<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*لێدەپژێت$^.<sent>$
+[/Yo2YS1rbjyXU]
+[Z7DeuoS6tkxi#0] ^..<sent>$ ^*م$ ^*ئیفلیجە$^.<sent>$
+[/Z7DeuoS6tkxi]
+[ZCA7oaYvcLXp#0] ^*دەستدرێژیم$ ^*کراوەتە$ ^head<n><sg>$^.<sent>$
+[/ZCA7oaYvcLXp]
+[ZQCCA_Tn4dmH#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^lawyer<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/ZQCCA_Tn4dmH]
+[ZZdCdfJRKwz7#0] ^criteria<n><sg><abs><ezalos>$ ^burden<n><sg><abs><ezalos>$ ^asylum<n><sg>$ ^be<vbser><pres><p2><sg>$^.<sent>$
+[/ZZdCdfJRKwz7]
+[ZcmPCGLddmuo#0] ^shore<n><sg>$ ^need<n><sg>$ ^be<vbser><pres><p2><sg>$ ^by<pr>$ ^*خاوێنکردنەوە$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/ZcmPCGLddmuo]
+[_S7N8DgZ9E7M#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^*سکەنکردنی$ ^*بەلگە$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/_S7N8DgZ9E7M]
+[a8waEca-QVSD#0] ^clothes<n><sg>$ (^alone<adj>$ ^to<pr>$ ^a<det><ind><sg>$ ^people<n><sg>$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^wet<adj>$ ^be<vbser><past><p3><pl>$)^.<sent>$
+[/a8waEca-QVSD]
+[aB737YPBpbo7#0] ^*شیردانی$ ^child<n><sg>$^.<sent>$
+[/aB737YPBpbo7]
+[aCizzzyErOYV#0] ^never<adv>$ ^site<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*پێوەدانەکە$ ^*مەبڕە$ ^and<cnjcoo>$ ^*هەوڵی$ ^*مژینی$ ^venom<n><sg>$ ^give<vblex><imp><neg>$^.<sent>$
+[/aCizzzyErOYV]
+[aJNd862owGqo#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ (^pair<n><sg>$ ^*کەسایەتی$)^*م$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/aJNd862owGqo]
+[az2rr-3rNkQ8#0] ^they<prn><pers><p3><pl>$ ^some<det><qnt><sp>$ ^help<n><pl>$ ^*دای$^?<sent>$^.<sent>$
+[/az2rr-3rNkQ8]
+[br7qyr4wrmph#0] ^harm<n><sg>$ ^emergency<n><sg>$ ^*دەستیپێکرد$^.<sent>$
+[/br7qyr4wrmph]
+[bzMRY4grwSw1#0] ^to<pr>$ ^child<n><sg>$ ^*ئیمکانی$ ^be<vbser><pres><p3><sg>$ ^K<n><sg><dem><ezaclo>$ ^breastmilk<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^eat<vblex><tv><prs><p3><sg>$^.<sent>$
+[/bzMRY4grwSw1]
+[c-7dit64AW8P#0] ^this<det><dem><sg>$ ^milk<n><sg>$ ^any<det><ind><sg>$ ^*وەکوو$ ^all<det><qnt><pl>$ ^*مارکەکانی$ ^other<n><sg><abs><ezalos>$ ^milk<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^ready<adj>$ ^be<vbser><pres><p3><sg>$ ^to<pr>$ ^*فرۆشتن$^.<sent>$
+[/c-7dit64AW8P]
+[cI-rcuH_8akS#0] ^room<n><sg><abs><ezalos>$ ^number<n><sg>$ ___ ^at<pr>$ ^be<vbser><pres><p3><sg>$ ^he<prn><pers><clt><p3><sg>$ ^total<n><sg>$^?<sent>$^.<sent>$
+[/cI-rcuH_8akS]
+[cJMnFwWgEvKB#0] ^*پێشکەشکردن$ ^to<pr>$ ^*جێگۆڕین$ ^to<pr>$ ^*ئەوروپا$^.<sent>$
+[/cJMnFwWgEvKB]
+[cVv5oveYUOM4#0] ^*ئارام$ ^and<cnjcoo>$ ^happy<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^*خێمەیەدا$ ^tonight<adv>$^?<sent>$^.<sent>$
+[/cVv5oveYUOM4]
+[cfN8AgBfFgLD#0] ^*شتومەکی$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*بەجێ$ ^*مەهێڵە$ ^*لەملاولا$^.<sent>$
+[/cfN8AgBfFgLD]
+[cnII11ltS17d#0] ^insect<n><sg>$ ^*پێیوەداوم$^.<sent>$
+[/cnII11ltS17d]
+[cpVFx24l_wz3#0] ^can<vbmod><pri><p1><sg>$ ^this<det><dem><sg>$ ^information<n><sg>$ ^give<vblex><tv><prs><p1><sg>$ ^by<pr>$ ^assisstance<n><pl><ind><px1sg>$ ^at<pr>$ ^stop<n><sg><abs><px3sg>$ ^following<adj>$ ^be<vbser><pres><p2><sg>$ ^*شەمەندەفەردا$ ^fever<n><sg>$ ^*بتوانین$ ^*خزمەتگوزاریت$ ^to<pr>$ ^*دابینبکەین$^.<sent>$
+[/cpVFx24l_wz3]
+[dLarj4oCL-40#0] ^at<pr>$ ^*کوێ$ ^can<vbmod><pri><p1><sg>$ ^pray<vblex><tv><prs><p1><sg>$^?<sent>$^.<sent>$
+[/dLarj4oCL-40]
+[dNNISIuXtDs4#0] ^*تەڕبوویت$^?<sent>$^.<sent>$
+[/dNNISIuXtDs4]
+[dkwBsfKmQ2D5#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^*بیستنی$ ^vote<n><sg>$ ^*دەکەم$ ^a<det><ind><sg>$ ^time<n><sg>$ ^by<pr>$ ^*تەنهام$^.<sent>$
+[/dkwBsfKmQ2D5]
+[duogL5BXy0GK#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^*جێگەیەک$ ^exist<vblex><pri><p3><sg>$ ^*لێی$ ^*بمێنیتەوە$ ^tonight<adv>$^?<sent>$^.<sent>$
+[/duogL5BXy0GK]
+[dxeUKpMH1uz-#0] ^*ئێرەم$ ^harm<n><sg><abs><ezalos>$ ^village<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$^.<sent>$
+[/dxeUKpMH1uz-]
+[e-YerOy_UaRD#0] ^head<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*گێژدەخوات$^?<sent>$^.<sent>$
+[/e-YerOy_UaRD]
+[eMgjbBy4nkZe#0] ^prpers<prn><pers><p1><mf><sg>$ ^*تەڕاییم$ ^exist<vblex><pri><p3><sg>$ ^at<pr>$ ^way<n><sg><abs><px3sg>$ ^*مێزڕۆوە$^.<sent>$
+[/eMgjbBy4nkZe]
+[f1qNQ1GirvP2#0] ^at<pr>$ ^*پاشەڕۆکەمدا$ ^blood<n><sg>$ ^be<vbser><pres><p2><pl>$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/f1qNQ1GirvP2]
+[f3vth7Uhuded#0] ^....<sent>$ ^at<pr>$ ^*کوییه$^?<sent>$^.<sent>$
+[/f3vth7Uhuded]
+[fFeJDQ22Lzc5#0] ^*مناداڵەکه‌م$^.<sent>$
+[/fFeJDQ22Lzc5]
+[fHz_reeDlKR8#0] ^necessary<adj>$ ^be<vbser><pres><p3><sg>$ ^*بنووم$^.<sent>$
+[/fHz_reeDlKR8]
+[fMZObXWzWI5L#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^heart<n><sg>$ ^failure<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^with<pr>$^.<sent>$
+[/fMZObXWzWI5L]
+[fU48iRlSyDhf#0] ^throat<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*دێشێ$^.<sent>$
+[/fU48iRlSyDhf]
+[fhb61ujU0Pwt#0] ^*چەند$ ^*سالێکە$ ^this<det><dem><sg>$ ^medication<n><sg>$ ^eat<vblex><pres>$^.<sent>$
+[/fhb61ujU0Pwt]
+[fqrvNG7-9RR0#0] ^person<n><pl><ind><ezalos>$ ^adult<n><sg>$،^.<sent>$
+[/fqrvNG7-9RR0]
+[g9YlilMUhLcx#0] ^*زۆرت$ ^cold<n><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/g9YlilMUhLcx]
+[gCDVAxf7zQJI#0] ^cellphone<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*لێرەدا$ ^at<pr>$ ^*شەحن$ ^give<vblex><imp><neg>$^.<sent>$
+[/gCDVAxf7zQJI]
+[gaZoujflIENA#0] ^*بورابوومەوە$^.<sent>$
+[/gaZoujflIENA]
+[gk-BTAixTNrZ#0] ^this<det><dem><sg>$ ^language<n><sg>$ ^on<pr><pro>$ ^reach<vblex><pres>$^?<sent>$^.<sent>$
+[/gk-BTAixTNrZ]
+[gupQ4iv055_o#0] ^prpers<prn><pers><p1><mf><sg>$ ^*گۆشت$ ^and<cnjcoo>$ ^fish<n><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$^.<sent>$
+[/gupQ4iv055_o]
+[h37BhI-fNBmS#0] ^prpers<prn><subj><p2><mf><sg>$ ^have<vbhaver><pres><p2><sg>$ ^level<n><pl>$ ^to<pr>$ ^*پەنابەرێتی$ ^gift<n><sg>$ ^*بکەیت$ ^at<pr>$ ^republic<n><sg><abs><px3sg>$ ^*یۆگسلافیای$ ^*پێشوو$ ^*مەقەدۆنیا$^.<sent>$
+[/h37BhI-fNBmS]
+[h6vwGWeUumUG#0] ^*داوای$ ^a<det><ind><sg>$ ^translator<n><sg>$ ^*بکە$ ^to<pr>$ ^describing<n><sg><abs><ezalos>$ ^problem<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*خێزانیەکان$^.<sent>$
+[/h6vwGWeUumUG]
+[hNAQZL5zU2Qj#0] ^a<det><ind><sg>$ ^person<n><sg>$ ^at<pr>$ ^*گرووپەکەی$ ^you<prn><pers><p2><mf><sg>$  ^need<n><sg>$ ^be<vbser><pres><p2><sg>$ ^by<pr>$ ^*چاوەدێری$ ^prpers<prn><subj><p3><m><sg>$ ^have<vbhaver><pres><p3><sg>$ ^a<det><ind><sg>$ ^doctor<n><sg>$^?<sent>$^.<sent>$
+[/hNAQZL5zU2Qj]
+[hSL_j9GFNMeH#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^*غەمباری$ ^*دەکەم$^.<sent>$
+[/hSL_j9GFNMeH]
+[hTsn5ewifx9r#0] ^can<vbmod><pri><p2><sg>$ ^name<n><sg><abs><ezalos>$ ^person<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*وونبوەکە$ ^*بنوسیت$^?<sent>$^.<sent>$
+[/hTsn5ewifx9r]
+[hWv_v_iyv7b7#0] ^can<vbmod><pri><p1><sg>$ ^without<pr>$ ^document<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*تۆمارگە$ ^*دوورگەکە$ ^*بەجێبهێڵم$^?<sent>$^.<sent>$
+[/hWv_v_iyv7b7]
+[h_4n85alDOsC#0] ^connection<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^by<pr>$ ^*xxx$ ^*ەوە$ ^*بکەو$ ^attention<n><sg>$ ^*بکەرەوە$ ^K<n><sg><dem>$ ^be<vbser><pres><p3><sg>$ ^*گەیشتی$^.<sent>$
+[/h_4n85alDOsC]
+[hhEeczPKsAuc#0] ^*میترۆ$ ^at<pr>$ ^*کوێیە$^?<sent>$^.<sent>$
+[/hhEeczPKsAuc]
+[hi86ehfkW9jt#0] ^*حاڵم$ ^prpers<prn><subj><p3><GD><sg>$ ^be<vbser><pres><p3><sg>$^well<adj><sint>$ ^.<sent>$
+[/hi86ehfkW9jt]
+[hqQSU6IkPpXl#0] ^*پێشتر$ ^never<adv>$ ^this<det><dem><sg>$ ^hurt<adj>$ ^be<vbser><pres><p1><sg>$ ^*نەبووە$^.<sent>$
+[/hqQSU6IkPpXl]
+[i30L3L9WUi98#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^dizzy<n><sg>$ ^*دەکەم$^.<sent>$
+[/i30L3L9WUi98]
+[i9IGtpYHZexe#0] ^*هوشداری$ ^important<n><sg>$^:<sent>$ ^breastmilk<n><sg>$ ^good<adj>$ ^*خۆراکە$ ^to<pr>$ ^child<n><sg>$^.<sent>$
+[/i9IGtpYHZexe]
+[iCl5nQ_KE7tr#0] ^milk<n><sg>$ ^*قڵپ$ ^*مەکەوە$ ^*نێو$ ^*زاری$ ^child<n><sg>$^.<sent>$ ^*بهێڵە$ ^wind<n><sg>$ ^any<det><ind><sg>$ ^*چەندە$ ^can<vbmod><pri><p3><sg>$ ^*بخواتەوە$^.<sent>$
+[/iCl5nQ_KE7tr]
+[icd42v7DFFk-#0] ^can<vbmod><pri><p1><sg>$ ^this<det><dem><sg>$ ^information<n><sg>$ ^give<vblex><tv><prs><p1><sg>$ ^by<pr>$ ^*کۆمسیۆنی$ ^affair<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*ئاوارەکانی$ ^nation<n><sg><ezaclo>$ ^united<n><pl>$ ^at<pr>$ ^*تابێرنۆڤس$^?<sent>$^.<sent>$
+[/icd42v7DFFk-]
+[j-0eGFfdxFA7#0] ^this<det><dem><sg>$ ^milk<n><sg>$ ^child<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^at<pr>$ ^*دژی$ ^*چڵک$ ^and<cnjcoo>$ ^ill<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^*ناپارێزێت$^.<sent>$
+[/j-0eGFfdxFA7]
+[jLsQ_tk2cAMP#0] ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^allergy<n><sg>$^.<sent>$
+[/jLsQ_tk2cAMP]
+[jzrDurCEH9AG#0] ^child<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^foot<n><sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/jzrDurCEH9AG]
+[k-kd3T5_c8bR#0] ^*کەنگێ$ ^must<vbmod><pri>$ ^*بێمەوە$^?<sent>$^.<sent>$
+[/k-kd3T5_c8bR]
+[k1f1QRI-ArBD#0] ^very<preadv>$ ^*دێشیێ$ ^K<n><sg><dem><ezaclo>$ ^hand<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*لێدەدەم$^.<sent>$
+[/k1f1QRI-ArBD]
+[k2Om5QY43PCe#0] ^you<prn><pers><p2><mf><sg>$ ^all<det><qnt><pl>$ ^*ڕێنماییەکان$ ^on<pr><pro>$ ^reach<vblex><pres>$^.<sent>$
+[/k2Om5QY43PCe]
+[kXVOh5PB1jFk#0] ^stop<n><sg><abs><ezalos>$ ^bus<n><sg>$^.<sent>$
+[/kXVOh5PB1jFk]
+[k_CtzZX07Ttn#0] ^*پێشتر$ ^water<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^clean<adj><sint>$ ^be<vbser><pres><p2><sg>$ ^*پێوە$ ^*زیادکراوە$^:<sent>$ ^necessary<adj>$ ^*ناکات$ ^K<n><sg><dem><ezaclo>$ ^water<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*تێبکەی$^.<sent>$
+[/k_CtzZX07Ttn]
+[k_XpyTTWDQqM#0] ^J<n><pl><def><ezaclo>$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^belly<n><sg>$^.<sent>$
+[/k_XpyTTWDQqM]
+[ksPJKZJGUrDM#0] ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^necessary<adj>$ ^by<pr>$ ^*دوکتورێکە$^.<sent>$
+[/ksPJKZJGUrDM]
+[l9LzfB83mrGs#0] ^trousers<n><pl>$ ^be<vbser><pres><p2><sg>$ ^dry<adj>$^.<sent>$
+[/l9LzfB83mrGs]
+[lYHD5c0G8bwu#0] ^K<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*رادەکشێم$ ^worse<adj>$ ^must<n><sg>$^.<sent>$
+[/lYHD5c0G8bwu]
+[ljiDVUv4GPkt#0] ^door<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*چوونەدەرەوەی$ ^*بەپەلە$^.<sent>$
+[/ljiDVUv4GPkt]
+[lqxpRPMXH8rn#0] ^heart<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*خێرا$ ^*لێدەدات$^.<sent>$
+[/lqxpRPMXH8rn]
+[lr78z1fjY_OD#0] ^criteria<n><sg><abs><ezalos>$ ^help<n><pl><def><ezalos>$ ^protection<n><sg>$^.<sent>$
+[/lr78z1fjY_OD]
+[ltIaHXheMwaH#0] ^*ئەمە$ ^brother<n><sg><abs><px1sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^.<sent>$
+[/ltIaHXheMwaH]
+[mA7I9JHvm_-R#0] ^*هەوڵتداوە$ ^*بگوازیتەوە$ ^to<pr>$ ^piece<n><sg><ind><ezalos>$ ^other<n><sg><abs><ezalos>$ ^state<n><sg><def><ezalos>$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^to<pr>$ ^*ڕزگاربوونت$ ^at<pr>$ ^problem<n><pl><def><px2sg>$^?<sent>$^.<sent>$
+[/mA7I9JHvm_-R]
+[mLkMOaVPS5IL#0] ^nappy<n><sg>$ ^.<sent>$
+[/mLkMOaVPS5IL]
+[mN_h9i3XR2BU#0] ^can<vbmod><pri><p2><sg>$ ^name<n><sg><abs><ezalos>$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*بنوسیت$^?<sent>$^.<sent>$
+[/mN_h9i3XR2BU]
+[mkqCumgXjoL2#0] ^*صەرعم$ ^with<pr>$^.<sent>$
+[/mkqCumgXjoL2]
+[mzerbdZ4Ucba#0] ^prpers<prn><pers><p1><mf><sg>$ ^*خۆشحاڵم$^.<sent>$
+[/mzerbdZ4Ucba]
+[nbGQMam-lnEg#0] ^very<preadv>$ ^*زوو$^.<sent>$
+[/nbGQMam-lnEg]
+[nkmnSvZmO3wd#0] ^at<pr>$ ^*کوێ$ ^can<vbmod><pri><p1><sg>$ ^...<sent>$ ^*بسەنم$^?<sent>$^.<sent>$
+[/nkmnSvZmO3wd]
+[nnLeFABkBlFM#0] ^help<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^give<vblex><tv><prs><p3><pl>$^!.<sent>$
+[/nnLeFABkBlFM]
+[noPkeWHQtaiY#0] ^group<n><pl><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^by<pr>$ ^soap<n><sg>$ ^and<cnjcoo>$ ^water<n><sg>$ ^wash<vblex><imp>$^.<sent>$
+[/noPkeWHQtaiY]
+[nzXGC8PmL0Mf#0] ^bathroom<n><sg>$ ^at<pr>$ ^*کوێیه$^?<sent>$^.<sent>$
+[/nzXGC8PmL0Mf]
+[nzcw7SnJI2qd#0] ^criteria<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*ئیجازەی$ ^*ئیقامەی$ ^*مرۆڤدۆستانە$^.<sent>$
+[/nzcw7SnJI2qd]
+[oLvZ9RPXv5fx#0] ^*ڕێنماییەکان$^.<sent>$
+[/oLvZ9RPXv5fx]
+[oNr4jDcWSUoQ#0] ^*هەردوولا$ ^law<n><sg><abs><ezalos>$ ^politic<n><sg><abs><ezalos>$ ^fare<n><sg><abs><px3pl>$ ^they<prn><pers><clt><p3><pl>$ ^*لەیەکدەچێت$^.<sent>$
+[/oNr4jDcWSUoQ]
+[omF2kLdXSXVv#0] ^a<det><ind><sg>$ ^thing<n><sg>$ ^*پێیوەداوم$^.<sent>$
+[/omF2kLdXSXVv]
+[osdwVGvTgue8#0] ^*پولیس$ ^by<pr>$ ^*تۆی$ ^*گوت$ ^K<n><sg><dem><ezaclo>$ ^ride<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*کالیسکە$ ^be<vbser><prs><p2><sg>$^?<sent>$^.<sent>$
+[/osdwVGvTgue8]
+[pAo_2eQc-srb#0] ^prpers<prn><pers><p1><mf><sg>$ ^pork<n><sg>$ ^do<vaux><pres>$ ^not<adv>$ ^eat<vblex><inf>$^.<sent>$
+[/pAo_2eQc-srb]
+[pMvq0AxnHVeO#0] ^*وریابە$^.<sent>$ ^*مەهێڵە$ ^some<det><qnt><sp>$ ^child<n><pl>$ ^*نزیك$ ^*ببنەوە$^.<sent>$ ^only<adv>$ ^some<det><qnt><sp>$ ^person<n><pl>$ ^be<vbser><pres><p2><sg>$ ^big<adj><sint>$^.<sent>$
+[/pMvq0AxnHVeO]
+[pSYAnzeQYqqL#0] ^*هەمووتان$ ^prpers<prn><subj><p2><mf><pl>$ ^be<vbser><pres><p2><pl>$^well<adj><sint>$ ^?<sent>$^.<sent>$
+[/pSYAnzeQYqqL]
+[pSwNOrYsML3f#0] ^*سەرکەشتی$^:<sent>$ € ^*41$,^*5$^.<sent>$
+[/pSwNOrYsML3f]
+[pUiuFHw3dt_Y#0] ^prpers<prn><subj><p1><mf><sg>$ ^be<vbser><pres><p1><sg>$ ^pregnant<adj>$ ^and<cnjcoo>$ ^blood<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^*لەبەر$ ^*دەڕوا$^.<sent>$
+[/pUiuFHw3dt_Y]
+[pYByymIGM3Wz#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*قەسەباتی$ ^chronic<adj>$ ^be<vbser><pres><p1><sg>$ ^with<pr>$^.<sent>$
+[/pYByymIGM3Wz]
+[pf_QGeo9vLoD#0] ^none<n><sg>$ ^thing<n><sg><ind><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*تەسکی$ ^by<pr>$ ^*دەوردا$ ^purpos<n><sg><dem>$ ^be<vbser><pres><p3><sg>$، ^like<adj>$ ^*لاستیک$^.<sent>$
+[/pf_QGeo9vLoD]
+[q4jeroef0ihx#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^food<n><sg>$، ^coffee<n><sg>$، ^*یا$ ^tea<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/q4jeroef0ihx]
+[q5dFyah9lQY7#0] ^money<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*پییە$ ^to<pr>$ ^*کڕینی$ ^ticket<n><pl>$^?<sent>$^.<sent>$
+[/q5dFyah9lQY7]
+[qDO5rQlUu_4g#0] ^*بگەڕێوە$ ^to<pr>$ ^tent<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*UNHCR$ (^*سبەینێ$)^.<sent>$
+[/qDO5rQlUu_4g]
+[qVMWpMp_OvoU#0] ^this<det><dem><sg>$ ^product<n><sg>$ ^*نابێ$ ^*لەپاش$ ^that<det><dem><sg>$ ^*ڕێکەوتەی$ ^at<pr>$ ^bottom<n><sg><abs><px3sg>$ ^*قتووەکە$\/^packet<n><sg>$ ^*نووسراوە$، ^benefit<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*لێوەربگیرێت$^.<sent>$
+[/qVMWpMp_OvoU]
+[qc_1D0jheiFC#0] ^site<n><sg><abs><ezalos>$ ^game<n><sg>$ ^some<det><qnt><sp>$ ^child<n><pl>$^.<sent>$
+[/qc_1D0jheiFC]
+[qdL_ecx-rXi4#0] ^*بتڵ$ ^and<cnjcoo>$ ^that<det><dem><sg>$ ^*پیاڵانەی$ ^clean<adj><sint>$ ^be<vbser><pres><p2><pl>$ ^*مندالەکەت$ ^ill<adj><sint>$ ^throw<vblex><pres><p3><sg>$^!.<sent>$
+[/qdL_ecx-rXi4]
+[rL3DvL9P87SJ#0] ^feeling<n><sg><abs>$ ^by<pr>$ ^cold<n><sg>$ ^*ئەکەم$^.<sent>$
+[/rL3DvL9P87SJ]
+[rQWfZEEH59sn#0] ^some<det><qnt><sp>$ ^pamper<n><pl>$ ^be<vbser><pres><p1><sg>$^.<sent>$
+[/rQWfZEEH59sn]
+[rY95YTi99ZYf#0] ^also<adv>$ ^matter<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*ئەوە$ ^*بکە$ ^*ئەگەر$ ^*هەوڵی$ ^*بەجێهێشتنی$ ^state<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*داوە$ ^but<cnjcoo>$ ^*نەتوانیوە$ ^and<cnjcoo>$ ^*چی$ ^*وەستاندوتی$^.<sent>$
+[/rY95YTi99ZYf]
+[s8t6G9Ghn8Bf#0] ^blanket<n><pl>$ ^*لەوێن$^.<sent>$
+[/s8t6G9Ghn8Bf]
+[sD32Zi6LwWvX#0] ^city<n><sg>$^.<sent>$
+[/sD32Zi6LwWvX]
+[sJmg0xyhs74c#0] ^illness<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*HIVم$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/sJmg0xyhs74c]
+[sOnuDCU5ZD5Y#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^*بەکارهێنانی$ ^computer<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/sOnuDCU5ZD5Y]
+[su__wNzPMXUK#0] ^knife<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*لێدرا$\/^by<pr>$ ^knife<n><sg>$ ^injured<adj>$ ^*کرام$^.<sent>$
+[/su__wNzPMXUK]
+[tchzZKFMNYHq#0] ^this<det><dem><sg>$ ^milk<n><sg>$ ^*بەکار$ ^*بهێنن$ ^*ئەگەر$^:<sent>$^.<sent>$
+[/tchzZKFMNYHq]
+[tq5oXhyzHWiO#0] ^cold<n><sg><abs><px2sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$^?<sent>$^.<sent>$
+[/tq5oXhyzHWiO]
+[u72xXS3dvqA6#0] ^*ئەمه$ ^*دايكمه$^.<sent>$
+[/u72xXS3dvqA6]
+[ub5a3ej__8Wh#0] ^prpers<prn><pers><p1><mf><sg>$ ^*تەڕاییم$ ^exist<vblex><pri><p3><sg>$ ^at<pr>$ ^way<n><sg><abs><ezalos>$ ^member<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*زاوزێوە$^.<sent>$
+[/ub5a3ej__8Wh]
+[ulcVZgyG53Tc#0] ^prpers<prn><pers><p1><mf><sg>$ ^people<n><sg>$ ^be<vbser><pres><p2><sg>$^.<sent>$
+[/ulcVZgyG53Tc]
+[um0MsJHE_DA_#0] ^*خەم$ ^eat<vblex><imp><neg>$^.<sent>$
+[/um0MsJHE_DA_]
+[v3QcCfs00wvK#0] ^*پێشکەشکردن$ ^to<pr>$ ^*پەنابەرێتی$^.<sent>$
+[/v3QcCfs00wvK]
+[vO0YGG-8DZDx#0] ^necessary<adj>$ ^be<vbser><pres><p1><sg>$ ^by<pr>$ ^*دوکتورێکە$^.<sent>$
+[/vO0YGG-8DZDx]
+[vV0EMN2fPvHB#0] ^child<n><sg><def><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^carrier<n><sg>$ ^be<vbser><pres><p3><sg>$ ^and<cnjcoo>$ ^*بهێڵە$ ^*لەسەرەخۆ$ ^*بیخواتەوە$^.<sent>$
+[/vV0EMN2fPvHB]
+[vfMXzSrzU4kC#0] ^*سوڕی$ ^month<n><pl><dem><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^*تەواوبووە$، ^but<cnjcoo>$ ^*دووبارە$ ^blood<n><sg>$ ^be<vbser><pres><p2><pl>$ ^*دەڕێژم$^.<sent>$
+[/vfMXzSrzU4kC]
+[voIxZ4560CXX#0] ^*کیۆس$ - ^*کاڤالا$^.<sent>$
+[/voIxZ4560CXX]
+[w7AxRPZX1zqV#0] ^*پێشتر$ ^this<det><dem><sg>$ ^hurt<adj>$ ^be<vbser><pres><p1><sg>$ ^exist<vblex><perf><p3><sg>$^.<sent>$
+[/w7AxRPZX1zqV]
+[wLGt1FiZRXSl#0] ^with<pr>$ ^*دوکتورەکەت$ ^speak<vblex><imp>$ ^*بەر$ ^*لەوەی$ ^*شیردان$ ^by<pr>$ ^child<n><sg><def><px2sg>$ ^*ڕابگری$ ^or<cnjcoo>$ ^*بەر$ ^*لەوەی$ ^any<det><ind><sg>$ ^way<n><sg><dem><ezaclo>$ ^milk<n><sg><ind><ezalos>$ ^other<n><sg>$ ^*بەجێی$ ^milk<n><sg><abs><ezalos>$ ^self<n><sg><abs><px2sg>$ ^be<vbser><pres><p2><sg>$ ^be<vbser><pres><p2><sg>$ ^by<pr><pro>$ ^give<vblex><tv><prs><p2><sg>$^.<sent>$
+[/wLGt1FiZRXSl]
+[wcVc25Bl5wt0#0] ^can<vbmod><pri><p2><sg>$ ^help<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^give<vblex><tv><prs><p2><sg>$ ^at<pr>$ ^*پاککردنەوەدا$^?<sent>$^.<sent>$
+[/wcVc25Bl5wt0]
+[wwRBU0LwA0dI#0] ^*وەکوو$ ^all<det><qnt><pl>$ ^milk<n><sg><ind><px3sg>$ ^be<vbser><pres><p2><sg>$ ^artificial<adj>$ ^be<vbser><pres><p2><sg>$ ^other<n><sg>$، ^this<det><dem><sg>$ ^milk<n><sg>$ ^owner<n><sg><abs><ezalos>$ ^none<n><sg>$ ^antibody<n><sg><ind><px3sg>$ ^be<vbser><pres><p2><sg>$ (^*ئانتی$ ^*بادی$) ^nature<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^be<vbser><pres><p3><sg>$، ^that<det><dem><sg>$ ^*جۆرەی$ ^at<pr>$ ^breastmilk<n><sg>$ ^mother<n><sg>$^.<sent>$
+[/wwRBU0LwA0dI]
+[wxcS6222OdJi#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^see<n><sg><abs><ezalos>$ ^doctor<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/wxcS6222OdJi]
+[x4agqB2yllfc#0] ^money<n><sg><ezaclo>$ ^exchange<n><sg>$ ^at<pr>$ ^bank<n><sg>$ ^be<vbser><pres><p2><sg>$ ^*کیۆس$\/ ^*Chios$^.<sent>$
+[/x4agqB2yllfc]
+[x8fVKSgWd3QU#0] ^*عەرەقی$ ^cold<adj><sint>$ ^be<vbser><pres><p1><sg>$ ^*دەردا$^.<sent>$
+[/x8fVKSgWd3QU]
+[xUVXOZJch5NS#0] ^*هیترم$ ^at<pr>$ ^prpers<prn><pers><p1><mf><sg>$ ^medication<n><sg>$ ^be<vbser><pres><p3><sg>$ ^*دەوێت$^.<sent>$
+[/xUVXOZJch5NS]
+[xxAhBVC1e6G8#0] ^*زوو$ ^return<vblex><pres>$^.<sent>$
+[/xxAhBVC1e6G8]
+[y1t7qMMGaqSW#0] ^name<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^*چیه$ ^?<sent>$^.<sent>$
+[/y1t7qMMGaqSW]
+[y3pXmASdl0TS#0] ^*پیش$ ^*ئەوەی$ ^packet<n><sg>$ ^*بکەیەوە$، ^*بیسڕە$ ^and<cnjcoo>$ ^*ڕایوەشێنە$^.<sent>$
+[/y3pXmASdl0TS]
+[y9n0ZnMnl3GP#0] ^*سەیارە$ ^*لێیدام$^.<sent>$
+[/y9n0ZnMnl3GP]
+[yPrtqvRxxSSe#0] ^*لێدانی$ ^heart<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*ناڕێکە$^.<sent>$
+[/yPrtqvRxxSSe]
+[yfO_GfMrhYmp#0] ^prpers<prn><subj><p2><mf><sp>$ ^need<vblex><pres>$ ^by<pr>$ ^*چاودێری$ ^doctor<n><sg>$ ^exist<vblex><pri><p3><sg>$^?<sent>$^.<sent>$
+[/yfO_GfMrhYmp]
+[yfSOinnK5AO6#0] ^*تکایە$ ^help<n><sg><abs><px1sg>$ ^prpers<prn><pers><p1><mf><sg>$ ^give<vblex><tv><prs><p3><pl>$^!.<sent>$
+[/yfSOinnK5AO6]
+[ynWdmKzKcyak#0] ^*هەناسەبڕکێم$ ^exist<vblex><pri><p3><sg>$^.<sent>$
+[/ynWdmKzKcyak]
+[ypgWNIKe3k1V#0] ^prpers<prn><pers><p1><mf><sg>$ ^alcohol<n><sg>$ ^*ناخۆمەوە$^.<sent>$
+[/ypgWNIKe3k1V]
+[yqdYlBeV1et7#0] ^can<vbmod><neg><pri><p1><sg>$ ^neck<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*بسووڕێنم$^.<sent>$
+[/yqdYlBeV1et7]
+[yqfR09u6Kqhu#0] ^blood<n><sg>$ ^be<vbser><pres><p1><sg>$ ^*لێدەڕژێت$^.<sent>$
+[/yqfR09u6Kqhu]
+[yrMsYS_uL845#0] ^*پولیس$ ^by<pr>$ ^*تۆی$ ^*گوت$ ^K<n><sg><dem><ezaclo>$ ^ride<n><sg><abs><px3sg>$ ^be<vbser><pres><p2><sg>$ ^*قەتار$ ^be<vbser><prs><p2><sg>$^?<sent>$^.<sent>$
+[/yrMsYS_uL845]
+[z5z-mIzAAeBJ#0] ^*بەردەوام$ ^prpers<prn><subj><p1><mf><sg>$ ^have<vbhaver><pres><p1><sg>$ ^a<det><ind><sg>$ ^harm<n><sg>$^.<sent>$
+[/z5z-mIzAAeBJ]
+[z8VCDMF4y_2e#0] ^*پیاڵیەی$ ^clean<adj><sint>$ ^*بەکار$ ^*دەهێنی$^.<sent>$
+[/z8VCDMF4y_2e]
+[zAz14yrIIW_x#0] ^be<vbser><pres><p3><sg>$ ^this<det><dem><sg>$ ^food<n><sg>$ ^Halal<adj>$^?<sent>$^.<sent>$
+[/zAz14yrIIW_x]
+[ziKWIJfkJPSi#0] ^prpers<prn><pers><p1><mf><sg>$ ^cold<n><sg><abs><px1sg>$ ^be<vbser><pres><p3><sg>$ ^be<vbser><pres><p3><sg>$\/^*ڕەقم$ ^*بردەوە$^.<sent>$
+[/ziKWIJfkJPSi]
+[zpuQA2Hs6uH8#0] ^all<det><qnt><pl>$ ^straw<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^document<n><sg><abs><ezalos>$ ^official<n><sg>$ ^self<n><sg><abs><px2sg>$ ^you<prn><pers><p2><mf><sg>$ ^wind<n><sg>$ ^with<pr>$ ^be<vbser><prs><p3><sg>$^.<sent>$
+[/zpuQA2Hs6uH8]
+[zsvjLfkOdwVy#0] (^child<n><sg><def><px1sg>$ ^prpers<prn><subj><p1><mf><sg>$) ^be<vbser><pres><p3><sg>$ ^ill<adj><sint><sg><dem>$^.<sent>$
+[/zsvjLfkOdwVy]

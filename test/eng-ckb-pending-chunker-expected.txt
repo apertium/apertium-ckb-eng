@@ -1,0 +1,718 @@
+[-cVMdYpBQP14#0] ^unknown<unknown>{^*It$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*not$}$ ^j<SA>{^دەگونجێت<adj><pst>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ساوا<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*breastmilk$}$.
+[/-cVMdYpBQP14]
+[-hIFh87w0jIX#0] ^default<default>{^بەهانە<n><sg>$}$ ^unknown<unknown>{^*me$}$.
+[/-hIFh87w0jIX]
+[-j-zyqWzyXti#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^unknown<unknown>{^*well$}$?.
+[/-j-zyqWzyXti]
+[-m52LQ3cM5y-#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^ترس<adj><pst>$}$.
+[/-m52LQ3cM5y-]
+[05FcCX7HfY8Z#0] ^default<default>{^یەك<num><sg>$}$ ^default<default>{^کاتژمێر<n><sg>$}$.
+[/05FcCX7HfY8Z]
+[0M5xCx5tGAAH#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^قسە کردن<vblex><inf>$}$..
+[/0M5xCx5tGAAH]
+[0VE7GrIBvwOg#0] ^unknown<unknown>{^*I$}$ ^default<default>{^توانین<vbmod><pres>$}$´^unknown<unknown>{^*t$}$ ^default<default>{^میز کردن<vblex><inf>$}$.
+[/0VE7GrIBvwOg]
+[0XJQdg004cRk#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^سینگ<n><sg>$}$ ^default<default>{^ئێش<n><sg>$}$.
+[/0XJQdg004cRk]
+[0ZF2OnGtUNV0#0] ^default<default>{^بەتانی<n><pl>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^unknown<unknown>{^*over$}$ ^default<default>{^ئەوێ<adv>$}$.
+[/0ZF2OnGtUNV0]
+[0oycUn0WO8_X#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^گرژبوونی سك<n><sg>$}$ ^default<default>{^ئێش<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^لا<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/0oycUn0WO8_X]
+[10Uvls6hRf9Q#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^j<SA>{^دووجەمسەری<adj><pst>$}$ ^default<default>{^ناڕێکی<n><sg>$}$.
+[/10Uvls6hRf9Q]
+[146osc8gSsOG#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*leave$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^دورگە<n><sg>$}$ ^default<default>{^بەبێ<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^تۆمار<n><sg>$}$ ^default<default>{^بەڵگە<n><sg>$}$?.
+[/146osc8gSsOG]
+[1JMjiTMelK3x#0] ^n<SN>{^کچ<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/1JMjiTMelK3x]
+[1aew9lL_9tP1#0] ^default<default>{^توانین<vbmod><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^یارمەتی<n><sg>$}$ ^j<SA>{^پاك<adj><pst>$}$ ^unknown<unknown>{^*up$}$?.
+[/1aew9lL_9tP1]
+[2I_Mr3XkTXBp#0] ^default<default>{^قوتو<n><sg>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نووسين<vblex><inf>$}$ ^default<default>{^كە<cnjsub>$}$ ^unknown<unknown>{^*down$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*me$}$?.
+[/2I_Mr3XkTXBp]
+[2lRb0VTnxjAR#0] ^default<default>{^چاک<n><sg>$}$ ^unknown<unknown>{^*evening$}$.
+[/2lRb0VTnxjAR]
+[2vZiceexAxPR#0] ^default<default>{^چای<n><sg>$}$ ^default<default>{^ویستن<n><sg>$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*served$}$.
+[/2vZiceexAxPR]
+[30Ba9D8oP3zk#0] ^default<default>{^سنوورداشکردن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تورکیا<np><top><sg>$}$.
+[/30Ba9D8oP3zk]
+[35J2hZLLGucN#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^بوون<vbcop><pp>$}$ ^default<default>{^گرتن<vblex><ger>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^دەرمان<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^ساڵ<n><pl>$}$.
+[/35J2hZLLGucN]
+[39U_rIbrzoEL#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^گرتن<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^وێنەگرتن<n><sg>$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^یوونانی<n><sg>$}$ ^default<default>{^بەڵگەنامە<n><sg>$}$?.
+[/39U_rIbrzoEL]
+[39rvclf7DkUE#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^سکچوون<n><sg>$}$.
+[/39rvclf7DkUE]
+[3Tzl3L2PRqxH#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^بوون<vbcop><pp>$}$ ^unknown<unknown>{^*raped$}$.
+[/3Tzl3L2PRqxH]
+[3XgwFnTh_9iS#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^داس<n><sg>$}$ ^default<default>{^خانە<n><sg>$}$ ^default<default>{^نەخۆشیی<n><sg>$}$.
+[/3XgwFnTh_9iS]
+[3wT-s_MxqncE#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/3wT-s_MxqncE]
+[3xbJf5tDuapT#0] ^default<default>{^سیتی<n><sg>$}$.
+[/3xbJf5tDuapT]
+[41IurcoHyVAd#0] ^j<SA>{^باشترین<adj><sint><pst>$}$ ^default<default>{^بەیانی<n><sg>$}$.
+[/41IurcoHyVAd]
+[4C50qnWzlB8L#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^یان<cnjcoo>$}$ ^unknown<unknown>{^*viber$}$ ^default<default>{^ژمارە<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^مرۆڤ<n><sg>$}$ ^j<SA>{^ونبوو<adj><pst>$}$?.
+[/4C50qnWzlB8L]
+[4DdOBy88_UtC#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*stung$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^مێروو<n><sg>$}$.
+[/4DdOBy88_UtC]
+[4VPOW5JQjGJt#0] ^default<default>{^جلوبەرگ<n><pl>$}$ ^default<default>{^دابەشکردن<n><sg>$}$.
+[/4VPOW5JQjGJt]
+[4mEXAzKKotKp#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^هەرگیز<adv>$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^ئێش<n><sg>$}$ ^default<default>{^پێش‬<pr>$}$.
+[/4mEXAzKKotKp]
+[4nyYbXrO25ax#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^default<default>{^سەرما<n><sg>$}$.
+[/4nyYbXrO25ax]
+[4ux0ssdgfJrr#0] ^unknown<unknown>{^*I$}$ ^default<default>{^كردن<vblex><pres>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^خواردن<vblex><inf>$}$ ^default<default>{^گۆشتی بەراز<n><sg>$}$.
+[/4ux0ssdgfJrr]
+[518SM4WvfK_b#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^شێو<n><sg>$}$, ^default<default>{^قاوە<n><sg>$}$, ^default<default>{^چا<n><sg>$}$?.
+[/518SM4WvfK_b]
+[5Q4qohsQp8ye#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*wheezing$}$.
+[/5Q4qohsQp8ye]
+[5RYvF6juuSrP#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*NOT$}$ ^unknown<unknown>{^*ADD$}$ ^default<default>{^ئاو<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^بەرهەم<n><sg>$}$.
+[/5RYvF6juuSrP]
+[5SGF3jYsUOga#0] ^default<default>{^كردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*anyone$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^کۆمەڵ<n><sg>$}$ ^unknown<unknown>{^*require$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^ئاگاداری<n><sg>$}$?.
+[/5SGF3jYsUOga]
+[63cb9i1vMWmy#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^منداڵ<n><pl>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$?.
+[/63cb9i1vMWmy]
+[6DCyxFCYrgSr#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^زگ<n><sg>$}$ ^default<default>{^ئازار<n><sg>$}$.
+[/6DCyxFCYrgSr]
+[76OXPQl2TS8F#0] ^unknown<unknown>{^*Both$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ئەوە<prn><dem><pl>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^وەکوویەک<adj><pst>$}$ ^default<default>{^نرخ<n><sg>$}$ ^default<default>{^بەرنامەی کار<n><sg>$}$:.
+[/76OXPQl2TS8F]
+[77uA9ajcXAyz#0] ^unknown<unknown>{^*The$}$ ^default<default>{^ئێش<n><sg>$}$ ^unknown<unknown>{^*started$}$ ^unknown<unknown>{^*gradually$}$.
+[/77uA9ajcXAyz]
+[7AsQaAr_OJ9y#0] ^unknown<unknown>{^*IMPORTANT$}$ ^default<default>{^هۆشداریی<n><sg>$}$: ^unknown<unknown>{^*A$}$ ^default<default>{^دایە<n><sg>$}$^default<default>{^ھەبوون<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*breastmilk$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^j<SA>{^باشترین<adj><sint><sup><pst>$}$ ^default<default>{^شێو<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*her$}$ ^default<default>{^منداڵ<n><sg>$}$.
+[/7AsQaAr_OJ9y]
+[7TjQfxS68p1_#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*bitten$}$.
+[/7TjQfxS68p1_]
+[7Ugg4-_QVJL7#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*cannot$}$ ^unknown<unknown>{^*see$}$.
+[/7Ugg4-_QVJL7]
+[7WJ4pzhe7uZb#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^تینو<adj><pst>$}$.
+[/7WJ4pzhe7uZb]
+[7kJ9qxGgl3-X#0] ^unknown<unknown>{^*As$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*5th$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^حەزیران<n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*until$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^کۆتایی<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*Ramadan$}$ ^default<default>{^ماوە<n><sg>$}$, ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*5th$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تەمووز<n><sg>$}$, ^default<default>{^نانی بەیانی<n><sg>$}$ ^default<default>{^ویستن<n><sg>$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*served$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^نانی شیڤ<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*19$}$.^unknown<unknown>{^*00$}$, ^default<default>{^لەکاتێکدا<cnjsub>$}$ ^default<default>{^نانی نیوەڕۆ<n><sg>$}$ ^default<default>{^ویستن<n><sg>$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*served$}$ ^unknown<unknown>{^*as$}$ ^j<SA>{^ئاسایی<adj><pst>$}$.
+[/7kJ9qxGgl3-X]
+[7sZKLpDySLXB#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*vomit$}$ ^unknown<unknown>{^*up$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^default<default>{^شێو<n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*drinks$}$.
+[/7sZKLpDySLXB]
+[80mHn8BkAKxI#0] ^n<SN>{^ساوا<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/80mHn8BkAKxI]
+[83hnxOJ1Kg0J#0] ^unknown<unknown>{^*Chios$}$ – ^unknown<unknown>{^*Kavala$}$.
+[/83hnxOJ1Kg0J]
+[8QpYCK8YgCCx#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$.
+[/8QpYCK8YgCCx]
+[8Yu7eo2Ps3qC#0] ^j<SA>{^بەساڵاچوو<adj><pst>$}$ ^default<default>{^مرۆڤ<n><pl>$}$,.
+[/8Yu7eo2Ps3qC]
+[8iGw5cgrRTDN#0] ^default<default>{^قاوە<n><sg>$}$.
+[/8iGw5cgrRTDN]
+[9Rvq1IjhS2Vq#0] ^default<default>{^سپاس<ij>$}$.
+[/9Rvq1IjhS2Vq]
+[9Uh-1LNTpR1S#0] ^unknown<unknown>{^*Somebody$}$ ^unknown<unknown>{^*hit$}$ ^unknown<unknown>{^*me$}$.
+[/9Uh-1LNTpR1S]
+[9exNQZvzEqVE#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*use$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بوتڵ<n><sg>$}$. ^unknown<unknown>{^*Use$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^پاك<adj><pst>$}$ ^default<default>{^جام<n><sg>$}$.
+[/9exNQZvzEqVE]
+[9xq4uhekUzr0#0] ^n<SN>{^دڵ<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^unknown<unknown>{^*beats$}$ ^j<SA>{^نائاسایی<adj><pst>$}$.
+[/9xq4uhekUzr0]
+[A0JMzPeEdYn0#0] ^default<default>{^<sp>$}$ . ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^لەکارکەوتو<adj><pst>$}$.
+[/A0JMzPeEdYn0]
+[A1X5OltON2gd#0] ^unknown<unknown>{^*I$}$ ^default<default>{^گرتن<vblex><pres>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^دەرمان<n><sg>$}$ ^unknown<unknown>{^*every$}$ ^default<default>{^رۆژ<n><sg>$}$.
+[/A1X5OltON2gd]
+[A3uCHOYT4bh6#0] ^default<default>{^كردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*anyone$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^کۆمەڵ<n><sg>$}$ ^default<default>{^قسە کردن<vblex><inf>$}$ ^default<default>{^ئینگلیز<n><sg>$}$?.
+[/A3uCHOYT4bh6]
+[A6Y5THW2exH3#0] ^default<default>{^جلوبەرگ<n><sg>$}$ (^default<default>{^تەنها<adv>$}$ ^default<default>{^بۆ<pr>$}$ ^j<SA>{^تەڕ<adj><sint><pst>$}$ ^default<default>{^مرۆڤ<n><pl>$}$).
+[/A6Y5THW2exH3]
+[AMmMQxY8yJyh#0] ^unknown<unknown>{^*Criteria$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*Subsidiary$}$ ^default<default>{^پاراستن<n><sg>$}$.
+[/AMmMQxY8yJyh]
+[AV0rFQSebrbT#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^زانن<vblex><pres>$}$.
+[/AV0rFQSebrbT]
+[AmRMAvNzDNtH#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^وێنەگرتن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^یوونانی<n><sg>$}$ ^default<default>{^بەڵگە<n><pl>$}$?.
+[/AmRMAvNzDNtH]
+[AtndzyHwbI-F#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^default<default>{^قسە کردن<vblex><pres>$}$ (^default<default>{^ئینگلیز<n><pl>$}$) ^default<default>{^زۆر<adv>$}$ ^unknown<unknown>{^*well$}$.
+[/AtndzyHwbI-F]
+[AwNShgKk_uKC#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^ژانەسەر<n><sg>$}$.
+[/AwNShgKk_uKC]
+[B5JxnBTVebiC#0] ^default<default>{^بوون<vbcop><imp>$}$ ^default<default>{^بوار<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ڕاگواستن<n><sg>$}$ ^default<default>{^پرۆسە<n><sg>$}$ ^default<default>{^بەڵام<cnjcoo>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^کۆتایی<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^هێڵ<n><sg>$}$.
+[/B5JxnBTVebiC]
+[BFlxh5DNmRxg#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*hurts$}$ ^unknown<unknown>{^*here$}$.
+[/BFlxh5DNmRxg]
+[BNxmouqPYFsN#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*able$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^نووسين<vblex><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ناو<n><sg>$}$?.
+[/BNxmouqPYFsN]
+[Bl3hcHUoGQqE#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^unknown<unknown>{^*understand$}$.
+[/Bl3hcHUoGQqE]
+[By01VJ-Bkp9P#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ویستن<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^مانەوە<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^منداڵ<n><pl>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^بنەماڵ<n><pl>$}$' ^default<default>{^سەنتەر<n><sg>$}$ ^default<default>{^ئەمشەو<adv>$}$?.
+[/By01VJ-Bkp9P]
+[C75gSBpxaTUB#0] ^unknown<unknown>{^*What$}$ ^unknown<unknown>{^*happened$}$?.
+[/C75gSBpxaTUB]
+[CFjALpIWyYUO#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^j<SA>{^دووگیان<adj><pst>$}$.
+[/CFjALpIWyYUO]
+[CTLOQtkvAhgo#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*share$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ئاگاداری<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^n<SN>{^هاوپیشە<n><pl><abs>+من<prn><pers><p1><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*the$}$ ^j<SA>{^دوایی<adj><pst>$}$ ^default<default>{^شەمەندەفەر<n><sg>$}$ ^default<default>{^وەستان<n><sg>$}$ ^unknown<unknown>{^*so$}$ ^unknown<unknown>{^*we$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*provide$}$ ^default<default>{^خزمەت<n><pl>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ئەوێ<adv>$}$?.
+[/CTLOQtkvAhgo]
+[Cpi1pZJX41eG#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^سارد<adj><pst>$}$ ^default<default>{^ئارەق<n><sg>$}$.
+[/Cpi1pZJX41eG]
+[D-howE2Py_Xr#0] ^unknown<unknown>{^*Ask$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^وەرگێڕ<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تاووتوێ کردن<vblex><inf>$}$ ^default<default>{^بنەماڵ<n><sg>$}$ ^default<default>{^کێش<n><pl>$}$.
+[/D-howE2Py_Xr]
+[D5eUOhxQnUGF#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*hurt$}$?.
+[/D5eUOhxQnUGF]
+[DC-34x6GqlIx#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^خەمبار<adj><pst>$}$.
+[/DC-34x6GqlIx]
+[DOPvRI4vmIpN#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^قسە کردن<vblex><inf>$}$ ^default<default>{^ئینگلیز<n><sg>$}$?.
+[/DOPvRI4vmIpN]
+[DQ_5BdTUNhOG#0] ^default<default>{^دايبي<n><sg>$}$.
+[/DQ_5BdTUNhOG]
+[DUk1Nz6k1DXN#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^یارمەتی<n><sg>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^j<SA>{^پاك<adj><pst>$}$?.
+[/DUk1Nz6k1DXN]
+[DcsrjRqNgep1#0] ^unknown<unknown>{^*Once$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^سەرەتا<n><sg>$}$ ^unknown<unknown>{^*using$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^unknown<unknown>{^*it$}$ ^unknown<unknown>{^*might$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*easy$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^سەرەتا<n><sg>$}$ ^unknown<unknown>{^*breastfeeding$}$ ^unknown<unknown>{^*again$}$.
+[/DcsrjRqNgep1]
+[DtGfvYUDNtBq#0] ^n<SN>{^میز<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^default<default>{^بۆن کردن<vblex><pres><p3><sg>$}$ ^j<SA>{^خراپ<adj><pst>$}$.
+[/DtGfvYUDNtBq]
+[Du3TneOZvIoF#0] ^default<default>{^<sp>$}$ . ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^لاواز<adj><pst>$}$.
+[/Du3TneOZvIoF]
+[E1EMi3tFcGmT#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^پلەی گەرما<n><sg>$}$.
+[/E1EMi3tFcGmT]
+[E6_9CGQeRN8x#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*raped$}$.
+[/E6_9CGQeRN8x]
+[EAho--SC7yUz#0] ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^بەرهەم<n><sg>$}$ ^default<default>{^دەبێت<n><sg>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*used$}$ ^default<default>{^پاش‬<pr>$}$ ^default<default>{^بەروار<n><sg>$}$ ^unknown<unknown>{^*printed$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^خوارەوە<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^تەنەکە<n><sg>$}$\/^default<default>{^گەلە<n><sg>$}$.
+[/EAho--SC7yUz]
+[EAsRVvHJqusl#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^فۆتۆکۆپی<n><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بەڵگە<n><sg>$}$?.
+[/EAsRVvHJqusl]
+[EfiSikrcaGWb#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*understand$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^زمان<n><sg>$}$?.
+[/EfiSikrcaGWb]
+[Ek6yc_mgpHDj#0] ^default<default>{^تۆ<prn><pers><p2><sg>$}$'^unknown<unknown>{^*re$}$ ^unknown<unknown>{^*welcome$}$.
+[/Ek6yc_mgpHDj]
+[EvZOiehCrUrW#0] ^default<default>{^سەربان<n><sg>$}$: € ^unknown<unknown>{^*41$}$,^unknown<unknown>{^*5$}$.
+[/EvZOiehCrUrW]
+[FTT1cvb-yvOd#0] ^unknown<unknown>{^*Criteria$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*Humanitarian$}$ ^unknown<unknown>{^*Residency$}$ ^unknown<unknown>{^*permit$}$.
+[/FTT1cvb-yvOd]
+[FWmILbCd7Rzg#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ڕێكە پێدان<n><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کۆمپیوتەر<n><sg>$}$?.
+[/FWmILbCd7Rzg]
+[Fh7UvUiyzKKx#0] ^default<default>{^ئەوێ<adv>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^هۆکار<n><sg>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*breastfeed$}$.
+[/Fh7UvUiyzKKx]
+[Fx1swm7y8dKP#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^زانن<vblex><inf>$}$ ^unknown<unknown>{^*which$}$ ^default<default>{^کۆمەڵ کردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^لە<pr>$}$?.
+[/Fx1swm7y8dKP]
+[GE_dWfKFIf1F#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*think$}$ ^unknown<unknown>{^*about$}$ ^default<default>{^خوکۆشتن<n><sg>$}$.
+[/GE_dWfKFIf1F]
+[GRg-7lSr3uM6#0] ^unknown<unknown>{^*sanitary$}$ ^unknown<unknown>{^*pad$}$.
+[/GRg-7lSr3uM6]
+[GbgJ9QOY6EvK#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^unknown<unknown>{^*frightened$}$.
+[/GbgJ9QOY6EvK]
+[GsY7tFUB2RnR#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*coughing$}$ ^unknown<unknown>{^*up$}$ ^default<default>{^بەڵغەم<n><sg>$}$.
+[/GsY7tFUB2RnR]
+[Gyxo2wCba4gs#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەوڵدان<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^جووڵە<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*another$}$ ^default<default>{^بوار<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ووڵات<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*avoid$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^کێش<n><pl>$}$?.
+[/Gyxo2wCba4gs]
+[GzbLmJIG8aJO#0] ^default<default>{^دايبي<n><sg>$}$.
+[/GzbLmJIG8aJO]
+[H8UUTWU1XHb2#0] ^default<default>{^كردن<vblex><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^پۆلیس<n><pl>$}$ ^unknown<unknown>{^*tell$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^گرتن<vblex><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^شەمەندەفەر<n><sg>$}$?.
+[/H8UUTWU1XHb2]
+[HT68pYBjUbNl#0] ^default<default>{^كڕین<vblex><imp>$}$ ^default<default>{^بلیت<n><pl>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*advance$}$.
+[/HT68pYBjUbNl]
+[HynyAf8ohbkP#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^دەرمان<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/HynyAf8ohbkP]
+[Hz9VIgZKQjRB#0] ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*understand$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*instructions$}$.
+[/Hz9VIgZKQjRB]
+[IB6kPZKa2QmR#0] ‘^j<SA>{^توند<adj><pst>$}$ ^default<default>{^زیان<n><sg>$}$’ ^default<default>{^مەبەست<n><pl>$}$:.
+[/IB6kPZKa2QmR]
+[IKeVUbcuQyJb#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*coughing$}$ ^unknown<unknown>{^*up$}$ ^default<default>{^خوێن<n><sg>$}$.
+[/IKeVUbcuQyJb]
+[IVKULBdpuglB#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^ڕەبۆ<n><sg>$}$.
+[/IVKULBdpuglB]
+[IkHRoRheNqom#0] ^unknown<unknown>{^*Where$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*fill$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^نوسخەی دوکتور<n><sg>$}$?.
+[/IkHRoRheNqom]
+[IsDAyQSw_nlx#0] ^n<SN>{^منداڵ<n><pl><abs>+من<prn><pers><p1><sg>$}$.
+[/IsDAyQSw_nlx]
+[ItRFhBxAkOdu#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^ئێش<n><sg>$}$ ^default<default>{^كە<cnjsub>$}$ ^default<default>{^میز کردن<vblex><ger>$}$.
+[/ItRFhBxAkOdu]
+[Iv9YBpx_lRwO#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^تەوالێت<n><sg>$}$?.
+[/Iv9YBpx_lRwO]
+[JKshymwdP0RY#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^بارگە<n><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^unknown<unknown>{^*here$}$.
+[/JKshymwdP0RY]
+[JZR7S3uHLWYR#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*sleep$}$.
+[/JZR7S3uHLWYR]
+[JifMvYbsWM1T#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شێو<n><sg>$}$ ^unknown<unknown>{^*Halal$}$?.
+[/JifMvYbsWM1T]
+[K2h9timLYp07#0] ^unknown<unknown>{^*Goodbye$}$.
+[/K2h9timLYp07]
+[KOPLmrEZP_rP#0] ^unknown<unknown>{^*It$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^تیژ<adj><pst>$}$ ^default<default>{^ئێش<n><sg>$}$.
+[/KOPLmrEZP_rP]
+[KgsaD1YZVhKJ#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^j<SA>{^سارد<adj><pst>$}$\/ ^j<SA>{^بەستوو<adj><pst>$}$.
+[/KgsaD1YZVhKJ]
+[Kn7iWMHz3E47#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*hurts$}$ ^default<default>{^كە<cnjsub>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*touch$}$ ^unknown<unknown>{^*it$}$.
+[/Kn7iWMHz3E47]
+[Kp14QA6SSt7Y#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^برسی<adj><pst>$}$.
+[/Kp14QA6SSt7Y]
+[LA0SYTIOa6Pf#0] ^default<default>{^كردن<vblex><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^پۆلیس<n><pl>$}$ ^unknown<unknown>{^*tell$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^گرتن<vblex><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^تاکسی<n><sg>$}$?.
+[/LA0SYTIOa6Pf]
+[LBrFN0b3-4dS#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ویستن<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^پارێزەر<n><sg>$}$?.
+[/LBrFN0b3-4dS]
+[LK10Zi_j4SYl#0] ^default<default>{^كردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^کەنار دەریا<n><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^j<SA>{^پاك<adj><pst>$}$ ^unknown<unknown>{^*up$}$?.
+[/LK10Zi_j4SYl]
+[LQbJ3yoRplh-#0] ^default<default>{^دەرچوون<n><sg>$}$ ^default<default>{^خاڵ<n><sg>$}$.
+[/LQbJ3yoRplh-]
+[LWsH5LxNcIHX#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*pay$}$ ^unknown<unknown>{^*more$}$ ^unknown<unknown>{^*than$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*stated$}$ ^default<default>{^نرخ<n><sg>$}$?.
+[/LWsH5LxNcIHX]
+[LYvX2btfhbpk#0] ^unknown<unknown>{^*Hello$}$.
+[/LYvX2btfhbpk]
+[M6969AW8Ne6j#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*gets$}$ ^j<SA>{^خراپ<adj><comp><pst>$}$ ^default<default>{^كە<cnjsub>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^درۆ کردن<vblex><pres>$}$ ^unknown<unknown>{^*down$}$.
+[/M6969AW8Ne6j]
+[MHfKv6hdFmP6#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^قەبزی<n><sg>$}$.
+[/MHfKv6hdFmP6]
+[MR4uCNH3tHeK#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$.?.
+[/MR4uCNH3tHeK]
+[MdnmzcosMrDl#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^default<default>{^ئەمە<prn><rel><an><mf><sp>$}$ ^default<default>{^ئێش<n><sg>$}$ ^default<default>{^پێش‬<pr>$}$.
+[/MdnmzcosMrDl]
+[MiR9N3SLM5Wp#0] ^unknown<unknown>{^*Where$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^نوێژ کردن<vblex><pres>$}$?.
+[/MiR9N3SLM5Wp]
+[MiZA9rxSkU95#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^دژواری<n><sg>$}$ ^default<default>{^هەناسەدان<n><sg>$}$.
+[/MiZA9rxSkU95]
+[MqQJXTYakU_c#0] ^default<default>{^<sp>$}$ . ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*tingling$}$.
+[/MqQJXTYakU_c]
+[MqZmBAgGtg8-#0] ^unknown<unknown>{^*It$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*dull$}$ ^default<default>{^ئێش<n><sg>$}$.
+[/MqZmBAgGtg8-]
+[N1D-qcQf_0NC#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کێم<n><sg>$}$ ^default<default>{^گەروو<n><sg>$}$.
+[/N1D-qcQf_0NC]
+[NKA0kPBBNPhW#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^نەخۆشی ڤایرۆسی پەککەوتنی بەرگریی مرۆڤ<n><acr><sg>$}$.
+[/NKA0kPBBNPhW]
+[NmCWGWheVbQ5#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*NOT$}$ ^unknown<unknown>{^*cut$}$  ^unknown<unknown>{^*the$}$ ^default<default>{^برین<n><sg>$}$ ^j<SA>{^کراوە<adj><pst>$}$ ^unknown<unknown>{^*oر$}$ ^default<default>{^هەوڵدان<vblex><pres>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*remove$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^زەهر<n><sg>$}$.
+[/NmCWGWheVbQ5]
+[Np5pm40Gt6Xg#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*fell$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بەرز<n><sg>$}$.
+[/Np5pm40Gt6Xg]
+[NyL9kvZue7Sk#0] ^default<default>{^ھاتن<vblex><imp>$}$ ^unknown<unknown>{^*over$}$ ^unknown<unknown>{^*here$}$!.
+[/NyL9kvZue7Sk]
+[OA_qEEphhc34#0] ^unknown<unknown>{^*Arrange$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کۆبوونەوە<n><sg>$}$ ^default<default>{^خاڵ<n><sg>$}$.
+[/OA_qEEphhc34]
+[OXRPGgfVUDcM#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*receive$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بەتانی<n><sg>$}$ ^default<default>{^یان<cnjcoo>$}$ ^j<SA>{^گەرم<adj><sint><pst>$}$ ^default<default>{^جلوبەرگ<n><sg>$}$?.
+[/OXRPGgfVUDcM]
+[Oat03cLfkJ_j#0] ^unknown<unknown>{^*The$}$ ^default<default>{^ئێش<n><sg>$}$ ^unknown<unknown>{^*started$}$ ^unknown<unknown>{^*here$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^چوون<vblex><pres><p3><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*here$}$.
+[/Oat03cLfkJ_j]
+[OhX_Us3-3G7d#0] ^unknown<unknown>{^*What$}$ ^default<default>{^وەخت<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*it$}$?.
+[/OhX_Us3-3G7d]
+[OmdFNWS6MxPR#0] ^default<default>{^دراو<n><sg>$}$ ^default<default>{^گۆڕینەوە<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*Chios$}$ ^default<default>{^بانک<n><sg>$}$.
+[/OmdFNWS6MxPR]
+[OseQxnKUg-0M#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ویستن<n><sg>$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*back$}$ ^unknown<unknown>{^*soon$}$.
+[/OseQxnKUg-0M]
+[Osjy5AR5OCt6#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/Osjy5AR5OCt6]
+[Ou_v_BbiOaB8#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*able$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^نووسين<vblex><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ناو<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^مرۆڤ<n><sg>$}$ ^j<SA>{^ونبوو<adj><pst>$}$?.
+[/Ou_v_BbiOaB8]
+[P8jGXK3fILYV#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^j<SA>{^خەمبار<adj><pst>$}$.
+[/P8jGXK3fILYV]
+[PDX1YxBhT7jC#0] ^default<default>{^پەنابەر<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^یۆنان<np><top><sg>$}$.
+[/PDX1YxBhT7jC]
+[PS3xHP3zJpjK#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^فێ<n><sg>$}$.
+[/PS3xHP3zJpjK]
+[PttgwO7mmpUC#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^دایە<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/PttgwO7mmpUC]
+[Pyqj9juGsrTH#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەست کردن<vblex><ger>$}$ ^j<SA>{^سەرەگێژە<adj><pst>$}$?.
+[/Pyqj9juGsrTH]
+[Pz8vpPURUWEm#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^پلاندانان<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^داوا کردن<vblex><inf>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^پەنابەر<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*fYR$}$ ^default<default>{^مەکەدۆنیا<np><top><sg>$}$?.
+[/Pz8vpPURUWEm]
+[Q3_ZY0KO0hZ1#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^دڵخۆش<adj><pst>$}$.
+[/Q3_ZY0KO0hZ1]
+[Q5HMqE9Xm-7a#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*already$}$ ^default<default>{^ھەبوون<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*pure$}$ ^default<default>{^ئاو<n><sg>$}$ ^unknown<unknown>{^*added$}$: ^unknown<unknown>{^*it$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*not$}$ ^j<SA>{^پێویست<adj><pst>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*add$}$ ^default<default>{^ئاو<n><sg>$}$.
+[/Q5HMqE9Xm-7a]
+[QCwokCp1xEwb#0] ^default<default>{^جلوبەرگ<n><pl>$}$ ^default<default>{^تەنها<adv>$}$ ^default<default>{^بۆ<pr>$}$ ^j<SA>{^تەڕ<adj><sint><pst>$}$ ^default<default>{^مرۆڤ<n><pl>$}$.
+[/QCwokCp1xEwb]
+[QIF35yWmRpnE#0] ^unknown<unknown>{^*Hold$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ساوا<n><sg>$}$ ^j<SA>{^داخراو<adj><sint><pst>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*let$}$ ^unknown<unknown>{^*him$}$\/^unknown<unknown>{^*her$}$ ^default<default>{^قوم<n><sg>$}$ ^unknown<unknown>{^*slowly$}$.
+[/QIF35yWmRpnE]
+[QLpUP5lD1ixJ#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^هەر<det><ind><sp>$}$ ^unknown<unknown>{^*other$}$ ^default<default>{^بەڵگەنامە<n><sg>$}$ ^default<default>{^ئەو<det><dem><sg>$}$ ^default<default>{^پیشانگە<n><pl>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^نەتەوە<n><sg>$}$?.
+[/QLpUP5lD1ixJ]
+[Qp1M8qdt6Ojg#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەست کردن<vblex><inf>$}$ ^j<SA>{^ڕاحەت<adj><pst>$}$ ^unknown<unknown>{^*staying$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شوێن<n><sg>$}$ ^default<default>{^ئەمرۆ<n><sg>$}$?.
+[/Qp1M8qdt6Ojg]
+[QrN-8lZOubaR#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^ئەمە<prn><dem><mf><pl>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^منداڵ<n><pl>$}$?.
+[/QrN-8lZOubaR]
+[QspVqdJVIiD_#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^شەمەندەفەری ژێرزەمینی<n><sg>$}$\/^default<default>{^ژێرزەمین<n><sg>$}$?.
+[/QspVqdJVIiD_]
+[R5jfHFJpgyDe#0] ^unknown<unknown>{^*I$}$ ^default<default>{^وەک<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$.
+[/R5jfHFJpgyDe]
+[R5mF1seGJLwF#0] ^default<default>{^كردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^مرۆڤ<n><sg>$}$ ^j<SA>{^ونبوو<adj><pst>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^یان<cnjcoo>$}$ ^unknown<unknown>{^*viber$}$ ^default<default>{^ژمارە<n><sg>$}$?.
+[/R5mF1seGJLwF]
+[RAA3e58r74YK#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*keep$}$ ^default<default>{^پاشماوە<n><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*more$}$ ^unknown<unknown>{^*than$}$ ^unknown<unknown>{^*1$}$ ^default<default>{^کاتژمێر<n><sg>$}$ – ^unknown<unknown>{^*it$}$ ^default<default>{^ویستن<n><sg>$}$ ^unknown<unknown>{^*become$}$ ^unknown<unknown>{^*unclean$}$ ^default<default>{^و<cnjcoo>$}$ ^j<SA>{^ناسەلامەت<adj><pst>$}$.
+[/RAA3e58r74YK]
+[RHHd1xBeGCaI#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^دووکەڵ<n><sg>$}$ ^default<default>{^ناوەوە<pr>$}$.
+[/RHHd1xBeGCaI]
+[RKRmJTWcHYfk#0] ^default<default>{^کەنیسە<n><sg>$}$.
+[/RKRmJTWcHYfk]
+[RLRTbT0f6PL1#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^کۆم<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/RLRTbT0f6PL1]
+[RPO87-xOmbbm#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*medical$}$ ^default<default>{^ئاگاداری<n><sg>$}$?.
+[/RPO87-xOmbbm]
+[RV1OYe3gvx8X#0] ^unknown<unknown>{^*The$}$ ^default<default>{^ئێش<n><sg>$}$ ^unknown<unknown>{^*started$}$ ^unknown<unknown>{^*suddenly$}$.
+[/RV1OYe3gvx8X]
+[RZ1nvQlrmLt0#0] ^default<default>{^ھاتن<vblex><imp>$}$ ^unknown<unknown>{^*back$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$}$ ^default<default>{^چادر<n><sg>$}$ (^j<SA>{^کەمێك<adj><sint><pst>$}$ ^default<default>{^کاتژمێر<n><pl>$}$).
+[/RZ1nvQlrmLt0]
+[RarAZAGzPqXb#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^j<SA>{^لەهۆشچوو<adj><pst>$}$.
+[/RarAZAGzPqXb]
+[RwL1QwPACoTR#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*thalassaemia$}$.
+[/RwL1QwPACoTR]
+[S39AB8yOpqW1#0] ^default<default>{^<sp>$}$ .. ^default<default>{^هەست کردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*numb$}$.
+[/S39AB8yOpqW1]
+[SDQRdSubwRdi#0] ^unknown<unknown>{^*Because$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*well$}$-^unknown<unknown>{^*founded$}$ ^default<default>{^ترس<n><sg>$}$:.
+[/SDQRdSubwRdi]
+[SpO4wI6DDzM7#0] ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^سەرومڕ<adj><pst>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^default<default>{^نیاز<n><pl>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^ساوا<n><sg>$}$ ^unknown<unknown>{^*until$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^تەمەن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^شەش<num><pl>$}$ (^unknown<unknown>{^*6$}$) ^default<default>{^مانگ<n><pl>$}$.
+[/SpO4wI6DDzM7]
+[StVpfEBdkpY7#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^یارمەتی<n><sg>$}$?.
+[/StVpfEBdkpY7]
+[StkjxDPLPBDj#0] ^default<default>{^ئەوێ<adv>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^خوێن<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^پیسایی<n><pl><abs>+من<prn><pers><p1><sg>$}$.
+[/StkjxDPLPBDj]
+[SzMOFAGY8zvk#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ویستن<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^قسە کردن<vblex><inf>$}$ ^unknown<unknown>{^*privately$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^وەرگێڕ<n><sg>$}$?.
+[/SzMOFAGY8zvk]
+[T-xJF9N40DCr#0] ^unknown<unknown>{^*Airplanes$}$:.
+[/T-xJF9N40DCr]
+[Tqy7WRKzUkOP#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*please$}$ ^default<default>{^گرتن<vblex><pres>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ناو<n><sg>$}$ ^unknown<unknown>{^*so$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*check$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^داتا<n><sg>$}$?.
+[/Tqy7WRKzUkOP]
+[U-pb2fpjliyw#0] ^unknown<unknown>{^*Don$}$’^unknown<unknown>{^*t$}$ ^unknown<unknown>{^*worry$}$.
+[/U-pb2fpjliyw]
+[U3sfshkQeAdq#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*more$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^دەرمان<n><sg>$}$.
+[/U3sfshkQeAdq]
+[UC_-wr73enJj#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*share$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ئاگاداری<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^n<SN>{^هاوپیشە<n><pl><abs>+من<prn><pers><p1><sg>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^سربیا<np><top><sg>$}$ ^unknown<unknown>{^*so$}$ ^unknown<unknown>{^*we$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*provide$}$ ^default<default>{^خزمەت<n><pl>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ئەوێ<adv>$}$?.
+[/UC_-wr73enJj]
+[Uk4OiUXSkDVQ#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^بانگ<n><sg>$}$.
+[/Uk4OiUXSkDVQ]
+[UkgDq7bDiYJs#0] ^default<default>{^توانین<vbmod><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^پیشانگە<n><sg>$}$ ^unknown<unknown>{^*us$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^سیستمی شوێن دیاریکردنی جیهانیی<n><acr><sg>$}$ ^default<default>{^خاڵ<n><sg>$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*find$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*others$}$!.
+[/UkgDq7bDiYJs]
+[UqCmjgalygTp#0] ^default<default>{^پاس<n><sg>$}$ ^default<default>{^نرخ<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*3$}$ ^default<default>{^یۆرۆ<n><pl>$}$.
+[/UqCmjgalygTp]
+[V15Z8xG6v1ck#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*diabetic$}$.
+[/V15Z8xG6v1ck]
+[VO7AsGXpkakT#0] ^unknown<unknown>{^*Where$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^كڕین<vblex><pres>$}$_____?.
+[/VO7AsGXpkakT]
+[VYCsRxrH6-Ih#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*see$}$ ^default<default>{^هەر<det><ind><sp>$}$ ^default<default>{^پەنابەر<n><pl>$}$?.
+[/VYCsRxrH6-Ih]
+[VoiUENPrU677#0] ^unknown<unknown>{^*Emergency$}$ ^default<default>{^جلوبەرگ<n><sg>$}$ ^default<default>{^سەنتەر<n><sg>$}$.
+[/VoiUENPrU677]
+[Vtj0DlXf57Ig#0] ^default<default>{^بانگ<n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*notify$}$ ^unknown<unknown>{^*XXX$}$ ^unknown<unknown>{^*upon$}$ ^default<default>{^گەشتن<n><sg>$}$.
+[/Vtj0DlXf57Ig]
+[Vxurrl8D1LqX#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*see$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دکتۆر<n><sg>$}$.
+[/Vxurrl8D1LqX]
+[W8FOaV899hEg#0] ^j<SA>{^گونجاو<adj><pst>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^لەدایکبوون<n><sg>$}$.
+[/W8FOaV899hEg]
+[WA0SI0H7pDJh#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^پووڵ<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*purchase$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^بلیت<n><pl>$}$?.
+[/WA0SI0H7pDJh]
+[WUl4WSU43Fiq#0] ^default<default>{^منداڵ<n><sg>$}$ ^default<default>{^فرمۆڵ<n><sg>$}$.
+[/WUl4WSU43Fiq]
+[WhtkFD1cIyYa#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^تا<n><sg>$}$.
+[/WhtkFD1cIyYa]
+[WiBO1h12TM-O#0] ^unknown<unknown>{^*The$}$ ^default<default>{^ئێش<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^ئەوێ<adv>$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^وەخت<n><sg>$}$.
+[/WiBO1h12TM-O]
+[WncCOb15lAh2#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^j<SA>{^سەرەگێژە<adj><pst>$}$.
+[/WncCOb15lAh2]
+[X1RwsdOyenLK#0] ^unknown<unknown>{^*I$}$ ^default<default>{^میز کردن<vblex><pres>$}$ ^unknown<unknown>{^*every$}$ ^default<default>{^کاتژمێر<n><sg>$}$.
+[/X1RwsdOyenLK]
+[X31Zui041spu#0] ^default<default>{^بوتڵ<n><pl>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*UNCLEAN$}$ ^default<default>{^جام<n><pl>$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*YOUR$}$ ^default<default>{^منداڵ<n><sg>$}$ ^j<SA>{^نەخۆش<adj><pst>$}$!.
+[/X31Zui041spu]
+[XFHqdSAedKyH#0] ^n<SN>{^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^برسی<adj><pst>$}$.
+[/XFHqdSAedKyH]
+[XgXbAolH_LiT#0] ^default<default>{^بارگە<n><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^تەلەفۆن<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^j<SA>{^گەورە<adj><pst>$}$ ^default<default>{^چادر<n><pl>$}$ ^default<default>{^یان<cnjcoo>$}$ ^default<default>{^تەکنۆلۆژیای پەیوەندی و زانیاری<n><acr><sg>$}$ ^default<default>{^سەنتەر<n><sg>$}$.
+[/XgXbAolH_LiT]
+[XkYZM3zni2v8#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^زگ<n><sg>$}$ ^default<default>{^ئازار<n><sg>$}$.
+[/XkYZM3zni2v8]
+[Xu71QZBKx1iI#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*would$}$ ^default<default>{^وەک<pr>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^مەوعید<n><sg>$}$.
+[/Xu71QZBKx1iI]
+[XzZ0JOq2QfKY#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^ئەنسۆلین<n><sg>$}$.
+[/XzZ0JOq2QfKY]
+[YWyXdLfrEb_I#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^مێرد <n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/YWyXdLfrEb_I]
+[Y_XLpgYI7Yki#0] ^unknown<unknown>{^*Depending$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^بارودۆخ<n><pl>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ووڵات<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ڕەگەز<n><sg>$}$, ^unknown<unknown>{^*a$}$ ^j<SA>{^تایبەتی<adj><pst>$}$ ^j<SA>{^کۆمەڵایەتی<adj><pst>$}$ ^default<default>{^کۆمەڵ<n><sg>$}$ ^unknown<unknown>{^*might$}$ ^unknown<unknown>{^*include$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کۆمەڵ<n><sg>$}$ ^unknown<unknown>{^*based$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^باو<n><sg>$}$ ^j<SA>{^جیاکەرەوە<adj><pst>$}$ ^default<default>{^بە<pr>$}$ ^j<SA>{^جوتكرتن<adj><pst>$}$ ^default<default>{^حەز<n><sg>$}$.
+[/Y_XLpgYI7Yki]
+[YwKNfGdoL7b2#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^ڕێكە پێدان<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^تەلەفۆن<n><sg>$}$?.
+[/YwKNfGdoL7b2]
+[Yx4OC5PwuyRM#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^default<default>{^ھەبوون<vbhaver><ger>$}$ ^unknown<unknown>{^*an$}$ ^j<SA>{^هەستەوەر<adj><pst>$}$ ^default<default>{^کاردانەوە<n><sg>$}$.
+[/Yx4OC5PwuyRM]
+[Z2bwn9xesmqe#0] ^unknown<unknown>{^*Please$}$.
+[/Z2bwn9xesmqe]
+[Z4KbKnWWnu6m#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^شەکرە<n><sg>$}$.
+[/Z4KbKnWWnu6m]
+[Z4uubif23DFo#0] ^n<SN>{^کوڕ<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/Z4uubif23DFo]
+[ZClm7gcYjQ1l#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*hear$}$ ^default<default>{^دەنگ<n><pl>$}$ ^default<default>{^كە<cnjsub>$}$ ^unknown<unknown>{^*i$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^j<SA>{^تەنیا<adj><pst>$}$.
+[/ZClm7gcYjQ1l]
+[ZDtI0BjZey3d#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^چوون<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^ئوتێل<n><sg>$}$?.
+[/ZDtI0BjZey3d]
+[Za540wqIRwUc#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^تیشک<n><sg>$}$ ^default<default>{^ئاگر<n><pl>$}$ ^default<default>{^ناوەوە<pr>$}$.
+[/Za540wqIRwUc]
+[ZdvYvlJV7sTL#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*share$}$ ^default<default>{^ئاگاداری<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$}$ ^unknown<unknown>{^*Tabernovce$}$?.
+[/ZdvYvlJV7sTL]
+[ZpcBYs1FgjJV#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەست کردن<vblex><ger>$}$ ^default<default>{^زۆر<adv>$}$ ^j<SA>{^سارد<adj><pst>$}$?.
+[/ZpcBYs1FgjJV]
+[_7Aavp-_SRZV#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*receive$}$ ^default<default>{^مەکەدۆنیا<np><top><sg>$}$ ^default<default>{^بەڵگە<n><pl>$}$?.
+[/_7Aavp-_SRZV]
+[_bcvWqv4EsL0#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^بوون<vbcop><pp>$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/_bcvWqv4EsL0]
+[_f4WrCf_jE6y#0] ^default<default>{^كردن<vblex><past>$}$ ^unknown<unknown>{^*they$}$ ^default<default>{^یارمەتی<n><sg>$}$?.
+[/_f4WrCf_jE6y]
+[_kh36AKZ6SBY#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^سیل<n><sg>$}$.
+[/_kh36AKZ6SBY]
+[_oHGSBNVOv_D#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^نووسين<vblex><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ناو<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^بنەماڵ<n><sg>$}$?.
+[/_oHGSBNVOv_D]
+[_taQH3EM1Dkf#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^بەش<n><sg>$}$ ^unknown<unknown>{^*louder$}$?.
+[/_taQH3EM1Dkf]
+[aGJ2y4tp5v5u#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^فێ<n><sg>$}$.
+[/aGJ2y4tp5v5u]
+[aajjvUSl9xfc#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*an$}$ ^default<default>{^ئامبوڵانس<n><sg>$}$.
+[/aajjvUSl9xfc]
+[aoydLveTTf38#0] ^default<default>{^بوون<vbcop><imp>$}$ ^j<SA>{^بەئاگا<adj><pst>$}$. ^unknown<unknown>{^*Don$}$’^unknown<unknown>{^*t$}$ ^unknown<unknown>{^*leave$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^منداڵ<n><pl>$}$ ^unknown<unknown>{^*approaching$}$. ^default<default>{^تەنها<adv>$}$ ^default<default>{^گەورەساڵ<n><pl>$}$.
+[/aoydLveTTf38]
+[atCnSvL4MmXo#0] ^default<default>{^كردن<vblex><past>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^پۆلیس<n><pl>$}$ ^unknown<unknown>{^*tell$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^گرتن<vblex><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^پاسی ڕێگای دوور<n><sg>$}$?.
+[/atCnSvL4MmXo]
+[bFI_xuFQSt_9#0] ^unknown<unknown>{^*What$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ناو<n><sg>$}$?.
+[/bFI_xuFQSt_9]
+[bPL7OVYRJTQN#0] ^default<default>{^یەك<num><sg>$}$ ^default<default>{^مانگ<n><sg>$}$.
+[/bPL7OVYRJTQN]
+[bUqyajrL0-Pk#0] ^default<default>{^توانین<vbmod><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*read$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^زمان<n><sg>$}$?.
+[/bUqyajrL0-Pk]
+[c-EcRQeXm9fM#0] ^unknown<unknown>{^*It$}$ ^default<default>{^ویستن<n><sg>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^پارێزگاری کردن<vblex><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ساوا<n><sg>$}$ ^unknown<unknown>{^*against$}$ ^default<default>{^هەوکردن<n><pl>$}$.
+[/c-EcRQeXm9fM]
+[c95PtN_P9iM2#0] ^j<SA>{^ئاودیۆ<adj><pst>$}$ ^default<default>{^ڕاگەیاندن<n><pl>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^unknown<unknown>{^*more$}$ ^default<default>{^ئاگاداری<n><sg>$}$.
+[/c95PtN_P9iM2]
+[cB9t1VW5actr#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^ئەوە<prn><dem><mf><sg>$}$ ^default<default>{^یارمەتی<n><sg>$}$?.
+[/cB9t1VW5actr]
+[cKcStojKOz0n#0] ^default<default>{^داوا کردن<vblex><imp>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^پەنابەر<n><sg>$}$.
+[/cKcStojKOz0n]
+[cLatZfI0WUiG#0] ^unknown<unknown>{^*An$}$ ^j<SA>{^نزیکەی<adj><pst>$}$ ^default<default>{^نرخ<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$:.
+[/cLatZfI0WUiG]
+[cMg3nHhsAiCj#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^default<default>{^وەک<pr>$}$ ^unknown<unknown>{^*I$}$'^unknown<unknown>{^*m$}$ ^default<default>{^بوون<vbcop><pprs>$}$ ^default<default>{^تەماشا کردن<vblex><pp>$}$.
+[/cMg3nHhsAiCj]
+[chTAFoLIkbsq#0] ^default<default>{^یارمەتی<n><sg>$}$!.
+[/chTAFoLIkbsq]
+[cp106njscflr#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^ئەوێ<adv>$}$ ^default<default>{^ژیان<n><sg>$}$ ^default<default>{^چاکەت<n><pl>$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ڕۆخی دەریا<n><sg>$}$?.
+[/cp106njscflr]
+[dLVFrZpmXOFH#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^باوك<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/dLVFrZpmXOFH]
+[dTBNuV_zLaHh#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کۆکە<n><sg>$}$.
+[/dTBNuV_zLaHh]
+[ddcTDAj4z3ZR#0] ^default<default>{^توانین<vbmod><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^بانگ كردن<vblex><inf>$}$ ^default<default>{^كە<cnjsub>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*see$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بەلەم<n><sg>$}$?.
+[/ddcTDAj4z3ZR]
+[dgfa7LGPa8co#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*injured$}$.
+[/dgfa7LGPa8co]
+[dhMqjNPRSCDI#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^خواردن<vblex><pres>$}$ ^default<default>{^گۆشت <n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^ماسی<n><sg>$}$.
+[/dhMqjNPRSCDI]
+[dn9mI7WBdDvH#0] ^default<default>{^ڕاوێژ کردن<vblex><imp>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دکتۆر<n><sg>$}$ ^default<default>{^پێش‬<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^وەستان<n><sg>$}$ ^unknown<unknown>{^*breastfeeding$}$ ^default<default>{^یان<cnjcoo>$}$ ^default<default>{^پێش‬<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^دان<vblex><pres>$}$ ^default<default>{^هەر<det><ind><sp>$}$ ^unknown<unknown>{^*breastmilk$}$ ^default<default>{^جێگرەوە<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ساوا<n><sg>$}$.
+[/dn9mI7WBdDvH]
+[dztk5Ruz4kwR#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^default<default>{^هەست کردن<vblex><inf>$}$ ^unknown<unknown>{^*well$}$ .
+[/dztk5Ruz4kwR]
+[eKQUn7Ul7pzk#0] ^unknown<unknown>{^*Wipe$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*shake$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^پاکەت<n><sg>$}$ ^default<default>{^پێش‬<pr>$}$ ^default<default>{^كردنەوە<vblex><subs>$}$.
+[/eKQUn7Ul7pzk]
+[eQuY-2YJysgH#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*cannot$}$ ^default<default>{^قسە کردن<vblex><inf>$}$.
+[/eQuY-2YJysgH]
+[f-_G3GR2z92q#0] ^unknown<unknown>{^*Where$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^گرتن<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دوش<n><sg>$}$?.
+[/f-_G3GR2z92q]
+[f-rVGHiVH4eO#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^زانن<vblex><inf>$}$ ^unknown<unknown>{^*who$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^کۆمەڵ<n><sg>$}$ ^default<default>{^پێشەوا<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$?.
+[/f-rVGHiVH4eO]
+[fAdk1Jb1YJj5#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^j<SA>{^درێژخایەن<adj><pst>$}$ ^default<default>{^هەوکردنی سی<n><sg>$}$.
+[/fAdk1Jb1YJj5]
+[fIXXy3Wl8kJ1#0] ^default<default>{^قوتو<n><sg>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^unknown<unknown>{^*hear$}$ ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^unknown<unknown>{^*recording$}$?.
+[/fIXXy3Wl8kJ1]
+[fJiJsXQmrevQ#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^کارکردن<n><sg>$}$.
+[/fJiJsXQmrevQ]
+[fVs3JT4rdE-g#0] ^default<default>{^زۆر<adv>$}$ ^unknown<unknown>{^*soon$}$.
+[/fVs3JT4rdE-g]
+[f_MYMYtugNHm#0] ^n<SN>{^ماوە<n><pl><abs>+من<prn><pers><p1><sg>$}$ ^default<default>{^تەواو کردن<vblex><past>$}$, ^default<default>{^بەڵام<cnjcoo>$}$ ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^unknown<unknown>{^*again$}$.
+[/f_MYMYtugNHm]
+[flvkRqj5-TXc#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^سپی بونەوەی خوێن<n><sg>$}$.
+[/flvkRqj5-TXc]
+[frauVXMJyk6W#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دەردراو<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^زێ<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/frauVXMJyk6W]
+[g6G4bvLct1yf#0] ^unknown<unknown>{^*Use$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^default<default>{^تەنها<adv>$}$ ^unknown<unknown>{^*if$}$:.
+[/g6G4bvLct1yf]
+[g6_bhgXZiXtV#0] ^default<default>{^داوا کردن<vblex><imp>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^ڕاگواستن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ئەورۆپا<np><top><sg>$}$.
+[/g6_bhgXZiXtV]
+[g8HAVQxvCJto#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^j<SA>{^دووگیان<adj><pst>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$.
+[/g8HAVQxvCJto]
+[gTu_7uLkHWhV#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^j<SA>{^هەستەوەر<adj><pst>$}$ ^default<default>{^بە<pr>$}$….
+[/gTu_7uLkHWhV]
+[hDH7UU5WjGey#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*leave$}$ ^unknown<unknown>{^*belongings$}$ ^j<SA>{^پشتگوێخراو<adj><pst>$}$.
+[/hDH7UU5WjGey]
+[hEU8Kz6otdYW#0] ^unknown<unknown>{^*The$}$ ^default<default>{^ئێش<n><sg>$}$ ^default<default>{^ھاتن<vblex><pres><p3><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^چوون<vblex><pres><p3><sg>$}$.
+[/hEU8Kz6otdYW]
+[hRaW19UuEVhS#0] ^default<default>{^ئەوێ<adv>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^خوێن<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^میز<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/hRaW19UuEVhS]
+[hTCr4L1yq4LS#0] ^default<default>{^ماوە<n><sg>$}$: ^default<default>{^كە<cnjsub>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$’^unknown<unknown>{^*re$}$ ^unknown<unknown>{^*describing$}$ ^default<default>{^شت<n><pl>$}$ ^default<default>{^ئەوە<prn><rel><an><mf><sp>$}$ ^unknown<unknown>{^*happened$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$, ^unknown<unknown>{^*include$}$ ^unknown<unknown>{^*how$}$ ^j<SA>{^درێژ<adj><pst>$}$ ^default<default>{^ئەمە<prn><dem><mf><pl>$}$ ^default<default>{^شت<n><pl>$}$ ^unknown<unknown>{^*lasted$}$.
+[/hTCr4L1yq4LS]
+[hWnvxO1aYnMU#0] ^unknown<unknown>{^*Thank$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$.
+[/hWnvxO1aYnMU]
+[hrNWGxKGAbjL#0] ^default<default>{^ھاتن<vblex><imp>$}$ ^unknown<unknown>{^*back$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$}$ ^default<default>{^چادر<n><sg>$}$ (^unknown<unknown>{^*1$}$ ^default<default>{^کاتژمێر<n><sg>$}$).
+[/hrNWGxKGAbjL]
+[huTy0MmshOEv#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^دەبێ<vbmod><pres>$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^unknown<unknown>{^*admitted$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^نەخۆشخانە<n><sg>$}$?.
+[/huTy0MmshOEv]
+[hxJ7aubwTPdR#0] ^default<default>{^سانتی گەورە<n><sg>$}$.
+[/hxJ7aubwTPdR]
+[iDX0TI6GWWU8#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*pour$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^شیر<n><sg>$}$ ^default<default>{^ناو<pr>$}$ ^unknown<unknown>{^*his$}$\/^unknown<unknown>{^*her$}$ ^default<default>{^دەم<n><sg>$}$. ^unknown<unknown>{^*Let$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ساوا<n><sg>$}$ ^default<default>{^گرتن<vblex><inf>$}$ ^unknown<unknown>{^*as$}$ ^unknown<unknown>{^*much$}$ ^unknown<unknown>{^*as$}$ ^unknown<unknown>{^*he$}$ \/ ^unknown<unknown>{^*she$}$ ^default<default>{^ویستن<vblex><pres><p3><sg>$}$.
+[/iDX0TI6GWWU8]
+[iHMuL_5h9R7R#0] ^default<default>{^ھەروەھا<adv>$}$ ^unknown<unknown>{^*explain$}$ ^unknown<unknown>{^*if$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەوڵدان<vblex><past>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*leave$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ووڵات<n><sg>$}$ ^default<default>{^بەڵام<cnjcoo>$}$ ^unknown<unknown>{^*couldn$}$’^unknown<unknown>{^*t$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*what$}$ ^unknown<unknown>{^*stopped$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$.
+[/iHMuL_5h9R7R]
+[iJcBz93-kg6A#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^unknown<unknown>{^*depressed$}$.
+[/iJcBz93-kg6A]
+[ieHebhbc0m5P#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ویستن<vblex><pres>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^وەرگێڕ<n><sg>$}$?.
+[/ieHebhbc0m5P]
+[iuzMG9nUiKCJ#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^حەمام<n><sg>$}$?.
+[/iuzMG9nUiKCJ]
+[j34kzX_ZwxXR#0] ^unknown<unknown>{^*Chios$}$ – ^unknown<unknown>{^*Pireas$}$ (^unknown<unknown>{^*Athens$}$).
+[/j34kzX_ZwxXR]
+[jA6cjltjgcBx#0] ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^وەکوویەک<adj><pst>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ئەوە<prn><rel><an><mf><sp>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^unknown<unknown>{^*other$}$ ^default<default>{^جۆر<n><pl>$}$ ^default<default>{^بە<pr>$}$ ^j<SA>{^ئامادە<adj><sint><pst>$}$-^default<default>{^كردن<vblex><pp>$}$ ^default<default>{^فرمۆڵ<n><pl>$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^هەڕاجکردن<n><sg>$}$.
+[/jA6cjltjgcBx]
+[jBFJD-7f8CC-#0] ^default<default>{^یەك<num><sg>$}$ ^default<default>{^رۆژ<n><sg>$}$.
+[/jBFJD-7f8CC-]
+[jQeP1javnydO#0] ^n<SN>{^دڵ<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^unknown<unknown>{^*beats$}$ ^unknown<unknown>{^*fast$}$.
+[/jQeP1javnydO]
+[jmJaOyEIEfRk#0] ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^دەبێ<vbmod><pres>$}$ ^unknown<unknown>{^*wait$}$.
+[/jmJaOyEIEfRk]
+[jv9PFY-S-Gqv#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^گرتن<vblex><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دوش<n><sg>$}$.
+[/jv9PFY-S-Gqv]
+[jvgVMUwjOqtM#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*scan$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^بەڵگە<n><sg>$}$?.
+[/jvgVMUwjOqtM]
+[k5NdZSdg7x4Q#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$'^unknown<unknown>{^*t$}$ ^unknown<unknown>{^*drink$}$ ^default<default>{^ئەڵکۆڵ<n><sg>$}$.
+[/k5NdZSdg7x4Q]
+[k6DaOA0QjTp6#0] ^default<default>{^پاش‬<pr>$}$ ^default<default>{^شەش<num><pl>$}$ ^default<default>{^مانگ<n><pl>$}$, ^unknown<unknown>{^*he$}$\/^unknown<unknown>{^*she$}$ ^unknown<unknown>{^*should$}$ ^default<default>{^ھەروەھا<adv>$}$ ^default<default>{^سەرەتا<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*receive$}$ ^unknown<unknown>{^*other$}$ ^default<default>{^شێو<n><pl>$}$.
+[/k6DaOA0QjTp6]
+[k80CqVkntef_#0] ^default<default>{^وەک<pr>$}$ ^default<default>{^ھەموو<det><qnt><pl>$}$ ^j<SA>{^دەستکرد<adj><pst>$}$ ^default<default>{^فرمۆڵ<n><pl>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شیر<n><sg>$}$ ^default<default>{^كردن<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*contain$}$ ^unknown<unknown>{^*the$}$ ^unknown<unknown>{^*living$}$ ^default<default>{^دژەتەن<n><pl>$}$ ^unknown<unknown>{^*which$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^دایە<n><sg>$}$^default<default>{^ھەبوون<vbhaver><pres><p3><sg>$}$ ^default<default>{^شیر<n><sg>$}$.
+[/k80CqVkntef_]
+[kLiinEJtx4Xq#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*cut$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کارد<n><sg>$}$.
+[/kLiinEJtx4Xq]
+[k_aTscixQ_zT#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*hit$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^ماشێن<n><sg>$}$.
+[/k_aTscixQ_zT]
+[kjgPiDma-wik#0] ^unknown<unknown>{^*Chios$}$ – ^default<default>{^سالونیکی<np><top><sg>$}$.
+[/kjgPiDma-wik]
+[lH5JaLS9eZfT#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$..
+[/lH5JaLS9eZfT]
+[lPS6W1Dkm4L8#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^برا<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/lPS6W1Dkm4L8]
+[lUVe2Yot133i#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*cannot$}$ ^unknown<unknown>{^*flex$}$ ^n<SN>{^مل<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/lUVe2Yot133i]
+[lekOFoFb5Koe#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^چوون<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^نەخۆشخانە<n><sg>$}$.
+[/lekOFoFb5Koe]
+[likOHXYwowvz#0] ^default<default>{^ژووری گەشتیاران<n><pl>$}$ (^unknown<unknown>{^*4$}$-^default<default>{^جێگەوبان<n><sg>$}$ ^default<default>{^یان<cnjcoo>$}$ ^unknown<unknown>{^*2$}$-^default<default>{^جێگەوبان<n><sg>$}$): € ^unknown<unknown>{^*61$}$ - € ^unknown<unknown>{^*81$}$,^unknown<unknown>{^*5$}$.
+[/likOHXYwowvz]
+[ljJdDpvW9KTQ#0] ^unknown<unknown>{^*INSTRUCTIONS$}$.
+[/ljJdDpvW9KTQ]
+[ljZDDl39wxUQ#0] ^unknown<unknown>{^*Chios$}$ - ^unknown<unknown>{^*Athens$}$.
+[/ljZDDl39wxUQ]
+[mIMyvwEIK6GK#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*share$}$ ^default<default>{^ئاگاداری<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$}$ ^default<default>{^سربیا<np><top><sg>$}$?.
+[/mIMyvwEIK6GK]
+[mN2FxmEOmdla#0] ^default<default>{^وێستگەی پاس <n><sg>$}$.
+[/mN2FxmEOmdla]
+[mQ5fNzccqyPs#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*might$}$ ^default<default>{^بوون<vbcop><inf>$}$ ^j<SA>{^دووگیان<adj><pst>$}$.
+[/mQ5fNzccqyPs]
+[mR4IuQWwIaNI#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^تەختەی ئاگاداریەکان<n><sg>$}$ ^default<default>{^شەمەندەفەر<n><sg>$}$ ^unknown<unknown>{^*if$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^بنەماڵ<n><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^j<SA>{^ونبوو<adj><pst>$}$ ^default<default>{^بەڵگە<n><pl>$}$.
+[/mR4IuQWwIaNI]
+[mSaC1UB3bhyc#0] ^unknown<unknown>{^*Pour$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^ناوئاخن<n><pl>$}$ ^default<default>{^ناو<pr>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^پاك<adj><pst>$}$ ^default<default>{^جام<n><sg>$}$.
+[/mSaC1UB3bhyc]
+[m_bqK42sigaG#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^ڕووەکی<n><sg>$}$.
+[/m_bqK42sigaG]
+[nUNGqsmVbjbX#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دکتۆر<n><sg>$}$?.
+[/nUNGqsmVbjbX]
+[niwlKrSD_QtY#0] ^unknown<unknown>{^*the$}$ ^default<default>{^رۆژ<n><sg>$}$ ^default<default>{^پاش‬<pr>$}$ ^default<default>{^سبەی<adv>$}$.
+[/niwlKrSD_QtY]
+[nrETNXgXORyI#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^شیزۆفرنیا<n><sg>$}$.
+[/nrETNXgXORyI]
+[nsoDRw2c8BJx#0] ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^نووسين<vblex><inf>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ژمارە<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^بنەماڵ<n><sg>$}$?.
+[/nsoDRw2c8BJx]
+[o1Xh6o6vgbxF#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^unknown<unknown>{^*a$}$ ^unknown<unknown>{^*myocardial$}$ ^unknown<unknown>{^*infarction$}$.
+[/o1Xh6o6vgbxF]
+[ouGM2sNmHJEv#0] ^j<SA>{^دوایی<adj><pst>$}$ ^default<default>{^هەفتە<n><sg>$}$.
+[/ouGM2sNmHJEv]
+[p58sgdnFTEJb#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەوڵدان<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*anything$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^وەستان<n><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^کێش<n><pl>$}$ ^default<default>{^ئەوە<prn><rel><an><mf><sp>$}$ ^unknown<unknown>{^*happened$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^ووڵات<n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^unknown<unknown>{^*what$}$ ^unknown<unknown>{^*happened$}$?.
+[/p58sgdnFTEJb]
+[pYr5zl4p6OK0#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^تۆمار<n><sg>$}$ ^default<default>{^سەنتەر<n><sg>$}$?.
+[/pYr5zl4p6OK0]
+[pa_SlAzgFS3h#0] ^j<SA>{^وشک<adj><sint><pst>$}$ ^default<default>{^گۆرەوی<n><pl>$}$.
+[/pa_SlAzgFS3h]
+[privFzKXVctd#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەست کردن<vblex><inf>$}$ ^j<SA>{^ڕاحەت<adj><pst>$}$ ^unknown<unknown>{^*staying$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^چادر<n><sg>$}$ ^default<default>{^ئەمشەو<adv>$}$?.
+[/privFzKXVctd]
+[q8CNsB0NqmH4#0] ^unknown<unknown>{^*It$}$ ^unknown<unknown>{^*gets$}$ ^j<SA>{^خراپ<adj><comp><pst>$}$ ^default<default>{^كە<cnjsub>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*stand$}$ ^unknown<unknown>{^*up$}$.
+[/q8CNsB0NqmH4]
+[q8LpX1W2JqJT#0] ^default<default>{^بانک<n><sg>$}$.
+[/q8LpX1W2JqJT]
+[q95_Box_nP5b#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^j<SA>{^درێژخایەن<adj><pst>$}$ ^default<default>{^خەمۆکی<n><sg>$}$.
+[/q95_Box_nP5b]
+[qBLu4ak9R-US#0] ^unknown<unknown>{^*I$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p1><sg>$}$ ^unknown<unknown>{^*bleeding$}$ ^unknown<unknown>{^*between$}$ ^n<SN>{^ماوە<n><pl><abs>+من<prn><pers><p1><sg>$}$.
+[/qBLu4ak9R-US]
+[qN9DBNpHGnUm#0] ^default<default>{^بەروار<n><pl>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^وەخت<n><pl>$}$: ^default<default>{^كە<cnjsub>$}$ ^default<default>{^شت<n><pl>$}$ ^unknown<unknown>{^*happened$}$.
+[/qN9DBNpHGnUm]
+[qc-pPSSzvnKm#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^شێرپەنجە<n><sg>$}$.
+[/qc-pPSSzvnKm]
+[qywqV2DLHcAc#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^j<SA>{^سارد<adj><pst>$}$?.
+[/qywqV2DLHcAc]
+[r3SgJCb-PG_z#0] ^unknown<unknown>{^*I$}$ ^default<default>{^هەست کردن<vblex><pres>$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/r3SgJCb-PG_z]
+[rruTPdItSDzt#0] ^n<SN>{^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/rruTPdItSDzt]
+[rwfNGW4JCWSW#0] ^unknown<unknown>{^*I$}$ ^default<default>{^بوون<vbcop><past><p1><sg>$}$ ^unknown<unknown>{^*stabbed$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کارد<n><sg>$}$.
+[/rwfNGW4JCWSW]
+[s7Q0OGfjZRnp#0] ^default<default>{^نانەواخانە<n><sg>$}$.
+[/s7Q0OGfjZRnp]
+[sE9p5E8lYera#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^default<default>{^لە<pr>$}$..
+[/sE9p5E8lYera]
+[sG9PR_bit8I6#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەست کردن<vblex><inf>$}$ ^j<SA>{^ڕاحەت<adj><pst>$}$ ^unknown<unknown>{^*staying$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^ئەم<det><dem><sg>$}$ ^default<default>{^شوێن<n><sg>$}$ ^default<default>{^ئەمشەو<adv>$}$?.
+[/sG9PR_bit8I6]
+[sKnVg9c3wgPk#0] ^default<default>{^منداڵ<n><pl>$}$^default<default>{^ھەبوون<vbhaver><pres><p3><sg>$}$ ^default<default>{^جلوبەرگ<n><pl>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^پێڵاو<n><pl>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^unknown<unknown>{^*over$}$ ^default<default>{^ئەوێ<adv>$}$.
+[/sKnVg9c3wgPk]
+[sL_HBGnjWZZ7#0] ^default<default>{^كردن<vblex><past>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^هەوڵدان<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*get$}$ ^default<default>{^یارمەتی<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^حکوومەت<n><sg>$}$, ^unknown<unknown>{^*the$}$ ^default<default>{^پۆلیس<n><pl>$}$ ^default<default>{^یان<cnjcoo>$}$ ^unknown<unknown>{^*anyone$}$ ^unknown<unknown>{^*else$}$?.
+[/sL_HBGnjWZZ7]
+[sLlksDn39_4a#0] ^default<default>{^ئەوێ<adv>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^خوێن<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^default<default>{^<sp>$}$ ^unknown<unknown>{^*vomit$}$.
+[/sLlksDn39_4a]
+[sZZeHNVO0Yoc#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^default<default>{^ئاگاداری<n><sg>$}$ ^default<default>{^دە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^شەمەندەفەر<n><sg>$}$ ^default<default>{^گەشتن<n><sg>$}$ ^default<default>{^وەخت<n><sg>$}$?.
+[/sZZeHNVO0Yoc]
+[swPpHGXZpQgb#0] ^unknown<unknown>{^*Criteria$}$ ^default<default>{^بۆ<pr>$}$ ^default<default>{^پەنابەر<n><sg>$}$ ^default<default>{^ڕەوش<n><sg>$}$.
+[/swPpHGXZpQgb]
+[swWgW45NLNNE#0] ^default<default>{^شتن<vblex><imp>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^دەست<n><pl>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^سابون<n><sg>$}$ ^default<default>{^و<cnjcoo>$}$ ^default<default>{^ئاو<n><sg>$}$.
+[/swWgW45NLNNE]
+[sykq2o7RJgdP#0] ^unknown<unknown>{^*Please$}$ ^default<default>{^یارمەتی<n><sg>$}$ ^unknown<unknown>{^*me$}$!.
+[/sykq2o7RJgdP]
+[tDq6nE50lfHh#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^j<SA>{^تەڕ<adj><sint><pst>$}$?.
+[/tDq6nE50lfHh]
+[tRwyo2x1aaeM#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*not$}$ ^unknown<unknown>{^*leave$}$ ^default<default>{^بەبێ<pr>$}$ ^unknown<unknown>{^*your$}$ ^default<default>{^بەڵگە<n><pl>$}$.
+[/tRwyo2x1aaeM]
+[tUSD4dCLXWX0#0] ^unknown<unknown>{^*I$}$ ^j<SA>{^دواجار<adj><ord><pst>$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^default<default>{^سێکس<n><sg>$}$ ^unknown<unknown>{^*2$}$ ^default<default>{^رۆژ<n><pl>$}$ ^unknown<unknown>{^*ago$}$.
+[/tUSD4dCLXWX0]
+[u0Ua6BswCLAS#0] ^default<default>{^كردن<vblex><inf>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*somewhere$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^مانەوە<n><sg>$}$ ^default<default>{^ئەمشەو<adv>$}$?.
+[/u0Ua6BswCLAS]
+[uJyrkR4T35Ue#0] ^unknown<unknown>{^*How$}$ ^j<SA>{^درێژ<adj><pst>$}$ ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*we$}$ ^default<default>{^دەبێ<vbmod><pres>$}$ ^unknown<unknown>{^*wait$}$ ^unknown<unknown>{^*here$}$?.
+[/uJyrkR4T35Ue]
+[uV1Knjxoza8R#0] ^unknown<unknown>{^*Keep$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^فینک<adj><sint><pst>$}$, ^j<SA>{^وشک<adj><sint><pst>$}$ ^default<default>{^شوێن<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^سەرقاپ<n><sg>$}$ ^unknown<unknown>{^*tightly$}$ ^unknown<unknown>{^*closed$}$.
+[/uV1Knjxoza8R]
+[vRAgJar8tn00#0] ^default<default>{^كە<cnjsub>$}$ ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*I$}$ ^default<default>{^دەبێ<vbmod><pres>$}$ ^default<default>{^ھاتن<vblex><inf>$}$ ^unknown<unknown>{^*back$}$?.
+[/vRAgJar8tn00]
+[vT2zB0x9TbS2#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دەردراو<n><sg>$}$ ^default<default>{^لە<pr>$}$ ^n<SN>{^مێزڕۆ<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/vT2zB0x9TbS2]
+[vTEJ_GYYoEJW#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^unknown<unknown>{^*not$}$ ^default<default>{^ھەبوون<vbhaver><past>$}$ ^default<default>{^سێکس<n><sg>$}$ ^default<default>{^بۆ<pr>$}$ ^unknown<unknown>{^*a$}$ ^j<SA>{^درێژ<adj><pst>$}$ ^default<default>{^وەخت<n><sg>$}$.
+[/vTEJ_GYYoEJW]
+[vVNk6UQNPTzX#0] ^unknown<unknown>{^*I$}$’^unknown<unknown>{^*m$}$ ^j<SA>{^نەخۆش<adj><pst>$}$.
+[/vVNk6UQNPTzX]
+[veyPWlfreR4F#0] ^unknown<unknown>{^*Where$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^default<default>{^ژوور<n><sg>$}$ ^default<default>{^ژمارە<n><sg>$}$ ____?.
+[/veyPWlfreR4F]
+[vjfGyiJ0GmE4#0] ^default<default>{^منداڵ<n><pl>$}$ ^default<default>{^یاریگا<n><sg>$}$.
+[/vjfGyiJ0GmE4]
+[w0AvVZIxpGhd#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^خوێنبەربوونی لوت<n><sg>$}$.
+[/w0AvVZIxpGhd]
+[wC993Gwit5JM#0] ^n<SN>{^منداڵ<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres><p3><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^کێم<n><sg>$}$ ^default<default>{^گەروو<n><sg>$}$\/ ^default<default>{^کۆکە<n><sg>$}$.
+[/wC993Gwit5JM]
+[x9ZR51bquijB#0] ^n<SN>{^ناو<n><sg><abs>+من<prn><pers><p1><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$..
+[/x9ZR51bquijB]
+[xNvLLACF_8eZ#0] ^n<SN>{^ژن<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/xNvLLACF_8eZ]
+[xP8oBT2cOS_l#0] ^cop<SV><COP><pres>{^بوون<vbcop><pri>$}$ ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^پلاندانان<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^مانەوە<n><sg>$}$ ^unknown<unknown>{^*here$}$ ^default<default>{^لە<pr>$}$ ^unknown<unknown>{^*fYR$}$ ^default<default>{^مەکەدۆنیا<np><top><sg>$}$?.
+[/xP8oBT2cOS_l]
+[xbZhurUzUjTa#0] ^j<SA>{^وشک<adj><sint><pst>$}$ ^default<default>{^پانتۆڵ<n><sg>$}$.
+[/xbZhurUzUjTa]
+[xhCaNL883AHK#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*don$}$’^unknown<unknown>{^*t$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^هەر<det><ind><sp>$}$ ^default<default>{^پووڵ<n><sg>$}$.
+[/xhCaNL883AHK]
+[xtRcgly2jofo#0] ^unknown<unknown>{^*I$}$ ^default<default>{^نیاز<n><sg>$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^دکتۆر<n><sg>$}$.
+[/xtRcgly2jofo]
+[xwdDxFPXvv8Y#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*NOT$}$ ^default<default>{^هەوڵدان<vblex><inf>$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^بەزۆر داگیر کردن<vblex><inf>$}$ ^unknown<unknown>{^*the$}$ ^default<default>{^مار<n><sg>$}$.
+[/xwdDxFPXvv8Y]
+[xxyhlLaCyKUW#0] ^unknown<unknown>{^*Where$}$ ^default<default>{^توانین<vbmod><pres>$}$ ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*find$}$____?.
+[/xxyhlLaCyKUW]
+[xy3z-ICzA-ww#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*fainted$}$.
+[/xy3z-ICzA-ww]
+[y54b7W-znoMp#0] ^default<default>{^كردن<vblex><inf>$}$ ^unknown<unknown>{^*NOT$}$ ^unknown<unknown>{^*put$}$ ^unknown<unknown>{^*anything$}$ ^j<SA>{^تەسك<adj><sint><pst>$}$ ^unknown<unknown>{^*around$}$, ^unknown<unknown>{^*such$}$ ^unknown<unknown>{^*as$}$ ^unknown<unknown>{^*a$}$ ^default<default>{^لەفاف<n><sg>$}$.
+[/y54b7W-znoMp]
+[yFLW6ibjKC6u#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^بوون<vbcop><pp>$}$ ^unknown<unknown>{^*shaking$}$.
+[/yFLW6ibjKC6u]
+[yL3vwQonxDfz#0] ^unknown<unknown>{^*Based$}$ ^default<default>{^دە<pr>$}$ ^default<default>{^یەك<num><sg>$}$ ^default<default>{^یان<cnjcoo>$}$ ^unknown<unknown>{^*more$}$ ^default<default>{^بە<pr>$}$ ^unknown<unknown>{^*the$}$ ^j<SA>{^دواتر<adj><pst>$}$ ^default<default>{^هۆکار<n><pl>$}$:.
+[/yL3vwQonxDfz]
+[ysdN0270GpCZ#0] ^default<default>{^ئەمە<prn><dem><mf><sg>$}$ ^cop<SV><COP><pres>{^بوون<vbcop><pri><p3><sg>$}$ ^n<SN>{^خوشک<n><sg><abs>+من<prn><pers><p1><sg>$}$.
+[/ysdN0270GpCZ]
+[yvg4ts9SQgBe#0] ^default<default>{^دەرچونی کتوپڕ<n><sg>$}$.
+[/yvg4ts9SQgBe]
+[z-DhBK1e3M9D#0] ^unknown<unknown>{^*I$}$ ^default<default>{^ھەبوون<vbhaver><inf>$}$ ^default<default>{^دڵ<n><sg>$}$ ^default<default>{^شکست<n><sg>$}$.
+[/z-DhBK1e3M9D]
+[zLf0J44P8in4#0] ^default<default>{^ھاتن<vblex><imp>$}$ ^unknown<unknown>{^*back$}$ ^default<default>{^بە<pr>$}$ ^default<default>{^کۆمسیۆنی ئاوارەکانی نەتەوە یەکگرتوەکان<n><acr><sg>$}$ ^default<default>{^چادر<n><sg>$}$ (^default<default>{^بەیانی<n><sg>$}$).
+[/zLf0J44P8in4]
+[zO-RIPfVewlx#0] ^default<default>{^تۆ<prn><pers><p2><sg>$}$ ^default<default>{^ھەبوون<vbhaver><pres>$}$ ^default<default>{^ڕێكە پێدان<n><sg>$}$ ^default<default>{^بە<pr>$}$ ^j<SA>{^پاك<adj><pst>$}$ ^default<default>{^جام<n><pl>$}$.
+[/zO-RIPfVewlx]
+[zdsTseZB0L6p#0] ^unknown<unknown>{^*I$}$ ^unknown<unknown>{^*fell$}$ ^unknown<unknown>{^*down$}$.
+[/zdsTseZB0L6p]

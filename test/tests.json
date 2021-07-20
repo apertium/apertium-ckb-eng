@@ -1,0 +1,14 @@
+{
+    "ckb-eng-pending": {
+        "input": "ckb-eng-pending-input.txt",
+        "mode": "ckb-eng"
+    },
+    "ckb-eng-regression": {
+        "input": "ckb-eng-regression-input.txt",
+        "mode": "ckb-eng"
+    },
+    "eng-ckb-pending": {
+        "input": "eng-ckb-pending-input.txt",
+        "mode": "eng-ckb"
+    }
+}
